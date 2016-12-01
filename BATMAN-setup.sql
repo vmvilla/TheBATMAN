@@ -26,5 +26,6 @@ CREATE TABLE Accounts (
    AccoutNumber int PRIMARY KEY,   
    CustomerID int,
    AccountType varchar(8),
+   AccountValue float,
    FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID)
 );
