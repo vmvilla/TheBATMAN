@@ -5,7 +5,7 @@ CREATE TABLE Customers (
    Age int,
    Street varchar (30),
    City varchar (30),
-   State char(2)
+   State char(2),
    PhoneNumber int
 );
 
