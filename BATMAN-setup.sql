@@ -7,7 +7,8 @@ CREATE TABLE Customers (
    City varchar (30),
    State char(2),
    PhoneNumber int,
-   PRIMARY KEY(CustomerID)
+   PRIMARY KEY(CustomerID),
+   UNIQUE(FirstName, LastName)
 );
 
 CREATE TABLE Accounts (
