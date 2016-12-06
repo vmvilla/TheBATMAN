@@ -26,7 +26,7 @@ CREATE TABLE Transactions (
    AccountTo int,
    TransactionAmount float,
    TransactionType varchar(10),
-   TransactionDate datetime,
+   TransactionDate date,
    PRIMARY KEY(TransactionID),
    FOREIGN KEY (AccountFrom) REFERENCES Accounts(AccountNumber),
    FOREIGN KEY (AccountTo) REFERENCES Accounts(AccountNumber)
