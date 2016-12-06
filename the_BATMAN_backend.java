@@ -85,43 +85,52 @@ public class the_BATMAN_backend{
 	public static void Customer_Account_Histogram_Transaction_Amounts(String FirstName, String LastName, Date date){
 	
 	}
-	public static void Customer_Account_Histogram_Withdrawals(){
-	Input:
-		(FirstName varchar(30)
-	  	 LastName varchar(30)
-		      Or 
-		 CustomerID),
-		DATE [OPTIONAL]
+	
+	public static void Customer_Account_Histogram_Withdrawals(int customerId){
+	}
+	public static void Customer_Account_Histogram_Withdrawals(int customerId, Date date){
+	}
+	public static void Customer_Account_Histogram_Withdrawals(String FirstName, String LastName){
+	}
+	public static void Customer_Account_Histogram_Withdrawals(String FirstName, String LastName, Date date){
+	}
+	
+	public static void Customer_Account_Histogram_Deposits(int customerId){
+	}
+	
+	public static void Customer_Account_Histogram_Deposits(int customerId, Date date){
+	}
+	
+	public static void Customer_Account_Histogram_Deposits(String FirstName, String LastName){
+	}
+	
+	public static void Customer_Account_Histogram_Deposits(String FirstName, String LastName, Date date){
 	}
 
-	public static void Customer_Account_Histogram_Deposits(){
-	Input:
-		(FirstName varchar(30)
-	  	 LastName varchar(30)
-		      Or 
-		 CustomerID),
-		DATE [OPTIONAL]
+	public static void Customer_Account_Histogram_Transfer(int customerId){
+	}
+	public static void Customer_Account_Histogram_Transfer(int customerId, Date date){
+	}
+	
+	public static void Customer_Account_Histogram_Transfer(String FirstName, String LastName){
+	}
+	
+	public static void Customer_Account_Histogram_Transfer(String FirstName, String LastName, Date date){
 	}
 
-	public static void Customer_Account_Histogram_Transfer(){
-	Input:
-		(FirstName varchar(30)
-	  	 LastName varchar(30)
-		      Or 
-		 CustomerID),
-		DATE [OPTIONAL]
-    }
-
-	public static void Customer_Account_Value_Histogram_Per_Customer(){
-	Input:
-	(FirstName varchar(30)
-	  	LastName varchar(30)
-		      Or 
-		CustomerID),
-		DATE [OPTIONAL]
+	public static void Customer_Account_Value_Histogram_Per_Customer(int customerId){
+	}
+	public static void Customer_Account_Value_Histogram_Per_Customer(int customerId, Date date){
+	}
+	
+	public static void Customer_Account_Value_Histogram_Per_Customer(String FirstName, String LastName){
+	}
+	
+	public static void Customer_Account_Value_Histogram_Per_Customer(String FirstName, String LastName, Date date){
 	}
 
 	public static void Customer_Account_Value_Analytics(){
+	//
 	Input:
 	DATE [OPTIONAL]
 		avg, max, min,
