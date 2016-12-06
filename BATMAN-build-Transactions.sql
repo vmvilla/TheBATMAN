@@ -1,5026 +1,5028 @@
-## BATMAN-build-transactions.sql
+## BATMAN-build-Transactions.sql
 ## Team mySQL is better than yourSQL
 
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(358,358,-969.41,"2015-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(504,984,483.51,"2015-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(380,380,993.24,"2014-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(184,141,-201.12,"2014-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(565,565,328.82,"2013-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,463,-371.58,"2015-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(363,114,-596.31,"2012-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(98,785,11.33,"2016-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,651,819.82,"2014-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(589,589,354.96,"2016-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(942,591,-378.45,"2015-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(342,342,-819.72,"2013-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(320,821,-157.80,"2014-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(573,718,290.69,"2015-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(573,659,-990.00,"2016-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(634,634,-325.79,"2014-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(984,42,468.42,"2015-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(291,323,-793.59,"2013-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(238,306,-945.22,"2014-01-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(598,273,-205.11,"2014-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(695,11,-660.02,"2014-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(441,508,-259.58,"2012-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(562,562,202.55,"2016-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(535,535,194.23,"2016-08-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(799,390,-253.23,"2016-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(403,128,89.53,"2012-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(799,62,747.20,"2015-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(550,551,-801.94,"2015-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(524,524,734.22,"2013-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(368,138,-701.22,"2014-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(205,309,763.41,"2012-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(555,854,-477.93,"2014-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(202,961,-190.60,"2015-11-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(241,241,124.93,"2014-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(277,686,456.61,"2013-08-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(250,95,-274.56,"2013-01-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(1000,1000,960.64,"2012-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(140,578,-467.21,"2014-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(648,122,-863.32,"2015-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(968,619,226.94,"2013-02-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(170,600,355.37,"2016-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(886,511,-333.34,"2014-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(791,798,-177.82,"2012-01-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(656,102,916.56,"2014-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(564,142,716.40,"2012-05-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(785,963,152.81,"2015-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(789,957,221.32,"2012-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(141,494,-852.96,"2014-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(774,365,-155.21,"2013-02-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(197,851,-772.56,"2015-07-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(780,499,596.68,"2013-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(122,636,496.88,"2014-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(401,19,-418.61,"2013-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(335,970,170.90,"2014-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(505,323,71.62,"2015-05-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(915,915,452.48,"2012-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(813,566,-865.30,"2013-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(347,347,438.75,"2013-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(693,693,-550.07,"2012-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(298,298,430.38,"2012-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(201,47,-241.65,"2013-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(857,186,466.20,"2013-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(898,803,711.13,"2015-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(879,879,-603.72,"2014-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(346,346,-481.45,"2014-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(78,529,878.50,"2013-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(335,924,879.03,"2012-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(790,586,404.24,"2012-08-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(133,96,380.46,"2014-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(972,972,-92.47,"2012-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(529,529,-352.71,"2014-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(909,854,-746.45,"2015-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(416,416,286.72,"2016-02-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(954,620,936.75,"2014-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(875,875,-999.54,"2016-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(672,968,711.42,"2012-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(792,792,507.07,"2016-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(796,23,-356.75,"2016-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(298,298,820.69,"2013-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(206,206,9.53,"2016-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(849,558,-493.27,"2012-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(533,533,-553.37,"2013-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(636,636,-407.46,"2015-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(903,665,506.03,"2012-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(374,374,-359.80,"2012-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(853,853,715.19,"2013-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(959,959,-555.01,"2014-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(678,431,618.23,"2015-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(982,671,-381.00,"2015-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(430,430,691.54,"2013-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(307,619,926.90,"2016-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(303,323,-373.47,"2015-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(186,196,-190.85,"2014-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(591,591,617.01,"2015-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(232,410,-632.11,"2014-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(553,886,380.51,"2014-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(357,357,-954.52,"2013-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(608,608,856.75,"2015-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(167,59,-756.56,"2015-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(655,655,-13.12,"2015-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(153,809,-181.48,"2013-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(921,247,823.29,"2014-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(736,947,762.59,"2016-02-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(838,257,596.62,"2012-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(646,646,-372.77,"2014-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(126,981,-82.17,"2014-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(932,932,-222.63,"2012-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(778,831,571.45,"2012-12-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(606,994,563.85,"2016-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(982,986,-695.28,"2013-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(667,796,-436.90,"2013-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(273,273,857.49,"2013-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(20,56,372.94,"2016-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(197,817,965.95,"2014-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(354,853,-151.06,"2016-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(133,133,441.39,"2016-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(599,109,-69.80,"2012-05-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(187,687,-564.20,"2016-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(203,203,-553.43,"2012-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(179,408,205.43,"2014-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(352,810,-904.70,"2014-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(257,379,250.96,"2013-06-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(219,406,-774.81,"2015-01-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(933,933,-387.65,"2012-07-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(520,955,871.54,"2014-06-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(908,667,423.73,"2014-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(369,205,951.47,"2014-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(880,284,639.59,"2014-07-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(245,245,-225.94,"2016-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(518,723,470.17,"2015-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(665,937,843.91,"2012-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(754,799,-233.10,"2016-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(655,655,-60.58,"2013-04-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(521,113,483.38,"2015-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(192,938,-554.82,"2014-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(68,68,9.70,"2015-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(156,43,-991.26,"2014-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(962,118,726.56,"2015-11-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(72,637,-347.09,"2014-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(430,566,576.16,"2013-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(998,998,-76.40,"2014-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(275,275,-841.12,"2012-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(775,282,366.41,"2014-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(492,73,789.52,"2013-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(962,962,561.12,"2015-10-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(763,695,-169.60,"2012-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(451,451,-97.16,"2016-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(314,858,-218.06,"2014-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(953,953,53.07,"2013-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(627,329,-739.26,"2015-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(22,22,-580.36,"2012-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(805,552,-22.49,"2012-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(855,855,861.15,"2012-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(378,378,325.10,"2014-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(245,245,-984.98,"2012-05-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(936,936,-42.67,"2012-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(822,822,108.35,"2015-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(4,4,593.63,"2013-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(78,360,969.09,"2014-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(135,135,644.10,"2014-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(390,49,38.45,"2013-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(308,171,-395.24,"2016-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(997,203,-607.47,"2016-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(637,413,712.84,"2014-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(20,834,-896.64,"2016-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(736,736,313.09,"2014-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(241,414,227.54,"2015-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(370,634,586.65,"2015-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(410,784,367.94,"2016-07-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(797,28,-138.06,"2014-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(55,613,-629.51,"2015-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(856,195,-46.04,"2012-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(70,70,-406.09,"2013-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(617,248,414.09,"2016-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(656,942,401.48,"2015-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(561,561,-445.40,"2014-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(501,501,-858.42,"2013-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(464,828,160.72,"2016-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(663,934,714.28,"2016-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(915,625,205.89,"2013-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(207,207,-111.75,"2012-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(217,806,-432.90,"2013-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(186,222,-665.25,"2012-03-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(190,497,-936.72,"2013-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(715,715,245.33,"2015-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(104,390,-434.11,"2012-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(19,631,377.93,"2015-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(244,716,778.80,"2012-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(784,784,-726.72,"2013-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(645,61,929.85,"2016-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(724,613,658.31,"2013-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(78,78,990.24,"2014-07-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(534,506,27.27,"2016-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(950,950,-683.36,"2015-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(597,55,-604.31,"2013-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(338,67,-790.11,"2013-10-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(768,768,136.13,"2014-01-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(460,182,-78.94,"2015-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(801,801,-652.51,"2014-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(883,883,-488.87,"2014-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(755,562,-242.08,"2015-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(754,77,503.04,"2013-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(781,315,346.01,"2014-06-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(755,772,-614.32,"2015-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(276,1,-491.75,"2012-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(394,394,831.43,"2012-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(146,452,241.11,"2015-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(959,959,-219.19,"2015-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(251,913,536.01,"2013-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(303,884,-117.72,"2013-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(850,678,-502.77,"2015-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(126,126,-966.77,"2015-05-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(361,998,-139.46,"2012-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(923,923,-815.12,"2012-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(814,814,-487.85,"2016-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(324,324,-342.89,"2015-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(531,350,-173.59,"2012-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(290,47,368.46,"2016-05-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(732,860,-269.40,"2013-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(514,956,167.90,"2016-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(516,516,-445.57,"2012-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(801,300,230.82,"2015-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(910,910,151.06,"2015-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(900,900,-338.80,"2014-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(937,937,-23.05,"2012-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(86,86,55.64,"2012-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(156,619,-37.83,"2016-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(778,594,-444.27,"2013-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(738,738,-473.61,"2013-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(742,129,653.89,"2013-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(693,979,171.72,"2016-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(280,280,798.82,"2016-10-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(117,779,-699.97,"2013-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(915,172,-74.56,"2012-07-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(977,686,116.61,"2016-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(289,67,626.74,"2012-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(60,60,471.66,"2013-11-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(159,159,65.06,"2016-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(935,935,-273.67,"2016-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(326,869,779.03,"2015-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(850,890,-18.42,"2016-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(792,581,-587.80,"2016-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(91,873,214.83,"2016-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(353,86,-989.10,"2015-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(587,587,758.93,"2012-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(637,501,630.48,"2013-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(76,76,-986.65,"2012-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(301,717,-622.76,"2016-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(515,515,-622.12,"2016-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(221,417,858.93,"2014-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(300,300,284.67,"2013-01-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(239,708,-801.11,"2013-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(841,841,-875.32,"2012-05-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(405,797,386.19,"2012-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(704,704,558.90,"2012-02-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(946,542,-927.69,"2015-01-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,983,-811.56,"2016-08-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(787,787,337.53,"2016-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(818,266,136.41,"2013-09-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(114,419,618.19,"2015-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(6,6,832.08,"2012-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(965,965,-412.37,"2015-04-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(98,849,125.60,"2014-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(460,108,-884.90,"2012-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(498,755,-126.43,"2012-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(723,963,215.00,"2012-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(372,414,-984.69,"2012-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(371,492,248.15,"2015-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(752,996,-32.16,"2013-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(206,405,356.41,"2013-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(328,407,111.52,"2013-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(561,33,-161.36,"2013-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(915,715,-233.68,"2013-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(360,360,498.67,"2014-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(490,567,-286.47,"2013-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(26,26,981.58,"2016-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(153,153,969.49,"2015-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(842,383,-294.30,"2014-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(358,358,527.37,"2012-10-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(905,657,-331.47,"2014-01-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(785,785,-662.04,"2014-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(929,929,-98.73,"2016-04-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(380,380,-715.74,"2016-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(853,853,104.55,"2013-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(386,207,457.11,"2013-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(35,35,-805.14,"2013-09-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(730,892,-288.88,"2014-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(97,837,-363.54,"2016-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(80,356,-145.57,"2014-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(71,191,735.31,"2016-04-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(268,653,-198.76,"2014-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(723,19,698.92,"2014-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(361,387,240.75,"2013-12-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(113,174,7.97,"2013-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(521,614,-330.80,"2015-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(715,217,450.89,"2012-10-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(719,719,-484.78,"2015-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(852,852,-853.34,"2015-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(249,249,-479.47,"2012-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(906,309,954.28,"2016-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(84,693,-377.26,"2014-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(100,100,437.39,"2016-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(108,47,-601.60,"2015-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(469,469,-320.40,"2015-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(758,758,-93.90,"2013-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(215,94,900.88,"2013-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(884,233,-831.87,"2013-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(132,310,-99.00,"2014-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(936,793,-933.44,"2014-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(45,243,701.29,"2013-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(120,120,67.11,"2013-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(163,163,889.30,"2012-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(384,384,34.97,"2015-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(432,304,15.25,"2015-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(519,434,561.98,"2013-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(262,262,-441.82,"2013-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(932,932,-863.82,"2013-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(461,461,-300.93,"2016-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(232,918,-864.18,"2012-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(482,632,606.68,"2013-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(276,276,-616.43,"2014-04-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(79,79,-212.81,"2015-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(213,41,262.92,"2014-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(908,249,467.27,"2014-06-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(254,254,-913.85,"2012-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(696,696,431.33,"2016-08-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(25,525,-808.58,"2012-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(182,479,928.04,"2014-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,49,506.67,"2014-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(174,749,320.43,"2015-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(532,532,-72.12,"2013-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(321,321,945.93,"2016-03-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(998,753,-520.44,"2016-01-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(682,86,458.71,"2016-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(238,238,300.43,"2014-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(896,367,-500.29,"2016-04-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(934,638,-858.95,"2012-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(436,658,-713.31,"2013-07-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(914,754,-675.90,"2012-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(819,831,293.74,"2012-03-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(559,890,379.96,"2015-02-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(846,162,173.66,"2015-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(434,434,-292.32,"2013-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(878,79,280.96,"2015-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(614,483,943.11,"2013-04-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(443,48,-631.80,"2016-03-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(948,805,-120.49,"2012-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(313,663,-695.46,"2013-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(646,646,-935.02,"2012-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(855,172,635.25,"2014-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(23,581,642.13,"2014-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(899,899,728.64,"2014-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(252,276,680.37,"2012-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(307,515,-882.15,"2016-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(788,445,847.39,"2015-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(374,170,-137.71,"2014-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(620,155,-626.99,"2014-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(15,157,965.72,"2012-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(181,181,396.08,"2015-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(420,298,96.37,"2013-07-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(488,488,-44.76,"2014-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(595,595,-100.56,"2012-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(924,416,-185.52,"2014-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(315,566,-328.11,"2014-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(880,14,129.18,"2012-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(587,587,-693.10,"2015-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(647,647,-898.48,"2014-01-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(849,951,-374.79,"2014-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(178,907,-318.26,"2015-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(340,925,-587.54,"2012-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(15,315,-723.06,"2015-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(382,974,-255.14,"2012-01-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(821,821,583.65,"2014-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(360,987,273.20,"2013-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(373,519,778.93,"2016-10-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(942,209,326.44,"2016-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(519,999,-4.36,"2015-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,121,-392.00,"2015-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(996,996,79.40,"2013-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(209,671,-780.17,"2013-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(500,421,821.72,"2016-08-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(138,627,324.14,"2013-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(642,289,736.06,"2012-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(883,883,-702.16,"2014-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(275,341,-949.54,"2012-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(420,32,321.46,"2015-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(565,905,428.78,"2014-08-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(485,782,-439.84,"2014-06-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(253,996,-914.10,"2014-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(887,63,697.20,"2012-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(975,975,-63.96,"2012-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(984,984,855.31,"2012-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(50,836,61.92,"2012-01-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(550,550,558.87,"2012-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(593,961,398.38,"2012-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(563,563,-63.77,"2012-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(675,355,305.79,"2013-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(534,534,-91.75,"2016-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(454,454,615.77,"2015-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(751,751,-502.12,"2012-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(229,229,-522.75,"2013-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(913,913,-399.88,"2013-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(663,663,816.53,"2012-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(523,65,-978.58,"2012-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(767,767,116.04,"2016-01-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(400,400,739.90,"2012-05-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(227,648,505.37,"2013-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(19,932,47.73,"2012-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(977,724,293.07,"2016-06-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(149,978,-352.88,"2015-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(34,198,-638.59,"2015-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(413,722,66.03,"2012-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(84,209,19.68,"2015-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(875,875,-478.34,"2016-02-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(760,760,-512.43,"2013-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(279,431,890.81,"2013-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(262,262,2.32,"2013-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(819,179,-400.07,"2016-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(783,860,-389.78,"2012-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(550,677,218.35,"2015-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(973,973,936.69,"2013-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(816,886,-466.79,"2014-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(31,31,695.16,"2013-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(289,254,-873.69,"2014-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(877,976,-218.22,"2012-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(433,861,501.23,"2014-05-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(797,574,-164.36,"2016-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(598,598,968.76,"2013-08-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(739,739,384.32,"2016-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(279,260,189.82,"2016-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(521,521,31.61,"2016-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(878,964,-193.20,"2013-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(603,742,206.50,"2012-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(706,701,-309.24,"2012-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(919,908,315.17,"2015-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(962,31,-746.69,"2016-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(912,47,-543.40,"2016-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(352,980,353.66,"2016-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(338,140,211.00,"2016-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(704,733,126.77,"2014-10-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(866,915,-961.26,"2015-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(370,455,153.47,"2013-08-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(568,47,99.45,"2015-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(793,947,-804.25,"2012-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(751,751,403.48,"2012-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(91,488,396.63,"2016-05-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(641,82,281.37,"2013-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(667,667,466.05,"2013-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(668,668,812.42,"2014-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(653,653,219.65,"2016-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(119,243,-656.90,"2016-06-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(862,299,805.19,"2016-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(138,806,-454.40,"2013-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(953,953,-311.34,"2013-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(424,7,-88.43,"2012-10-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(235,390,-39.13,"2013-09-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(938,34,-642.38,"2013-08-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(978,978,-993.45,"2012-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(811,811,786.47,"2016-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(481,481,-114.76,"2013-09-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(904,857,-840.83,"2014-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(319,640,-89.96,"2013-01-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(878,878,-207.97,"2012-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(168,209,-946.79,"2015-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(606,606,-619.34,"2013-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(742,912,-825.08,"2015-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(410,12,587.70,"2014-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(649,180,665.72,"2016-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(24,268,225.07,"2013-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(422,884,-752.44,"2015-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(121,121,-66.11,"2015-03-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(749,749,-700.52,"2016-01-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(80,990,34.68,"2014-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(67,212,-405.71,"2014-11-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(107,107,422.94,"2013-01-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(987,971,506.56,"2013-03-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(35,873,707.30,"2013-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(368,368,-864.37,"2013-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(163,163,-45.07,"2013-05-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(810,810,-709.95,"2013-10-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(258,258,-918.80,"2013-11-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(113,113,-935.63,"2013-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(417,622,365.74,"2015-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(276,267,729.91,"2012-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(290,780,-408.16,"2015-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(636,565,942.43,"2016-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(303,303,-885.24,"2013-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(496,326,-12.47,"2015-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(64,657,750.11,"2015-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(36,660,-47.09,"2012-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(673,335,605.61,"2015-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(633,633,904.79,"2016-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(622,367,-911.02,"2014-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(303,303,-586.41,"2015-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(983,559,-675.40,"2012-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(626,695,-500.33,"2014-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(844,489,835.34,"2014-01-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(805,156,276.20,"2016-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(717,153,-334.73,"2012-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(822,580,580.13,"2014-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(411,411,-321.20,"2015-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(567,451,-172.13,"2014-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(228,148,-54.54,"2015-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(721,403,-261.99,"2015-07-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(100,761,-981.43,"2014-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(633,633,339.01,"2012-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(444,321,81.76,"2012-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(406,406,-704.81,"2016-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(920,920,-71.43,"2016-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(408,71,169.90,"2014-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(328,328,115.77,"2013-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(159,159,-639.56,"2016-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(267,267,-806.13,"2015-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(661,661,-120.32,"2014-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(443,107,105.98,"2016-01-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(794,214,997.31,"2012-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(744,544,-844.75,"2012-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(137,2,68.10,"2015-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(729,39,337.90,"2013-06-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(941,547,-2.39,"2016-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(202,743,-803.84,"2015-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(199,850,705.80,"2016-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(494,222,-104.09,"2016-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(605,605,-963.74,"2014-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(847,847,-597.35,"2016-07-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(102,102,-955.10,"2012-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(506,605,916.56,"2014-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(527,982,796.87,"2013-04-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(108,108,-211.92,"2012-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(57,957,960.77,"2015-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(238,734,515.72,"2015-12-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(680,779,-726.84,"2016-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(122,213,502.93,"2014-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(977,317,487.36,"2012-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(474,126,207.28,"2015-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(475,761,916.77,"2016-06-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(381,364,-654.50,"2016-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(57,57,-373.45,"2016-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(104,104,406.30,"2015-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(839,581,-243.35,"2015-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(516,180,-355.40,"2013-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(645,645,358.74,"2016-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(167,167,901.36,"2015-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(934,781,-381.12,"2014-03-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(919,64,989.84,"2013-01-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(847,364,566.33,"2016-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(355,823,-154.18,"2016-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(546,821,426.93,"2016-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(216,403,-140.15,"2012-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(889,398,878.51,"2013-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(228,86,-467.51,"2015-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(641,356,332.11,"2014-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(71,919,238.12,"2012-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(734,356,-729.71,"2014-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(6,815,626.29,"2013-08-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(441,441,343.51,"2015-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(933,413,-460.00,"2015-11-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(222,686,659.03,"2015-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(799,10,-335.76,"2014-07-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(79,425,770.63,"2015-12-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(260,260,-874.88,"2015-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(925,925,952.35,"2016-04-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(901,725,-149.59,"2014-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(160,56,175.95,"2014-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(76,76,349.33,"2014-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(112,406,-986.80,"2013-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(87,958,-722.83,"2013-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(688,688,-728.46,"2016-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(877,355,257.95,"2014-09-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(86,916,186.66,"2015-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(511,511,-218.39,"2015-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(606,278,683.32,"2012-01-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(512,512,651.21,"2013-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(332,332,-340.20,"2014-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(5,5,-923.92,"2016-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(542,882,346.37,"2015-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(526,449,-866.69,"2014-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(145,342,771.81,"2015-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(348,915,702.56,"2013-04-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(776,174,401.60,"2015-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(833,833,-287.12,"2012-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(928,32,223.24,"2013-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(607,846,-983.28,"2015-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(902,327,-399.34,"2016-07-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(688,860,632.04,"2012-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(743,743,-960.31,"2016-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(141,300,873.60,"2013-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(593,1000,298.05,"2012-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(193,773,-647.58,"2015-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(415,415,-654.72,"2016-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(534,534,-392.60,"2014-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(145,361,-998.23,"2015-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(875,627,533.08,"2016-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(612,612,974.32,"2013-04-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(862,768,-776.72,"2013-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(260,815,-663.77,"2013-10-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(193,163,-825.02,"2016-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(174,155,-926.38,"2015-07-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(694,694,940.46,"2014-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(707,281,145.34,"2012-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(925,910,-506.69,"2014-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(797,797,287.03,"2014-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(293,644,-311.03,"2013-10-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(66,127,-337.02,"2012-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(673,673,-384.98,"2014-07-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(260,119,679.12,"2015-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(22,251,43.82,"2013-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(763,257,72.79,"2013-04-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(676,443,-446.58,"2012-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(998,423,76.81,"2015-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(882,582,916.15,"2012-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(415,549,-709.19,"2016-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(516,516,-461.54,"2016-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(973,245,146.07,"2015-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(789,87,635.41,"2014-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(329,329,-500.54,"2015-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(249,902,-302.89,"2016-01-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(999,999,551.19,"2012-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(713,124,721.07,"2014-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(503,503,-534.71,"2013-01-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(921,921,594.98,"2013-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(878,274,-701.62,"2014-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(696,696,-812.58,"2015-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,198,18.44,"2016-02-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(90,942,808.11,"2015-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(87,513,387.95,"2013-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(994,714,446.15,"2012-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(364,318,297.64,"2012-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(453,453,-566.99,"2015-06-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(671,671,567.15,"2012-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(8,8,-820.18,"2015-07-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(69,626,-865.08,"2015-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(974,761,91.47,"2016-08-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(517,797,258.88,"2012-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(564,564,403.43,"2012-05-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(707,774,-926.34,"2015-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(200,946,-387.28,"2016-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(521,495,-835.32,"2015-12-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(260,260,56.40,"2014-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(245,686,620.54,"2012-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(113,113,-38.36,"2013-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(562,235,-755.72,"2013-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(484,724,-723.30,"2015-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(684,301,287.09,"2012-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(232,103,-944.60,"2014-05-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(742,742,-299.80,"2012-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(763,763,-175.80,"2016-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(523,523,-696.20,"2012-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(925,106,501.40,"2013-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(832,415,-884.27,"2012-05-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(124,728,867.33,"2015-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(987,229,61.06,"2013-01-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(995,38,31.94,"2012-01-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(460,460,-977.90,"2013-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(558,140,-597.45,"2013-01-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(858,858,937.02,"2014-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(817,817,-233.17,"2012-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(159,159,874.62,"2013-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(32,32,-99.08,"2016-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(467,622,-599.12,"2014-06-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(465,859,-912.74,"2012-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(791,12,595.24,"2012-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(338,822,-735.58,"2013-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(105,105,858.22,"2015-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(241,253,942.34,"2016-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(451,198,561.52,"2012-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(577,420,-492.01,"2016-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(490,490,-846.48,"2016-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,704,54.13,"2015-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(11,960,214.47,"2012-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(882,882,650.85,"2015-10-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(896,896,605.06,"2015-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(251,251,-162.46,"2014-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(747,747,-981.14,"2012-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(389,389,415.83,"2014-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(974,63,922.62,"2015-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(427,985,642.56,"2013-08-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(936,936,-675.76,"2015-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(786,896,838.80,"2015-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(326,577,553.73,"2013-04-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(40,969,819.73,"2014-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(891,633,-799.90,"2014-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(98,454,-898.15,"2013-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(135,815,911.62,"2015-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(514,628,246.91,"2016-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(7,7,979.74,"2016-10-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(5,134,-617.78,"2012-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(663,476,-657.10,"2014-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(280,538,396.13,"2012-08-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(211,211,402.53,"2013-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(42,42,947.43,"2016-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(883,856,118.84,"2015-02-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(426,478,-29.57,"2012-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(944,673,669.69,"2014-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(163,652,-343.41,"2014-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(675,675,-175.99,"2014-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(867,109,891.83,"2012-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(124,124,-203.28,"2013-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(869,987,-188.13,"2012-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(134,87,631.45,"2014-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(539,539,866.36,"2014-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(597,597,393.02,"2016-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(482,380,-115.44,"2015-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(702,110,698.44,"2014-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(749,458,645.14,"2014-05-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(421,421,213.89,"2014-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(169,871,-239.66,"2012-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(781,112,-709.80,"2014-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(30,30,-52.73,"2013-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(824,74,-139.60,"2013-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(182,182,92.39,"2014-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(544,985,-94.92,"2015-12-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(634,634,17.07,"2015-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(297,901,-200.33,"2014-05-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(202,460,-350.05,"2012-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(414,200,-398.72,"2013-07-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(160,160,449.01,"2015-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(771,864,357.98,"2016-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(276,276,807.20,"2012-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(592,390,568.83,"2012-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(462,700,408.70,"2012-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(64,64,-85.60,"2015-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(652,164,-240.20,"2014-06-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(188,899,739.27,"2014-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(643,326,-134.36,"2013-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(702,783,227.27,"2014-03-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(765,877,418.38,"2012-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(993,329,-435.60,"2012-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(501,501,381.81,"2012-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(458,707,48.40,"2012-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(141,873,811.56,"2016-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(438,46,-120.03,"2016-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(938,938,-450.27,"2014-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(498,11,828.69,"2013-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(813,535,-686.45,"2013-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(608,706,166.10,"2013-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(801,801,-34.64,"2014-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(681,681,838.31,"2013-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(913,855,-951.83,"2014-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(964,832,360.44,"2012-06-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(897,909,-143.79,"2012-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(631,58,29.40,"2015-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(949,405,-96.71,"2015-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(190,190,132.33,"2015-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(962,962,548.82,"2014-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(782,500,-422.76,"2014-02-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(456,456,-481.39,"2012-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(601,544,805.48,"2016-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(416,416,167.85,"2014-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(202,130,703.18,"2012-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(616,303,113.77,"2014-01-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(602,51,28.32,"2014-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(28,941,158.09,"2016-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(585,151,117.16,"2016-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(452,452,-64.30,"2013-02-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(724,272,925.53,"2014-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(637,124,448.03,"2015-06-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(594,237,423.20,"2015-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(6,6,-572.12,"2014-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(455,6,-753.63,"2012-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(768,365,280.62,"2016-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(89,53,-526.59,"2014-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(814,322,673.64,"2014-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(449,894,864.09,"2014-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(197,502,576.85,"2014-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(43,666,-80.36,"2016-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(733,1000,-995.97,"2013-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(679,576,66.34,"2013-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(544,544,298.61,"2013-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(61,61,713.07,"2012-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(766,604,89.01,"2016-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(590,590,-300.76,"2016-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(606,606,450.53,"2014-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(259,600,-971.41,"2014-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,479,717.44,"2016-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(644,644,-345.14,"2015-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(307,307,-509.19,"2016-07-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(223,223,295.63,"2012-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(418,531,182.03,"2015-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(817,452,845.41,"2015-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(257,883,61.37,"2013-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(226,194,-80.11,"2014-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(711,711,181.61,"2013-12-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(616,616,-55.54,"2015-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(266,756,-981.45,"2014-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(24,973,350.95,"2014-09-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(913,913,57.18,"2012-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(730,730,576.25,"2016-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(809,809,-993.76,"2013-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(912,74,-836.42,"2013-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(758,758,-610.81,"2015-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(593,593,334.59,"2012-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(855,319,-359.62,"2013-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(539,577,-55.26,"2014-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(240,100,-445.91,"2012-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(106,106,749.04,"2015-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(174,679,78.47,"2016-08-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(913,913,-300.78,"2016-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(970,970,-980.25,"2014-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(499,124,-825.01,"2015-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(833,47,-579.15,"2015-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(968,885,-311.45,"2014-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(696,696,281.32,"2015-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(461,635,-317.77,"2016-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(459,459,-155.90,"2013-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(59,48,-297.67,"2012-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(467,511,-495.73,"2014-12-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(691,691,270.62,"2016-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(296,645,-863.33,"2014-12-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(496,821,-819.76,"2013-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(3,245,-840.29,"2016-10-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(796,995,-234.84,"2014-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(443,443,985.36,"2013-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(757,113,630.88,"2016-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(626,101,667.77,"2014-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(143,143,409.11,"2012-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(824,824,-273.56,"2014-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(918,538,18.63,"2016-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(242,491,-207.93,"2013-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(183,183,-940.71,"2016-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(843,601,204.54,"2012-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(602,359,727.68,"2015-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(933,163,-594.16,"2016-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(673,673,-175.22,"2012-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(161,477,780.40,"2015-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(378,490,727.45,"2016-04-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(865,865,-405.26,"2016-10-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(500,91,-875.36,"2014-03-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(358,358,893.22,"2015-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(355,360,997.39,"2015-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(216,216,480.25,"2012-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(634,399,907.74,"2016-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(284,460,-632.17,"2013-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(52,52,710.23,"2015-10-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(305,305,-879.81,"2014-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(324,324,646.06,"2016-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(561,517,802.15,"2014-08-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(663,663,576.96,"2014-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(681,72,-852.85,"2015-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(61,472,103.07,"2013-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(118,182,399.20,"2012-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(891,517,303.69,"2013-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(7,946,871.21,"2016-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(512,985,-748.77,"2014-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(980,468,-28.58,"2012-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(727,727,-848.44,"2014-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(723,723,41.21,"2016-05-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(800,7,662.39,"2016-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(141,141,311.15,"2012-01-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(914,796,366.51,"2015-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(421,934,109.15,"2015-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(280,482,628.56,"2015-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(964,182,577.34,"2013-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(172,172,-237.44,"2013-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(795,752,496.62,"2013-01-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(656,607,-360.38,"2014-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(279,828,-17.10,"2013-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(892,62,-290.30,"2012-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(839,839,385.17,"2015-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(836,256,259.67,"2015-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(6,6,-136.63,"2012-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(440,440,-313.66,"2012-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(738,786,-330.93,"2016-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(196,196,-448.82,"2015-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(914,928,-590.43,"2012-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(363,564,54.72,"2016-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(739,739,-676.42,"2013-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(133,928,411.90,"2013-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(821,511,-920.32,"2015-08-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(382,347,-989.24,"2014-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(84,928,-567.47,"2015-01-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(58,58,707.03,"2013-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(841,554,584.51,"2014-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(475,946,-103.20,"2014-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(783,783,-511.12,"2016-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(783,783,-989.84,"2012-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(551,457,445.50,"2016-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(682,831,500.46,"2015-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(799,707,437.06,"2014-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(614,614,-593.67,"2012-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(695,695,-224.72,"2013-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(697,781,924.93,"2016-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(48,48,982.77,"2016-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(608,410,-588.72,"2013-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(561,825,-564.87,"2012-12-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(292,75,836.59,"2012-06-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(50,50,167.68,"2015-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(272,691,-477.71,"2012-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(297,790,111.97,"2015-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(632,632,849.11,"2015-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(934,964,929.63,"2013-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(799,356,-195.29,"2016-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(720,503,-321.23,"2012-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(729,152,-854.90,"2014-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(525,901,564.89,"2012-04-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(733,733,-878.07,"2013-01-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(628,228,594.92,"2015-03-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(828,420,-88.98,"2014-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(670,116,319.87,"2014-12-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,962,569.80,"2015-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(948,246,-841.62,"2016-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(107,107,-737.07,"2013-12-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(572,8,-308.94,"2015-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(250,945,-238.73,"2016-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(389,389,567.32,"2014-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(142,142,261.68,"2016-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(747,747,937.67,"2013-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(514,426,234.75,"2014-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(104,530,905.03,"2014-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(884,304,993.34,"2014-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(189,189,-402.43,"2013-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(592,503,68.90,"2015-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(307,307,84.36,"2012-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(861,861,-806.01,"2016-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(244,955,12.74,"2016-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(294,246,-422.01,"2016-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(639,846,170.32,"2016-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(693,693,760.00,"2014-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(177,177,-243.70,"2012-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(220,92,-939.01,"2013-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(529,76,-927.94,"2015-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(217,188,-368.43,"2012-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(231,431,753.93,"2016-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(309,584,-976.50,"2016-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(383,879,-879.66,"2016-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(799,502,-41.86,"2016-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,87,459.14,"2012-05-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(702,509,9.02,"2015-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(954,766,-886.28,"2012-08-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(358,358,2.51,"2016-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(489,489,-899.24,"2013-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(878,190,734.23,"2015-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(194,74,962.68,"2015-05-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(33,406,-491.46,"2015-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(125,594,-824.49,"2016-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,753,281.31,"2013-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(312,312,-846.73,"2014-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(605,605,-381.55,"2014-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(915,304,-62.82,"2012-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(970,442,363.13,"2012-09-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(332,591,604.03,"2012-06-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(732,348,-225.55,"2014-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(832,111,-710.44,"2012-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(710,293,-327.30,"2016-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(966,966,854.63,"2012-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(350,573,-864.53,"2016-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(644,833,738.33,"2016-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(101,101,-426.44,"2012-08-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(755,170,-374.28,"2016-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(605,778,-636.45,"2014-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(471,77,-318.44,"2016-06-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(833,616,-171.56,"2013-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(863,84,27.62,"2013-05-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(338,338,27.76,"2013-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(987,378,325.63,"2015-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(221,943,159.23,"2012-03-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(397,397,149.04,"2013-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(229,229,-384.25,"2014-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(18,18,708.18,"2012-05-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(350,350,-534.98,"2012-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(282,528,-616.13,"2012-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(886,886,-73.36,"2014-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(484,579,-664.01,"2016-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(607,607,755.92,"2014-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(510,510,623.82,"2014-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(677,538,940.77,"2013-09-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(925,322,-946.02,"2014-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(425,425,903.74,"2016-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(473,473,-850.15,"2015-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(367,361,-168.18,"2013-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,432,315.00,"2015-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(855,855,-552.92,"2012-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(974,435,-43.07,"2012-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(830,928,-588.98,"2016-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(893,115,-733.46,"2012-01-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(527,527,510.11,"2014-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(737,930,310.77,"2015-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(800,800,-614.67,"2012-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(819,612,-224.17,"2014-03-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(944,300,932.31,"2014-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(690,783,-546.91,"2016-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(111,111,451.60,"2015-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(990,990,127.41,"2016-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(507,507,347.74,"2012-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(962,962,-10.03,"2012-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(125,125,-214.56,"2014-08-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(85,85,-274.95,"2013-03-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(900,259,13.49,"2014-05-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(683,683,510.67,"2013-10-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(142,142,-950.65,"2015-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(155,155,901.95,"2014-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(186,197,351.37,"2014-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(557,557,145.76,"2016-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(70,454,201.63,"2016-03-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(824,824,398.19,"2013-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(46,891,776.05,"2015-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(448,767,523.43,"2014-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(784,784,50.07,"2016-05-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(912,584,-645.54,"2016-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(70,143,534.22,"2012-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(917,357,977.51,"2015-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(860,860,-535.67,"2013-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(697,676,-884.06,"2015-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,632,664.42,"2015-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(30,30,-909.69,"2014-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(22,516,435.10,"2016-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(934,934,-180.91,"2013-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(699,699,586.31,"2015-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(830,830,-750.89,"2015-03-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(656,624,305.02,"2016-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(29,214,-607.42,"2012-03-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(267,267,-209.41,"2014-10-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(100,914,206.31,"2016-08-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(971,436,223.41,"2014-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(554,327,-138.34,"2016-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(637,637,755.25,"2014-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(771,530,141.69,"2015-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(408,475,-638.77,"2012-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(779,584,776.48,"2016-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(427,590,-506.14,"2016-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(184,184,310.49,"2014-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(259,259,930.31,"2012-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(772,644,855.08,"2016-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(916,916,330.73,"2016-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(145,776,-202.79,"2012-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(61,939,-953.15,"2012-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(554,554,750.83,"2012-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,507,-380.87,"2014-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(295,350,965.57,"2016-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(222,249,374.05,"2013-03-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(963,808,-811.28,"2012-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(878,878,-210.55,"2013-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(506,232,175.12,"2012-02-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(749,289,763.75,"2015-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(594,594,950.49,"2012-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(535,535,868.49,"2014-12-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(207,126,693.46,"2013-09-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(967,307,466.17,"2013-06-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(405,405,-480.25,"2012-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(629,186,543.86,"2013-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(517,517,904.15,"2015-05-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(870,870,556.92,"2016-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(815,112,-417.44,"2014-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(858,353,-199.99,"2014-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(339,826,-575.94,"2016-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,537,580.04,"2016-05-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(137,63,534.05,"2014-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(559,831,945.11,"2012-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(235,214,344.76,"2016-04-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(538,189,408.87,"2012-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(380,74,-561.84,"2016-08-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(246,246,-730.52,"2013-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(764,464,64.10,"2013-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(264,539,-795.19,"2016-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(210,845,929.59,"2016-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(440,816,185.64,"2012-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(609,401,-701.56,"2014-01-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(124,722,-596.19,"2012-10-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(69,69,-510.24,"2012-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(185,87,-257.26,"2015-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(34,35,-596.51,"2014-06-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(497,637,-246.68,"2015-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(497,17,419.75,"2012-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(415,833,267.28,"2013-05-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(877,877,783.97,"2012-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(566,151,200.40,"2015-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(786,482,-636.17,"2013-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(132,565,-384.96,"2015-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(882,882,-951.51,"2015-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(92,664,-803.60,"2015-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(515,831,300.33,"2013-06-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(15,15,-137.67,"2014-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(157,437,508.66,"2013-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(119,666,903.05,"2013-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(137,137,668.59,"2012-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(107,974,-614.81,"2013-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(244,58,-603.81,"2013-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(543,2,-300.41,"2016-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(938,89,226.50,"2015-04-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(235,815,-257.82,"2015-08-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(395,221,667.62,"2013-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(802,921,895.50,"2013-11-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(560,560,-23.50,"2014-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(515,441,-392.63,"2015-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(88,680,144.48,"2015-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(13,776,713.39,"2014-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(8,758,-892.37,"2012-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(601,801,428.21,"2016-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(528,528,510.57,"2014-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(715,321,-149.77,"2012-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(671,173,598.54,"2014-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(453,453,775.43,"2016-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(345,345,-98.39,"2013-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(567,567,368.60,"2014-01-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(927,211,-88.56,"2015-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(995,995,-363.83,"2013-03-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(802,131,838.11,"2012-03-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(500,500,-739.84,"2014-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(112,878,253.74,"2014-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(174,904,-182.97,"2012-04-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(985,949,-175.78,"2015-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(238,153,-831.10,"2015-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(705,705,-301.20,"2012-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(907,312,-236.20,"2016-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(217,491,-82.56,"2012-04-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(111,387,-469.46,"2014-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(300,300,-679.87,"2012-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(922,886,-883.47,"2015-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(699,699,-945.83,"2016-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(113,113,-356.03,"2012-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(603,911,-985.94,"2013-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(9,314,-891.23,"2016-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(869,717,-126.88,"2013-01-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(294,168,-141.52,"2016-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(856,568,846.33,"2015-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(211,490,-419.50,"2016-06-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(947,538,590.35,"2016-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(562,800,-648.26,"2015-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(741,526,866.71,"2012-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(163,667,766.26,"2013-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(272,272,987.70,"2016-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(18,401,310.86,"2015-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(714,714,-484.41,"2016-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(566,768,-366.36,"2012-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(269,326,680.59,"2016-11-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(644,644,-610.59,"2016-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(542,542,-547.40,"2015-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(492,492,-638.64,"2014-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(958,383,207.26,"2012-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(1000,1000,264.46,"2016-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(29,925,892.43,"2014-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(603,893,-721.04,"2012-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(569,569,-472.96,"2016-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(635,717,-329.32,"2015-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(454,370,-85.10,"2015-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(142,841,132.13,"2013-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(723,552,-577.57,"2013-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(240,610,-297.93,"2014-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(164,727,-122.24,"2012-05-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(426,426,-617.58,"2016-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(428,700,193.89,"2016-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(138,250,-492.16,"2015-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(775,277,-27.43,"2014-02-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(402,873,-411.06,"2013-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(644,478,64.74,"2016-02-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(949,641,77.98,"2015-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(931,335,-298.10,"2013-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(144,144,-800.33,"2015-11-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(560,513,221.16,"2015-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(695,695,-792.20,"2013-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(636,636,-530.43,"2013-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(237,111,842.57,"2015-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(30,757,163.94,"2014-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(711,297,-200.08,"2015-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(910,910,808.60,"2015-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(418,418,880.12,"2012-08-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,651,106.00,"2016-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(280,112,-99.00,"2014-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(941,941,-372.87,"2015-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(915,915,13.28,"2015-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(220,13,-441.25,"2016-05-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(995,619,391.74,"2012-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(217,717,914.30,"2014-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(465,22,126.66,"2013-10-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(759,314,181.49,"2015-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(88,88,23.71,"2016-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(558,576,-887.27,"2015-09-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(133,547,494.27,"2015-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(167,562,-798.76,"2014-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(758,961,566.36,"2016-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(447,236,-201.82,"2015-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(995,995,671.66,"2015-01-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(622,622,29.18,"2016-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(251,826,699.87,"2015-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(937,288,-628.45,"2013-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(65,65,680.53,"2013-03-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(903,903,-312.68,"2016-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(265,265,827.28,"2016-12-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(723,723,-917.70,"2013-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(209,984,-45.54,"2012-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(807,542,935.35,"2016-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(33,933,986.45,"2015-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(484,484,295.10,"2015-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(396,974,221.42,"2012-07-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(334,526,607.58,"2013-01-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(907,907,-412.53,"2015-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(570,509,904.35,"2015-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(158,734,-758.61,"2014-09-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(84,84,71.98,"2016-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(972,972,805.48,"2012-02-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(268,268,-64.83,"2014-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(877,939,-994.67,"2014-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(988,830,835.46,"2013-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(343,783,-872.15,"2015-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(767,472,95.26,"2012-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(937,442,-96.04,"2012-07-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(427,834,283.78,"2015-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(298,439,-102.54,"2015-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,537,858.94,"2013-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(381,765,-604.66,"2012-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(991,342,-849.25,"2014-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(605,363,-857.91,"2015-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(877,832,-97.59,"2012-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(791,378,163.67,"2015-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(587,941,462.26,"2013-06-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(960,210,-789.20,"2014-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(645,375,-808.01,"2015-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(975,975,-173.52,"2012-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(362,455,-572.38,"2014-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(515,515,-715.63,"2015-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(768,768,430.98,"2016-10-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(876,876,-805.57,"2012-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(454,133,-106.38,"2016-04-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(749,749,-399.04,"2015-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(919,819,705.73,"2014-07-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(169,169,252.39,"2014-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(529,277,-481.79,"2015-12-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(833,833,344.26,"2016-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(969,969,204.07,"2012-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(111,111,-413.87,"2012-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(937,937,-460.83,"2012-05-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(745,633,422.76,"2014-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(350,858,460.87,"2014-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(844,844,23.54,"2013-06-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(857,444,-332.48,"2012-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(364,364,-17.05,"2016-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(508,508,-898.45,"2014-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(790,816,-750.37,"2014-12-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(988,988,-570.38,"2013-07-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(232,76,-924.15,"2012-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(654,654,302.32,"2014-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(576,728,-945.26,"2012-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(616,689,369.41,"2016-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(971,446,458.72,"2015-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(553,553,275.04,"2012-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(362,554,118.37,"2014-12-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(661,987,925.89,"2015-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(461,461,-45.02,"2016-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(971,268,706.62,"2012-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(465,465,-114.01,"2014-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(439,439,120.12,"2012-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(371,180,-214.49,"2014-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(133,133,-88.82,"2012-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(211,211,672.68,"2015-05-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(993,970,-56.44,"2012-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(964,896,-387.63,"2015-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(577,102,918.50,"2015-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(644,621,-462.28,"2013-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(213,213,-296.62,"2015-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(120,170,-125.61,"2016-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(523,315,1.07,"2014-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(936,748,-829.24,"2015-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(215,160,-570.93,"2012-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(376,192,669.00,"2012-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(496,454,45.94,"2013-10-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(472,298,-529.63,"2014-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(369,356,976.26,"2013-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(198,198,384.44,"2016-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(357,927,930.39,"2016-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(483,151,-126.51,"2015-07-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(812,362,399.13,"2014-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(768,768,78.31,"2015-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(854,244,-356.62,"2015-04-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(539,539,471.75,"2012-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(319,236,911.25,"2014-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(165,382,860.72,"2016-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(101,689,173.74,"2013-06-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(403,621,44.67,"2012-09-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(622,622,-565.80,"2012-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(135,281,830.50,"2016-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(775,775,1.18,"2012-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(42,446,-703.58,"2016-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(464,77,434.74,"2015-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(584,988,-318.63,"2013-08-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(549,208,210.07,"2015-04-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(422,555,-245.51,"2015-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(811,811,-958.23,"2012-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(374,374,-505.03,"2013-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(435,409,-988.48,"2012-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(143,24,846.24,"2015-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(555,555,308.46,"2012-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(595,440,-376.29,"2014-04-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(942,942,580.27,"2015-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(407,193,-138.81,"2012-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(454,454,367.61,"2015-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(126,126,449.98,"2012-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(639,940,-773.86,"2014-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(886,886,453.81,"2014-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(329,759,229.65,"2015-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(162,447,-434.55,"2012-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(623,812,-481.66,"2015-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(231,301,-422.92,"2015-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(95,95,798.82,"2015-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(126,846,-784.46,"2014-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(807,313,-692.48,"2012-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(664,204,-415.91,"2014-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(115,89,-910.44,"2015-07-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(429,507,166.35,"2016-02-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(28,28,253.64,"2013-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(835,15,96.32,"2015-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(855,414,535.16,"2012-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(868,926,-528.99,"2014-02-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(234,49,-140.75,"2014-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(987,987,-378.51,"2015-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(791,127,-583.99,"2015-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(680,966,971.32,"2015-07-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(66,66,-906.37,"2014-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(311,859,471.64,"2012-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(918,918,-847.11,"2016-01-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(775,775,-692.91,"2013-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(509,509,-702.16,"2015-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(699,630,-893.61,"2016-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(867,867,776.75,"2014-10-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(588,178,509.35,"2013-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(168,168,-883.87,"2016-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(272,231,705.10,"2013-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(39,39,-369.15,"2015-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(798,798,-179.45,"2015-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(359,132,-878.03,"2015-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(788,819,-623.23,"2016-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(666,666,337.81,"2014-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(626,997,-315.92,"2014-09-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(594,594,542.22,"2014-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(892,892,-264.64,"2014-12-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(474,754,-481.92,"2016-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(528,103,570.58,"2016-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(596,596,-498.70,"2014-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(892,673,-916.18,"2016-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(809,809,68.94,"2013-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(775,414,-921.97,"2013-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(304,304,-2.52,"2016-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(163,65,-231.53,"2013-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(828,828,-348.60,"2012-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(84,111,328.75,"2013-04-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(991,991,-652.67,"2012-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(369,263,670.04,"2015-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(932,837,692.70,"2013-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(449,536,-550.75,"2015-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(701,701,-737.58,"2013-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(124,124,52.72,"2014-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(994,710,606.05,"2015-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(842,155,490.84,"2015-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(206,616,687.41,"2016-12-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(829,27,613.50,"2012-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,86,983.07,"2013-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(441,441,-665.79,"2014-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(245,902,884.86,"2015-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(292,609,872.30,"2014-05-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(811,312,-982.06,"2016-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(668,668,-29.10,"2013-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(737,737,-390.28,"2016-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(60,105,510.25,"2014-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(406,406,468.27,"2014-05-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(492,537,558.90,"2013-04-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(719,719,-665.75,"2015-03-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(800,800,-612.70,"2013-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(793,793,571.56,"2016-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(236,236,510.22,"2013-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(965,742,46.67,"2016-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(347,347,-965.03,"2012-10-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(842,602,-836.47,"2016-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(706,706,545.05,"2012-01-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(837,155,-784.62,"2012-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(83,819,104.44,"2012-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(954,954,837.86,"2012-08-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(251,251,-222.84,"2012-04-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(835,139,443.32,"2012-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(875,92,972.03,"2012-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(320,118,174.67,"2012-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(880,633,808.28,"2013-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(895,263,-265.22,"2013-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(15,15,354.84,"2013-03-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(223,173,-362.52,"2015-02-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(33,256,-310.27,"2013-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(794,226,265.27,"2013-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(612,459,558.09,"2013-05-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(936,284,562.99,"2012-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(747,747,574.59,"2015-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(959,199,-405.30,"2016-05-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(401,4,537.24,"2013-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(278,278,141.62,"2014-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(122,452,-399.29,"2016-03-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(688,293,-238.92,"2016-10-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(853,303,236.01,"2012-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(656,656,547.39,"2012-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(103,818,842.28,"2012-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(203,449,824.87,"2013-05-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(606,854,-245.36,"2016-10-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,753,-64.64,"2015-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(489,489,504.31,"2013-01-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(378,959,709.73,"2012-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(191,191,333.03,"2012-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(934,55,-939.23,"2014-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(154,154,966.56,"2014-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(67,462,-32.65,"2013-01-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(928,928,744.76,"2012-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(841,841,-454.34,"2014-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(352,352,-258.02,"2014-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(343,343,316.98,"2013-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(357,835,-540.78,"2012-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(84,84,-247.96,"2014-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(656,857,631.57,"2012-01-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(927,927,49.54,"2016-05-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(416,38,25.31,"2014-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(140,140,745.76,"2013-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(456,456,-875.61,"2016-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(216,216,47.44,"2015-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(811,811,-528.28,"2014-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(381,974,593.66,"2016-10-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(745,745,866.26,"2016-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(702,241,-950.65,"2014-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(843,843,-892.57,"2013-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(195,953,913.09,"2016-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(6,457,308.59,"2016-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(693,693,409.62,"2016-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(200,226,-220.81,"2016-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(799,799,650.25,"2014-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(895,895,558.47,"2016-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(772,772,-959.51,"2016-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(10,717,-41.95,"2014-12-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(433,998,902.07,"2012-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(230,230,515.44,"2014-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(464,464,-922.37,"2016-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(808,417,855.03,"2014-05-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(199,462,280.96,"2013-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(661,696,-665.09,"2014-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(121,483,-303.19,"2016-08-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(643,643,-902.97,"2013-02-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(955,340,272.81,"2015-12-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(810,810,312.93,"2013-11-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(865,324,-850.08,"2014-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(226,788,-973.96,"2014-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(797,122,147.70,"2016-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(91,839,97.39,"2013-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(839,986,-246.39,"2015-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(852,57,-419.20,"2016-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(611,639,201.87,"2013-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(868,868,188.77,"2016-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(656,488,965.30,"2012-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(935,853,943.63,"2015-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(354,410,331.81,"2013-01-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(72,72,-985.25,"2016-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(173,173,-185.50,"2015-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(953,953,963.81,"2014-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(27,27,874.77,"2012-10-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(771,757,-244.92,"2015-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,728,253.99,"2013-08-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(872,872,626.80,"2015-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(895,973,-940.87,"2015-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(974,974,204.88,"2014-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(780,853,-396.57,"2015-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(496,441,693.88,"2013-07-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(529,531,-909.50,"2014-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(992,992,-371.46,"2014-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(234,992,-521.53,"2016-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(427,952,546.71,"2016-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(54,447,-506.11,"2015-11-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(249,338,113.72,"2015-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(992,641,-513.72,"2012-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(390,721,448.72,"2016-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(128,128,-702.96,"2012-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(648,686,726.75,"2015-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(11,762,-727.56,"2013-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(915,663,-33.00,"2014-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(551,551,-291.78,"2014-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(461,155,-648.59,"2016-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,34,31.23,"2014-05-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(13,13,-946.44,"2016-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(94,94,551.50,"2016-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(297,373,797.74,"2016-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(685,685,-669.62,"2014-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(835,835,469.95,"2013-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(934,474,-895.66,"2013-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(439,439,818.91,"2012-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(932,200,949.91,"2013-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(808,183,882.54,"2012-08-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(344,404,197.85,"2012-03-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(791,777,779.34,"2015-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(618,618,-93.69,"2013-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(694,954,-766.76,"2015-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(796,796,-649.21,"2013-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(311,595,332.51,"2015-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(174,276,-656.33,"2013-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(393,39,-674.62,"2012-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(767,767,800.60,"2016-10-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(528,777,-695.31,"2013-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(466,565,18.53,"2012-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(634,192,-774.04,"2014-05-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(90,90,988.81,"2016-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(441,944,-96.28,"2012-03-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(489,483,347.43,"2016-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(512,724,197.81,"2012-10-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(951,454,-534.18,"2014-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(698,260,748.12,"2015-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(547,918,-465.11,"2014-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(92,92,-209.42,"2012-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(387,940,-47.26,"2015-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(330,330,-843.88,"2012-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(568,593,-97.90,"2016-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(819,819,-955.31,"2015-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(981,470,874.20,"2014-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(444,666,-245.25,"2015-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(422,303,286.36,"2014-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(839,153,-5.75,"2013-05-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(395,203,382.41,"2016-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(578,503,-511.92,"2014-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(290,477,-517.77,"2014-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(811,811,168.93,"2012-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(478,478,-987.80,"2013-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(741,36,-964.52,"2015-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(730,730,-150.83,"2014-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(505,174,406.87,"2012-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(624,776,-339.55,"2015-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(556,513,966.97,"2012-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(445,291,427.39,"2014-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(116,752,-163.86,"2012-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(348,626,849.84,"2014-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(771,771,547.37,"2015-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(329,329,-682.51,"2015-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(125,125,383.84,"2016-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(41,41,-337.51,"2016-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(103,103,-982.46,"2013-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(465,362,798.72,"2015-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(92,515,57.25,"2016-08-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(151,151,-916.07,"2016-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(944,830,-564.59,"2012-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(748,706,-489.47,"2016-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(93,535,325.50,"2015-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(701,701,-491.59,"2012-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(321,321,-595.59,"2013-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(340,340,566.95,"2012-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(165,719,507.96,"2016-01-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(89,156,822.09,"2015-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(897,536,-353.73,"2012-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(731,523,-537.90,"2013-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(476,557,776.76,"2015-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(3,3,-185.58,"2016-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(818,818,-108.49,"2015-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(362,875,795.71,"2014-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(561,551,-345.51,"2015-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(684,795,-864.88,"2013-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(800,981,654.92,"2014-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(861,272,994.43,"2015-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(392,407,-665.15,"2013-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(31,517,468.54,"2014-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(603,470,484.98,"2015-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(563,40,708.07,"2012-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(215,215,445.36,"2013-01-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(959,906,588.05,"2014-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(129,628,988.02,"2012-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(66,156,53.82,"2016-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(742,190,340.24,"2014-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(699,145,-908.42,"2015-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(832,839,-908.27,"2015-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(436,802,-783.62,"2015-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(84,568,-384.30,"2016-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(243,897,-767.97,"2014-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(236,236,-722.82,"2012-08-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(96,638,-978.40,"2014-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(330,843,-728.75,"2016-03-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(101,796,560.71,"2015-01-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(378,380,278.89,"2013-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(593,507,-842.86,"2016-05-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(151,707,428.07,"2015-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(886,397,860.53,"2013-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(662,662,-449.95,"2015-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(684,472,416.29,"2015-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(816,20,-370.73,"2015-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(345,261,-163.61,"2013-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(643,441,-194.51,"2015-06-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(858,858,878.71,"2014-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(632,54,-237.46,"2012-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(623,483,-822.61,"2016-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(914,487,409.57,"2016-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(53,53,-653.52,"2013-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(813,813,-591.03,"2015-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(88,438,786.67,"2013-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(452,452,-496.66,"2013-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(727,73,104.73,"2014-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(34,705,433.58,"2015-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(213,430,14.00,"2015-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(841,841,-88.03,"2012-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(909,58,-789.17,"2016-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(917,917,607.37,"2015-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(798,208,402.01,"2014-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(379,966,-482.86,"2015-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(406,824,274.78,"2013-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(331,257,791.90,"2015-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(911,910,655.57,"2015-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(229,342,280.03,"2016-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(485,433,335.69,"2013-07-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(534,341,-524.82,"2012-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(130,500,986.38,"2012-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(474,474,-27.73,"2014-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(681,681,-537.63,"2012-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(261,261,-471.92,"2012-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(792,792,281.92,"2012-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(234,468,553.90,"2016-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(349,799,-215.04,"2015-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(740,985,699.24,"2012-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(351,693,-42.72,"2012-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(415,200,653.37,"2016-06-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(676,676,-347.05,"2016-01-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(676,62,927.40,"2014-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(726,726,-714.48,"2012-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(573,315,154.27,"2013-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(200,172,745.27,"2016-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(215,215,138.04,"2012-03-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(580,580,-486.43,"2016-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(999,550,-927.10,"2013-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(180,536,57.52,"2013-01-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(15,542,31.16,"2013-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(751,751,839.60,"2016-03-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(196,196,-820.67,"2015-09-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(820,820,37.58,"2013-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(751,751,321.56,"2016-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(503,418,-378.36,"2013-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(925,869,721.77,"2013-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(865,811,864.21,"2013-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(76,179,87.26,"2012-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(538,199,362.49,"2012-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(340,581,994.56,"2015-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(939,694,446.28,"2015-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(339,339,-85.75,"2012-03-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(453,681,832.23,"2012-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(313,752,-895.00,"2013-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(112,139,456.81,"2012-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(415,373,913.68,"2015-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(869,869,415.53,"2012-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(178,422,-640.01,"2015-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(740,740,990.07,"2014-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(801,762,-108.38,"2014-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(326,341,-176.21,"2014-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(36,36,211.48,"2013-04-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(258,358,107.17,"2016-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(517,243,-816.42,"2016-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(128,825,97.96,"2012-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(452,669,-636.14,"2015-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(106,106,171.51,"2012-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(922,922,-220.64,"2014-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(796,395,-589.15,"2013-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(324,324,-356.14,"2013-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(471,776,115.22,"2013-10-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(304,304,364.04,"2013-01-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(476,206,-60.65,"2015-07-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(553,298,-514.80,"2016-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(754,754,-91.74,"2014-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(587,587,-531.16,"2012-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(334,334,303.61,"2014-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(929,929,-155.82,"2013-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(988,273,889.36,"2015-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(217,84,-242.08,"2016-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(858,858,-124.63,"2014-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(680,115,-291.06,"2016-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(727,544,-788.21,"2013-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(211,377,-610.21,"2012-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(274,732,-496.08,"2013-02-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(831,831,-943.19,"2013-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(806,629,777.43,"2013-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(364,364,-855.61,"2014-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(162,162,-602.17,"2014-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(916,863,823.74,"2015-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(192,192,-321.34,"2012-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(176,390,-573.90,"2012-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(100,484,919.99,"2016-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(63,499,773.82,"2016-02-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(390,243,-696.29,"2013-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(344,355,629.93,"2016-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(32,32,-229.26,"2016-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(954,954,-693.25,"2014-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(353,353,-646.74,"2012-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,479,-396.08,"2012-06-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(316,400,366.56,"2016-03-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(778,778,-508.24,"2016-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(261,863,689.83,"2016-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(551,827,833.76,"2012-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(799,469,-412.47,"2014-04-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(161,495,-223.52,"2016-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(830,647,721.14,"2016-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(999,497,672.29,"2012-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(290,290,-344.65,"2016-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(524,65,675.57,"2014-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(929,171,-939.32,"2014-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(798,798,-553.34,"2016-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(227,863,-361.96,"2016-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(715,74,-258.19,"2012-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(477,105,201.19,"2015-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(588,283,-46.92,"2016-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(576,93,816.32,"2012-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(743,759,-409.97,"2013-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(305,754,376.55,"2014-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(823,823,573.46,"2014-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(849,290,-749.57,"2013-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(395,60,23.30,"2012-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(892,892,213.81,"2012-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(494,494,182.05,"2012-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(98,846,772.57,"2013-01-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(408,238,-267.49,"2012-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(501,815,74.11,"2014-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(147,659,-767.83,"2012-06-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(584,584,-302.72,"2012-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(911,612,960.86,"2014-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(265,211,67.45,"2012-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(104,104,689.16,"2015-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(222,264,191.61,"2013-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(881,765,799.56,"2014-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(733,822,-529.97,"2015-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(60,60,259.92,"2015-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(393,916,-398.32,"2012-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(952,76,-379.25,"2013-08-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(348,688,-613.59,"2016-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(765,765,-685.88,"2013-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,332,934.87,"2014-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(575,691,828.79,"2015-04-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(318,318,-304.62,"2015-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(313,299,-424.04,"2016-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(645,623,-771.58,"2015-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(667,36,-217.31,"2012-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(554,554,-314.41,"2013-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(901,466,-886.86,"2014-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(56,56,874.04,"2012-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(357,507,-56.16,"2016-04-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(147,147,513.27,"2013-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(718,718,758.38,"2013-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(662,161,39.70,"2015-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(179,179,566.43,"2013-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(996,688,-832.88,"2015-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(322,553,890.61,"2015-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(198,966,742.72,"2015-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(386,386,-761.19,"2014-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(965,965,-711.11,"2014-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(495,608,998.44,"2015-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(30,763,105.61,"2016-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(387,679,-821.89,"2013-03-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(794,794,914.18,"2014-03-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(864,36,-829.45,"2014-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(100,100,-23.54,"2012-09-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(913,913,-454.18,"2012-07-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(1,127,358.75,"2013-04-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(629,224,776.96,"2012-01-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(314,314,52.19,"2013-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(325,639,60.07,"2016-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(314,272,918.07,"2013-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(570,122,-695.30,"2013-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(490,490,78.06,"2013-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,651,542.96,"2014-01-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(406,142,316.05,"2016-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(920,318,-34.48,"2016-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(858,617,810.17,"2013-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(120,340,-927.20,"2012-05-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(962,279,-794.57,"2014-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(6,6,-630.06,"2014-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(228,971,170.47,"2012-08-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(360,360,453.46,"2013-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(978,261,-867.73,"2013-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(605,605,10.63,"2013-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(874,775,56.42,"2016-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(203,203,-811.45,"2014-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(359,359,4.49,"2015-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(786,786,865.92,"2012-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(696,863,690.28,"2014-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(948,908,637.79,"2012-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(69,69,-914.49,"2016-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(735,656,-900.24,"2014-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(680,680,-926.43,"2014-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(358,816,-320.62,"2016-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(298,341,-539.02,"2014-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(114,114,-380.99,"2013-05-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(983,388,-202.43,"2013-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(996,996,-327.62,"2013-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(958,259,889.64,"2016-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(332,79,597.97,"2016-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(163,32,-63.41,"2013-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(870,495,-257.79,"2012-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(880,935,-13.60,"2016-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(692,43,3.15,"2012-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(633,633,382.05,"2012-03-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(129,129,-570.43,"2012-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(660,192,-197.91,"2014-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(15,556,691.46,"2016-02-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(101,939,629.31,"2012-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(422,632,-57.37,"2015-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(901,970,-636.14,"2016-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(334,17,642.93,"2012-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(805,435,207.37,"2016-06-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(784,263,-677.18,"2013-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(761,341,492.99,"2012-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(229,229,217.51,"2013-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(109,665,988.30,"2016-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(788,788,-175.65,"2012-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(782,782,-264.34,"2012-06-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(984,135,-722.37,"2014-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(942,152,-826.85,"2013-05-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(100,100,995.87,"2013-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(47,47,984.06,"2014-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(503,836,-676.16,"2013-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(186,186,-492.42,"2015-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(994,834,-153.56,"2016-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(708,708,-968.37,"2016-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(878,878,-490.08,"2013-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(932,932,-126.91,"2012-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(403,403,-295.40,"2014-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(278,719,-582.09,"2016-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(230,966,-764.44,"2015-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(530,403,-905.82,"2015-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(477,357,87.70,"2013-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(191,537,-36.25,"2014-04-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(483,483,-793.51,"2015-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(30,30,-605.60,"2015-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(353,353,-141.25,"2012-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(817,800,-52.95,"2015-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(826,985,-690.60,"2016-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(131,339,-191.10,"2014-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(855,855,441.97,"2014-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(937,36,377.88,"2014-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(73,73,-790.60,"2015-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(717,786,765.20,"2016-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(986,986,394.37,"2013-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(618,266,-875.80,"2013-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(810,810,-639.67,"2016-05-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(937,552,-140.19,"2016-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(62,824,172.58,"2015-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(899,86,-987.48,"2012-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(105,105,463.40,"2015-10-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(156,397,594.64,"2013-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(733,733,277.70,"2016-12-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(951,951,853.64,"2014-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(714,795,205.42,"2012-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(290,961,571.60,"2012-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(551,182,444.34,"2013-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(732,732,-890.68,"2015-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(407,407,55.45,"2016-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(751,53,509.75,"2014-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(717,957,595.43,"2012-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(847,839,143.74,"2015-03-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(461,461,-669.77,"2013-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(865,826,958.36,"2012-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(3,3,673.50,"2012-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(285,819,248.17,"2015-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(601,155,178.47,"2012-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(989,989,-218.57,"2012-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(236,615,652.44,"2014-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(716,632,830.68,"2012-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(430,461,836.66,"2015-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(299,587,-408.75,"2013-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(578,934,-503.66,"2016-04-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(363,399,614.88,"2013-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(718,646,-516.77,"2015-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(428,453,-252.09,"2013-01-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(271,500,583.12,"2015-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(812,807,-688.24,"2014-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(907,907,184.98,"2016-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(197,88,22.53,"2014-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(233,233,131.65,"2016-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(52,52,-448.07,"2014-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(697,152,844.90,"2014-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(470,470,-69.45,"2012-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(585,213,427.93,"2013-06-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(129,129,9.31,"2013-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(920,220,-150.59,"2012-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(826,467,-2.10,"2014-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(942,38,-183.20,"2016-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(454,454,-956.87,"2014-10-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(950,807,350.99,"2015-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(152,965,-962.16,"2015-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(273,557,700.21,"2014-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(357,773,390.97,"2016-08-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(985,579,958.39,"2015-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(401,10,498.94,"2012-01-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(731,731,1000.79,"2013-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(665,568,-592.41,"2016-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(3,3,-753.99,"2013-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(446,537,423.31,"2015-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(82,7,627.39,"2013-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(907,62,280.78,"2016-02-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(674,4,-140.42,"2012-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(16,16,-814.08,"2012-10-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(316,316,-879.40,"2012-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(688,46,436.04,"2012-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(436,718,152.40,"2014-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(78,78,763.10,"2016-10-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(256,495,-666.93,"2012-11-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(235,235,-964.02,"2012-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(967,967,-156.96,"2014-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(784,162,832.43,"2013-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(454,893,96.90,"2012-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(299,876,657.34,"2015-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(825,825,606.52,"2015-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(269,969,523.92,"2013-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(594,272,-394.06,"2013-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,846,-838.24,"2013-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(474,474,3.76,"2015-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(870,870,-767.35,"2013-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(377,996,364.53,"2014-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(283,371,-149.97,"2012-06-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(903,578,643.09,"2015-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(186,934,-131.63,"2015-11-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(786,533,-963.70,"2012-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(952,592,-399.42,"2013-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(648,431,-916.70,"2013-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(816,602,600.25,"2015-04-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(943,943,238.58,"2014-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(23,624,-894.65,"2012-11-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(749,749,-357.84,"2016-03-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(97,97,-47.48,"2015-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(95,691,-264.66,"2012-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(751,751,339.97,"2012-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,479,-486.85,"2012-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(109,626,648.73,"2014-06-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(409,20,681.94,"2014-12-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(982,703,343.52,"2014-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(139,139,-784.74,"2015-02-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(861,404,801.01,"2016-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(216,317,920.59,"2016-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(120,270,607.30,"2016-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(851,21,-801.78,"2015-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(907,622,16.63,"2012-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(614,614,-626.08,"2014-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(223,398,-865.70,"2015-10-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(994,526,-481.93,"2015-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(20,393,-784.91,"2015-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(797,544,-326.52,"2016-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(612,518,884.52,"2014-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(595,107,308.29,"2012-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(734,734,-675.32,"2014-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(623,604,725.05,"2016-11-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(173,596,-149.91,"2014-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(118,118,-946.19,"2013-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(52,685,-375.34,"2013-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(313,539,-865.97,"2013-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(988,783,155.32,"2015-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(376,710,108.24,"2013-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(931,945,363.05,"2016-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,479,202.16,"2016-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(437,159,-105.26,"2015-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(684,549,-258.76,"2015-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(718,837,841.57,"2015-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(565,553,-38.49,"2012-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(697,194,680.87,"2012-08-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(970,881,-87.76,"2016-10-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(245,615,996.31,"2013-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(421,94,-76.69,"2014-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(878,878,478.82,"2016-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(516,516,925.32,"2015-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(716,20,-234.42,"2015-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(316,237,-674.29,"2012-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(947,788,-309.70,"2013-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(69,761,-596.05,"2015-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(49,49,312.84,"2012-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(292,498,612.62,"2012-05-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(197,719,-435.47,"2016-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(222,306,-837.46,"2014-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(495,572,541.57,"2016-07-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(513,850,28.10,"2012-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(878,40,961.09,"2014-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(388,388,948.19,"2014-10-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(920,481,783.74,"2012-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(650,650,742.18,"2015-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(409,764,-432.59,"2015-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(741,747,752.94,"2012-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(919,552,-542.33,"2013-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(350,350,-434.93,"2016-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(656,974,102.94,"2013-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(297,352,244.19,"2014-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(968,284,-256.58,"2014-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(865,865,-775.67,"2013-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(978,838,-882.38,"2015-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(780,780,46.57,"2014-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(374,468,-994.49,"2014-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(840,326,869.90,"2016-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(372,372,981.89,"2016-01-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(334,223,-291.06,"2012-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(162,332,-928.08,"2014-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(971,177,568.42,"2012-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(862,862,276.25,"2016-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(780,835,940.44,"2015-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,398,-766.83,"2015-01-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(498,223,486.94,"2012-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(137,137,478.30,"2012-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(414,414,990.41,"2016-05-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(78,912,-946.30,"2014-04-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(682,682,724.34,"2015-10-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(700,700,924.20,"2016-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(747,952,-834.55,"2015-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(955,955,277.86,"2012-07-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(667,661,242.00,"2016-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(250,660,-700.44,"2016-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(273,273,890.07,"2014-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(776,432,317.15,"2013-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(512,11,192.34,"2012-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(429,984,-94.63,"2014-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(71,71,956.93,"2014-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(614,614,-617.63,"2013-08-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(569,542,49.89,"2013-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(693,693,-946.74,"2014-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(524,654,868.60,"2012-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(382,382,694.67,"2012-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(374,924,-265.02,"2013-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(935,343,-176.05,"2012-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(390,390,943.25,"2012-08-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(550,758,-345.57,"2016-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(126,738,-801.66,"2012-08-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(226,48,-65.73,"2012-02-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(762,608,-483.23,"2014-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(475,527,346.95,"2016-10-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(85,436,-286.49,"2015-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(11,11,695.33,"2012-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(296,31,-355.87,"2016-04-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(521,842,672.44,"2015-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(986,986,-753.95,"2012-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(504,369,967.58,"2014-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(870,128,-191.89,"2012-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(677,512,750.49,"2014-06-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(995,995,-552.80,"2013-12-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(801,124,950.37,"2013-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(631,841,715.85,"2012-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(492,124,679.95,"2015-01-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(65,323,437.03,"2012-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(168,168,12.14,"2012-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(259,826,242.43,"2016-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(855,372,-383.02,"2016-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(988,372,105.66,"2016-10-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(9,158,-148.23,"2013-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(591,302,-88.79,"2016-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(636,735,-310.57,"2015-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(751,751,-772.65,"2013-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(933,677,-565.48,"2013-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(994,314,412.93,"2013-11-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(763,812,-250.92,"2015-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(342,292,496.31,"2013-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(343,343,-282.53,"2015-08-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(579,437,-827.60,"2014-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(735,735,-642.56,"2013-03-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(915,278,1.26,"2015-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(240,422,-588.31,"2013-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(187,228,-901.57,"2013-03-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(545,545,-431.48,"2015-07-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(737,866,99.62,"2013-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(993,607,432.38,"2016-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(848,252,452.86,"2013-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(108,108,903.26,"2016-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(818,901,359.71,"2012-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(689,744,-6.59,"2016-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(949,562,-52.20,"2014-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(741,525,-166.15,"2014-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(104,983,758.74,"2016-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(894,303,307.66,"2014-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(779,302,774.09,"2012-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(649,474,243.25,"2016-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(72,633,-407.37,"2012-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(763,862,105.47,"2014-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(46,255,-104.13,"2016-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(490,466,771.07,"2014-11-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(572,572,304.49,"2016-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(750,591,224.50,"2014-07-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(372,167,124.35,"2015-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(751,561,-302.58,"2013-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(18,779,-866.96,"2013-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(862,707,198.77,"2014-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(442,442,-961.26,"2012-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(693,693,-951.13,"2014-11-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(510,460,896.09,"2014-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(371,181,-65.20,"2012-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(829,723,100.38,"2013-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(382,448,580.42,"2015-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(708,138,-782.20,"2014-04-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(456,674,-184.27,"2015-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(588,665,104.10,"2016-12-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(69,525,-507.13,"2014-02-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(362,757,841.97,"2013-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(363,385,-375.20,"2014-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(588,588,863.86,"2012-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(375,375,154.47,"2016-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(309,920,-175.06,"2012-04-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,753,-122.60,"2016-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(416,828,-68.87,"2016-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(681,126,839.84,"2012-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(558,558,-833.55,"2012-07-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(636,434,-532.65,"2015-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(410,902,-971.94,"2013-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(420,627,-565.48,"2016-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(499,499,788.49,"2014-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(722,722,400.34,"2015-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(460,681,-17.89,"2016-01-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(662,662,903.09,"2012-04-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(896,896,-507.54,"2015-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(663,663,-607.85,"2015-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(643,119,-575.09,"2016-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(531,947,997.78,"2013-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(664,206,575.12,"2012-04-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(829,829,604.88,"2012-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(515,526,324.04,"2014-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(232,232,-117.27,"2014-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(78,37,883.55,"2013-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(348,76,-171.89,"2015-05-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(944,494,-249.94,"2012-06-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(407,189,635.11,"2012-06-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(811,341,924.74,"2014-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(133,179,592.73,"2013-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(207,207,-22.31,"2016-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(478,478,-315.51,"2015-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(314,314,173.21,"2013-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(459,346,606.03,"2015-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(622,491,570.23,"2014-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(285,285,555.46,"2012-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(72,72,-594.40,"2015-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(150,8,-749.85,"2016-05-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(696,931,-504.82,"2016-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(830,608,396.55,"2016-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(627,627,-810.59,"2012-04-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(814,665,-544.96,"2015-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(330,330,513.76,"2015-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(517,517,-89.23,"2013-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(812,812,616.62,"2013-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(654,899,286.69,"2014-05-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(568,336,878.87,"2016-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(845,301,829.64,"2015-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(675,573,-939.26,"2014-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(235,403,151.83,"2015-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(481,854,-832.21,"2015-09-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(309,390,24.11,"2014-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(667,803,754.02,"2015-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(253,520,74.58,"2012-07-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(199,94,264.23,"2013-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(894,875,-884.09,"2016-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(673,673,570.12,"2016-01-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(378,664,177.70,"2013-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(656,525,-236.96,"2014-10-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(614,627,-299.22,"2015-07-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(732,732,388.29,"2012-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(74,297,-434.46,"2012-10-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(750,750,739.78,"2014-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(306,265,-235.01,"2013-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(137,398,63.45,"2012-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(344,210,-435.99,"2013-10-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(395,456,-918.78,"2012-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(952,438,356.47,"2015-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(669,135,884.57,"2015-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(283,283,-680.73,"2015-12-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(376,851,-452.16,"2013-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(400,894,-8.68,"2013-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(780,190,415.87,"2013-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(284,415,914.79,"2012-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(291,291,809.41,"2014-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(902,902,-676.35,"2012-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(847,847,402.43,"2014-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(340,513,-29.48,"2012-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(941,777,966.51,"2013-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(701,681,537.74,"2016-12-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(88,211,-473.45,"2012-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(560,560,-930.73,"2016-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(565,890,747.58,"2012-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(853,435,-297.15,"2015-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(810,681,-731.85,"2012-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(785,785,-462.64,"2012-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(574,912,526.16,"2013-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(843,102,348.20,"2013-03-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(591,991,-847.84,"2013-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(928,601,945.25,"2015-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(884,553,-326.31,"2016-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(369,144,487.51,"2013-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(763,667,-839.29,"2012-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(205,49,-983.10,"2016-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(740,930,-395.70,"2016-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(451,818,611.53,"2013-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(386,250,585.81,"2012-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(46,557,-902.44,"2014-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(809,809,266.14,"2015-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(498,498,-77.21,"2013-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(831,831,375.47,"2013-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(990,990,760.11,"2014-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(532,532,-286.62,"2013-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(578,578,-293.76,"2016-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(533,801,-532.88,"2012-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(375,375,441.10,"2014-01-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(538,169,417.46,"2016-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(457,119,-244.57,"2012-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(172,154,752.82,"2014-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(745,745,256.67,"2015-05-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(189,713,-844.94,"2014-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(529,497,-839.70,"2013-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(632,350,689.83,"2014-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(285,285,82.97,"2012-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(499,499,-282.02,"2015-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(169,603,896.95,"2013-12-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(285,639,-537.56,"2015-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(442,887,-551.06,"2012-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(823,750,-12.15,"2012-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(559,833,915.49,"2016-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(365,530,-456.66,"2016-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(976,976,771.88,"2016-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(822,240,349.33,"2016-01-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(103,818,-600.42,"2012-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(886,122,919.80,"2013-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(38,38,-16.95,"2012-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(838,838,441.95,"2016-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(36,289,-239.21,"2013-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(555,555,189.20,"2013-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(569,569,-139.01,"2015-08-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(921,921,506.67,"2015-03-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(886,731,-26.39,"2016-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(139,877,689.06,"2012-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(839,839,135.71,"2016-01-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(449,17,133.37,"2013-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(441,368,-19.89,"2015-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(897,893,-589.17,"2012-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(270,743,-526.26,"2012-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(977,977,11.36,"2012-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(933,865,-305.61,"2015-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(668,266,320.53,"2013-12-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(456,693,324.75,"2012-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(616,822,259.63,"2015-02-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(720,583,708.28,"2016-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(534,670,-437.60,"2015-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(395,663,682.53,"2013-11-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(810,810,-63.07,"2016-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(438,437,123.88,"2013-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(567,567,-176.01,"2014-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(39,619,170.71,"2013-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(874,938,511.40,"2013-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(121,755,-221.57,"2016-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(956,956,-533.42,"2016-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(475,701,103.20,"2012-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(204,204,-592.55,"2015-01-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(766,766,692.52,"2014-10-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(889,467,965.71,"2016-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(180,104,-129.69,"2016-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(499,371,-634.88,"2013-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(738,305,-257.15,"2013-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(182,861,-673.24,"2016-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(723,596,-782.99,"2015-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(397,891,-91.01,"2012-03-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(352,337,30.26,"2012-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(233,964,-187.24,"2013-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(749,593,-955.12,"2014-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(285,281,-378.94,"2015-10-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(794,661,-558.93,"2012-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(542,640,-725.58,"2012-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(619,619,-821.63,"2015-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(582,582,-557.47,"2016-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(450,450,-876.07,"2012-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(946,886,209.73,"2016-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(991,155,-413.29,"2013-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(964,258,-941.15,"2012-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(947,947,293.18,"2012-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(570,23,595.03,"2015-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(428,428,862.43,"2015-05-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(688,329,883.48,"2013-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(804,804,678.17,"2016-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,824,509.08,"2012-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(16,744,503.83,"2016-05-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(260,585,19.11,"2015-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(413,45,294.46,"2014-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(604,604,563.51,"2013-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(872,872,871.81,"2015-05-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(459,787,550.41,"2012-06-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(576,235,853.44,"2012-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(47,47,115.02,"2015-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(181,181,-259.28,"2015-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(808,961,499.88,"2012-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(260,260,-637.65,"2012-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(564,146,628.05,"2012-10-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(776,776,251.07,"2014-07-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(612,920,718.73,"2013-01-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(250,927,57.12,"2013-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(471,471,244.08,"2013-07-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(641,56,-327.94,"2013-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(573,837,291.95,"2014-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(124,124,563.58,"2015-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(446,435,712.67,"2016-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(198,469,-799.98,"2016-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(453,470,332.62,"2012-05-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(23,647,368.16,"2015-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(992,992,963.06,"2015-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(709,290,-876.60,"2012-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(548,91,30.80,"2015-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(939,344,739.49,"2015-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(286,199,607.83,"2013-02-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(462,462,-199.75,"2015-01-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(832,960,-922.39,"2015-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(521,13,190.61,"2014-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(598,440,403.84,"2016-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(454,379,411.87,"2012-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(136,227,448.96,"2012-09-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(115,115,247.92,"2014-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(806,282,758.92,"2016-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(255,407,-40.21,"2013-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(536,87,-320.09,"2013-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(414,291,720.45,"2015-08-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(72,158,-829.96,"2015-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(659,534,-564.16,"2012-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(712,157,883.03,"2012-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(438,438,-593.75,"2014-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(368,815,969.17,"2016-03-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,753,649.40,"2015-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(387,250,-84.55,"2013-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(62,62,-906.04,"2015-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(533,750,706.34,"2016-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(127,127,-588.00,"2015-02-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(949,949,729.35,"2014-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(197,850,-169.59,"2012-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(773,773,541.85,"2014-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(728,728,-96.14,"2014-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(464,523,115.70,"2014-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(380,380,-103.99,"2016-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(223,884,298.14,"2013-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(757,757,-127.14,"2013-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(446,69,176.69,"2014-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(486,794,205.99,"2012-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(538,306,-249.77,"2012-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(238,782,-21.51,"2015-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(434,434,-810.32,"2012-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(788,788,-442.57,"2015-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(974,193,740.98,"2013-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(989,314,-614.32,"2015-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(825,825,280.31,"2016-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(47,321,-305.63,"2013-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(834,77,315.63,"2016-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(436,517,-398.25,"2015-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(560,574,553.61,"2015-01-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(811,811,-785.46,"2012-10-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(184,380,626.93,"2016-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(992,924,781.34,"2015-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(788,383,116.15,"2012-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(313,725,632.10,"2014-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(413,413,-599.16,"2013-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(626,626,-669.56,"2014-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(580,716,854.90,"2015-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(477,477,-191.72,"2012-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(608,378,8.54,"2016-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(593,593,-323.39,"2015-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(161,122,121.21,"2016-01-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(515,399,-769.94,"2014-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(222,699,888.26,"2016-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(395,536,-445.72,"2015-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(629,937,676.57,"2013-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(384,869,-581.75,"2016-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(243,615,-272.95,"2014-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(150,126,-325.40,"2015-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(464,172,-87.16,"2013-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(664,664,-547.50,"2013-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(701,46,666.43,"2015-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(269,269,-788.21,"2012-03-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(367,367,-101.52,"2016-08-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(133,133,765.57,"2012-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(220,220,643.77,"2014-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(706,695,-798.70,"2013-05-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(294,294,-12.11,"2015-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(472,528,119.64,"2012-01-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(859,248,807.87,"2014-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(488,879,-972.38,"2014-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(602,882,821.68,"2013-02-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(15,670,505.80,"2012-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(9,707,529.65,"2014-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(141,141,739.17,"2015-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(139,348,455.67,"2014-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(394,394,578.42,"2013-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(676,709,108.86,"2015-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(728,686,-598.69,"2012-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(916,916,-997.49,"2015-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(406,812,770.94,"2016-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(99,586,728.69,"2014-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(174,377,-421.95,"2016-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(290,556,454.11,"2016-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(836,152,-344.83,"2013-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(698,207,-731.71,"2015-01-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(841,642,571.64,"2013-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(615,722,885.73,"2016-04-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(113,944,459.09,"2014-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(925,427,538.39,"2012-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(82,427,-987.11,"2012-07-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(960,320,541.18,"2013-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(408,11,57.11,"2012-06-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(358,8,27.45,"2013-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(40,40,650.34,"2014-08-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(620,620,32.90,"2014-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(39,822,191.16,"2013-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(832,607,-966.00,"2013-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(926,491,766.11,"2012-03-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(984,984,-727.41,"2012-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(832,251,-483.76,"2012-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(91,91,-617.80,"2015-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(957,957,473.59,"2012-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(834,834,846.65,"2014-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(938,938,94.45,"2015-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(573,528,-509.88,"2013-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(776,868,-274.74,"2012-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(278,278,-541.01,"2014-05-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(493,493,559.28,"2012-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(227,799,119.09,"2015-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(441,972,916.19,"2014-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(166,166,985.86,"2015-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(341,603,716.91,"2012-10-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(854,833,-964.27,"2015-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(963,963,7.01,"2012-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(701,844,342.82,"2013-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(732,732,-877.16,"2015-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(561,797,-837.93,"2015-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(227,469,258.46,"2012-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(950,721,411.73,"2012-04-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(682,869,295.43,"2012-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(139,246,448.29,"2014-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(796,796,962.58,"2015-05-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(588,588,961.01,"2012-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(322,231,-711.61,"2015-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(466,466,-714.26,"2012-10-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(289,313,496.14,"2016-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(73,73,452.47,"2016-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(380,917,-356.20,"2013-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(515,920,-861.20,"2012-06-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(469,469,-273.03,"2015-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(980,670,378.12,"2014-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(475,475,-803.27,"2016-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(677,774,-802.77,"2015-10-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(71,598,762.99,"2013-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(640,884,-35.87,"2016-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(755,485,792.98,"2014-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(254,254,-0.76,"2013-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(227,227,346.22,"2012-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(436,542,333.24,"2015-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(56,56,-681.83,"2015-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(827,827,-359.65,"2012-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(101,101,-104.31,"2014-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(340,762,216.71,"2013-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(612,612,787.51,"2014-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(572,631,-957.06,"2016-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(922,296,702.93,"2014-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(214,853,-728.77,"2013-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(858,512,304.76,"2012-11-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(758,758,397.80,"2013-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(991,227,234.62,"2015-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(408,426,838.55,"2016-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(683,683,-553.08,"2015-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(155,829,-377.58,"2013-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(56,56,634.09,"2015-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(59,144,-355.88,"2014-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(621,621,-189.92,"2013-06-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(924,924,-355.84,"2016-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(474,809,-285.83,"2014-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(515,947,-60.97,"2016-10-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(928,721,-157.45,"2013-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(232,294,598.04,"2015-12-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(884,913,508.94,"2012-08-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(280,44,-438.63,"2014-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(971,971,561.04,"2016-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(322,322,956.66,"2013-04-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(638,638,895.63,"2015-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(406,290,-135.84,"2014-03-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(862,217,210.33,"2015-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(726,726,180.27,"2014-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(911,257,268.80,"2012-01-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(86,900,830.93,"2013-01-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(462,281,58.40,"2012-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(292,32,356.64,"2012-07-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(813,602,153.50,"2016-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(453,465,-21.48,"2012-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(307,307,257.92,"2015-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(970,628,-587.40,"2016-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(230,456,261.50,"2012-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(599,394,199.90,"2013-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(805,224,-924.26,"2015-05-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(108,911,-963.51,"2014-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(592,592,-246.29,"2016-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(357,289,-496.14,"2014-08-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(859,279,-281.83,"2014-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(144,767,809.52,"2012-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(547,547,-582.08,"2015-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(329,831,601.97,"2013-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(170,962,159.32,"2012-08-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(372,372,199.97,"2012-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(910,799,-683.95,"2015-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(127,291,721.02,"2012-01-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(681,681,65.86,"2012-12-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(622,819,381.00,"2016-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(569,684,196.35,"2016-06-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(857,857,-401.47,"2013-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(346,658,98.86,"2013-05-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(99,677,-176.51,"2014-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(948,615,-627.22,"2013-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(725,859,679.22,"2016-04-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(972,775,-425.39,"2012-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(810,47,-387.23,"2012-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(653,967,739.10,"2016-01-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(535,535,-741.05,"2014-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(815,815,-788.01,"2015-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(910,932,-614.36,"2014-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(196,457,-879.24,"2016-10-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(295,942,-39.10,"2015-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(443,443,549.22,"2016-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(64,456,-482.36,"2014-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(575,431,-185.32,"2012-10-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(531,657,380.85,"2012-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(362,362,-578.09,"2015-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(363,363,298.09,"2012-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(362,803,-5.24,"2013-10-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(522,533,997.47,"2016-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(750,888,-936.28,"2014-01-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(222,222,-418.36,"2015-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(963,964,-267.74,"2012-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(160,605,441.86,"2013-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(604,604,-463.02,"2014-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(540,540,371.84,"2012-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(883,46,789.61,"2013-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(141,65,-764.29,"2013-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(97,97,317.03,"2014-01-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(998,998,-664.93,"2013-08-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(406,406,686.09,"2014-09-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(568,825,-385.81,"2014-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(362,362,777.56,"2013-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(913,913,579.83,"2016-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(844,844,563.14,"2016-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(604,513,564.39,"2014-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(272,879,-883.72,"2015-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(619,637,-909.82,"2016-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(554,492,566.37,"2014-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(843,539,-278.23,"2013-06-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(392,943,480.46,"2013-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(287,287,734.39,"2014-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(478,910,429.02,"2016-05-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(965,965,-618.44,"2012-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(161,161,671.91,"2015-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(411,723,-120.48,"2015-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(193,447,-88.25,"2013-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(454,173,-856.90,"2012-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(974,598,-152.02,"2014-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(389,389,926.24,"2012-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(795,546,924.12,"2012-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(872,872,471.34,"2012-07-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(39,568,-996.01,"2016-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(22,22,-178.33,"2012-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(154,154,-103.74,"2012-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(923,966,-50.02,"2016-01-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(203,537,-293.04,"2014-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(587,347,775.01,"2012-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(291,291,-945.47,"2014-03-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(7,7,-231.89,"2015-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(827,942,913.94,"2012-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(881,144,916.22,"2013-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(364,878,-717.95,"2014-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(745,745,342.64,"2016-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(588,474,-929.53,"2013-04-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(581,581,-22.25,"2014-07-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(942,627,-541.68,"2014-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(881,535,598.88,"2016-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(355,355,758.60,"2012-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(345,345,-801.12,"2016-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(6,6,586.48,"2016-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(242,446,-764.14,"2013-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(97,57,532.04,"2014-10-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(973,136,258.15,"2013-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(350,350,-306.74,"2013-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(666,723,-808.62,"2016-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(454,506,-205.17,"2016-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(48,990,657.63,"2013-10-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(69,487,607.94,"2012-03-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(442,442,287.69,"2012-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(665,991,753.59,"2016-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(691,782,412.64,"2015-01-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(472,790,-350.65,"2014-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(38,861,645.06,"2016-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(929,440,-518.70,"2015-09-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(876,760,-741.42,"2016-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(265,265,799.24,"2016-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(485,376,-820.73,"2013-06-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(825,630,649.01,"2015-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(210,670,557.78,"2016-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(740,311,-680.01,"2014-08-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(130,141,-614.36,"2012-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(5,5,752.71,"2013-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(983,983,326.00,"2012-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(629,629,-972.86,"2016-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(126,126,-205.95,"2016-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(614,775,399.83,"2015-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(66,66,399.24,"2016-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(72,72,-985.40,"2012-12-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(509,156,411.20,"2012-10-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(790,606,-718.34,"2016-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(342,261,39.93,"2012-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(296,33,-235.94,"2014-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(555,32,244.68,"2014-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(431,764,-236.23,"2014-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(365,365,-960.36,"2015-03-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(545,3,-569.01,"2015-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(50,377,724.55,"2014-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(72,845,-790.28,"2012-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(817,816,794.81,"2012-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(900,463,-882.22,"2012-08-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(541,541,-225.68,"2012-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(338,953,759.13,"2016-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(339,678,-767.12,"2013-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(456,456,-249.43,"2016-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(198,840,413.01,"2015-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(217,217,-221.75,"2013-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(227,227,-56.22,"2015-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(518,47,914.13,"2016-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(29,123,698.93,"2012-08-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(820,929,633.78,"2014-03-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(833,833,785.83,"2016-08-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(747,201,-438.48,"2013-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(815,723,698.47,"2013-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(67,698,872.56,"2015-09-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(420,420,-237.02,"2014-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(944,683,-671.87,"2015-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(438,438,-415.29,"2015-12-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(818,894,132.94,"2013-10-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(614,614,915.97,"2016-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(596,675,-210.81,"2015-03-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(646,646,570.87,"2013-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(311,262,764.40,"2013-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(830,225,589.61,"2013-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(496,318,-521.15,"2013-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(402,399,964.82,"2012-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(716,80,32.89,"2015-03-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(572,572,429.48,"2015-05-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(258,326,280.20,"2016-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(150,150,-733.10,"2012-01-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(837,868,-283.19,"2014-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,360,26.62,"2013-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(500,500,990.62,"2014-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(243,243,-788.52,"2012-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(288,717,-872.85,"2016-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(587,587,391.82,"2012-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(635,314,788.40,"2012-01-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(517,517,416.74,"2016-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(509,509,-466.92,"2015-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(119,140,609.41,"2013-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(673,66,201.53,"2015-02-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(83,675,534.19,"2012-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(707,859,720.67,"2012-12-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(20,719,393.96,"2014-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(574,858,190.22,"2012-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(412,242,455.72,"2014-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(590,932,493.72,"2014-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(361,596,-729.09,"2014-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(382,382,677.49,"2016-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(484,52,-432.27,"2015-01-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(346,324,11.02,"2012-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(796,791,529.19,"2012-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(856,30,-245.58,"2013-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(58,793,412.61,"2012-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(204,58,276.96,"2012-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(580,875,893.00,"2014-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(79,867,8.36,"2016-10-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(447,232,480.43,"2015-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(353,723,-774.03,"2014-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(640,640,225.22,"2013-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(848,848,203.88,"2014-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(309,309,811.73,"2015-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(903,903,774.48,"2012-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(381,381,99.00,"2016-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(676,876,757.69,"2013-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(761,9,-433.49,"2013-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,651,-544.84,"2013-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(757,667,228.61,"2015-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(457,457,-449.52,"2013-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(118,118,231.96,"2014-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(390,407,918.49,"2013-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(852,122,268.73,"2016-10-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(805,805,-38.62,"2016-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(309,904,943.53,"2016-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(738,194,-545.29,"2014-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(275,591,429.36,"2012-03-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(796,796,424.84,"2016-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(874,166,23.02,"2016-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(261,910,413.74,"2013-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(454,180,-203.81,"2016-01-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(62,283,456.40,"2015-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(320,320,-140.94,"2012-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(313,313,138.22,"2016-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(338,632,878.25,"2012-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(157,651,-531.08,"2016-05-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(403,403,12.42,"2014-07-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(983,706,449.75,"2012-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(114,732,-630.03,"2014-10-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(172,308,951.45,"2015-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(151,833,480.40,"2015-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(936,973,-227.43,"2014-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(217,169,953.12,"2016-07-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(622,91,-109.95,"2015-05-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(998,437,151.47,"2012-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(797,797,-280.88,"2013-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(815,488,885.24,"2012-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(505,338,-58.93,"2015-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(43,951,355.12,"2013-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(570,570,-664.96,"2013-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(172,172,778.54,"2015-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(733,52,-30.96,"2012-02-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(906,981,-2.25,"2014-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(392,392,-545.16,"2015-04-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(141,826,-833.76,"2014-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(409,733,-247.29,"2012-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(27,680,-768.92,"2013-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(824,824,553.32,"2012-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(17,276,545.41,"2013-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(34,152,176.63,"2016-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(103,103,271.23,"2015-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(493,426,-256.96,"2012-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(234,247,-125.07,"2016-03-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(87,846,-960.68,"2013-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(707,707,904.03,"2016-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(505,681,497.90,"2012-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(645,645,953.67,"2014-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(619,619,270.34,"2015-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(82,82,902.29,"2012-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(653,653,291.74,"2013-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(903,903,24.22,"2013-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(378,378,674.09,"2012-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(362,522,-178.89,"2016-06-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(39,39,875.62,"2016-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(188,561,353.73,"2014-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(375,375,-781.43,"2013-03-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(1000,16,-598.92,"2016-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(103,103,163.86,"2016-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(924,973,-555.07,"2013-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(807,807,-84.34,"2015-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(891,30,-982.17,"2016-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(762,591,882.07,"2012-02-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(817,171,432.81,"2015-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(678,678,-163.60,"2015-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(337,580,456.32,"2013-05-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(525,872,-328.09,"2012-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(388,146,-528.19,"2012-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(133,491,475.79,"2016-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(964,964,276.61,"2016-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(468,468,739.39,"2013-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(556,556,710.31,"2012-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(987,405,-701.17,"2016-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(124,141,948.03,"2016-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(792,965,-698.33,"2012-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(208,101,-560.23,"2014-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(550,550,-994.04,"2012-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(662,512,-420.54,"2015-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(736,736,50.19,"2015-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(707,250,-29.01,"2016-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(405,405,357.20,"2015-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(620,467,-538.02,"2014-12-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(823,345,-293.76,"2014-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(881,881,590.83,"2015-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(380,491,-899.99,"2012-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(530,740,-973.14,"2014-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(311,311,-370.85,"2012-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(560,560,98.10,"2014-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(169,935,732.94,"2016-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(212,468,606.75,"2016-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(726,302,-910.92,"2012-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(797,441,476.08,"2016-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(595,746,561.06,"2012-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(205,172,-796.67,"2013-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(130,130,-629.42,"2016-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(717,757,983.46,"2014-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(247,65,94.92,"2015-06-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(97,306,917.89,"2013-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(441,296,592.49,"2012-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(765,3,501.00,"2015-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(307,307,-942.54,"2016-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(169,169,-873.91,"2014-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(999,500,251.07,"2016-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(556,706,443.10,"2016-04-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(60,790,547.47,"2013-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(548,357,-932.52,"2014-01-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(270,441,-935.58,"2015-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(7,788,-92.84,"2013-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(558,396,679.15,"2012-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(696,226,149.21,"2014-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(748,748,-134.93,"2016-02-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(72,72,-640.04,"2014-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(391,391,423.53,"2014-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(188,688,401.12,"2013-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(936,446,-131.94,"2014-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(536,536,-899.99,"2014-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(826,805,986.87,"2013-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(422,686,128.63,"2014-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(478,295,148.93,"2013-07-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(564,564,134.01,"2012-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(473,220,-997.12,"2013-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(447,447,155.99,"2012-01-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(68,593,119.32,"2015-05-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(973,973,-821.44,"2013-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(222,382,-366.16,"2013-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(278,950,157.71,"2013-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(16,16,-363.54,"2014-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(917,362,-195.75,"2014-01-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(938,969,906.43,"2013-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(783,783,-142.73,"2012-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(973,968,-525.30,"2015-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(422,746,901.21,"2012-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(610,610,-581.08,"2013-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(376,376,-259.64,"2016-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(642,724,571.44,"2012-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(995,995,918.54,"2013-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(990,236,604.10,"2013-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(308,308,554.01,"2012-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(616,208,903.31,"2013-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(639,86,-510.41,"2015-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(384,108,-30.35,"2015-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(976,929,416.95,"2012-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(715,588,150.66,"2013-05-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(216,940,-392.80,"2016-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(888,12,-141.54,"2012-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(764,850,-96.55,"2013-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(701,301,578.36,"2013-07-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(779,272,-854.33,"2016-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(804,804,-633.08,"2015-06-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(674,333,-677.93,"2016-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(536,536,-5.30,"2012-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(36,824,35.23,"2012-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(500,413,-234.32,"2015-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(574,399,-455.96,"2015-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(933,636,64.43,"2012-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(61,61,-101.92,"2013-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(241,975,-578.87,"2014-06-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(767,344,938.25,"2015-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(760,472,171.78,"2014-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(173,173,46.59,"2016-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(472,802,-370.91,"2012-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(730,730,-270.98,"2014-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(83,83,668.31,"2012-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(686,686,-573.34,"2012-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(660,314,691.23,"2016-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(368,368,-9.22,"2016-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(765,118,754.53,"2016-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(476,476,-736.64,"2013-12-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(600,600,707.52,"2013-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(96,656,800.84,"2014-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(468,25,-766.38,"2012-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(918,561,839.45,"2016-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(715,576,-857.73,"2016-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(726,203,-174.78,"2013-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(394,397,-84.03,"2012-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(389,389,-168.97,"2012-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(905,905,519.68,"2015-07-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(900,811,497.10,"2014-01-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(974,170,-739.04,"2016-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(564,564,426.65,"2015-10-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(198,198,99.52,"2016-08-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(450,515,-70.54,"2012-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(164,30,-101.71,"2016-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(705,705,860.24,"2015-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(896,983,-904.44,"2016-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(724,724,212.13,"2012-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(732,732,272.09,"2016-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(730,300,-702.49,"2014-01-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(519,519,312.14,"2015-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(467,467,379.36,"2012-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(499,618,982.18,"2014-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(895,895,-922.83,"2014-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(601,601,585.43,"2015-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(295,34,844.04,"2013-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(914,842,-833.28,"2014-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(561,641,758.34,"2016-05-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(439,50,-569.91,"2014-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(624,909,-503.42,"2013-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(857,563,-64.15,"2016-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(234,446,-495.00,"2014-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(480,429,-487.28,"2012-01-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(960,642,-19.82,"2015-08-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(50,554,-827.69,"2015-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(268,268,-884.14,"2012-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(812,835,-706.27,"2014-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(110,459,-268.20,"2012-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(954,135,241.47,"2012-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(233,942,-337.61,"2015-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(243,243,-867.30,"2016-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(607,137,-493.13,"2015-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(670,494,164.03,"2015-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(241,836,927.83,"2014-01-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(137,835,-543.05,"2015-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(402,402,176.64,"2013-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(707,397,620.74,"2014-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(117,23,238.56,"2012-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(289,289,-278.86,"2015-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(455,455,-179.13,"2012-07-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(984,984,-459.76,"2014-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(437,965,947.22,"2012-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(791,791,-163.24,"2013-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(406,347,-988.90,"2013-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(836,118,-332.36,"2012-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(241,498,-845.75,"2016-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(167,398,-20.29,"2016-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(914,404,-394.22,"2013-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(788,107,495.26,"2014-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(34,627,-197.50,"2014-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(656,608,-825.44,"2013-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(50,653,-5.63,"2012-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(951,216,70.54,"2015-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(899,500,547.19,"2013-05-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(272,485,-767.89,"2015-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(742,642,-314.53,"2015-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(380,52,-988.72,"2014-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,651,328.16,"2013-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(470,87,35.46,"2015-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(523,944,873.45,"2013-01-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(807,807,126.81,"2013-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(7,77,84.18,"2014-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(32,957,500.26,"2014-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(798,974,431.88,"2014-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(684,672,482.08,"2015-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(412,769,341.85,"2015-10-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(439,439,60.12,"2012-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(236,655,-451.18,"2016-02-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(617,617,-434.38,"2016-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(304,517,978.63,"2016-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(987,987,-897.50,"2015-06-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(589,589,-280.28,"2013-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(545,519,745.93,"2016-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(985,985,892.86,"2016-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(496,109,33.74,"2016-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(434,357,729.62,"2014-03-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(251,513,-953.84,"2012-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(796,618,424.70,"2015-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(504,504,903.03,"2013-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(10,10,305.23,"2014-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(422,127,-308.39,"2014-10-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(581,372,-319.23,"2012-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(96,96,451.77,"2013-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(957,638,149.33,"2015-08-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(869,485,-63.61,"2015-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(634,615,-90.87,"2016-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(935,690,349.63,"2015-06-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(208,208,10.20,"2014-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(818,576,800.10,"2012-03-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(822,756,-170.33,"2015-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(395,786,-557.14,"2012-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(977,418,-25.39,"2015-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(655,230,-598.80,"2013-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(625,877,-992.24,"2014-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(846,96,-581.83,"2014-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(684,585,-796.13,"2015-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,479,565.46,"2016-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(103,848,-995.65,"2014-06-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(949,949,160.67,"2012-04-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(89,89,171.55,"2015-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(277,897,985.52,"2013-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(767,255,-937.67,"2014-07-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(97,97,538.99,"2015-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(770,825,-425.72,"2013-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(315,664,-126.18,"2012-04-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(632,368,-628.19,"2012-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(588,588,-687.97,"2013-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(558,711,404.60,"2013-08-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(489,785,-470.92,"2014-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(94,94,-841.13,"2016-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(317,317,-274.00,"2015-01-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(276,229,438.35,"2012-01-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(806,806,558.10,"2012-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(633,440,705.65,"2013-05-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(249,249,-81.26,"2012-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(268,801,761.57,"2015-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(592,592,797.83,"2012-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(649,649,949.32,"2013-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(654,395,-628.03,"2012-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(410,373,-876.32,"2016-03-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(117,861,-656.99,"2012-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(519,519,438.28,"2014-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(849,949,-521.79,"2015-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(638,399,-62.31,"2012-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(980,980,-118.19,"2016-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(553,777,759.54,"2012-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(567,491,600.49,"2012-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(501,246,535.41,"2013-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(767,504,169.72,"2015-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(249,324,-879.61,"2016-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(508,508,-461.64,"2013-08-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(312,531,-359.10,"2015-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(562,848,416.01,"2015-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(469,686,662.04,"2014-05-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(545,192,-74.23,"2016-10-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(18,18,-500.69,"2014-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(536,453,-995.93,"2013-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(907,379,-882.74,"2014-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(241,273,850.40,"2012-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(98,531,944.09,"2016-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(595,595,738.53,"2015-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(9,980,435.59,"2013-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(988,688,416.81,"2014-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(537,636,-596.11,"2012-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(67,67,53.32,"2013-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(499,202,-936.02,"2016-08-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(59,503,-586.11,"2015-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(742,742,851.36,"2015-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(55,55,637.89,"2014-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(654,867,-428.35,"2016-12-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(492,492,350.80,"2013-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(605,460,475.97,"2013-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(84,98,179.36,"2014-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(933,973,-319.39,"2016-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(371,793,-164.97,"2014-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(694,694,-793.22,"2016-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(782,130,-94.06,"2014-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(149,33,-176.63,"2016-01-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(51,622,-454.25,"2014-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(827,827,-411.24,"2012-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(209,509,146.72,"2013-08-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(920,53,786.48,"2013-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(208,208,-117.59,"2016-04-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(154,239,-885.88,"2015-01-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(514,514,-234.38,"2012-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(159,372,-341.66,"2012-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(379,379,615.65,"2015-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(29,499,-924.79,"2012-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(718,611,263.99,"2016-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(681,223,-992.20,"2015-02-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(730,730,462.75,"2012-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(491,491,660.84,"2013-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(824,241,636.52,"2015-10-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(23,23,607.66,"2015-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(383,485,610.58,"2016-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(442,907,217.63,"2012-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(484,985,-467.47,"2016-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(789,46,-190.31,"2012-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(352,659,521.07,"2015-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(373,218,-929.94,"2014-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(783,287,-618.62,"2012-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(277,721,390.32,"2013-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(69,90,-993.41,"2015-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(327,327,-813.88,"2013-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(443,500,687.08,"2016-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(381,381,-509.80,"2014-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(7,7,661.79,"2013-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(908,908,-78.01,"2013-08-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(449,449,-139.11,"2014-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(59,59,524.60,"2012-02-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(349,788,991.60,"2016-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(359,901,-233.26,"2016-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(478,168,217.48,"2013-02-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(12,12,448.23,"2012-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(281,461,918.29,"2013-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(571,645,-252.00,"2013-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(930,15,-514.15,"2016-08-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(435,67,220.01,"2012-12-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(435,399,764.08,"2014-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(277,155,135.02,"2013-10-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(269,273,659.72,"2014-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(478,478,-758.72,"2016-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(764,327,908.61,"2012-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(724,910,-532.01,"2012-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(394,394,892.80,"2014-12-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(498,141,-49.31,"2015-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(279,280,-737.09,"2016-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(930,677,668.64,"2013-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(940,940,660.89,"2016-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(557,554,-512.03,"2016-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(950,950,142.14,"2015-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(153,681,297.50,"2013-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(176,176,723.88,"2014-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(216,59,262.32,"2015-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(970,674,-549.07,"2014-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(194,409,-755.11,"2012-09-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(49,317,-567.75,"2015-03-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(219,219,-75.86,"2016-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(600,600,182.02,"2015-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(422,868,771.89,"2015-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(441,441,947.93,"2016-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(552,474,-22.46,"2013-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(143,78,-440.04,"2012-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(83,309,823.73,"2013-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(610,475,259.91,"2015-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(84,578,336.41,"2012-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(788,977,714.79,"2016-09-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(309,739,638.18,"2016-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(640,640,-377.87,"2012-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(272,272,180.65,"2012-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(455,703,-89.02,"2015-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(44,29,234.78,"2016-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(990,18,-989.85,"2016-03-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(345,345,532.21,"2016-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(514,283,-122.69,"2012-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(803,803,-76.19,"2013-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(632,86,934.20,"2012-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(330,330,-286.93,"2016-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(493,475,-689.73,"2012-02-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(221,727,-436.97,"2016-07-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(622,777,422.13,"2014-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(235,679,550.89,"2016-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(688,20,-875.62,"2015-12-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(409,310,573.11,"2014-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(852,579,-325.23,"2014-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(36,93,789.86,"2016-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(323,196,-813.61,"2015-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(262,262,-154.92,"2016-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(188,655,631.14,"2015-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(354,675,451.93,"2013-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(652,652,-385.95,"2014-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(524,524,-163.02,"2012-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(319,413,393.52,"2015-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(323,806,-358.20,"2012-03-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,398,514.55,"2012-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(931,431,-512.29,"2012-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(843,917,-121.08,"2013-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(254,935,-820.62,"2013-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(557,112,866.78,"2016-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(8,8,4.41,"2014-06-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(750,750,-978.51,"2013-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(880,413,-89.00,"2013-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(806,806,-942.89,"2014-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(4,346,-662.08,"2012-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(90,69,-731.58,"2014-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(916,651,50.66,"2014-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(323,166,-408.28,"2012-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(31,31,-169.03,"2013-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(409,854,-677.47,"2012-02-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(153,455,-817.07,"2013-12-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(597,860,-892.84,"2012-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(881,455,219.92,"2014-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(324,599,506.01,"2015-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(329,598,701.02,"2015-04-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(558,590,-69.43,"2016-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(239,381,-676.49,"2016-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(474,474,701.37,"2016-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(364,96,72.75,"2014-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(827,827,-335.23,"2013-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(372,486,-121.22,"2016-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(563,721,-500.41,"2013-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(234,234,12.64,"2014-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(619,359,-106.07,"2016-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(679,679,361.35,"2014-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(323,308,64.00,"2015-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(576,576,165.33,"2015-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(228,612,-464.82,"2012-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(71,514,982.59,"2015-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(294,294,509.94,"2015-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(913,217,-62.67,"2015-03-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(266,518,294.69,"2013-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(863,863,-621.50,"2015-04-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(269,874,-600.57,"2015-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(684,684,734.64,"2012-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(45,326,-176.77,"2015-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(792,792,-335.34,"2016-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(756,756,980.28,"2015-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(160,368,482.38,"2013-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(97,97,-422.00,"2014-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(838,361,378.71,"2012-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(883,700,139.50,"2014-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(901,901,708.08,"2016-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(750,494,175.30,"2013-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(547,742,854.98,"2014-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(737,737,-335.64,"2014-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(878,878,-130.40,"2016-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(115,926,644.55,"2012-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(987,208,112.71,"2016-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(815,815,608.77,"2014-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(49,49,575.08,"2014-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(289,46,-974.56,"2014-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(884,449,601.44,"2012-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(58,58,999.23,"2015-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(650,201,-217.21,"2015-10-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(868,868,-295.02,"2014-05-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(139,681,-339.65,"2012-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(203,104,445.62,"2016-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(534,762,359.67,"2012-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(76,888,-14.46,"2016-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(358,29,-845.19,"2012-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(222,635,635.39,"2013-01-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(312,318,891.74,"2012-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(97,771,-287.40,"2016-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(880,302,-849.56,"2014-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(513,849,-200.31,"2016-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(174,990,621.42,"2012-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(618,706,35.82,"2016-05-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(699,261,-794.21,"2013-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(342,965,-130.32,"2016-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,739,386.77,"2014-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(980,980,50.56,"2012-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(333,339,336.47,"2014-12-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(58,285,211.29,"2015-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(61,378,-135.45,"2014-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(895,233,327.98,"2015-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(194,574,626.71,"2015-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(211,707,420.15,"2015-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(809,809,405.32,"2015-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(746,233,-481.71,"2014-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(507,602,269.74,"2012-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(303,303,-510.64,"2012-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(747,504,-259.62,"2016-02-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(256,256,-881.85,"2012-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(340,340,149.55,"2012-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(990,684,-296.02,"2013-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(656,656,285.53,"2016-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(246,432,-703.10,"2016-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(66,788,166.74,"2012-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(65,65,887.38,"2014-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(595,660,-666.27,"2012-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(972,972,754.42,"2012-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(242,242,-616.86,"2013-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(614,764,503.65,"2015-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(80,80,125.28,"2014-12-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(154,154,-799.01,"2016-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(611,837,77.54,"2013-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(810,810,782.70,"2012-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(128,169,-927.72,"2013-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(422,233,-577.88,"2014-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(809,966,67.82,"2013-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(695,791,127.16,"2015-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(473,804,693.88,"2015-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(62,514,346.62,"2012-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(891,680,806.89,"2013-09-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(858,766,-341.44,"2016-08-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(518,430,653.88,"2014-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(622,622,310.41,"2015-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(976,976,795.91,"2016-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(519,989,556.47,"2015-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(359,400,-753.28,"2016-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(485,616,612.85,"2012-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(436,849,419.50,"2015-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(157,628,-272.39,"2013-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(210,210,-842.93,"2012-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(303,537,215.31,"2014-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(52,849,672.18,"2012-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(644,408,208.71,"2016-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(878,878,784.70,"2016-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(156,760,-643.93,"2012-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(822,413,-558.56,"2013-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(213,510,-263.98,"2012-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(429,604,111.76,"2012-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(393,393,154.09,"2016-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(832,920,-999.47,"2015-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(311,442,267.86,"2013-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(182,182,-520.73,"2016-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(751,751,281.34,"2014-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(54,758,376.54,"2014-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(98,8,-667.16,"2015-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(763,282,-723.60,"2014-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(663,805,583.67,"2014-07-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(175,175,684.55,"2016-01-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(831,507,-367.51,"2013-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(392,392,-776.88,"2012-07-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(994,632,589.81,"2014-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(223,223,789.82,"2012-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(810,810,827.38,"2016-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(291,199,-190.97,"2014-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(992,18,-815.46,"2014-10-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(747,747,-989.51,"2016-03-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(695,695,-1.22,"2013-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(153,153,524.71,"2013-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(377,476,-683.69,"2016-11-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(856,856,-616.01,"2016-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(108,108,-165.60,"2015-10-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(335,335,686.63,"2012-02-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(903,814,-724.91,"2014-01-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(393,148,880.90,"2015-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(157,120,-802.67,"2012-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(990,248,-785.81,"2015-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(17,651,-351.82,"2015-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(580,106,509.27,"2012-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(857,810,-354.07,"2016-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(771,887,683.21,"2014-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(401,788,-392.66,"2015-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(788,788,41.08,"2014-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(987,964,-469.85,"2014-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(513,513,-617.14,"2014-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(858,964,-781.77,"2016-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(443,743,427.55,"2012-05-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(570,570,-837.11,"2013-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(308,495,-539.21,"2013-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(460,460,94.13,"2015-12-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(523,236,414.10,"2016-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(276,276,-410.26,"2015-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(680,680,-863.52,"2015-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(411,744,515.77,"2012-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(897,258,-686.18,"2016-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(631,399,-549.87,"2013-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(628,750,-278.53,"2012-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(816,271,-98.27,"2016-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(66,66,-429.22,"2016-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(769,769,-805.81,"2015-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(649,367,525.06,"2014-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(612,734,-336.02,"2013-04-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(105,105,410.33,"2015-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(314,290,433.58,"2014-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(989,199,849.77,"2014-05-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(500,510,-493.88,"2015-02-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(770,885,-880.58,"2014-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(320,295,258.95,"2015-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(500,50,697.47,"2015-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(603,96,456.21,"2014-01-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(278,278,-94.63,"2012-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(938,261,-83.89,"2013-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(161,161,160.66,"2014-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(41,569,695.78,"2016-08-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(444,639,-285.67,"2015-04-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(659,348,23.71,"2016-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(973,23,213.81,"2012-11-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(683,454,836.86,"2016-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(534,618,13.12,"2013-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(49,970,-395.90,"2013-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(730,150,432.74,"2014-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(463,463,580.56,"2014-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(459,563,700.84,"2015-04-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(652,580,-235.71,"2012-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(252,704,-415.64,"2012-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(991,991,-941.26,"2016-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,888,780.36,"2013-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(690,690,-239.09,"2016-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(364,172,-62.66,"2015-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(559,347,-310.15,"2012-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(168,236,351.61,"2016-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(459,459,207.31,"2014-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(613,416,-643.73,"2014-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(458,336,-565.52,"2012-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(113,113,-230.14,"2013-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(197,53,655.03,"2015-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(3,3,40.48,"2014-12-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(219,219,-318.77,"2015-03-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(178,178,-930.04,"2015-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(687,881,921.20,"2016-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(175,175,134.39,"2014-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(883,806,732.99,"2015-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(647,928,36.70,"2016-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(719,868,328.46,"2013-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(620,52,561.35,"2015-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(580,590,-911.09,"2015-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(88,88,173.46,"2016-10-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(490,490,837.39,"2013-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(348,229,875.83,"2012-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(169,738,-59.74,"2013-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(865,174,-888.70,"2012-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(858,534,-508.29,"2015-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(966,966,314.63,"2015-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(378,378,-875.66,"2012-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(765,851,964.96,"2015-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(741,322,-367.26,"2015-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(781,809,303.55,"2014-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(996,996,-984.98,"2013-05-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(467,959,-73.02,"2014-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(894,624,-147.70,"2012-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(767,767,776.03,"2012-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(63,370,139.30,"2013-01-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(337,990,-638.43,"2013-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(533,150,-580.12,"2013-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(637,637,352.68,"2013-02-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(919,773,-100.16,"2012-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(364,80,754.63,"2014-12-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(923,620,656.17,"2012-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(363,363,87.42,"2012-06-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(722,722,-53.74,"2012-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(329,329,331.08,"2012-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(492,571,-189.27,"2016-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(238,336,-199.35,"2015-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(244,77,-258.32,"2015-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(819,819,-476.84,"2015-05-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(230,386,-383.22,"2016-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(5,5,-788.01,"2016-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(957,957,951.11,"2014-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(639,782,0.85,"2016-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(225,458,-994.07,"2015-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(116,518,-269.03,"2015-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(430,430,934.93,"2012-12-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(499,499,25.49,"2015-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(355,895,-348.02,"2013-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(208,208,-136.90,"2014-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(250,671,-456.10,"2015-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(365,731,704.60,"2014-10-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(922,922,-309.43,"2014-10-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(228,543,322.77,"2013-01-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(800,785,58.31,"2012-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(26,214,-957.75,"2016-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(725,738,-521.08,"2012-07-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(473,39,-718.68,"2016-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(559,343,-171.53,"2013-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(389,389,319.78,"2015-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(866,866,131.35,"2012-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(727,789,686.64,"2013-01-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(152,152,4.00,"2012-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(168,449,356.69,"2012-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(266,75,-11.68,"2015-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(406,789,-9.67,"2013-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(986,415,588.39,"2015-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(393,686,-391.00,"2014-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(970,844,-401.80,"2013-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(458,120,919.28,"2012-04-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(91,755,868.40,"2012-05-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(974,629,-600.77,"2016-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(208,208,-551.31,"2012-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(756,227,335.32,"2016-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(695,556,-619.67,"2014-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(79,79,278.16,"2012-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(916,921,-735.34,"2015-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(426,19,473.94,"2012-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(979,659,68.26,"2013-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(36,463,-712.44,"2012-08-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(41,41,-391.54,"2015-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(57,122,-770.42,"2013-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(976,512,-610.49,"2016-05-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(305,305,-768.28,"2016-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(953,950,819.94,"2016-12-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(268,32,659.31,"2013-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(419,419,502.15,"2016-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(818,818,-653.69,"2016-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(299,864,-894.72,"2012-04-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(641,641,-196.53,"2016-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(287,287,137.87,"2015-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(811,238,791.93,"2015-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(958,958,99.18,"2013-12-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(416,416,-55.95,"2012-09-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(980,110,671.61,"2015-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(311,123,961.22,"2015-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(709,709,-196.14,"2015-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(14,905,-115.96,"2012-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(738,738,180.40,"2012-05-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(144,945,-987.99,"2014-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(520,26,360.42,"2015-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,398,-8.00,"2013-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,479,-923.58,"2013-05-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(3,316,927.10,"2016-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(823,216,221.98,"2016-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(617,917,-491.38,"2016-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(189,216,-884.68,"2016-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(292,285,-292.50,"2013-08-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(226,226,-296.13,"2015-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(973,365,276.38,"2015-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(412,864,331.29,"2014-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(131,851,-203.32,"2012-06-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(27,878,-348.31,"2016-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(37,37,158.75,"2016-04-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(173,578,496.77,"2012-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(678,678,-520.18,"2016-10-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(244,186,265.28,"2014-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(416,416,735.69,"2016-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(451,170,-908.74,"2013-04-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(724,724,15.25,"2014-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(207,953,599.64,"2012-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(175,383,890.00,"2013-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(269,705,703.97,"2014-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(676,737,-776.13,"2014-09-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(299,299,528.97,"2013-07-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(669,633,429.66,"2012-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(463,463,-840.72,"2014-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(823,667,-212.67,"2015-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(869,510,680.54,"2014-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(510,510,-468.76,"2013-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(368,939,681.79,"2015-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(509,509,244.29,"2012-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(446,818,325.87,"2015-11-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(939,939,609.12,"2015-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(130,130,450.40,"2015-10-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(765,765,-792.23,"2012-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(619,619,545.52,"2016-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(874,41,-888.89,"2015-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(470,11,-63.32,"2015-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(738,831,-556.58,"2012-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(442,925,994.09,"2015-02-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(331,392,-74.00,"2012-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(724,724,-281.10,"2015-11-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(423,423,-886.89,"2014-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(869,869,425.71,"2013-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(788,788,9.09,"2016-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(839,839,-671.62,"2012-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(996,996,362.84,"2013-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(736,681,-878.58,"2016-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(60,191,866.93,"2013-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(406,406,-202.40,"2016-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(973,712,539.79,"2012-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(312,346,-812.49,"2014-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(883,139,-555.71,"2012-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(885,223,855.84,"2013-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(704,473,798.07,"2013-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(960,960,302.78,"2016-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(216,216,604.19,"2012-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(750,665,620.50,"2016-06-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(75,787,66.47,"2016-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(5,5,-519.62,"2014-07-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(872,320,-774.37,"2016-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(68,233,571.39,"2012-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(141,141,983.91,"2013-03-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(412,426,295.53,"2013-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(296,845,207.84,"2015-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(91,275,43.53,"2012-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(150,911,112.42,"2012-07-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(43,43,229.82,"2013-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(481,481,553.11,"2013-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(196,23,-891.25,"2013-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(930,1,674.19,"2014-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(427,427,-152.98,"2016-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(887,597,-342.29,"2015-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(672,710,-814.00,"2016-05-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(757,281,-907.23,"2014-12-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(720,113,277.31,"2012-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(928,714,-650.65,"2012-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(435,240,194.82,"2016-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(550,550,923.42,"2016-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(17,599,581.79,"2014-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(124,793,225.41,"2015-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(250,838,540.73,"2013-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(800,800,778.79,"2016-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(295,945,-10.66,"2014-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,725,-242.54,"2012-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(729,854,295.05,"2012-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(279,571,-816.23,"2015-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(809,971,585.41,"2013-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(185,559,-336.75,"2013-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(105,623,-236.82,"2015-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(519,649,-496.60,"2013-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(46,642,919.16,"2016-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(622,816,965.78,"2014-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(925,925,754.05,"2014-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(516,516,-499.63,"2013-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(224,702,234.41,"2016-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(380,380,-318.83,"2015-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(926,926,38.93,"2016-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(461,539,-58.64,"2013-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(863,626,-705.62,"2016-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(400,705,-59.36,"2015-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(985,877,-902.95,"2016-01-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(198,28,-832.53,"2015-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(941,941,960.32,"2012-03-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(649,563,-677.02,"2012-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(471,471,-280.72,"2013-02-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(944,298,-522.17,"2014-08-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(667,137,-359.54,"2012-07-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(393,840,234.19,"2014-12-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(644,929,-981.70,"2014-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(50,539,-503.88,"2015-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(640,487,-741.00,"2012-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(869,869,-98.17,"2016-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(586,586,-498.08,"2012-02-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(762,762,309.92,"2015-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(358,114,-114.93,"2012-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(656,656,-878.34,"2016-07-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(168,994,930.36,"2013-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(625,115,665.28,"2014-08-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(175,838,682.31,"2013-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(285,284,893.34,"2015-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(909,909,-967.91,"2013-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,206,-388.30,"2014-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(892,624,-43.09,"2016-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(226,226,936.05,"2016-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(404,586,-451.70,"2013-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(481,400,171.17,"2013-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(929,693,-475.03,"2015-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(430,374,991.85,"2014-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(757,411,-899.03,"2013-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(882,882,397.12,"2013-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(683,683,-980.48,"2013-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(44,916,787.42,"2014-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(558,558,873.41,"2013-02-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(876,876,-85.27,"2013-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(808,808,70.52,"2015-12-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(749,749,364.06,"2015-07-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(348,410,381.22,"2014-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(944,326,913.34,"2015-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(385,777,-730.60,"2014-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(673,310,200.14,"2016-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(372,372,431.39,"2016-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(286,286,-441.45,"2014-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(798,798,-675.43,"2013-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(926,170,-26.88,"2012-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(320,284,773.24,"2013-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(359,185,-518.00,"2015-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(233,942,770.45,"2013-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(705,903,-897.87,"2015-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(704,829,-504.15,"2012-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(891,722,-767.08,"2016-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(36,750,130.52,"2015-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(714,714,-781.61,"2016-10-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(33,116,-530.34,"2014-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(86,596,-347.82,"2013-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(89,89,-878.23,"2016-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(942,139,-468.24,"2016-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(919,936,-890.32,"2015-07-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(444,444,-558.96,"2013-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(116,164,-824.24,"2014-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(806,806,281.94,"2015-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(926,769,824.92,"2016-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(145,48,890.37,"2015-08-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(491,491,271.08,"2014-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(183,914,-723.46,"2013-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(982,982,-421.96,"2016-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(357,688,-604.68,"2014-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(104,215,-977.92,"2016-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,405,-739.10,"2014-04-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(731,991,886.68,"2012-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(938,292,713.07,"2012-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(85,370,271.51,"2012-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(388,388,-514.66,"2016-08-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(802,710,-490.43,"2012-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(275,959,-99.78,"2015-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(260,942,-201.91,"2016-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(336,332,446.98,"2016-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(87,855,676.69,"2012-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(122,744,133.38,"2013-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(347,347,-882.57,"2013-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(365,266,93.91,"2015-02-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(39,526,-674.62,"2016-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(33,884,254.74,"2014-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(183,400,705.36,"2016-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(17,353,-65.04,"2012-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,929,699.88,"2016-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(678,604,181.78,"2013-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(801,801,806.53,"2013-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(182,6,138.57,"2014-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(697,216,-516.35,"2016-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(16,708,-922.48,"2016-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(238,242,-440.67,"2012-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(242,615,904.87,"2013-07-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(670,349,344.35,"2015-05-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(713,713,-980.61,"2012-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(676,676,-348.74,"2012-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(860,860,-254.03,"2012-09-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(67,863,-78.29,"2014-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(843,843,-222.97,"2014-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(666,407,-738.17,"2013-03-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(552,264,-305.30,"2014-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(100,272,-719.85,"2016-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(97,554,556.90,"2013-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(748,357,-676.68,"2012-04-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(881,881,199.85,"2014-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(794,794,-323.07,"2015-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(889,889,375.31,"2016-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(233,233,235.93,"2014-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(436,436,281.96,"2013-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(808,364,987.40,"2012-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(780,28,-858.95,"2012-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(87,371,-669.20,"2014-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(249,928,-697.08,"2013-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(359,769,499.78,"2012-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(931,778,-545.61,"2013-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(613,768,633.71,"2016-02-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(284,970,485.20,"2014-12-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(815,815,-196.98,"2012-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(58,58,641.18,"2012-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(377,759,205.64,"2012-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(558,42,-135.30,"2013-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(253,253,234.44,"2015-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(135,135,-560.07,"2015-01-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(358,437,-691.72,"2015-08-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(279,752,-36.64,"2016-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(21,21,-327.13,"2013-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(484,942,602.95,"2012-06-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(622,113,406.82,"2015-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(220,692,199.03,"2012-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(772,532,482.21,"2016-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(902,797,576.62,"2013-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(372,372,500.84,"2013-02-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(870,402,657.62,"2013-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(305,305,-325.22,"2014-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(507,957,826.40,"2015-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(892,305,632.94,"2015-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(886,299,570.27,"2013-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(276,276,88.61,"2014-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(285,746,-733.99,"2012-05-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(9,459,286.83,"2016-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(181,181,-843.75,"2014-12-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(459,826,855.74,"2013-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(404,806,264.60,"2015-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(627,958,-716.63,"2016-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(841,346,419.31,"2015-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(853,853,-52.79,"2013-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(762,762,472.36,"2014-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(414,414,886.01,"2014-10-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(50,840,982.04,"2012-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(147,147,95.19,"2016-09-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(728,901,733.77,"2014-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(957,829,-12.50,"2013-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(443,443,678.18,"2012-12-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(654,308,-428.47,"2013-03-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(451,728,-155.46,"2013-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(469,469,177.17,"2015-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(936,936,-687.96,"2015-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(963,197,-761.03,"2012-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(394,492,643.01,"2014-04-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(215,794,-836.08,"2016-04-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(203,262,-617.13,"2016-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(92,48,-892.94,"2012-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(492,338,-435.67,"2014-01-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(540,463,-165.84,"2014-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(399,121,-79.86,"2013-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(886,425,-136.89,"2016-06-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(3,3,461.38,"2013-12-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(600,687,-39.50,"2014-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(975,453,980.98,"2015-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(239,811,-175.75,"2015-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(243,243,-794.41,"2013-10-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(179,546,686.90,"2015-04-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(696,428,556.29,"2012-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(559,559,262.53,"2016-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(152,587,637.61,"2012-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(957,422,-605.95,"2014-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(52,302,-266.25,"2015-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(691,691,589.60,"2015-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(37,520,-640.37,"2012-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(289,532,-895.89,"2014-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(158,158,-667.68,"2014-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(755,239,613.79,"2016-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(512,824,445.61,"2015-03-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(866,866,674.40,"2014-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(509,845,562.63,"2015-03-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(247,565,231.15,"2016-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(670,75,365.65,"2012-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(864,864,797.54,"2013-10-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(452,651,-517.07,"2013-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(411,411,277.32,"2015-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(440,290,449.44,"2012-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(326,539,561.62,"2012-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(989,989,-24.63,"2015-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(307,307,-580.71,"2014-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(239,71,-87.61,"2015-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(114,939,-875.96,"2013-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(471,558,129.13,"2014-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(174,174,-258.98,"2012-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(580,551,946.96,"2012-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(347,347,298.95,"2013-11-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(730,386,-266.73,"2014-10-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(297,297,858.62,"2013-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(76,83,429.07,"2013-01-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(648,999,67.12,"2014-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(181,482,931.92,"2012-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(496,276,988.34,"2012-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(912,11,866.79,"2014-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(36,988,944.32,"2012-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(590,451,-532.44,"2016-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(462,876,-782.00,"2015-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(624,327,-249.32,"2013-08-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(224,880,-233.73,"2015-01-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(899,940,-822.19,"2016-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(590,93,-756.72,"2014-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(260,260,9.06,"2016-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(31,902,521.46,"2015-06-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(699,261,302.02,"2016-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(180,180,256.54,"2013-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(818,977,-536.13,"2015-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(819,819,-130.56,"2014-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(794,317,214.18,"2012-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(859,859,885.09,"2016-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(586,586,-240.50,"2016-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(827,799,-269.12,"2013-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(315,315,-40.04,"2015-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(304,145,-9.02,"2015-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(181,81,920.17,"2016-05-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(826,826,-66.36,"2016-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(169,683,414.85,"2016-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(523,957,-83.66,"2012-12-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(388,363,419.55,"2014-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(403,403,-907.73,"2012-01-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(158,614,-755.63,"2013-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(374,795,-182.04,"2015-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(284,353,-711.03,"2015-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(833,362,113.18,"2015-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(997,997,-643.66,"2012-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(378,939,730.50,"2016-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(731,777,887.03,"2016-04-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(489,478,841.43,"2014-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(98,784,-700.45,"2016-01-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(498,883,110.32,"2013-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(3,544,172.11,"2016-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(600,600,-353.34,"2015-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(177,177,421.61,"2012-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(567,645,693.80,"2016-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(641,714,-811.11,"2015-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(921,921,-87.97,"2012-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(349,349,18.23,"2012-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(507,118,-412.60,"2012-10-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(297,297,-453.41,"2013-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(901,901,-923.25,"2016-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(930,968,-122.24,"2014-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(687,687,179.29,"2012-07-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,398,-346.11,"2015-04-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(473,775,577.64,"2014-01-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(745,679,344.36,"2015-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(809,923,652.67,"2015-08-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(273,273,757.66,"2014-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(595,408,336.40,"2012-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(146,324,91.67,"2013-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(560,560,-361.31,"2014-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(867,867,623.79,"2015-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(925,925,-740.06,"2013-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,695,779.33,"2016-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(590,590,-749.72,"2012-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(657,657,302.97,"2015-08-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(557,305,-163.23,"2013-07-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(60,60,947.87,"2012-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(226,226,-447.97,"2012-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(977,708,-258.39,"2014-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(243,571,-532.69,"2015-10-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(605,536,-608.10,"2016-12-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(918,18,900.34,"2016-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(760,760,262.13,"2012-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(305,666,507.07,"2012-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(759,759,40.87,"2015-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(595,458,857.34,"2016-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(800,994,-580.05,"2015-08-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(281,281,-59.28,"2012-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(372,870,765.92,"2012-05-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(114,464,-956.36,"2013-08-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(702,461,-48.67,"2013-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(282,456,876.65,"2014-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(854,219,-465.88,"2015-06-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(448,448,740.38,"2014-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(515,912,-903.73,"2015-10-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(639,639,-174.52,"2014-08-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(290,290,159.88,"2016-05-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(62,80,857.83,"2015-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(151,140,486.38,"2014-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(225,225,151.82,"2012-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(926,926,-883.14,"2014-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(361,361,760.78,"2012-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(18,559,455.08,"2015-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(678,678,-654.93,"2012-06-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(462,462,-312.58,"2015-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(750,844,272.46,"2014-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(400,606,213.80,"2013-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(869,62,-744.68,"2016-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(326,490,775.36,"2015-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(712,362,786.20,"2012-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(26,886,-923.35,"2016-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(807,807,-791.16,"2013-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(265,562,-67.98,"2013-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(162,795,-878.05,"2012-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(333,117,924.71,"2013-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(342,232,181.13,"2016-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(102,102,-152.41,"2012-05-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(39,39,610.86,"2015-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(9,9,-540.68,"2016-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(857,306,840.15,"2013-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(594,594,-635.09,"2013-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(215,490,47.29,"2012-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(766,549,324.72,"2014-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(970,182,642.47,"2013-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(403,340,941.23,"2014-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(503,503,799.86,"2015-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(972,138,84.82,"2015-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(669,595,959.38,"2013-05-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(724,631,91.82,"2014-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(370,370,-908.44,"2012-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(120,120,446.13,"2014-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(642,272,-139.28,"2016-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(456,993,858.27,"2016-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(175,175,489.88,"2012-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(729,236,-248.75,"2013-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(203,969,-348.12,"2014-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(491,791,330.39,"2016-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(217,195,-985.33,"2015-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(33,210,266.67,"2012-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(184,184,-400.60,"2016-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(488,488,796.44,"2015-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(935,935,-285.98,"2012-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(818,199,-166.10,"2013-12-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(226,407,-597.18,"2012-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(216,539,509.52,"2012-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(630,229,-175.32,"2015-09-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(978,440,-105.51,"2014-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(613,683,627.13,"2014-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(252,412,-782.89,"2013-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(893,413,-228.11,"2015-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(577,311,629.56,"2013-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(648,648,-853.56,"2015-10-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(775,775,-370.47,"2013-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(257,871,400.38,"2014-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(505,592,646.08,"2016-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(667,632,-407.46,"2013-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(32,887,-788.83,"2016-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(626,236,-207.62,"2014-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(814,506,256.34,"2015-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(51,51,28.42,"2012-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(828,313,273.00,"2012-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(525,676,-65.73,"2012-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(831,831,735.12,"2012-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(442,442,-303.87,"2016-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(596,596,-753.68,"2012-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(848,350,534.23,"2016-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(657,312,-363.47,"2016-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(640,48,384.83,"2013-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(248,248,731.13,"2016-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(302,446,-382.25,"2015-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(730,447,-909.32,"2015-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(464,903,-532.10,"2013-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(892,824,-93.00,"2015-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(417,572,866.87,"2013-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(122,122,-944.03,"2016-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(959,959,-739.22,"2016-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(783,835,-444.23,"2015-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(58,108,907.15,"2016-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(589,160,788.67,"2012-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(164,164,699.45,"2016-01-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(446,446,-794.77,"2015-08-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(915,340,491.50,"2016-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(340,946,862.08,"2012-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(128,586,-438.28,"2012-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(294,303,599.97,"2015-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(574,707,17.91,"2014-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(996,996,988.20,"2013-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(407,657,947.14,"2012-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(81,577,-123.96,"2015-09-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(353,344,650.03,"2012-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(869,263,743.90,"2012-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(914,504,584.92,"2015-06-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(16,16,-709.83,"2016-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(739,525,228.79,"2013-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(453,453,281.68,"2016-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(449,37,-311.42,"2014-07-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(577,894,983.11,"2016-08-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(20,167,-385.57,"2015-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(249,848,155.98,"2012-06-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(255,255,-141.76,"2013-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(557,973,700.71,"2012-08-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(318,318,-685.22,"2012-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(499,499,867.24,"2016-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(882,882,467.85,"2012-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(948,948,30.31,"2013-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(90,90,-754.10,"2014-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(666,666,-761.82,"2013-06-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(773,657,-221.68,"2012-10-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(493,493,-152.33,"2015-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(659,960,146.28,"2012-12-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(105,105,-854.84,"2016-04-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(609,487,630.65,"2015-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(636,635,158.58,"2012-06-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(187,53,432.39,"2013-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(305,86,995.25,"2012-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(1000,550,936.49,"2012-10-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(683,816,-165.73,"2015-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(4,206,751.44,"2015-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(622,910,-923.73,"2016-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(538,804,284.25,"2014-08-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(33,33,858.66,"2014-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(500,500,807.22,"2013-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(427,427,-160.48,"2016-04-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(261,723,685.15,"2013-02-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(864,517,-667.64,"2014-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(721,776,-300.45,"2013-08-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(508,244,657.57,"2015-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(932,932,-422.47,"2014-12-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(630,630,-104.79,"2015-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(340,822,-597.88,"2015-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(288,164,-658.11,"2015-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(60,952,952.39,"2012-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(513,513,22.82,"2013-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(678,240,-509.79,"2012-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(649,649,-266.59,"2016-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(19,19,177.27,"2016-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(50,50,852.80,"2014-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(163,603,-262.31,"2015-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(308,662,661.73,"2014-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(417,188,-513.31,"2015-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(428,644,984.27,"2012-09-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(176,761,460.30,"2013-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(393,232,131.64,"2015-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(441,541,341.05,"2013-12-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(611,197,539.40,"2013-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(604,604,64.95,"2015-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(744,937,374.20,"2012-07-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(196,626,173.44,"2014-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(577,992,577.91,"2012-05-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(171,39,-643.80,"2016-08-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(584,646,11.65,"2013-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(294,485,82.46,"2012-10-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(39,362,-364.10,"2012-03-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(763,763,664.43,"2014-02-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(421,2,717.92,"2013-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(805,153,-189.04,"2014-10-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(561,561,337.80,"2015-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(871,383,-189.72,"2014-10-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(73,73,-863.54,"2012-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(659,520,703.65,"2016-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(401,294,55.92,"2015-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(242,110,770.34,"2016-07-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(104,747,453.05,"2012-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(73,73,-273.86,"2013-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(61,487,-14.26,"2014-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(374,374,-230.99,"2015-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(674,914,-161.95,"2016-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(614,484,-753.82,"2014-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(986,484,-389.55,"2015-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(184,521,501.23,"2012-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(940,716,518.15,"2013-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(402,892,841.54,"2014-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(800,281,33.62,"2013-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(992,992,871.30,"2016-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(26,272,-151.57,"2016-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(69,69,-820.41,"2015-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(398,398,568.86,"2014-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(444,548,350.52,"2012-06-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(536,340,416.87,"2013-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(274,753,800.99,"2012-12-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(500,234,-44.73,"2014-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(363,363,-444.42,"2012-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(400,159,764.74,"2013-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(117,117,-514.00,"2012-06-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(447,447,797.30,"2013-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(671,671,506.88,"2014-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(819,402,969.49,"2013-02-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(3,914,-168.83,"2015-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(541,350,-267.61,"2013-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(66,66,-794.23,"2014-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(451,979,380.50,"2014-05-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(882,130,890.52,"2015-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(491,663,-478.63,"2014-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(588,199,977.26,"2015-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(775,775,-414.88,"2013-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(84,26,359.14,"2013-02-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(684,206,693.09,"2016-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(40,98,-432.21,"2015-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(287,287,15.00,"2015-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(830,830,975.47,"2016-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(221,221,578.46,"2012-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(738,738,628.81,"2014-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(598,598,-723.38,"2012-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(401,401,977.21,"2015-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(286,286,349.26,"2013-01-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(318,106,690.13,"2016-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(584,584,-590.11,"2013-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(815,38,589.51,"2012-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(271,562,-327.49,"2014-10-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(138,347,-16.82,"2015-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(851,95,-996.73,"2013-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(586,702,35.65,"2013-10-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(923,812,526.60,"2013-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(147,147,612.38,"2014-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(569,952,-190.65,"2014-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(820,986,586.29,"2016-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(894,763,755.12,"2013-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(629,629,-509.85,"2014-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(251,363,591.33,"2016-10-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(294,294,-767.09,"2015-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(240,908,212.24,"2014-06-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(655,722,977.06,"2013-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(187,187,12.60,"2012-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(362,362,646.28,"2016-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(213,546,783.70,"2014-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(327,327,-762.39,"2013-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(459,941,-780.92,"2016-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(366,843,957.69,"2013-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(44,367,296.33,"2013-10-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(581,7,-547.46,"2012-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(836,836,-281.56,"2012-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(914,508,-109.63,"2015-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(34,754,-48.10,"2016-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(481,890,992.03,"2012-11-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(298,55,794.14,"2014-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(9,381,693.45,"2013-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(436,590,-896.10,"2015-07-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(792,376,-927.76,"2013-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(56,23,604.91,"2014-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(443,443,869.26,"2013-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(95,95,-520.76,"2014-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(681,511,987.20,"2016-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(997,158,-159.82,"2013-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(701,921,994.97,"2016-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(38,224,-986.98,"2016-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(68,698,-100.99,"2015-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(475,737,736.04,"2013-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(850,850,-906.11,"2012-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(912,430,-71.76,"2014-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(741,217,-580.04,"2014-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(232,512,-585.49,"2016-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(231,231,941.00,"2016-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(403,501,176.17,"2015-08-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(83,676,-880.06,"2012-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(300,300,30.00,"2016-04-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(5,352,165.72,"2015-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(36,270,541.95,"2014-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(251,251,894.69,"2012-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(343,894,-313.66,"2015-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(758,758,383.68,"2014-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(491,491,98.38,"2015-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(914,914,413.77,"2012-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(621,482,503.60,"2012-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(346,401,785.43,"2012-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(165,721,-661.64,"2014-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(837,837,326.78,"2014-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(684,118,-383.50,"2014-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(25,127,-974.58,"2012-03-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(581,214,-272.66,"2016-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(861,621,517.03,"2015-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(456,456,-338.86,"2016-05-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(564,540,-553.15,"2012-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(279,612,-544.59,"2015-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(34,904,985.93,"2016-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(432,443,-337.47,"2013-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(779,779,-986.40,"2012-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(255,255,-889.58,"2013-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(899,229,650.10,"2015-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(898,905,758.75,"2016-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(751,755,472.08,"2012-03-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(724,276,923.45,"2013-04-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(426,822,-363.89,"2014-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(682,16,130.06,"2016-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(198,263,-470.29,"2015-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(832,424,135.15,"2012-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(953,953,-203.33,"2012-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(682,193,-68.04,"2015-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(789,789,159.33,"2016-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(255,255,-603.11,"2013-08-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(195,895,243.70,"2016-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(595,729,-895.69,"2016-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(45,847,-289.94,"2015-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(554,554,92.62,"2014-08-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(41,551,-976.76,"2015-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(90,253,47.91,"2015-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(534,534,-557.18,"2015-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(321,321,480.67,"2016-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,708,-26.00,"2015-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(486,486,425.10,"2013-05-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(142,142,-656.32,"2013-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(943,119,833.03,"2014-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(593,905,490.52,"2015-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(83,842,870.91,"2016-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(109,689,862.42,"2013-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(639,639,-760.88,"2014-05-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(798,424,-644.49,"2014-09-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(872,738,308.43,"2012-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,651,-374.71,"2013-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(89,103,308.24,"2015-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(24,24,643.23,"2015-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(632,632,-280.80,"2013-09-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(315,315,167.44,"2014-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(114,290,-786.34,"2013-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(944,944,354.43,"2014-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(925,193,505.21,"2013-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(816,280,969.27,"2013-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(145,275,561.83,"2013-07-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(530,530,-449.10,"2015-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(951,119,-540.14,"2012-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(520,669,58.19,"2014-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(447,438,726.14,"2016-03-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(705,679,-472.35,"2015-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(317,231,-127.07,"2014-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(700,376,-961.33,"2014-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(50,21,-448.72,"2012-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(115,573,-462.16,"2013-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(289,186,-548.69,"2014-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(227,227,888.23,"2012-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(186,948,778.25,"2016-04-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(425,532,-344.07,"2013-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(858,858,722.42,"2013-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(243,401,873.39,"2014-02-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(557,557,-541.61,"2013-01-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(835,697,-425.23,"2016-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(765,223,-757.97,"2015-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(551,528,-272.46,"2016-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(992,601,-939.11,"2016-10-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(349,925,-263.29,"2015-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(310,830,-490.34,"2014-12-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(804,804,-599.05,"2015-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(867,867,-420.52,"2013-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(683,602,-812.00,"2016-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(856,392,848.16,"2015-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(679,76,21.12,"2012-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(359,359,862.25,"2012-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(495,757,949.11,"2013-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(100,877,-620.02,"2015-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(518,498,-812.93,"2013-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(250,667,-28.87,"2016-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(791,791,8.85,"2016-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(899,233,174.25,"2015-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(309,311,-668.16,"2016-12-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(252,252,-140.59,"2014-02-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(889,889,697.18,"2016-07-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(583,583,-128.68,"2012-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(13,13,145.33,"2015-05-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(518,518,251.46,"2012-05-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(579,841,-98.70,"2014-02-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(565,620,-372.64,"2014-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(549,549,380.68,"2015-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(522,522,-266.83,"2014-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(25,25,-959.88,"2016-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(204,58,684.66,"2012-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(6,6,651.92,"2012-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(923,823,77.64,"2015-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(225,225,-224.90,"2012-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(326,326,115.78,"2015-07-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(620,620,-159.42,"2015-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(947,716,-243.97,"2015-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(805,805,-319.54,"2013-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(317,262,-372.17,"2015-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(667,80,-589.97,"2013-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(186,186,114.98,"2015-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(948,170,776.24,"2013-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(440,780,941.36,"2015-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(259,259,-584.06,"2015-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(929,89,-639.75,"2016-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(31,31,420.33,"2014-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(246,246,53.26,"2012-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(3,404,-360.48,"2016-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(17,323,-290.02,"2015-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(703,703,-880.50,"2016-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(919,857,125.75,"2013-08-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(897,897,-665.05,"2013-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(50,50,621.25,"2015-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(744,334,362.68,"2015-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(659,437,-543.76,"2015-04-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(680,280,972.44,"2016-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(857,723,46.59,"2015-08-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(512,512,442.52,"2013-09-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(359,359,-522.84,"2014-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(827,827,14.29,"2014-01-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(361,361,873.85,"2013-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(520,655,-454.24,"2014-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(747,814,933.73,"2012-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(343,343,765.59,"2013-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(298,67,-882.44,"2013-01-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(735,171,-943.18,"2012-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(536,651,-267.54,"2012-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(257,257,505.77,"2012-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(560,144,-509.77,"2016-09-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(588,588,-732.98,"2016-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(10,824,294.54,"2012-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(431,431,531.53,"2012-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(950,149,632.78,"2016-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(152,659,405.47,"2014-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(702,702,750.14,"2016-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(482,157,608.87,"2015-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(247,955,-388.69,"2013-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(154,404,-398.37,"2012-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(136,145,-213.21,"2016-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(804,804,934.16,"2016-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(880,880,-977.23,"2012-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(752,356,-425.00,"2012-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(773,285,-842.65,"2016-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(920,920,729.05,"2016-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(886,115,948.83,"2015-09-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(995,582,852.15,"2013-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(981,32,162.37,"2013-02-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(218,473,-716.37,"2013-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(670,307,337.09,"2016-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(923,923,-539.67,"2013-03-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(330,109,307.71,"2012-04-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(17,227,-326.01,"2012-12-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(959,265,387.68,"2012-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(215,496,46.09,"2015-09-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(761,461,-710.69,"2015-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(828,139,-149.79,"2012-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(937,185,-681.82,"2012-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(384,421,826.11,"2012-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(390,805,-599.54,"2012-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(267,908,-841.51,"2015-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(536,914,800.70,"2014-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(144,475,-173.33,"2013-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(873,284,-712.31,"2013-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(288,218,819.27,"2015-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(508,947,-710.61,"2015-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(34,269,-781.62,"2013-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(806,390,-546.47,"2014-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(466,466,728.81,"2015-08-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(169,575,770.09,"2013-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(325,575,363.64,"2013-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(414,414,679.04,"2016-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(263,281,-30.55,"2015-12-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(719,61,-570.29,"2015-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(393,393,-489.45,"2014-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(284,725,-526.10,"2015-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(308,79,-971.23,"2015-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(743,798,-370.67,"2014-06-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(949,317,-517.88,"2014-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(260,987,-724.14,"2016-01-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(310,310,-358.33,"2015-10-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(515,965,-434.65,"2016-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(117,111,555.61,"2013-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(800,800,78.92,"2014-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(285,285,-762.12,"2013-07-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(82,188,194.07,"2012-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(573,826,592.44,"2013-08-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(280,898,-62.48,"2015-08-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(171,240,-533.29,"2012-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(481,662,496.79,"2015-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(874,594,-42.64,"2016-01-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(423,893,813.65,"2013-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(712,291,507.11,"2016-06-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(311,311,954.91,"2015-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(753,278,-322.94,"2012-12-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(961,961,-678.88,"2012-08-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(322,322,-681.16,"2013-11-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(86,351,280.78,"2014-06-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(133,953,-783.76,"2015-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(182,400,999.54,"2016-02-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(796,796,129.70,"2013-08-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(844,844,-408.64,"2014-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(766,922,821.84,"2012-11-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(85,545,71.92,"2016-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(69,637,-939.46,"2012-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(245,960,-826.11,"2016-12-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(529,529,-12.07,"2015-05-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(206,889,-608.95,"2013-09-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(140,295,482.28,"2014-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(999,333,-159.15,"2013-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(930,930,-341.73,"2013-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(505,505,355.23,"2016-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(273,386,342.17,"2015-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(504,755,29.25,"2015-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(347,10,-707.18,"2012-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(503,846,-957.58,"2016-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(816,540,-496.12,"2014-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(615,615,896.60,"2012-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(355,833,242.42,"2015-05-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(939,158,-964.31,"2012-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(942,942,-488.60,"2015-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(105,486,209.87,"2012-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(691,829,568.14,"2015-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(103,747,-493.57,"2013-06-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(973,787,958.14,"2015-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(662,662,-852.38,"2013-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(533,533,219.37,"2016-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(179,179,974.52,"2014-04-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(698,907,320.50,"2014-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(709,709,519.66,"2012-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(225,548,395.45,"2015-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(86,86,-498.84,"2016-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(967,896,-640.29,"2013-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(430,430,688.59,"2013-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(546,283,-700.63,"2014-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(186,402,-178.67,"2012-05-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(354,354,-382.31,"2015-08-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(650,59,924.82,"2013-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(685,975,-482.19,"2013-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(486,487,811.19,"2015-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(404,404,-209.33,"2015-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(487,487,965.81,"2014-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(283,32,-827.43,"2012-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(538,103,432.62,"2015-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(594,750,246.49,"2015-08-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(945,945,129.91,"2016-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(897,897,-620.05,"2015-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(260,260,285.24,"2016-09-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(963,963,-239.80,"2012-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(658,274,287.01,"2012-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(171,285,-140.40,"2016-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(491,821,-105.11,"2015-04-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(291,493,-709.90,"2012-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(429,429,-422.06,"2014-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(926,871,-521.05,"2016-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(518,518,-54.41,"2014-06-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(340,235,241.44,"2016-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(67,67,422.75,"2012-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(148,888,-212.97,"2016-10-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(609,609,-416.12,"2015-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(864,112,-674.35,"2015-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(307,752,-389.12,"2013-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(801,801,-598.03,"2013-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(863,749,-433.67,"2012-01-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(964,964,-304.69,"2012-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(464,464,-924.15,"2014-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(545,545,-349.28,"2013-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(214,214,77.55,"2012-08-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(17,17,176.00,"2012-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(888,231,-968.86,"2013-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(419,419,-362.32,"2015-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(587,587,432.59,"2012-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(321,321,421.91,"2013-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(429,429,49.23,"2015-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(749,749,474.90,"2013-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(196,155,-852.33,"2016-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(963,801,-100.98,"2013-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(187,187,6.35,"2013-08-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(144,684,-7.14,"2016-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(202,202,889.43,"2013-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(919,919,597.69,"2016-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(644,221,-266.35,"2016-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(608,355,-182.40,"2012-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(707,97,408.77,"2016-10-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(272,444,-4.27,"2015-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(527,372,-481.15,"2015-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(881,406,611.41,"2015-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(363,77,97.27,"2016-11-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(266,586,222.62,"2014-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(209,209,482.29,"2015-01-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(736,153,780.04,"2016-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(483,483,-526.75,"2012-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(451,694,886.09,"2014-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(841,822,962.72,"2016-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(771,385,-641.44,"2016-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(187,187,534.04,"2016-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(633,340,-648.21,"2013-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(746,699,-827.32,"2014-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(619,492,104.44,"2013-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(43,43,668.88,"2015-03-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(332,128,895.33,"2013-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(752,898,375.70,"2014-04-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(200,154,-352.61,"2012-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(399,620,-305.67,"2015-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(445,644,-177.50,"2016-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(10,296,-184.64,"2014-09-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(299,299,-340.44,"2016-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(109,69,799.20,"2014-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(263,990,-196.15,"2015-04-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(985,27,-125.89,"2016-12-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(469,469,-58.32,"2012-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(802,97,-64.67,"2012-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(747,747,127.87,"2015-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(293,728,646.33,"2012-03-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(910,65,967.74,"2015-08-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(824,824,284.83,"2015-12-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(854,67,145.39,"2013-08-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(41,785,-366.47,"2015-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(910,944,-871.20,"2013-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,479,-206.62,"2015-10-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(770,643,600.93,"2013-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(180,510,141.89,"2012-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(501,83,-687.69,"2014-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(594,617,-770.27,"2016-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(779,779,137.93,"2012-04-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(799,920,693.74,"2012-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(231,534,-257.02,"2012-06-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(553,553,690.15,"2012-12-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(354,354,387.15,"2012-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(916,916,872.92,"2015-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(528,359,620.42,"2015-02-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(907,766,-967.93,"2014-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(195,878,-121.61,"2016-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(372,911,-107.00,"2014-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(896,896,-169.26,"2014-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(220,220,-504.04,"2014-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(742,157,-829.72,"2015-02-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(16,433,775.02,"2015-12-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(308,308,114.26,"2015-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(332,911,-367.04,"2012-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(210,210,-189.88,"2012-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(561,109,695.53,"2016-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(970,970,-309.89,"2014-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(293,964,-541.44,"2016-01-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(820,184,936.11,"2016-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(604,52,265.11,"2016-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(546,624,328.09,"2012-01-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(330,619,-547.98,"2016-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(953,560,-130.46,"2015-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(320,209,994.99,"2013-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(663,663,904.50,"2013-06-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(208,385,416.22,"2016-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,479,-122.01,"2015-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(853,340,144.76,"2013-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(281,281,-216.71,"2013-05-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(449,449,192.78,"2014-03-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(327,941,821.51,"2015-01-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(924,197,766.73,"2012-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(697,376,-102.02,"2015-07-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(895,881,-570.05,"2012-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(427,427,661.00,"2016-03-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(583,583,-186.68,"2015-08-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(960,960,496.42,"2014-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(56,56,-329.73,"2015-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(587,136,-417.41,"2015-04-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(689,406,669.94,"2016-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(871,771,265.67,"2016-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(76,309,-819.55,"2015-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(788,788,-637.12,"2012-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(532,532,835.06,"2015-12-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(848,794,213.06,"2016-08-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(194,194,475.21,"2014-12-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(293,293,429.97,"2013-02-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(417,933,-763.73,"2016-02-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(159,145,-504.94,"2016-12-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(325,294,349.89,"2012-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(290,865,309.00,"2014-08-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(539,688,469.03,"2014-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(434,698,259.17,"2012-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(357,357,998.12,"2016-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(747,747,4.23,"2016-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(988,988,-354.09,"2012-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(605,577,-474.75,"2016-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(926,580,740.25,"2015-11-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(822,576,-547.57,"2016-12-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(634,47,250.76,"2015-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(784,278,-870.90,"2015-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(169,169,520.47,"2015-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(129,105,-212.73,"2015-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(245,333,-786.91,"2013-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(878,392,472.65,"2014-07-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(167,179,-868.71,"2016-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(143,143,608.53,"2016-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(979,133,817.05,"2015-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(44,44,-703.74,"2013-07-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(860,448,459.53,"2015-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(224,224,966.63,"2014-08-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(692,38,323.75,"2013-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(190,190,905.23,"2014-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(18,1,-448.08,"2015-08-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(872,872,-520.49,"2016-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(63,63,298.44,"2016-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(592,592,815.08,"2016-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(505,239,-125.53,"2015-12-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(139,883,-326.27,"2015-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(691,691,-657.91,"2014-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(532,532,771.59,"2013-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(133,506,205.32,"2015-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(341,87,784.70,"2014-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(438,759,-246.85,"2013-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(870,870,84.79,"2016-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(520,366,265.81,"2012-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(252,787,147.29,"2014-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(27,92,920.01,"2012-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(549,256,-967.09,"2015-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(960,960,-675.14,"2012-03-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(456,972,-948.60,"2016-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(820,868,-705.32,"2015-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(377,377,-80.24,"2016-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(996,996,-534.10,"2014-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(334,334,-379.20,"2014-10-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(410,410,-959.83,"2014-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(951,60,84.74,"2013-06-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(354,575,-509.16,"2012-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,783,444.61,"2012-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(67,963,-948.40,"2015-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(47,465,653.51,"2013-02-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(115,720,-380.84,"2015-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(912,459,-140.06,"2012-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(169,499,605.83,"2015-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(273,273,878.45,"2014-04-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(944,55,37.10,"2013-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(563,437,-47.80,"2014-05-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(246,246,-302.57,"2014-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(66,79,918.57,"2015-01-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(317,317,732.75,"2013-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(981,43,-64.21,"2013-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(884,887,511.15,"2012-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(525,525,-679.30,"2015-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(737,981,-868.66,"2016-10-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(856,856,399.01,"2012-05-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(371,371,-661.57,"2016-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(674,53,-198.03,"2015-02-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(593,797,-663.57,"2016-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(586,586,904.12,"2013-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(301,301,353.91,"2016-08-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(888,517,-471.64,"2016-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(987,770,-405.06,"2013-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(52,568,-200.12,"2016-08-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(988,988,593.54,"2013-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(247,247,646.27,"2012-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(854,854,-177.25,"2013-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(72,780,-680.21,"2016-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(775,397,-517.26,"2013-05-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(512,278,285.50,"2013-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(49,49,-89.63,"2015-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(780,244,774.62,"2012-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(530,530,-422.05,"2014-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(322,302,-552.70,"2013-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(280,837,-276.72,"2015-10-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(179,179,2.70,"2012-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(167,165,-203.03,"2016-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(289,171,-536.72,"2015-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(103,41,-710.68,"2012-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(373,156,253.84,"2012-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(104,104,940.46,"2015-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(278,125,-939.15,"2016-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(940,297,640.08,"2013-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(855,436,-538.08,"2013-11-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(269,269,-599.19,"2013-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(620,620,-414.40,"2012-12-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(861,224,266.80,"2014-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(340,714,316.67,"2013-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(144,919,19.02,"2012-09-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(294,335,288.49,"2015-08-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(856,856,-800.97,"2014-01-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(870,171,554.15,"2015-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(767,606,-723.18,"2015-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(794,4,-530.78,"2016-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(966,966,9.68,"2014-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(850,782,627.51,"2013-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(147,147,784.99,"2016-05-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(748,906,344.28,"2012-10-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(931,931,869.54,"2016-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(129,829,986.81,"2016-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(300,300,264.23,"2014-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(818,689,399.25,"2012-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(929,823,383.08,"2012-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(45,699,808.63,"2012-12-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(448,585,-556.94,"2013-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(778,928,504.13,"2016-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(176,176,927.08,"2014-05-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(458,458,-329.91,"2013-02-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(262,938,-631.19,"2013-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(274,250,400.37,"2015-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(644,676,114.87,"2014-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(641,962,-144.95,"2016-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(48,48,770.89,"2016-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(203,1000,668.07,"2012-05-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(347,83,-978.44,"2013-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(378,46,-226.84,"2015-03-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(7,7,-639.41,"2015-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(759,881,450.88,"2014-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(163,633,-101.50,"2014-06-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(651,155,-283.88,"2014-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(881,881,-685.53,"2016-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(242,767,749.38,"2013-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(350,350,-493.53,"2012-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(102,799,238.21,"2012-06-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(79,350,557.41,"2012-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(325,325,668.15,"2015-10-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(520,905,594.44,"2015-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(418,418,-590.49,"2014-04-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(972,658,-889.11,"2015-03-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(891,959,755.39,"2012-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(366,37,799.13,"2013-09-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(452,452,781.42,"2015-04-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(832,832,-158.08,"2015-09-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(684,473,257.06,"2015-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(406,521,639.47,"2016-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(880,341,863.13,"2016-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(641,641,-490.43,"2016-04-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(789,789,-674.95,"2015-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(266,136,-187.92,"2012-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(990,990,-192.93,"2015-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(432,379,320.45,"2014-10-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(464,311,997.70,"2012-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(991,991,-914.80,"2015-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(35,35,88.39,"2013-10-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(815,729,592.43,"2016-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(101,101,354.40,"2014-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(447,447,-22.59,"2014-01-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(739,739,-858.88,"2016-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(833,833,-863.63,"2012-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(829,829,-946.48,"2014-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(716,730,-895.15,"2013-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(622,622,-210.08,"2013-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(740,583,872.19,"2016-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(773,296,269.81,"2014-02-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(546,546,201.31,"2012-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(224,224,640.29,"2016-07-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(120,72,415.30,"2016-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(751,379,116.23,"2016-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(618,618,-461.55,"2013-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(214,825,-354.87,"2012-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(933,933,905.40,"2016-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(961,988,457.91,"2015-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(225,225,-39.33,"2015-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(240,836,-487.92,"2016-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(385,385,-6.91,"2015-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(267,267,-950.99,"2012-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(436,112,514.24,"2016-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(738,882,68.47,"2015-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(933,933,-392.56,"2014-01-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(664,288,-795.98,"2015-11-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(575,356,96.65,"2013-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(486,884,-741.62,"2013-03-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(602,602,452.50,"2016-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(85,769,-849.63,"2014-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(589,371,332.45,"2016-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(996,996,-880.55,"2016-07-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(746,746,-184.27,"2014-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(680,896,717.83,"2014-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(891,13,57.38,"2015-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(787,787,331.86,"2014-12-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(980,174,394.00,"2016-10-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(395,579,457.99,"2013-04-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(248,173,-380.72,"2015-05-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(449,543,689.17,"2016-11-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(408,997,564.25,"2013-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(965,558,-194.40,"2015-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(201,739,252.31,"2013-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(219,219,-315.55,"2015-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(674,299,916.79,"2013-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(247,921,-238.10,"2013-12-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(670,670,452.20,"2016-05-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(544,544,-636.43,"2014-04-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(472,786,712.55,"2012-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(724,984,293.23,"2014-10-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(431,431,-75.23,"2016-05-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(885,885,222.59,"2012-02-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(17,210,756.39,"2013-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(491,154,-171.06,"2012-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(562,563,-987.92,"2012-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(552,365,45.08,"2013-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(279,795,-859.37,"2012-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(505,505,-989.29,"2012-12-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(604,133,744.85,"2014-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(26,26,-130.24,"2013-11-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(484,484,770.84,"2014-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(123,423,-716.50,"2015-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(722,423,879.75,"2015-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(846,630,686.64,"2013-06-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(410,410,-630.78,"2014-03-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(906,965,416.11,"2016-07-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(829,281,-32.55,"2014-05-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(977,977,-85.48,"2013-10-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(218,218,-57.39,"2014-04-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(41,533,950.22,"2013-09-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(814,17,62.35,"2013-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(78,151,520.50,"2012-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(447,447,644.96,"2013-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(480,480,673.58,"2016-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(652,652,24.11,"2016-06-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(852,852,508.95,"2016-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(990,785,473.80,"2015-04-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(192,768,-898.01,"2012-03-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(66,330,615.74,"2016-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(862,408,-86.09,"2016-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(834,94,714.26,"2013-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(88,13,-382.17,"2016-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(147,227,-28.70,"2014-07-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(524,969,-539.87,"2015-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(188,43,-706.95,"2012-07-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(36,180,-483.52,"2016-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(209,261,959.47,"2013-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(345,345,-339.60,"2014-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(453,768,469.19,"2015-10-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(706,145,-147.94,"2012-06-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(107,333,934.21,"2012-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(423,998,754.55,"2014-05-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(72,271,-555.53,"2015-07-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(143,322,470.68,"2016-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(83,268,648.84,"2014-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(765,877,-389.87,"2015-05-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(879,879,550.72,"2015-06-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(482,492,-7.26,"2015-08-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(522,956,692.61,"2014-11-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(613,70,-908.78,"2016-08-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(884,884,564.88,"2013-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(820,144,-951.08,"2013-01-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(231,231,606.28,"2016-03-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(717,297,-446.84,"2015-09-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(638,312,-388.87,"2016-04-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(576,476,-347.38,"2015-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(92,269,213.30,"2012-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(61,474,-887.40,"2016-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(492,848,-959.87,"2013-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(376,539,-891.65,"2016-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(431,839,-245.21,"2014-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(767,934,212.24,"2013-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(165,219,849.23,"2012-10-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(358,358,812.74,"2014-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(445,445,-140.61,"2014-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(379,955,-275.78,"2014-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(137,137,434.49,"2013-02-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(692,126,-641.97,"2014-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(939,664,882.44,"2016-05-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(807,807,131.29,"2013-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(961,354,277.24,"2014-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(548,342,111.53,"2016-11-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(876,968,-500.98,"2012-09-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(887,402,-977.19,"2012-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(166,500,236.27,"2015-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(874,582,-114.78,"2015-07-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(140,898,-783.42,"2012-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(55,541,-609.19,"2016-11-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(411,735,-433.06,"2015-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(462,626,506.46,"2013-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(577,984,909.26,"2014-05-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(389,392,458.42,"2015-06-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(325,805,712.72,"2014-03-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(895,895,-988.38,"2012-08-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(519,44,53.58,"2014-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(639,131,-909.08,"2015-01-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(906,762,51.63,"2016-03-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(79,79,851.59,"2013-06-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(757,219,316.82,"2012-08-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(434,811,-841.42,"2012-07-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(625,625,-785.67,"2013-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(566,566,-720.87,"2014-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(133,1,186.55,"2016-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(927,474,144.85,"2012-11-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(367,354,792.50,"2016-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(121,5,834.89,"2012-02-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(649,649,647.23,"2012-01-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(403,108,-886.98,"2015-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(642,978,-79.54,"2015-11-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(700,700,753.05,"2014-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(992,937,995.81,"2013-01-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(253,215,450.68,"2014-05-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(583,213,-334.51,"2015-06-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(683,145,-507.00,"2015-04-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(804,680,-622.64,"2013-10-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(590,590,-749.71,"2016-10-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(796,851,163.68,"2016-07-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(530,364,680.44,"2014-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(775,802,-943.35,"2013-05-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(886,886,-190.03,"2015-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(680,689,644.32,"2012-08-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(181,181,-997.84,"2014-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(908,908,-820.94,"2013-08-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(727,727,653.67,"2012-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(864,33,-568.51,"2014-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(97,730,797.13,"2012-05-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(902,633,838.22,"2016-02-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(172,172,-325.57,"2013-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(79,314,-284.51,"2013-11-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(908,350,312.22,"2016-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(803,253,293.31,"2014-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(28,598,880.66,"2015-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(830,883,-122.20,"2013-10-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(619,905,-439.54,"2013-09-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(118,436,319.10,"2016-01-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(390,357,987.87,"2016-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(1,889,740.04,"2014-11-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(858,858,255.11,"2015-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(542,778,-449.90,"2014-01-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(942,942,679.54,"2015-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(986,986,-425.63,"2015-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(360,260,-69.36,"2013-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(726,577,268.01,"2012-02-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(953,953,775.56,"2014-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(814,318,-693.73,"2014-02-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(427,608,-774.43,"2012-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(420,299,64.39,"2014-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(337,580,-461.33,"2015-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(530,560,-931.50,"2012-07-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(42,42,-377.86,"2014-01-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(766,791,-652.83,"2014-12-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(336,181,-839.60,"2013-05-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(909,380,-980.74,"2012-06-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(378,378,327.49,"2016-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(794,794,887.71,"2015-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(536,469,1.88,"2012-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(791,206,560.56,"2015-05-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(486,402,876.51,"2015-12-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(47,992,-951.96,"2016-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(542,921,-718.95,"2016-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(694,694,-510.59,"2015-10-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(657,657,-310.37,"2013-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(657,793,-685.63,"2016-01-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(490,751,851.89,"2016-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(500,500,55.87,"2014-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(514,898,-918.13,"2015-07-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(206,73,241.37,"2015-04-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(360,88,226.91,"2014-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(881,474,-977.43,"2014-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(618,307,-275.17,"2013-11-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(276,607,-569.77,"2015-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(121,252,170.26,"2013-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(197,568,896.70,"2012-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(263,200,519.74,"2013-09-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(677,615,-368.92,"2013-04-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(198,173,840.85,"2013-09-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(553,553,-858.08,"2012-11-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(848,848,716.84,"2015-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(757,506,527.73,"2012-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(499,499,414.65,"2016-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(892,962,89.63,"2016-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(725,421,593.61,"2012-01-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(949,949,-747.25,"2012-06-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(853,197,-641.17,"2014-03-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(629,629,-426.05,"2016-06-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(252,252,-842.16,"2013-07-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(464,973,783.66,"2016-05-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(945,945,-861.68,"2013-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(771,683,-474.31,"2012-10-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(153,117,190.31,"2014-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(228,228,120.96,"2015-04-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(731,572,-880.57,"2016-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(490,21,-916.72,"2013-04-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(183,55,-163.73,"2012-11-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(796,796,-407.26,"2012-12-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(991,687,429.50,"2013-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(521,521,-270.47,"2016-02-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(897,912,639.42,"2014-05-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(171,774,470.30,"2012-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(549,60,-64.82,"2013-04-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(630,630,-703.37,"2012-10-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(231,231,947.88,"2012-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(562,758,-719.63,"2014-09-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(360,334,-862.25,"2014-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(766,645,100.45,"2014-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(757,946,969.01,"2014-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(247,247,-517.10,"2013-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(531,589,231.93,"2014-04-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(711,888,894.33,"2013-03-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(821,821,-942.62,"2012-11-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(27,27,120.87,"2015-12-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(562,926,542.37,"2016-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(754,774,162.14,"2015-09-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(214,491,968.66,"2014-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(191,191,560.96,"2015-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(253,471,917.07,"2015-01-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(620,728,-804.74,"2014-11-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(692,507,-636.06,"2015-12-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(504,378,762.06,"2012-12-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(21,979,602.18,"2013-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(168,443,887.51,"2015-05-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(356,937,7.66,"2015-12-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(172,34,197.71,"2015-03-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(716,716,245.11,"2014-11-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(888,888,-720.46,"2016-08-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(836,836,98.86,"2014-01-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(971,971,-638.51,"2014-01-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(565,929,563.89,"2012-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(88,995,22.91,"2016-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(826,826,158.31,"2016-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(486,486,-790.37,"2016-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(813,361,-477.66,"2015-03-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(724,585,811.50,"2012-09-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(950,950,779.71,"2015-09-02");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(249,37,-658.83,"2014-11-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(92,92,-326.41,"2012-10-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(180,399,504.47,"2016-04-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(862,196,871.04,"2015-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(479,477,-701.31,"2016-09-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(297,237,394.49,"2014-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(807,87,-22.99,"2015-05-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(967,890,432.63,"2015-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(627,484,7.33,"2015-05-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(521,103,-897.09,"2014-06-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(539,539,116.14,"2014-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(426,763,-50.24,"2014-05-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(592,592,-760.78,"2015-08-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(731,731,808.60,"2013-07-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(107,758,675.83,"2013-02-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(560,560,585.51,"2012-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(693,723,-544.16,"2013-05-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(668,170,217.35,"2014-11-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(198,198,387.19,"2013-09-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(285,285,470.17,"2014-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(544,550,497.69,"2014-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(38,631,398.05,"2013-05-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(720,585,-143.28,"2013-11-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(706,443,-360.54,"2013-01-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(268,457,-34.14,"2013-10-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(253,741,-184.59,"2013-02-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(563,563,-495.27,"2014-05-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(511,199,-97.06,"2016-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(165,537,-240.09,"2012-08-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(419,419,-417.82,"2014-03-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(118,506,650.67,"2014-02-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(939,107,-681.76,"2015-05-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(239,239,640.22,"2014-05-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(98,528,836.59,"2012-06-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(716,279,821.24,"2014-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(111,200,53.18,"2016-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(556,556,205.55,"2013-07-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(492,708,-874.53,"2016-04-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(492,557,-531.20,"2013-11-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(796,796,-107.77,"2013-10-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(897,897,-583.33,"2013-06-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(173,331,-773.00,"2013-02-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(214,13,380.41,"2015-08-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(523,999,-654.20,"2014-09-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(730,367,-810.35,"2012-11-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(620,620,975.24,"2014-03-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(698,208,505.61,"2014-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(15,15,-594.61,"2012-04-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(403,403,772.33,"2014-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(105,473,-621.01,"2013-01-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(750,750,487.69,"2014-01-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(995,777,25.54,"2016-07-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(247,157,162.68,"2016-08-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(964,34,199.44,"2015-03-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(956,446,365.67,"2014-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(772,449,67.81,"2016-08-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(919,944,-380.56,"2013-11-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(242,955,743.60,"2012-02-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(23,23,143.85,"2016-10-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(833,833,-177.70,"2015-12-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(129,109,356.06,"2014-05-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(218,221,-212.82,"2016-02-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(322,322,-78.63,"2014-08-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(125,964,682.25,"2016-02-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(569,569,69.79,"2015-09-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(17,589,682.84,"2013-07-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(339,339,-754.32,"2016-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(58,251,-713.72,"2016-07-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(644,881,-87.26,"2014-03-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(186,186,-449.21,"2012-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(426,62,-653.74,"2014-03-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(565,503,-947.93,"2014-11-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(204,37,-288.38,"2012-11-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(26,334,-823.76,"2014-04-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(521,521,344.04,"2012-09-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(786,786,-417.87,"2016-03-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(617,617,-643.78,"2012-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(494,494,347.88,"2015-04-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(569,569,-11.31,"2013-06-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(87,88,714.74,"2012-06-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(727,155,-754.35,"2012-07-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(34,298,602.08,"2014-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(821,901,702.43,"2016-09-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(590,590,275.20,"2015-04-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(161,161,-870.88,"2016-08-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(699,98,20.43,"2015-02-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(989,480,734.40,"2013-08-17");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(544,512,-465.05,"2015-03-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(439,530,-519.69,"2014-01-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(196,10,-410.48,"2012-01-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(2,587,208.61,"2013-02-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(263,166,121.50,"2016-08-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(590,50,220.37,"2014-05-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(397,397,510.57,"2015-04-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(670,578,-99.83,"2015-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(347,639,-825.53,"2015-12-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(212,657,-372.57,"2016-09-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(901,738,5.48,"2012-06-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(973,579,-183.17,"2013-09-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(771,697,-366.59,"2015-09-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(655,680,-789.06,"2013-04-07");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(866,866,550.86,"2016-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(449,449,-850.96,"2016-12-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(606,973,-245.56,"2015-12-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(153,997,423.28,"2012-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(916,916,-81.96,"2015-08-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(956,594,505.75,"2012-10-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(403,403,-162.18,"2014-08-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(205,734,-108.45,"2015-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(931,862,-1000.19,"2012-09-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(161,32,-487.13,"2016-11-13");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(84,205,44.89,"2013-10-11");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(599,599,73.29,"2015-11-21");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(338,338,-487.25,"2013-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(781,145,35.36,"2015-02-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(933,818,704.72,"2014-07-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(223,19,-52.34,"2016-03-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(102,306,-296.25,"2014-02-14");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(688,688,-112.73,"2015-11-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(410,867,-87.43,"2015-12-22");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(124,124,160.71,"2015-05-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(335,335,710.85,"2014-09-08");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(881,430,908.32,"2012-06-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(905,905,993.17,"2012-09-26");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(716,716,-332.76,"2012-07-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(445,559,-30.21,"2016-07-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(201,82,70.32,"2012-01-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(500,894,884.14,"2014-06-27");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(276,95,773.01,"2014-05-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(582,897,123.21,"2015-04-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(317,317,26.05,"2012-09-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(792,792,941.56,"2012-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(616,616,-388.78,"2012-12-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(122,122,418.53,"2015-01-18");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(746,296,-709.47,"2015-03-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(182,182,926.00,"2016-07-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(312,611,927.48,"2015-09-01");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(251,773,-202.45,"2013-01-16");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(270,520,151.58,"2013-03-25");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(687,386,829.88,"2013-03-04");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(585,868,778.96,"2012-07-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(986,951,248.71,"2015-01-24");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(684,772,-713.62,"2012-03-09");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(874,874,-477.56,"2015-03-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(901,416,433.79,"2013-04-10");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(892,132,-232.64,"2013-11-23");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(38,700,622.13,"2015-08-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(101,861,-163.82,"2012-12-12");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(410,284,654.94,"2015-04-15");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(191,227,458.80,"2013-10-19");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(401,702,-863.65,"2014-04-20");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(209,209,836.27,"2012-08-03");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(414,30,91.59,"2012-11-28");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(725,134,56.30,"2015-03-05");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(806,121,-719.94,"2014-02-06");
-INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionDate) VALUES(990,584,47.57,"2016-08-14");
+INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionType, TransactionDate) VALUES
+(705,933,998.85,"TRANSFER","2015-01-25")
+,(784,375,914.24,"TRANSFER","2015-07-25")
+,(717,328,696.23,"TRANSFER","2012-06-20")
+,(138,138,-192.66,"SELF","2014-06-23")
+,(840,840,-445.55,"SELF","2012-05-05")
+,(117,810,471.55,"TRANSFER","2014-11-18")
+,(352,352,-669.40,"SELF","2013-06-08")
+,(343,799,384.11,"TRANSFER","2015-09-18")
+,(225,358,401.33,"TRANSFER","2016-08-16")
+,(779,370,844.77,"TRANSFER","2013-01-16")
+,(271,271,86.94,"SELF","2013-06-04")
+,(998,998,852.00,"SELF","2013-01-11")
+,(709,709,237.01,"SELF","2016-10-07")
+,(60,483,130.46,"TRANSFER","2012-09-07")
+,(249,249,377.90,"SELF","2014-01-27")
+,(287,575,749.79,"TRANSFER","2016-01-18")
+,(278,187,364.99,"TRANSFER","2016-04-06")
+,(585,132,807.77,"TRANSFER","2014-05-12")
+,(439,498,783.70,"TRANSFER","2016-09-11")
+,(760,522,15.95,"TRANSFER","2012-06-08")
+,(683,683,-309.70,"SELF","2015-12-14")
+,(361,780,423.83,"TRANSFER","2016-05-07")
+,(314,314,-361.67,"SELF","2014-09-10")
+,(229,285,324.13,"TRANSFER","2013-01-23")
+,(74,813,319.14,"TRANSFER","2014-01-06")
+,(65,410,637.45,"TRANSFER","2016-06-24")
+,(330,431,478.34,"TRANSFER","2016-02-13")
+,(997,811,625.73,"TRANSFER","2013-11-06")
+,(575,366,996.77,"TRANSFER","2013-01-21")
+,(615,312,208.94,"TRANSFER","2016-08-10")
+,(967,58,71.33,"TRANSFER","2013-08-23")
+,(897,22,663.20,"TRANSFER","2013-04-28")
+,(100,100,-613.84,"SELF","2016-11-09")
+,(600,384,960.20,"TRANSFER","2016-12-01")
+,(364,749,930.05,"TRANSFER","2014-01-24")
+,(213,785,881.85,"TRANSFER","2014-09-20")
+,(370,370,254.05,"SELF","2014-08-11")
+,(382,382,-802.10,"SELF","2012-10-09")
+,(665,393,910.93,"TRANSFER","2014-12-02")
+,(490,490,754.99,"SELF","2013-12-15")
+,(432,829,701.88,"TRANSFER","2015-04-16")
+,(175,175,-391.13,"SELF","2012-02-10")
+,(399,399,-7.41,"SELF","2012-12-15")
+,(660,34,184.26,"TRANSFER","2013-06-05")
+,(387,387,479.71,"SELF","2013-07-19")
+,(28,322,538.59,"TRANSFER","2014-03-26")
+,(428,428,-973.59,"SELF","2015-04-16")
+,(936,134,544.21,"TRANSFER","2015-10-03")
+,(114,114,-873.22,"SELF","2014-01-06")
+,(872,440,998.88,"TRANSFER","2014-12-27")
+,(775,612,412.46,"TRANSFER","2012-12-17")
+,(437,445,971.57,"TRANSFER","2014-08-07")
+,(727,705,925.97,"TRANSFER","2012-02-01")
+,(674,674,556.10,"SELF","2015-11-03")
+,(692,762,899.79,"TRANSFER","2014-03-18")
+,(523,523,126.11,"SELF","2013-01-02")
+,(402,418,811.70,"TRANSFER","2014-11-26")
+,(574,867,237.26,"TRANSFER","2012-02-08")
+,(383,383,-249.42,"SELF","2014-05-20")
+,(774,774,702.97,"SELF","2016-10-03")
+,(952,952,-681.04,"SELF","2013-01-11")
+,(783,261,597.43,"TRANSFER","2013-03-14")
+,(885,776,698.38,"TRANSFER","2014-09-21")
+,(633,986,129.10,"TRANSFER","2012-08-25")
+,(562,552,600.48,"TRANSFER","2016-07-04")
+,(456,456,-91.13,"SELF","2014-01-05")
+,(381,836,90.79,"TRANSFER","2014-08-17")
+,(305,353,756.71,"TRANSFER","2012-04-24")
+,(585,886,39.29,"TRANSFER","2014-05-11")
+,(588,260,489.86,"TRANSFER","2016-02-09")
+,(841,841,271.32,"SELF","2012-07-19")
+,(93,769,430.96,"TRANSFER","2013-03-11")
+,(272,272,514.92,"SELF","2014-05-21")
+,(402,946,278.71,"TRANSFER","2012-04-20")
+,(736,849,716.85,"TRANSFER","2015-09-07")
+,(499,501,753.44,"TRANSFER","2015-08-27")
+,(89,598,781.12,"TRANSFER","2012-05-17")
+,(805,805,27.06,"SELF","2012-09-06")
+,(99,99,-298.22,"SELF","2014-04-03")
+,(824,542,512.19,"TRANSFER","2015-08-27")
+,(277,258,110.75,"TRANSFER","2016-10-27")
+,(958,958,-911.64,"SELF","2016-09-01")
+,(43,145,625.25,"TRANSFER","2013-12-04")
+,(296,768,348.60,"TRANSFER","2015-09-10")
+,(505,427,656.44,"TRANSFER","2016-11-11")
+,(79,79,-446.34,"SELF","2012-01-03")
+,(933,56,847.75,"TRANSFER","2014-02-08")
+,(396,396,928.46,"SELF","2014-01-28")
+,(918,210,197.70,"TRANSFER","2014-04-06")
+,(94,838,28.98,"TRANSFER","2015-12-18")
+,(586,586,-295.04,"SELF","2015-12-27")
+,(137,458,15.14,"TRANSFER","2012-02-27")
+,(854,854,855.37,"SELF","2016-10-13")
+,(44,886,424.09,"TRANSFER","2015-01-21")
+,(490,781,795.46,"TRANSFER","2012-02-27")
+,(651,999,969.63,"TRANSFER","2013-07-22")
+,(874,536,230.85,"TRANSFER","2014-09-16")
+,(696,735,916.70,"TRANSFER","2012-09-09")
+,(541,938,235.46,"TRANSFER","2012-01-04")
+,(398,642,0.72,"TRANSFER","2013-10-13")
+,(779,27,877.92,"TRANSFER","2014-09-25")
+,(416,862,387.08,"TRANSFER","2013-10-22")
+,(951,346,534.02,"TRANSFER","2014-08-10")
+,(646,646,-630.80,"SELF","2016-08-03")
+,(399,280,151.57,"TRANSFER","2014-03-27")
+,(568,120,113.38,"TRANSFER","2012-12-20")
+,(431,137,576.37,"TRANSFER","2016-05-22")
+,(25,814,711.80,"TRANSFER","2013-10-09")
+,(821,213,344.32,"TRANSFER","2012-06-21")
+,(389,389,-482.20,"SELF","2012-08-25")
+,(833,761,496.53,"TRANSFER","2016-05-16")
+,(865,921,294.37,"TRANSFER","2016-11-22")
+,(548,548,107.73,"SELF","2013-01-09")
+,(823,823,250.93,"SELF","2013-01-09")
+,(398,363,802.15,"TRANSFER","2015-10-23")
+,(709,709,296.84,"SELF","2012-03-21")
+,(650,650,-131.90,"SELF","2015-03-02")
+,(986,434,583.09,"TRANSFER","2014-07-15")
+,(499,499,-288.05,"SELF","2014-12-19")
+,(554,554,934.50,"SELF","2016-08-28")
+,(199,476,592.99,"TRANSFER","2013-12-20")
+,(19,128,988.42,"TRANSFER","2016-08-11")
+,(500,719,283.70,"TRANSFER","2014-09-17")
+,(112,498,205.81,"TRANSFER","2013-08-28")
+,(494,746,125.35,"TRANSFER","2016-04-09")
+,(812,978,78.36,"TRANSFER","2012-03-17")
+,(347,347,-895.72,"SELF","2015-02-01")
+,(977,902,566.57,"TRANSFER","2014-12-02")
+,(351,717,455.59,"TRANSFER","2012-08-14")
+,(762,36,601.33,"TRANSFER","2014-08-06")
+,(594,666,487.49,"TRANSFER","2014-10-28")
+,(348,348,-693.87,"SELF","2013-01-01")
+,(68,68,246.42,"SELF","2015-05-28")
+,(311,311,-607.04,"SELF","2012-09-08")
+,(673,673,411.11,"SELF","2013-06-25")
+,(983,723,84.79,"TRANSFER","2016-08-13")
+,(407,407,-715.36,"SELF","2016-08-23")
+,(25,684,531.92,"TRANSFER","2013-05-14")
+,(601,601,257.72,"SELF","2015-04-14")
+,(754,419,33.20,"TRANSFER","2013-07-27")
+,(134,630,544.92,"TRANSFER","2012-06-22")
+,(468,973,812.42,"TRANSFER","2015-07-12")
+,(829,829,-223.43,"SELF","2016-06-15")
+,(160,645,860.95,"TRANSFER","2014-04-19")
+,(984,984,-415.58,"SELF","2015-10-12")
+,(2,465,927.57,"TRANSFER","2012-08-08")
+,(611,411,117.08,"TRANSFER","2015-11-05")
+,(841,651,196.83,"TRANSFER","2015-09-22")
+,(79,79,-440.98,"SELF","2015-05-04")
+,(619,619,-622.90,"SELF","2013-12-15")
+,(762,679,920.52,"TRANSFER","2014-10-13")
+,(680,806,236.21,"TRANSFER","2013-09-15")
+,(401,231,724.16,"TRANSFER","2014-06-12")
+,(172,162,664.81,"TRANSFER","2015-05-23")
+,(936,936,861.19,"SELF","2016-10-10")
+,(145,145,-827.32,"SELF","2014-09-10")
+,(347,683,153.48,"TRANSFER","2013-03-18")
+,(804,561,520.61,"TRANSFER","2013-05-08")
+,(367,367,-327.89,"SELF","2012-10-23")
+,(605,946,583.90,"TRANSFER","2016-12-21")
+,(911,699,944.03,"TRANSFER","2015-02-11")
+,(645,645,42.30,"SELF","2015-04-27")
+,(261,261,775.21,"SELF","2014-07-13")
+,(661,762,772.16,"TRANSFER","2014-11-10")
+,(35,35,-58.01,"SELF","2014-05-05")
+,(312,662,539.77,"TRANSFER","2014-10-09")
+,(935,106,682.75,"TRANSFER","2016-01-07")
+,(870,141,44.75,"TRANSFER","2016-11-10")
+,(229,890,687.66,"TRANSFER","2013-03-03")
+,(754,961,225.89,"TRANSFER","2012-09-24")
+,(629,629,-330.58,"SELF","2013-11-03")
+,(426,928,540.80,"TRANSFER","2012-09-27")
+,(623,623,-994.30,"SELF","2013-05-21")
+,(15,895,393.29,"TRANSFER","2012-09-20")
+,(210,210,956.62,"SELF","2013-07-23")
+,(253,253,-356.02,"SELF","2014-03-10")
+,(126,126,-86.81,"SELF","2012-01-03")
+,(40,438,303.59,"TRANSFER","2016-05-13")
+,(909,315,241.00,"TRANSFER","2015-06-19")
+,(797,994,540.46,"TRANSFER","2014-07-08")
+,(681,681,694.69,"SELF","2016-07-06")
+,(425,806,63.40,"TRANSFER","2012-09-01")
+,(491,543,453.99,"TRANSFER","2013-03-10")
+,(522,522,357.61,"SELF","2014-11-26")
+,(519,519,821.54,"SELF","2012-12-25")
+,(525,799,674.60,"TRANSFER","2012-12-24")
+,(185,152,882.22,"TRANSFER","2015-03-11")
+,(984,325,44.20,"TRANSFER","2014-08-20")
+,(161,186,944.76,"TRANSFER","2015-04-20")
+,(462,959,272.52,"TRANSFER","2016-08-24")
+,(3,978,126.30,"TRANSFER","2012-02-21")
+,(804,570,314.80,"TRANSFER","2015-02-28")
+,(93,781,530.34,"TRANSFER","2015-08-22")
+,(487,487,386.40,"SELF","2012-08-15")
+,(302,302,-130.38,"SELF","2014-07-10")
+,(566,566,-475.25,"SELF","2016-06-25")
+,(526,526,-322.81,"SELF","2014-08-28")
+,(828,645,419.05,"TRANSFER","2015-01-15")
+,(436,332,344.50,"TRANSFER","2016-02-28")
+,(760,760,-434.55,"SELF","2012-09-23")
+,(206,206,-435.86,"SELF","2013-10-10")
+,(800,935,534.50,"TRANSFER","2015-12-19")
+,(967,217,767.53,"TRANSFER","2016-09-22")
+,(809,809,983.65,"SELF","2013-07-24")
+,(679,707,377.49,"TRANSFER","2013-08-15")
+,(306,779,394.85,"TRANSFER","2014-10-10")
+,(253,253,-376.30,"SELF","2014-03-17")
+,(594,594,-992.76,"SELF","2016-09-04")
+,(954,959,676.91,"TRANSFER","2012-07-08")
+,(546,895,553.67,"TRANSFER","2012-10-10")
+,(232,954,955.23,"TRANSFER","2012-06-07")
+,(622,845,244.56,"TRANSFER","2016-04-03")
+,(677,677,300.80,"SELF","2015-01-25")
+,(352,352,-499.82,"SELF","2014-10-04")
+,(124,126,44.53,"TRANSFER","2012-11-16")
+,(628,737,289.22,"TRANSFER","2016-09-23")
+,(954,564,519.86,"TRANSFER","2016-03-04")
+,(666,78,146.98,"TRANSFER","2012-02-15")
+,(871,342,943.24,"TRANSFER","2012-05-26")
+,(325,886,165.48,"TRANSFER","2014-07-08")
+,(523,523,-173.09,"SELF","2014-04-20")
+,(80,80,761.00,"SELF","2012-08-06")
+,(945,709,105.81,"TRANSFER","2016-05-26")
+,(626,689,460.28,"TRANSFER","2012-09-05")
+,(960,960,351.65,"SELF","2014-06-03")
+,(416,416,-998.39,"SELF","2015-05-23")
+,(29,29,985.20,"SELF","2013-12-06")
+,(902,902,-869.37,"SELF","2012-11-12")
+,(564,9,835.81,"TRANSFER","2014-05-24")
+,(515,515,967.43,"SELF","2013-09-21")
+,(714,789,808.98,"TRANSFER","2015-01-23")
+,(809,809,737.83,"SELF","2013-10-03")
+,(247,375,113.12,"TRANSFER","2013-07-25")
+,(195,797,423.03,"TRANSFER","2013-07-08")
+,(368,368,44.37,"SELF","2012-10-14")
+,(959,959,812.22,"SELF","2016-11-06")
+,(95,808,864.71,"TRANSFER","2015-05-20")
+,(760,760,-161.08,"SELF","2014-04-06")
+,(533,262,592.49,"TRANSFER","2016-05-19")
+,(651,979,909.52,"TRANSFER","2016-02-06")
+,(775,775,218.34,"SELF","2013-09-04")
+,(270,270,162.59,"SELF","2016-08-11")
+,(984,984,-771.51,"SELF","2013-07-09")
+,(415,535,66.71,"TRANSFER","2012-06-02")
+,(400,841,337.78,"TRANSFER","2015-05-20")
+,(755,755,129.41,"SELF","2012-01-14")
+,(716,716,-472.20,"SELF","2012-07-07")
+,(356,673,221.97,"TRANSFER","2016-10-14")
+,(167,167,-975.64,"SELF","2015-08-15")
+,(279,74,691.05,"TRANSFER","2015-08-13")
+,(103,846,268.94,"TRANSFER","2014-05-26")
+,(476,29,820.19,"TRANSFER","2013-02-26")
+,(605,781,886.14,"TRANSFER","2016-08-09")
+,(481,364,121.02,"TRANSFER","2013-10-05")
+,(927,927,-648.09,"SELF","2013-08-20")
+,(422,277,476.09,"TRANSFER","2016-04-10")
+,(621,283,107.14,"TRANSFER","2016-06-24")
+,(743,786,258.78,"TRANSFER","2012-06-14")
+,(59,527,912.04,"TRANSFER","2016-02-11")
+,(673,576,219.04,"TRANSFER","2016-07-26")
+,(950,929,315.79,"TRANSFER","2012-08-07")
+,(447,447,-179.51,"SELF","2014-06-13")
+,(85,742,881.62,"TRANSFER","2013-05-09")
+,(203,876,447.17,"TRANSFER","2012-11-04")
+,(458,409,636.93,"TRANSFER","2014-05-14")
+,(728,568,853.50,"TRANSFER","2013-07-13")
+,(630,161,194.69,"TRANSFER","2012-04-24")
+,(818,818,-79.11,"SELF","2015-08-16")
+,(237,439,694.56,"TRANSFER","2015-02-09")
+,(445,177,454.19,"TRANSFER","2015-07-26")
+,(607,752,184.43,"TRANSFER","2014-05-09")
+,(661,130,469.88,"TRANSFER","2014-01-09")
+,(730,730,559.55,"SELF","2015-03-14")
+,(802,802,-468.04,"SELF","2012-03-05")
+,(602,602,-881.12,"SELF","2014-07-22")
+,(863,58,799.30,"TRANSFER","2014-01-06")
+,(215,490,278.81,"TRANSFER","2015-12-14")
+,(732,714,175.57,"TRANSFER","2014-10-12")
+,(821,369,997.04,"TRANSFER","2014-03-27")
+,(936,519,760.62,"TRANSFER","2013-02-24")
+,(865,11,529.57,"TRANSFER","2013-03-18")
+,(71,306,127.45,"TRANSFER","2015-04-22")
+,(802,790,952.73,"TRANSFER","2015-08-21")
+,(249,84,607.60,"TRANSFER","2012-12-08")
+,(775,775,659.18,"SELF","2013-08-05")
+,(166,776,90.20,"TRANSFER","2015-10-25")
+,(968,205,140.65,"TRANSFER","2016-04-03")
+,(166,397,317.52,"TRANSFER","2015-08-27")
+,(640,104,779.03,"TRANSFER","2012-01-08")
+,(147,147,572.99,"SELF","2015-04-15")
+,(890,788,220.77,"TRANSFER","2014-06-28")
+,(813,559,862.79,"TRANSFER","2015-06-23")
+,(813,565,373.76,"TRANSFER","2013-12-28")
+,(551,803,503.64,"TRANSFER","2015-06-18")
+,(904,904,655.28,"SELF","2012-01-26")
+,(616,916,779.61,"TRANSFER","2013-04-18")
+,(659,746,650.61,"TRANSFER","2012-11-09")
+,(257,257,164.83,"SELF","2013-10-22")
+,(854,824,447.78,"TRANSFER","2016-11-01")
+,(20,271,979.28,"TRANSFER","2013-11-26")
+,(716,716,-471.43,"SELF","2014-12-10")
+,(852,823,74.36,"TRANSFER","2015-12-24")
+,(33,33,-184.57,"SELF","2013-07-16")
+,(120,563,961.98,"TRANSFER","2013-08-27")
+,(698,698,-972.37,"SELF","2014-10-13")
+,(611,984,648.71,"TRANSFER","2015-03-15")
+,(162,120,978.88,"TRANSFER","2014-10-06")
+,(546,546,149.42,"SELF","2016-01-21")
+,(915,626,931.23,"TRANSFER","2014-04-22")
+,(538,538,140.74,"SELF","2012-10-04")
+,(704,250,419.32,"TRANSFER","2012-11-13")
+,(437,164,258.26,"TRANSFER","2012-12-28")
+,(304,304,-73.62,"SELF","2014-10-19")
+,(77,77,-392.01,"SELF","2016-06-12")
+,(63,63,867.74,"SELF","2015-06-07")
+,(954,966,388.50,"TRANSFER","2016-04-01")
+,(929,418,822.72,"TRANSFER","2015-05-05")
+,(398,488,541.08,"TRANSFER","2016-05-13")
+,(651,747,611.80,"TRANSFER","2016-06-25")
+,(870,984,898.72,"TRANSFER","2015-02-28")
+,(905,905,-777.46,"SELF","2012-09-05")
+,(584,164,568.40,"TRANSFER","2013-07-14")
+,(549,549,166.63,"SELF","2016-10-01")
+,(305,657,280.99,"TRANSFER","2012-08-03")
+,(806,494,124.67,"TRANSFER","2013-05-06")
+,(23,23,-742.15,"SELF","2016-11-11")
+,(780,385,343.72,"TRANSFER","2015-04-20")
+,(805,16,601.67,"TRANSFER","2015-08-19")
+,(891,355,289.46,"TRANSFER","2014-03-27")
+,(10,167,331.64,"TRANSFER","2014-02-16")
+,(866,866,-853.81,"SELF","2015-02-01")
+,(424,36,430.89,"TRANSFER","2012-10-06")
+,(271,340,733.68,"TRANSFER","2014-07-26")
+,(417,417,-845.55,"SELF","2016-11-18")
+,(255,543,282.84,"TRANSFER","2014-11-15")
+,(974,70,201.30,"TRANSFER","2014-08-25")
+,(47,596,355.29,"TRANSFER","2016-06-19")
+,(832,832,-313.66,"SELF","2015-06-26")
+,(745,890,196.75,"TRANSFER","2013-05-14")
+,(706,706,646.44,"SELF","2013-09-21")
+,(877,232,281.52,"TRANSFER","2015-12-01")
+,(470,470,912.72,"SELF","2012-10-18")
+,(375,991,670.84,"TRANSFER","2012-12-13")
+,(703,483,610.71,"TRANSFER","2013-03-25")
+,(137,917,962.89,"TRANSFER","2014-06-12")
+,(238,238,-671.09,"SELF","2015-02-27")
+,(920,889,512.63,"TRANSFER","2016-07-25")
+,(397,251,206.79,"TRANSFER","2012-11-18")
+,(748,291,476.48,"TRANSFER","2012-10-12")
+,(81,15,974.29,"TRANSFER","2014-01-20")
+,(360,360,383.67,"SELF","2016-02-24")
+,(965,304,50.67,"TRANSFER","2016-05-06")
+,(454,348,312.16,"TRANSFER","2014-04-07")
+,(95,95,429.77,"SELF","2015-05-10")
+,(494,774,517.25,"TRANSFER","2015-01-01")
+,(641,261,110.76,"TRANSFER","2013-03-27")
+,(139,139,-704.95,"SELF","2014-08-28")
+,(971,685,503.18,"TRANSFER","2014-09-07")
+,(964,153,564.95,"TRANSFER","2015-10-20")
+,(435,435,-12.92,"SELF","2016-12-19")
+,(312,312,469.97,"SELF","2013-07-11")
+,(139,139,-273.09,"SELF","2015-06-03")
+,(916,916,180.74,"SELF","2014-02-03")
+,(952,952,775.48,"SELF","2012-03-02")
+,(32,84,949.61,"TRANSFER","2013-01-10")
+,(199,730,547.44,"TRANSFER","2013-08-04")
+,(369,500,741.88,"TRANSFER","2013-12-04")
+,(985,344,348.95,"TRANSFER","2012-05-20")
+,(781,839,552.95,"TRANSFER","2016-01-18")
+,(253,207,196.72,"TRANSFER","2013-04-02")
+,(170,512,781.86,"TRANSFER","2016-02-09")
+,(615,615,-207.53,"SELF","2016-04-05")
+,(677,660,218.78,"TRANSFER","2013-02-24")
+,(26,26,-198.19,"SELF","2015-05-28")
+,(76,25,596.12,"TRANSFER","2012-04-06")
+,(965,811,322.56,"TRANSFER","2012-09-03")
+,(702,896,243.94,"TRANSFER","2016-05-04")
+,(164,355,520.62,"TRANSFER","2012-05-05")
+,(332,436,90.48,"TRANSFER","2014-10-23")
+,(558,151,823.59,"TRANSFER","2013-05-09")
+,(596,430,476.71,"TRANSFER","2016-04-25")
+,(715,156,326.64,"TRANSFER","2013-05-18")
+,(796,796,-825.15,"SELF","2014-12-14")
+,(811,531,332.09,"TRANSFER","2015-02-10")
+,(433,442,396.89,"TRANSFER","2014-10-03")
+,(237,188,349.80,"TRANSFER","2013-08-19")
+,(585,585,-751.35,"SELF","2012-05-05")
+,(671,671,-766.16,"SELF","2015-01-24")
+,(467,941,999.11,"TRANSFER","2013-02-08")
+,(592,592,437.20,"SELF","2015-04-11")
+,(803,803,-116.91,"SELF","2014-10-12")
+,(582,853,81.45,"TRANSFER","2015-04-18")
+,(894,894,39.39,"SELF","2012-07-13")
+,(804,315,450.48,"TRANSFER","2013-07-15")
+,(555,183,508.65,"TRANSFER","2013-12-09")
+,(210,210,152.98,"SELF","2015-01-01")
+,(703,980,989.63,"TRANSFER","2015-06-11")
+,(579,109,245.39,"TRANSFER","2015-05-06")
+,(207,2,514.62,"TRANSFER","2013-10-27")
+,(458,244,504.62,"TRANSFER","2016-01-08")
+,(262,100,874.77,"TRANSFER","2013-03-18")
+,(90,90,-108.09,"SELF","2015-03-01")
+,(130,968,919.82,"TRANSFER","2014-08-07")
+,(680,87,350.66,"TRANSFER","2015-03-09")
+,(20,571,758.19,"TRANSFER","2014-04-16")
+,(198,117,105.67,"TRANSFER","2013-06-23")
+,(812,812,716.90,"SELF","2015-01-23")
+,(655,140,741.70,"TRANSFER","2014-07-14")
+,(821,237,681.13,"TRANSFER","2012-04-21")
+,(694,670,29.25,"TRANSFER","2015-07-06")
+,(744,744,80.06,"SELF","2015-05-28")
+,(74,74,556.42,"SELF","2015-02-24")
+,(727,831,205.22,"TRANSFER","2012-10-12")
+,(774,279,422.46,"TRANSFER","2016-02-26")
+,(597,597,-418.72,"SELF","2013-01-22")
+,(747,747,34.30,"SELF","2016-08-25")
+,(356,657,185.47,"TRANSFER","2015-03-11")
+,(978,62,318.56,"TRANSFER","2012-01-06")
+,(612,612,-189.08,"SELF","2013-11-02")
+,(731,731,513.43,"SELF","2016-04-23")
+,(618,654,37.70,"TRANSFER","2013-02-19")
+,(732,856,3.54,"TRANSFER","2013-11-21")
+,(908,908,982.07,"SELF","2015-08-22")
+,(151,151,-201.90,"SELF","2015-01-05")
+,(998,79,496.60,"TRANSFER","2013-11-28")
+,(399,399,375.48,"SELF","2015-12-01")
+,(562,935,852.18,"TRANSFER","2014-01-14")
+,(166,166,-249.60,"SELF","2012-08-06")
+,(767,280,369.89,"TRANSFER","2012-02-13")
+,(687,687,-82.80,"SELF","2016-03-27")
+,(822,743,321.76,"TRANSFER","2013-12-09")
+,(371,625,708.43,"TRANSFER","2013-04-19")
+,(454,258,336.15,"TRANSFER","2012-09-01")
+,(547,764,353.48,"TRANSFER","2014-01-02")
+,(476,599,558.98,"TRANSFER","2012-04-22")
+,(442,984,173.14,"TRANSFER","2012-09-13")
+,(902,269,10.63,"TRANSFER","2015-02-24")
+,(8,8,91.53,"SELF","2012-02-16")
+,(484,288,85.61,"TRANSFER","2012-06-05")
+,(17,252,544.98,"TRANSFER","2014-05-01")
+,(454,622,242.22,"TRANSFER","2016-08-02")
+,(20,825,18.57,"TRANSFER","2012-07-01")
+,(683,683,866.69,"SELF","2016-11-26")
+,(73,73,714.91,"SELF","2015-09-26")
+,(567,576,751.37,"TRANSFER","2015-12-04")
+,(524,524,494.59,"SELF","2015-06-07")
+,(257,541,489.37,"TRANSFER","2016-06-03")
+,(474,187,693.58,"TRANSFER","2013-01-17")
+,(218,218,633.85,"SELF","2012-12-03")
+,(352,584,420.27,"TRANSFER","2016-02-27")
+,(250,250,907.34,"SELF","2015-11-01")
+,(262,428,730.22,"TRANSFER","2016-09-08")
+,(105,806,40.04,"TRANSFER","2013-01-13")
+,(725,697,295.57,"TRANSFER","2016-09-27")
+,(845,845,609.05,"SELF","2014-07-28")
+,(239,239,-310.42,"SELF","2016-02-18")
+,(703,703,-712.22,"SELF","2012-10-05")
+,(294,374,45.31,"TRANSFER","2015-03-14")
+,(642,642,978.20,"SELF","2014-10-25")
+,(35,780,6.39,"TRANSFER","2014-04-26")
+,(718,718,870.35,"SELF","2014-01-13")
+,(560,864,83.21,"TRANSFER","2014-07-13")
+,(855,855,830.09,"SELF","2015-06-22")
+,(529,993,759.55,"TRANSFER","2015-03-21")
+,(569,676,491.16,"TRANSFER","2014-02-21")
+,(912,912,-273.07,"SELF","2016-03-13")
+,(560,560,-687.14,"SELF","2015-10-08")
+,(318,953,960.57,"TRANSFER","2013-12-09")
+,(626,626,-240.13,"SELF","2013-02-05")
+,(715,787,673.37,"TRANSFER","2016-01-05")
+,(534,301,809.83,"TRANSFER","2015-03-26")
+,(566,135,570.30,"TRANSFER","2013-10-11")
+,(628,471,249.29,"TRANSFER","2015-04-01")
+,(7,714,869.59,"TRANSFER","2013-12-27")
+,(669,409,152.31,"TRANSFER","2014-10-25")
+,(968,985,956.32,"TRANSFER","2013-09-10")
+,(873,936,429.45,"TRANSFER","2015-04-05")
+,(889,498,837.61,"TRANSFER","2013-06-16")
+,(922,506,210.04,"TRANSFER","2014-03-08")
+,(886,211,312.77,"TRANSFER","2014-11-10")
+,(837,540,716.25,"TRANSFER","2015-11-02")
+,(287,933,808.47,"TRANSFER","2016-06-28")
+,(357,357,367.68,"SELF","2012-10-21")
+,(262,442,391.50,"TRANSFER","2016-07-13")
+,(238,238,-502.04,"SELF","2012-06-20")
+,(143,219,195.47,"TRANSFER","2012-04-04")
+,(345,359,117.59,"TRANSFER","2016-06-09")
+,(421,792,398.73,"TRANSFER","2014-12-05")
+,(140,140,981.85,"SELF","2012-03-21")
+,(977,977,-501.01,"SELF","2016-02-15")
+,(235,281,461.55,"TRANSFER","2015-08-23")
+,(54,453,751.10,"TRANSFER","2013-09-20")
+,(314,314,81.10,"SELF","2013-02-16")
+,(86,382,773.05,"TRANSFER","2016-10-18")
+,(545,481,679.29,"TRANSFER","2013-01-02")
+,(398,398,922.17,"SELF","2014-04-15")
+,(809,296,180.66,"TRANSFER","2012-08-01")
+,(637,637,79.35,"SELF","2013-06-23")
+,(762,250,669.58,"TRANSFER","2014-10-17")
+,(881,881,983.44,"SELF","2016-06-14")
+,(191,570,535.28,"TRANSFER","2016-10-17")
+,(60,928,724.92,"TRANSFER","2014-06-22")
+,(593,123,484.78,"TRANSFER","2015-06-12")
+,(149,149,336.36,"SELF","2015-01-15")
+,(716,517,653.09,"TRANSFER","2016-06-07")
+,(33,33,24.52,"SELF","2014-08-05")
+,(526,345,579.71,"TRANSFER","2015-07-11")
+,(948,948,780.24,"SELF","2016-07-14")
+,(327,384,419.72,"TRANSFER","2014-09-10")
+,(739,739,696.50,"SELF","2014-03-15")
+,(973,511,887.93,"TRANSFER","2014-06-10")
+,(332,332,-129.24,"SELF","2013-03-08")
+,(721,711,855.26,"TRANSFER","2012-03-20")
+,(925,483,728.32,"TRANSFER","2013-08-16")
+,(416,706,402.01,"TRANSFER","2016-12-26")
+,(573,460,123.04,"TRANSFER","2012-02-24")
+,(317,625,829.85,"TRANSFER","2012-06-24")
+,(577,20,838.76,"TRANSFER","2015-12-03")
+,(247,329,341.35,"TRANSFER","2014-04-10")
+,(845,30,741.31,"TRANSFER","2013-06-18")
+,(103,135,597.89,"TRANSFER","2016-08-24")
+,(807,607,711.45,"TRANSFER","2014-09-02")
+,(354,354,168.72,"SELF","2014-02-08")
+,(710,710,-305.63,"SELF","2016-11-22")
+,(876,141,396.77,"TRANSFER","2013-08-06")
+,(515,887,740.22,"TRANSFER","2014-01-10")
+,(329,422,511.85,"TRANSFER","2015-05-10")
+,(562,633,695.46,"TRANSFER","2014-01-07")
+,(337,490,508.28,"TRANSFER","2016-09-26")
+,(9,9,239.29,"SELF","2012-12-20")
+,(312,312,-270.85,"SELF","2012-12-20")
+,(780,780,411.68,"SELF","2015-05-08")
+,(241,269,778.70,"TRANSFER","2015-06-10")
+,(151,151,-330.57,"SELF","2015-10-07")
+,(360,282,650.01,"TRANSFER","2013-02-22")
+,(497,497,994.54,"SELF","2012-09-12")
+,(616,999,605.75,"TRANSFER","2015-06-10")
+,(182,98,371.98,"TRANSFER","2012-12-04")
+,(714,237,761.96,"TRANSFER","2013-04-09")
+,(928,353,673.99,"TRANSFER","2012-03-14")
+,(862,308,907.71,"TRANSFER","2015-03-24")
+,(326,8,438.60,"TRANSFER","2015-06-05")
+,(367,412,90.95,"TRANSFER","2016-11-17")
+,(196,459,630.84,"TRANSFER","2013-04-23")
+,(271,196,976.73,"TRANSFER","2014-01-09")
+,(762,362,464.95,"TRANSFER","2016-12-24")
+,(116,331,96.83,"TRANSFER","2015-12-06")
+,(557,580,0.84,"TRANSFER","2012-03-27")
+,(999,238,618.16,"TRANSFER","2016-04-18")
+,(566,756,577.95,"TRANSFER","2015-02-20")
+,(991,238,338.20,"TRANSFER","2016-04-01")
+,(900,900,-962.37,"SELF","2016-09-28")
+,(370,721,298.19,"TRANSFER","2014-09-02")
+,(169,670,48.88,"TRANSFER","2012-04-16")
+,(433,433,283.64,"SELF","2015-01-23")
+,(107,751,861.77,"TRANSFER","2012-10-02")
+,(60,567,494.31,"TRANSFER","2014-01-15")
+,(857,315,991.46,"TRANSFER","2013-08-04")
+,(525,1,590.98,"TRANSFER","2013-06-13")
+,(889,889,803.63,"SELF","2013-09-02")
+,(862,862,-435.49,"SELF","2016-11-05")
+,(664,664,-167.86,"SELF","2012-09-26")
+,(840,669,953.91,"TRANSFER","2013-06-19")
+,(952,952,-812.77,"SELF","2015-12-24")
+,(739,697,444.18,"TRANSFER","2016-03-23")
+,(577,626,798.90,"TRANSFER","2012-02-09")
+,(67,712,725.33,"TRANSFER","2014-11-03")
+,(290,290,-1.15,"SELF","2014-01-18")
+,(774,64,516.05,"TRANSFER","2012-06-04")
+,(317,317,-544.95,"SELF","2015-03-15")
+,(949,442,433.91,"TRANSFER","2014-02-07")
+,(657,657,107.82,"SELF","2013-12-24")
+,(39,39,485.63,"SELF","2014-06-13")
+,(242,823,388.70,"TRANSFER","2015-12-16")
+,(211,7,804.14,"TRANSFER","2012-12-25")
+,(194,85,434.43,"TRANSFER","2014-10-10")
+,(888,888,-799.64,"SELF","2013-10-12")
+,(61,61,-877.56,"SELF","2015-07-02")
+,(761,761,-495.01,"SELF","2012-05-12")
+,(120,120,571.38,"SELF","2016-07-01")
+,(136,136,983.17,"SELF","2014-03-27")
+,(589,589,-789.47,"SELF","2013-08-12")
+,(508,508,831.50,"SELF","2012-04-23")
+,(765,109,160.64,"TRANSFER","2013-03-17")
+,(256,899,912.71,"TRANSFER","2013-07-20")
+,(135,605,228.84,"TRANSFER","2014-09-10")
+,(255,859,115.02,"TRANSFER","2014-12-05")
+,(137,296,514.98,"TRANSFER","2014-08-13")
+,(137,137,707.48,"SELF","2016-07-07")
+,(445,935,827.15,"TRANSFER","2013-02-14")
+,(829,502,868.57,"TRANSFER","2012-05-27")
+,(848,514,232.76,"TRANSFER","2015-06-07")
+,(355,355,-878.95,"SELF","2013-10-17")
+,(841,228,998.30,"TRANSFER","2015-10-04")
+,(136,680,23.45,"TRANSFER","2015-11-23")
+,(90,90,-393.73,"SELF","2014-10-26")
+,(703,703,-46.04,"SELF","2016-07-13")
+,(141,877,47.06,"TRANSFER","2014-02-27")
+,(112,549,926.96,"TRANSFER","2012-12-09")
+,(724,724,812.39,"SELF","2014-08-28")
+,(807,807,-192.20,"SELF","2015-07-17")
+,(331,331,123.32,"SELF","2014-07-13")
+,(795,795,-798.46,"SELF","2012-03-10")
+,(256,256,-667.12,"SELF","2013-08-04")
+,(326,138,114.71,"TRANSFER","2012-02-09")
+,(205,552,153.36,"TRANSFER","2015-07-25")
+,(839,58,658.57,"TRANSFER","2014-09-12")
+,(278,484,351.59,"TRANSFER","2012-07-02")
+,(362,262,783.33,"TRANSFER","2015-01-06")
+,(611,904,900.65,"TRANSFER","2014-06-23")
+,(695,798,486.96,"TRANSFER","2016-01-28")
+,(629,938,238.39,"TRANSFER","2012-12-14")
+,(752,995,85.82,"TRANSFER","2016-11-27")
+,(633,633,765.57,"SELF","2014-09-01")
+,(972,972,-263.94,"SELF","2014-11-11")
+,(508,508,447.39,"SELF","2016-12-10")
+,(529,401,50.74,"TRANSFER","2013-09-26")
+,(405,315,118.40,"TRANSFER","2012-03-18")
+,(756,369,14.50,"TRANSFER","2015-05-18")
+,(129,15,639.82,"TRANSFER","2013-09-06")
+,(219,331,456.04,"TRANSFER","2015-10-22")
+,(110,276,210.99,"TRANSFER","2012-11-20")
+,(395,395,-763.28,"SELF","2016-11-24")
+,(835,5,837.67,"TRANSFER","2016-09-13")
+,(978,694,549.21,"TRANSFER","2014-09-27")
+,(770,803,88.06,"TRANSFER","2013-12-28")
+,(473,473,-120.28,"SELF","2016-11-16")
+,(941,420,464.65,"TRANSFER","2015-07-20")
+,(727,727,-859.76,"SELF","2014-11-18")
+,(585,467,224.79,"TRANSFER","2014-02-26")
+,(326,326,-802.04,"SELF","2016-02-03")
+,(209,657,527.34,"TRANSFER","2016-07-28")
+,(268,268,-763.12,"SELF","2016-04-17")
+,(453,406,736.78,"TRANSFER","2014-09-16")
+,(110,601,869.86,"TRANSFER","2013-10-16")
+,(629,629,-872.81,"SELF","2012-09-09")
+,(269,589,198.46,"TRANSFER","2015-03-05")
+,(223,516,309.62,"TRANSFER","2014-09-03")
+,(103,352,888.53,"TRANSFER","2015-10-08")
+,(559,405,792.99,"TRANSFER","2016-03-20")
+,(122,122,46.79,"SELF","2014-04-16")
+,(444,444,-301.03,"SELF","2016-07-14")
+,(456,456,-658.89,"SELF","2012-08-28")
+,(135,852,326.14,"TRANSFER","2016-11-08")
+,(395,664,253.97,"TRANSFER","2013-07-07")
+,(416,737,286.17,"TRANSFER","2012-08-06")
+,(594,981,735.97,"TRANSFER","2014-10-20")
+,(510,510,734.51,"SELF","2012-07-24")
+,(133,133,-117.99,"SELF","2014-01-03")
+,(702,34,860.81,"TRANSFER","2014-06-13")
+,(882,906,198.82,"TRANSFER","2014-12-12")
+,(26,831,57.41,"TRANSFER","2016-03-10")
+,(774,323,258.78,"TRANSFER","2015-01-16")
+,(729,24,940.95,"TRANSFER","2012-03-04")
+,(852,86,866.42,"TRANSFER","2016-10-07")
+,(65,560,142.06,"TRANSFER","2016-08-03")
+,(139,719,546.20,"TRANSFER","2012-12-19")
+,(175,462,515.69,"TRANSFER","2016-12-25")
+,(780,780,157.49,"SELF","2015-01-26")
+,(721,721,930.53,"SELF","2015-01-16")
+,(267,888,278.89,"TRANSFER","2015-01-09")
+,(229,696,243.25,"TRANSFER","2016-10-13")
+,(552,552,989.89,"SELF","2016-08-17")
+,(721,9,227.93,"TRANSFER","2013-04-14")
+,(94,899,505.17,"TRANSFER","2012-08-01")
+,(432,619,543.73,"TRANSFER","2015-04-07")
+,(494,274,148.21,"TRANSFER","2014-03-26")
+,(902,386,778.83,"TRANSFER","2014-07-22")
+,(177,861,178.97,"TRANSFER","2014-09-17")
+,(320,320,-388.86,"SELF","2016-12-28")
+,(925,349,586.37,"TRANSFER","2015-04-08")
+,(362,79,884.44,"TRANSFER","2015-04-07")
+,(255,255,-466.49,"SELF","2014-08-17")
+,(492,615,985.45,"TRANSFER","2014-02-17")
+,(278,278,-640.38,"SELF","2013-10-11")
+,(587,971,780.28,"TRANSFER","2016-08-05")
+,(621,621,-713.93,"SELF","2016-05-02")
+,(454,848,104.09,"TRANSFER","2016-11-08")
+,(84,84,491.34,"SELF","2013-07-14")
+,(391,391,-147.04,"SELF","2015-09-03")
+,(893,916,474.51,"TRANSFER","2016-12-15")
+,(559,110,194.77,"TRANSFER","2012-06-13")
+,(117,117,272.97,"SELF","2015-06-24")
+,(267,267,-799.27,"SELF","2015-02-08")
+,(644,644,682.61,"SELF","2015-12-08")
+,(75,605,3.12,"TRANSFER","2012-05-04")
+,(833,854,732.84,"TRANSFER","2013-06-14")
+,(876,549,297.59,"TRANSFER","2013-07-05")
+,(633,575,318.48,"TRANSFER","2014-11-03")
+,(88,88,-464.02,"SELF","2016-07-03")
+,(625,625,839.03,"SELF","2016-07-16")
+,(592,592,-360.48,"SELF","2013-10-10")
+,(934,114,57.58,"TRANSFER","2014-09-27")
+,(13,291,479.66,"TRANSFER","2012-02-20")
+,(176,788,686.88,"TRANSFER","2013-04-26")
+,(767,767,-914.87,"SELF","2014-07-28")
+,(773,267,863.24,"TRANSFER","2012-12-18")
+,(6,634,159.33,"TRANSFER","2015-05-04")
+,(186,186,-712.67,"SELF","2015-06-08")
+,(455,593,4.95,"TRANSFER","2014-12-05")
+,(494,332,977.10,"TRANSFER","2012-11-08")
+,(563,563,-517.83,"SELF","2016-10-28")
+,(196,312,326.43,"TRANSFER","2014-09-27")
+,(800,393,195.59,"TRANSFER","2013-08-24")
+,(260,631,492.76,"TRANSFER","2014-11-01")
+,(583,606,733.42,"TRANSFER","2015-07-08")
+,(405,405,913.75,"SELF","2014-11-28")
+,(157,406,885.91,"TRANSFER","2016-09-28")
+,(504,504,-378.33,"SELF","2012-01-23")
+,(565,565,-308.96,"SELF","2014-03-09")
+,(601,601,994.18,"SELF","2014-03-24")
+,(432,528,364.01,"TRANSFER","2016-06-10")
+,(818,666,688.57,"TRANSFER","2015-01-06")
+,(799,874,391.16,"TRANSFER","2016-09-09")
+,(797,916,383.97,"TRANSFER","2015-01-25")
+,(43,874,865.74,"TRANSFER","2015-12-07")
+,(800,949,126.83,"TRANSFER","2016-08-24")
+,(978,49,636.68,"TRANSFER","2013-07-18")
+,(327,327,-776.57,"SELF","2013-02-04")
+,(20,613,122.47,"TRANSFER","2014-02-21")
+,(935,906,40.22,"TRANSFER","2015-08-12")
+,(121,511,639.44,"TRANSFER","2013-05-09")
+,(71,60,219.74,"TRANSFER","2015-05-12")
+,(665,465,204.10,"TRANSFER","2014-12-18")
+,(419,485,121.39,"TRANSFER","2014-04-07")
+,(614,614,-413.38,"SELF","2012-02-11")
+,(355,355,-695.35,"SELF","2015-06-24")
+,(747,799,178.04,"TRANSFER","2015-08-17")
+,(57,57,799.24,"SELF","2015-03-25")
+,(143,92,64.71,"TRANSFER","2013-08-14")
+,(133,327,495.93,"TRANSFER","2015-04-20")
+,(279,512,130.41,"TRANSFER","2013-10-17")
+,(58,58,18.01,"SELF","2016-09-08")
+,(630,957,324.11,"TRANSFER","2016-12-21")
+,(275,275,824.56,"SELF","2013-02-17")
+,(915,462,791.50,"TRANSFER","2012-05-08")
+,(53,124,183.90,"TRANSFER","2015-02-26")
+,(58,73,222.44,"TRANSFER","2016-04-06")
+,(686,225,193.01,"TRANSFER","2015-11-21")
+,(336,323,88.10,"TRANSFER","2015-12-27")
+,(300,978,403.52,"TRANSFER","2012-09-07")
+,(588,979,142.65,"TRANSFER","2012-11-15")
+,(808,254,695.18,"TRANSFER","2013-08-06")
+,(653,711,38.61,"TRANSFER","2013-03-13")
+,(63,63,-32.50,"SELF","2012-04-12")
+,(375,114,854.37,"TRANSFER","2014-02-28")
+,(300,747,469.05,"TRANSFER","2012-10-09")
+,(48,805,572.27,"TRANSFER","2012-09-14")
+,(293,293,181.86,"SELF","2015-06-10")
+,(720,634,852.29,"TRANSFER","2012-02-22")
+,(483,441,53.46,"TRANSFER","2015-07-27")
+,(138,7,514.09,"TRANSFER","2012-11-10")
+,(750,941,616.28,"TRANSFER","2012-09-28")
+,(277,277,355.13,"SELF","2016-06-15")
+,(992,992,897.85,"SELF","2016-03-16")
+,(260,459,814.99,"TRANSFER","2015-08-10")
+,(498,660,689.28,"TRANSFER","2015-04-02")
+,(635,635,56.05,"SELF","2016-11-06")
+,(89,89,-973.17,"SELF","2015-06-26")
+,(694,4,338.75,"TRANSFER","2013-08-11")
+,(422,862,819.15,"TRANSFER","2015-03-15")
+,(710,846,630.14,"TRANSFER","2016-06-10")
+,(807,580,242.62,"TRANSFER","2016-12-20")
+,(874,611,784.48,"TRANSFER","2012-04-19")
+,(929,131,333.83,"TRANSFER","2015-10-14")
+,(739,416,785.18,"TRANSFER","2012-09-28")
+,(989,802,529.59,"TRANSFER","2016-11-28")
+,(168,336,842.79,"TRANSFER","2015-10-13")
+,(632,499,261.37,"TRANSFER","2012-03-16")
+,(575,575,-768.94,"SELF","2016-03-25")
+,(759,759,629.06,"SELF","2016-02-21")
+,(568,35,633.35,"TRANSFER","2014-03-08")
+,(544,151,736.06,"TRANSFER","2013-04-25")
+,(368,368,-553.71,"SELF","2012-03-19")
+,(94,923,278.35,"TRANSFER","2015-08-17")
+,(916,916,714.02,"SELF","2015-10-12")
+,(681,681,-341.78,"SELF","2015-07-24")
+,(613,778,161.87,"TRANSFER","2013-05-09")
+,(545,839,537.54,"TRANSFER","2014-02-24")
+,(101,101,-640.42,"SELF","2016-09-15")
+,(16,821,383.57,"TRANSFER","2013-09-27")
+,(201,671,338.30,"TRANSFER","2014-10-22")
+,(708,708,-75.56,"SELF","2013-10-22")
+,(406,406,-60.51,"SELF","2015-08-17")
+,(956,243,205.77,"TRANSFER","2013-06-28")
+,(920,82,81.40,"TRANSFER","2013-02-24")
+,(834,834,-142.94,"SELF","2014-08-28")
+,(962,962,25.67,"SELF","2015-09-24")
+,(283,283,814.79,"SELF","2015-02-20")
+,(533,533,551.17,"SELF","2016-01-09")
+,(883,883,54.03,"SELF","2013-12-15")
+,(225,995,336.42,"TRANSFER","2013-02-28")
+,(951,276,482.60,"TRANSFER","2015-10-06")
+,(717,106,596.78,"TRANSFER","2013-07-09")
+,(773,773,-927.25,"SELF","2012-03-28")
+,(561,375,458.36,"TRANSFER","2013-07-09")
+,(353,353,994.76,"SELF","2016-11-28")
+,(678,988,709.44,"TRANSFER","2012-09-08")
+,(470,470,836.23,"SELF","2012-04-19")
+,(917,151,503.35,"TRANSFER","2013-10-26")
+,(479,468,761.71,"TRANSFER","2012-07-27")
+,(152,152,-387.55,"SELF","2015-10-22")
+,(439,28,575.41,"TRANSFER","2014-12-15")
+,(560,167,169.15,"TRANSFER","2013-07-22")
+,(861,31,62.01,"TRANSFER","2013-10-11")
+,(937,55,569.23,"TRANSFER","2012-06-02")
+,(218,215,681.55,"TRANSFER","2013-04-16")
+,(425,171,772.76,"TRANSFER","2013-02-23")
+,(621,798,944.89,"TRANSFER","2012-01-09")
+,(950,744,940.71,"TRANSFER","2015-05-06")
+,(25,249,148.11,"TRANSFER","2013-07-18")
+,(925,48,300.24,"TRANSFER","2012-11-06")
+,(548,275,391.43,"TRANSFER","2015-03-26")
+,(329,823,590.84,"TRANSFER","2012-01-26")
+,(974,740,844.27,"TRANSFER","2012-08-02")
+,(551,293,190.36,"TRANSFER","2016-10-13")
+,(555,555,-834.31,"SELF","2014-04-02")
+,(920,620,118.67,"TRANSFER","2015-03-11")
+,(587,400,665.43,"TRANSFER","2015-06-25")
+,(213,712,283.68,"TRANSFER","2015-12-08")
+,(613,132,704.40,"TRANSFER","2013-02-02")
+,(989,460,747.23,"TRANSFER","2014-02-17")
+,(71,431,342.67,"TRANSFER","2015-01-14")
+,(211,314,700.53,"TRANSFER","2016-10-08")
+,(711,835,417.78,"TRANSFER","2014-06-05")
+,(487,480,249.06,"TRANSFER","2016-05-15")
+,(469,919,244.92,"TRANSFER","2014-01-28")
+,(172,798,323.31,"TRANSFER","2013-07-18")
+,(951,951,131.47,"SELF","2013-03-20")
+,(895,468,454.99,"TRANSFER","2012-03-06")
+,(173,761,980.37,"TRANSFER","2014-03-02")
+,(554,573,438.85,"TRANSFER","2016-10-14")
+,(64,169,95.86,"TRANSFER","2012-12-11")
+,(326,326,-815.04,"SELF","2013-10-26")
+,(357,357,-421.80,"SELF","2015-09-21")
+,(861,204,195.73,"TRANSFER","2016-08-08")
+,(650,960,766.05,"TRANSFER","2012-12-17")
+,(297,821,394.05,"TRANSFER","2015-10-06")
+,(48,547,524.51,"TRANSFER","2013-12-14")
+,(559,111,631.07,"TRANSFER","2014-03-23")
+,(420,286,850.43,"TRANSFER","2012-11-24")
+,(89,89,447.84,"SELF","2014-08-24")
+,(998,927,317.26,"TRANSFER","2013-10-20")
+,(351,421,602.58,"TRANSFER","2013-09-14")
+,(252,252,833.84,"SELF","2015-09-04")
+,(121,121,781.21,"SELF","2015-08-14")
+,(835,835,385.93,"SELF","2015-09-18")
+,(271,271,520.52,"SELF","2012-03-21")
+,(874,675,115.59,"TRANSFER","2014-02-23")
+,(970,927,180.70,"TRANSFER","2014-11-04")
+,(442,442,-625.27,"SELF","2014-02-19")
+,(127,127,-957.10,"SELF","2012-09-26")
+,(829,854,969.22,"TRANSFER","2013-07-04")
+,(481,950,714.72,"TRANSFER","2012-06-20")
+,(742,889,662.62,"TRANSFER","2015-02-13")
+,(837,582,461.63,"TRANSFER","2016-06-24")
+,(71,750,572.42,"TRANSFER","2016-01-21")
+,(790,801,150.32,"TRANSFER","2012-10-14")
+,(519,399,49.33,"TRANSFER","2014-04-08")
+,(6,6,-144.43,"SELF","2014-10-11")
+,(897,897,-337.95,"SELF","2016-09-26")
+,(836,174,361.10,"TRANSFER","2012-09-05")
+,(518,518,-395.17,"SELF","2012-04-14")
+,(150,150,147.82,"SELF","2012-11-18")
+,(972,897,782.92,"TRANSFER","2012-05-26")
+,(937,917,588.47,"TRANSFER","2016-10-20")
+,(587,853,525.24,"TRANSFER","2016-07-12")
+,(258,204,117.22,"TRANSFER","2012-03-06")
+,(800,486,18.00,"TRANSFER","2012-01-05")
+,(889,345,785.46,"TRANSFER","2013-04-25")
+,(376,246,941.48,"TRANSFER","2016-08-03")
+,(270,109,120.56,"TRANSFER","2015-06-04")
+,(186,274,968.86,"TRANSFER","2014-12-26")
+,(608,608,540.71,"SELF","2014-10-09")
+,(100,917,961.32,"TRANSFER","2013-07-01")
+,(596,95,859.96,"TRANSFER","2016-05-11")
+,(130,130,115.42,"SELF","2014-07-08")
+,(733,733,-808.67,"SELF","2014-10-06")
+,(749,337,436.97,"TRANSFER","2013-11-07")
+,(278,278,-348.41,"SELF","2015-03-11")
+,(83,470,425.39,"TRANSFER","2012-02-02")
+,(288,288,-561.46,"SELF","2015-04-23")
+,(973,973,-668.56,"SELF","2013-11-03")
+,(12,942,766.46,"TRANSFER","2013-08-13")
+,(276,781,275.36,"TRANSFER","2012-07-10")
+,(887,321,170.68,"TRANSFER","2016-04-23")
+,(33,808,376.74,"TRANSFER","2016-04-10")
+,(787,872,389.03,"TRANSFER","2015-10-16")
+,(264,621,80.91,"TRANSFER","2015-03-06")
+,(297,323,324.62,"TRANSFER","2016-08-10")
+,(800,800,983.03,"SELF","2013-07-14")
+,(829,522,399.78,"TRANSFER","2014-10-02")
+,(934,462,210.84,"TRANSFER","2015-07-08")
+,(831,634,326.19,"TRANSFER","2015-09-22")
+,(337,970,175.74,"TRANSFER","2016-11-23")
+,(826,826,219.80,"SELF","2012-06-03")
+,(772,772,-181.35,"SELF","2013-12-24")
+,(503,386,570.06,"TRANSFER","2012-07-10")
+,(206,637,679.98,"TRANSFER","2015-10-14")
+,(224,772,593.08,"TRANSFER","2016-11-04")
+,(75,594,95.09,"TRANSFER","2014-04-01")
+,(7,567,602.09,"TRANSFER","2014-11-14")
+,(664,664,-211.87,"SELF","2015-01-16")
+,(218,727,142.98,"TRANSFER","2015-02-09")
+,(133,361,975.84,"TRANSFER","2015-08-12")
+,(167,367,446.86,"TRANSFER","2016-07-20")
+,(137,810,547.26,"TRANSFER","2013-12-16")
+,(408,408,62.65,"SELF","2014-04-21")
+,(35,950,760.27,"TRANSFER","2013-10-25")
+,(817,476,516.47,"TRANSFER","2014-05-01")
+,(640,545,297.51,"TRANSFER","2014-12-10")
+,(858,14,60.94,"TRANSFER","2012-08-26")
+,(340,374,944.60,"TRANSFER","2015-05-22")
+,(25,487,30.45,"TRANSFER","2014-03-06")
+,(148,974,791.47,"TRANSFER","2012-01-19")
+,(684,684,48.02,"SELF","2015-05-01")
+,(36,710,520.09,"TRANSFER","2014-08-09")
+,(171,171,297.48,"SELF","2016-04-23")
+,(201,250,405.35,"TRANSFER","2016-09-25")
+,(247,247,-142.87,"SELF","2015-01-23")
+,(444,837,233.01,"TRANSFER","2012-08-28")
+,(63,639,256.64,"TRANSFER","2013-07-26")
+,(645,925,844.55,"TRANSFER","2015-01-10")
+,(397,349,300.32,"TRANSFER","2014-02-16")
+,(137,862,163.98,"TRANSFER","2015-05-01")
+,(414,817,654.84,"TRANSFER","2012-07-07")
+,(282,190,52.74,"TRANSFER","2013-10-08")
+,(446,446,718.37,"SELF","2014-10-03")
+,(643,810,312.15,"TRANSFER","2015-08-02")
+,(851,542,806.70,"TRANSFER","2016-02-25")
+,(155,334,389.72,"TRANSFER","2012-09-03")
+,(958,955,367.13,"TRANSFER","2013-02-21")
+,(102,320,473.96,"TRANSFER","2015-06-22")
+,(367,203,85.44,"TRANSFER","2012-10-20")
+,(587,562,689.36,"TRANSFER","2013-10-09")
+,(334,334,906.76,"SELF","2013-09-26")
+,(139,271,219.32,"TRANSFER","2012-08-13")
+,(413,262,864.26,"TRANSFER","2012-04-21")
+,(142,789,925.41,"TRANSFER","2016-10-09")
+,(599,25,526.15,"TRANSFER","2016-08-19")
+,(173,173,152.47,"SELF","2016-09-28")
+,(722,486,210.24,"TRANSFER","2012-03-12")
+,(240,918,482.68,"TRANSFER","2014-04-15")
+,(85,135,241.92,"TRANSFER","2012-01-26")
+,(361,440,655.36,"TRANSFER","2016-07-13")
+,(87,837,188.50,"TRANSFER","2016-04-16")
+,(733,885,713.21,"TRANSFER","2012-12-28")
+,(540,589,80.28,"TRANSFER","2016-09-09")
+,(235,591,384.14,"TRANSFER","2013-03-15")
+,(663,735,99.35,"TRANSFER","2014-02-24")
+,(512,512,947.62,"SELF","2012-01-18")
+,(90,173,554.63,"TRANSFER","2012-01-09")
+,(471,471,-918.50,"SELF","2014-03-17")
+,(410,367,708.42,"TRANSFER","2012-03-16")
+,(347,347,-342.08,"SELF","2013-02-20")
+,(847,900,390.40,"TRANSFER","2013-07-06")
+,(145,145,434.04,"SELF","2015-04-12")
+,(652,652,-914.76,"SELF","2013-04-15")
+,(649,544,247.61,"TRANSFER","2012-03-01")
+,(782,361,398.74,"TRANSFER","2016-01-06")
+,(731,457,796.46,"TRANSFER","2016-10-07")
+,(226,226,120.33,"SELF","2015-12-13")
+,(969,969,-113.52,"SELF","2016-09-27")
+,(517,358,994.66,"TRANSFER","2014-03-16")
+,(713,286,158.56,"TRANSFER","2015-02-23")
+,(839,662,208.55,"TRANSFER","2016-03-13")
+,(449,741,48.59,"TRANSFER","2014-07-23")
+,(474,474,-691.38,"SELF","2013-11-22")
+,(317,557,215.37,"TRANSFER","2015-02-06")
+,(416,416,-414.58,"SELF","2016-07-24")
+,(53,53,626.26,"SELF","2014-12-11")
+,(393,393,394.42,"SELF","2013-01-22")
+,(363,485,15.66,"TRANSFER","2016-04-28")
+,(865,865,-475.04,"SELF","2016-11-02")
+,(799,799,-578.60,"SELF","2014-09-09")
+,(408,10,571.81,"TRANSFER","2012-01-25")
+,(252,435,949.93,"TRANSFER","2014-05-21")
+,(381,524,943.27,"TRANSFER","2015-03-26")
+,(582,582,277.12,"SELF","2015-06-28")
+,(424,853,44.53,"TRANSFER","2012-08-12")
+,(403,403,552.62,"SELF","2016-10-19")
+,(57,925,48.14,"TRANSFER","2012-11-14")
+,(539,225,785.41,"TRANSFER","2014-12-22")
+,(860,860,-642.81,"SELF","2016-02-28")
+,(629,449,320.03,"TRANSFER","2012-05-27")
+,(750,334,904.44,"TRANSFER","2014-02-19")
+,(48,765,966.79,"TRANSFER","2015-11-25")
+,(590,174,652.41,"TRANSFER","2013-07-18")
+,(778,755,499.60,"TRANSFER","2015-04-13")
+,(507,507,647.93,"SELF","2014-08-15")
+,(932,568,282.70,"TRANSFER","2013-07-20")
+,(711,303,595.99,"TRANSFER","2015-01-15")
+,(997,997,-279.03,"SELF","2013-12-15")
+,(975,975,-697.33,"SELF","2013-07-11")
+,(900,900,636.59,"SELF","2014-05-06")
+,(132,561,175.10,"TRANSFER","2013-10-08")
+,(213,213,-473.03,"SELF","2015-04-26")
+,(846,392,426.88,"TRANSFER","2016-02-04")
+,(514,949,135.55,"TRANSFER","2012-07-17")
+,(932,932,-874.61,"SELF","2012-08-11")
+,(875,875,703.54,"SELF","2014-02-01")
+,(767,267,18.98,"TRANSFER","2013-10-03")
+,(878,742,607.00,"TRANSFER","2016-02-28")
+,(374,11,18.44,"TRANSFER","2016-12-20")
+,(819,701,314.67,"TRANSFER","2012-04-20")
+,(386,172,299.96,"TRANSFER","2014-08-16")
+,(620,126,985.88,"TRANSFER","2013-12-19")
+,(126,126,662.42,"SELF","2014-12-04")
+,(116,116,-129.22,"SELF","2016-11-26")
+,(846,916,503.03,"TRANSFER","2013-12-06")
+,(770,770,628.25,"SELF","2012-02-17")
+,(54,54,521.54,"SELF","2013-01-07")
+,(463,312,4.60,"TRANSFER","2013-01-19")
+,(621,621,486.81,"SELF","2015-08-05")
+,(23,527,95.41,"TRANSFER","2013-10-10")
+,(981,917,278.33,"TRANSFER","2012-06-28")
+,(784,443,17.07,"TRANSFER","2012-04-03")
+,(992,992,663.93,"SELF","2014-10-04")
+,(3,433,854.47,"TRANSFER","2013-10-13")
+,(998,251,130.39,"TRANSFER","2015-08-28")
+,(569,261,922.49,"TRANSFER","2015-12-26")
+,(792,792,130.18,"SELF","2012-06-22")
+,(446,78,722.67,"TRANSFER","2014-03-20")
+,(95,95,-100.48,"SELF","2012-06-07")
+,(52,336,705.59,"TRANSFER","2012-12-15")
+,(638,638,1000.95,"SELF","2014-12-03")
+,(632,632,-36.79,"SELF","2016-03-25")
+,(619,679,912.94,"TRANSFER","2012-09-11")
+,(892,600,464.61,"TRANSFER","2016-04-17")
+,(376,53,585.86,"TRANSFER","2015-12-15")
+,(144,149,970.25,"TRANSFER","2015-02-03")
+,(530,126,71.67,"TRANSFER","2013-08-01")
+,(378,378,-963.33,"SELF","2012-12-13")
+,(737,737,-754.19,"SELF","2014-11-06")
+,(335,79,166.71,"TRANSFER","2016-11-17")
+,(926,511,911.44,"TRANSFER","2013-12-23")
+,(220,220,-44.38,"SELF","2014-12-11")
+,(264,838,283.74,"TRANSFER","2012-07-18")
+,(833,726,557.55,"TRANSFER","2013-08-20")
+,(414,146,655.77,"TRANSFER","2013-08-21")
+,(432,385,125.86,"TRANSFER","2016-07-22")
+,(375,801,385.34,"TRANSFER","2013-10-15")
+,(310,548,881.57,"TRANSFER","2016-05-12")
+,(408,132,724.83,"TRANSFER","2016-05-27")
+,(561,188,273.76,"TRANSFER","2015-08-07")
+,(216,560,884.68,"TRANSFER","2012-11-23")
+,(223,90,494.70,"TRANSFER","2012-11-07")
+,(389,735,324.19,"TRANSFER","2015-07-06")
+,(48,48,-574.29,"SELF","2015-11-27")
+,(360,97,433.32,"TRANSFER","2013-02-02")
+,(279,279,-386.92,"SELF","2012-02-17")
+,(446,191,3.13,"TRANSFER","2013-12-06")
+,(60,883,163.07,"TRANSFER","2016-05-14")
+,(282,282,-620.61,"SELF","2014-06-08")
+,(286,286,723.24,"SELF","2016-05-23")
+,(106,106,558.13,"SELF","2013-07-19")
+,(975,395,300.01,"TRANSFER","2012-02-02")
+,(331,331,-685.33,"SELF","2012-06-05")
+,(905,459,611.63,"TRANSFER","2016-07-13")
+,(64,365,655.11,"TRANSFER","2015-10-15")
+,(739,118,344.44,"TRANSFER","2016-08-01")
+,(973,935,893.18,"TRANSFER","2016-10-10")
+,(442,442,593.16,"SELF","2016-04-17")
+,(822,822,75.94,"SELF","2014-02-28")
+,(610,44,896.75,"TRANSFER","2013-07-05")
+,(334,703,661.28,"TRANSFER","2015-06-17")
+,(428,365,699.26,"TRANSFER","2014-08-05")
+,(704,815,879.62,"TRANSFER","2016-02-13")
+,(64,700,448.96,"TRANSFER","2015-02-19")
+,(288,255,998.15,"TRANSFER","2015-11-25")
+,(584,397,639.16,"TRANSFER","2016-10-20")
+,(755,803,563.20,"TRANSFER","2014-06-11")
+,(758,712,58.85,"TRANSFER","2015-12-23")
+,(957,957,758.74,"SELF","2013-06-22")
+,(708,833,8.58,"TRANSFER","2012-01-05")
+,(77,995,816.52,"TRANSFER","2014-06-10")
+,(964,272,508.58,"TRANSFER","2013-08-19")
+,(296,296,428.41,"SELF","2012-06-16")
+,(502,217,155.92,"TRANSFER","2012-03-06")
+,(502,831,456.63,"TRANSFER","2014-11-26")
+,(687,687,270.11,"SELF","2013-04-03")
+,(330,330,22.43,"SELF","2014-09-17")
+,(36,36,-165.76,"SELF","2015-08-14")
+,(928,784,738.38,"TRANSFER","2015-04-05")
+,(743,658,430.65,"TRANSFER","2012-09-16")
+,(97,343,307.53,"TRANSFER","2013-12-16")
+,(90,134,388.36,"TRANSFER","2015-05-06")
+,(390,390,-89.76,"SELF","2014-09-01")
+,(863,863,89.56,"SELF","2012-11-28")
+,(527,222,409.81,"TRANSFER","2012-08-21")
+,(736,736,-422.54,"SELF","2012-04-03")
+,(271,271,-592.11,"SELF","2012-09-10")
+,(350,350,36.91,"SELF","2015-05-26")
+,(297,214,732.10,"TRANSFER","2015-06-02")
+,(526,526,102.78,"SELF","2016-07-03")
+,(850,658,873.22,"TRANSFER","2013-08-05")
+,(43,745,688.84,"TRANSFER","2016-09-05")
+,(316,316,-307.63,"SELF","2016-06-10")
+,(433,433,-274.28,"SELF","2015-09-17")
+,(18,929,207.30,"TRANSFER","2012-04-11")
+,(948,745,712.33,"TRANSFER","2014-03-24")
+,(119,756,248.51,"TRANSFER","2016-08-26")
+,(792,146,930.04,"TRANSFER","2014-07-02")
+,(730,160,258.57,"TRANSFER","2016-08-24")
+,(72,180,446.40,"TRANSFER","2015-07-08")
+,(125,120,59.44,"TRANSFER","2014-06-20")
+,(617,428,146.38,"TRANSFER","2014-10-09")
+,(97,97,601.59,"SELF","2016-10-17")
+,(732,423,856.02,"TRANSFER","2014-04-20")
+,(767,994,30.45,"TRANSFER","2016-01-21")
+,(518,518,614.11,"SELF","2014-09-17")
+,(653,653,337.03,"SELF","2013-12-27")
+,(630,968,954.14,"TRANSFER","2012-11-27")
+,(322,322,-538.90,"SELF","2014-05-10")
+,(954,954,146.03,"SELF","2013-10-05")
+,(754,607,581.13,"TRANSFER","2012-06-28")
+,(503,578,851.51,"TRANSFER","2015-10-21")
+,(561,561,770.60,"SELF","2015-06-27")
+,(951,60,392.23,"TRANSFER","2014-10-25")
+,(182,582,40.85,"TRANSFER","2016-10-22")
+,(378,941,673.82,"TRANSFER","2012-08-08")
+,(377,995,330.48,"TRANSFER","2012-08-18")
+,(469,586,762.52,"TRANSFER","2013-05-13")
+,(707,774,231.92,"TRANSFER","2016-02-06")
+,(989,494,909.49,"TRANSFER","2015-03-18")
+,(982,982,-36.58,"SELF","2013-08-27")
+,(371,670,757.53,"TRANSFER","2016-08-28")
+,(446,693,977.76,"TRANSFER","2014-09-25")
+,(147,30,769.46,"TRANSFER","2015-04-04")
+,(90,181,376.80,"TRANSFER","2016-10-01")
+,(174,713,50.11,"TRANSFER","2012-10-27")
+,(41,838,657.91,"TRANSFER","2014-11-24")
+,(678,486,857.67,"TRANSFER","2013-06-12")
+,(691,735,13.90,"TRANSFER","2016-04-01")
+,(308,308,704.07,"SELF","2013-12-27")
+,(194,944,43.70,"TRANSFER","2014-07-13")
+,(981,495,41.54,"TRANSFER","2013-04-18")
+,(853,853,860.18,"SELF","2014-09-25")
+,(894,578,236.86,"TRANSFER","2013-01-23")
+,(898,898,883.57,"SELF","2016-12-04")
+,(554,575,959.12,"TRANSFER","2013-03-17")
+,(749,547,484.81,"TRANSFER","2015-10-26")
+,(961,659,159.99,"TRANSFER","2014-03-05")
+,(328,367,39.79,"TRANSFER","2016-07-02")
+,(306,306,-373.11,"SELF","2013-11-28")
+,(70,969,261.69,"TRANSFER","2014-08-06")
+,(751,911,728.95,"TRANSFER","2012-02-24")
+,(153,334,496.42,"TRANSFER","2013-08-13")
+,(753,787,222.45,"TRANSFER","2014-11-25")
+,(659,680,608.11,"TRANSFER","2013-10-18")
+,(847,533,770.45,"TRANSFER","2015-02-19")
+,(288,362,477.31,"TRANSFER","2012-03-20")
+,(166,792,463.80,"TRANSFER","2013-09-27")
+,(456,184,192.08,"TRANSFER","2014-01-05")
+,(579,200,631.49,"TRANSFER","2014-05-16")
+,(779,779,478.27,"SELF","2014-01-11")
+,(310,310,376.78,"SELF","2015-01-22")
+,(325,325,-814.29,"SELF","2013-02-16")
+,(307,642,37.93,"TRANSFER","2012-08-05")
+,(303,303,-442.34,"SELF","2013-07-18")
+,(34,953,215.69,"TRANSFER","2013-04-23")
+,(114,536,563.76,"TRANSFER","2015-09-21")
+,(788,488,759.69,"TRANSFER","2013-11-18")
+,(836,583,160.93,"TRANSFER","2015-01-10")
+,(462,462,361.55,"SELF","2013-06-02")
+,(371,674,252.91,"TRANSFER","2014-11-18")
+,(753,80,730.05,"TRANSFER","2012-04-19")
+,(223,223,601.03,"SELF","2014-05-13")
+,(215,748,416.39,"TRANSFER","2016-08-16")
+,(937,937,148.09,"SELF","2014-02-10")
+,(607,966,759.29,"TRANSFER","2016-04-09")
+,(323,520,138.03,"TRANSFER","2016-09-18")
+,(893,893,84.84,"SELF","2012-01-22")
+,(420,329,876.17,"TRANSFER","2016-05-11")
+,(242,227,115.61,"TRANSFER","2012-04-16")
+,(11,11,130.57,"SELF","2012-11-14")
+,(497,193,934.19,"TRANSFER","2015-08-14")
+,(885,885,483.78,"SELF","2013-07-16")
+,(384,303,647.71,"TRANSFER","2016-04-25")
+,(136,712,126.84,"TRANSFER","2016-10-08")
+,(837,837,994.06,"SELF","2013-11-01")
+,(448,24,670.19,"TRANSFER","2016-01-28")
+,(557,124,794.03,"TRANSFER","2014-03-07")
+,(451,115,437.97,"TRANSFER","2015-02-23")
+,(422,422,772.33,"SELF","2015-08-25")
+,(770,770,903.90,"SELF","2012-06-28")
+,(339,961,244.63,"TRANSFER","2013-03-13")
+,(661,805,950.66,"TRANSFER","2013-11-04")
+,(253,607,822.67,"TRANSFER","2016-11-18")
+,(473,784,928.27,"TRANSFER","2014-08-01")
+,(512,627,423.34,"TRANSFER","2015-02-19")
+,(231,231,394.28,"SELF","2012-01-05")
+,(695,695,-628.66,"SELF","2013-01-20")
+,(855,855,907.98,"SELF","2016-06-08")
+,(169,558,742.81,"TRANSFER","2016-02-24")
+,(245,646,110.68,"TRANSFER","2012-03-13")
+,(187,144,428.58,"TRANSFER","2012-02-03")
+,(395,834,878.60,"TRANSFER","2016-12-16")
+,(151,151,-747.08,"SELF","2016-08-12")
+,(408,834,471.11,"TRANSFER","2016-11-05")
+,(670,33,49.20,"TRANSFER","2016-05-02")
+,(275,736,741.92,"TRANSFER","2012-03-27")
+,(469,469,234.09,"SELF","2014-06-12")
+,(231,231,155.72,"SELF","2013-11-13")
+,(280,280,-405.96,"SELF","2015-11-28")
+,(407,977,395.59,"TRANSFER","2014-09-24")
+,(309,154,978.08,"TRANSFER","2013-01-09")
+,(540,61,869.01,"TRANSFER","2015-07-17")
+,(953,953,-285.43,"SELF","2016-07-10")
+,(607,607,-964.35,"SELF","2014-11-09")
+,(686,530,824.06,"TRANSFER","2013-02-07")
+,(83,807,647.23,"TRANSFER","2014-10-21")
+,(919,919,956.02,"SELF","2012-04-14")
+,(46,764,546.12,"TRANSFER","2015-05-14")
+,(869,226,578.78,"TRANSFER","2013-10-25")
+,(869,798,96.40,"TRANSFER","2013-03-04")
+,(525,525,845.53,"SELF","2012-01-11")
+,(479,479,186.33,"SELF","2014-01-13")
+,(987,275,960.56,"TRANSFER","2013-03-07")
+,(530,192,599.09,"TRANSFER","2016-01-20")
+,(862,733,302.65,"TRANSFER","2013-12-16")
+,(908,911,167.40,"TRANSFER","2014-05-23")
+,(88,88,266.74,"SELF","2015-11-10")
+,(138,954,57.82,"TRANSFER","2015-01-17")
+,(493,559,187.63,"TRANSFER","2016-03-16")
+,(345,368,362.01,"TRANSFER","2016-05-07")
+,(879,812,339.24,"TRANSFER","2015-07-26")
+,(171,688,134.73,"TRANSFER","2013-07-17")
+,(509,555,360.43,"TRANSFER","2015-05-16")
+,(5,593,178.71,"TRANSFER","2014-04-22")
+,(968,968,-516.40,"SELF","2013-12-15")
+,(820,427,207.12,"TRANSFER","2013-10-12")
+,(969,969,-321.31,"SELF","2016-10-25")
+,(383,849,741.34,"TRANSFER","2014-03-10")
+,(421,635,21.80,"TRANSFER","2012-03-24")
+,(720,341,171.69,"TRANSFER","2014-09-01")
+,(462,889,661.25,"TRANSFER","2016-12-13")
+,(908,908,472.91,"SELF","2015-10-01")
+,(207,207,221.38,"SELF","2015-08-24")
+,(229,498,491.10,"TRANSFER","2013-05-06")
+,(866,866,-796.52,"SELF","2016-08-18")
+,(113,113,-263.58,"SELF","2013-01-08")
+,(723,723,168.74,"SELF","2012-12-20")
+,(179,179,-740.72,"SELF","2013-03-06")
+,(186,587,303.23,"TRANSFER","2013-05-04")
+,(477,620,804.21,"TRANSFER","2014-01-13")
+,(872,524,374.10,"TRANSFER","2012-11-24")
+,(668,558,948.43,"TRANSFER","2016-03-22")
+,(717,565,849.54,"TRANSFER","2014-02-18")
+,(661,770,644.11,"TRANSFER","2016-06-07")
+,(730,537,887.46,"TRANSFER","2012-02-11")
+,(401,401,-197.28,"SELF","2014-10-21")
+,(163,163,546.09,"SELF","2012-12-09")
+,(161,222,16.16,"TRANSFER","2013-05-13")
+,(333,647,972.74,"TRANSFER","2014-05-11")
+,(158,158,-433.36,"SELF","2016-02-20")
+,(922,943,193.15,"TRANSFER","2013-01-08")
+,(501,501,-6.34,"SELF","2012-03-27")
+,(175,175,-49.62,"SELF","2016-06-23")
+,(111,488,303.44,"TRANSFER","2012-10-18")
+,(512,512,1000.51,"SELF","2015-04-06")
+,(58,251,421.48,"TRANSFER","2014-06-27")
+,(485,485,-970.27,"SELF","2013-11-26")
+,(989,198,948.93,"TRANSFER","2016-04-27")
+,(670,91,348.54,"TRANSFER","2012-08-26")
+,(988,988,127.59,"SELF","2015-05-22")
+,(235,330,110.90,"TRANSFER","2015-12-04")
+,(194,613,669.65,"TRANSFER","2016-04-08")
+,(806,806,-256.87,"SELF","2015-09-11")
+,(604,177,234.10,"TRANSFER","2015-04-20")
+,(772,578,942.34,"TRANSFER","2014-10-22")
+,(247,434,75.41,"TRANSFER","2016-05-27")
+,(183,722,158.55,"TRANSFER","2014-02-22")
+,(616,659,959.05,"TRANSFER","2014-08-28")
+,(609,17,558.97,"TRANSFER","2013-09-20")
+,(836,836,837.69,"SELF","2014-04-03")
+,(539,539,-680.34,"SELF","2013-12-20")
+,(180,180,-360.23,"SELF","2016-07-20")
+,(762,762,562.90,"SELF","2013-12-15")
+,(666,666,-435.23,"SELF","2014-06-03")
+,(523,523,637.05,"SELF","2014-05-17")
+,(301,61,180.16,"TRANSFER","2015-11-26")
+,(40,40,345.60,"SELF","2016-11-25")
+,(904,595,288.12,"TRANSFER","2015-04-28")
+,(846,988,957.21,"TRANSFER","2016-04-13")
+,(292,729,813.84,"TRANSFER","2016-01-14")
+,(976,953,583.48,"TRANSFER","2014-05-26")
+,(721,875,16.99,"TRANSFER","2016-01-16")
+,(416,416,-969.28,"SELF","2012-07-01")
+,(516,516,851.79,"SELF","2015-02-27")
+,(855,855,400.38,"SELF","2015-05-01")
+,(405,880,167.72,"TRANSFER","2013-07-16")
+,(820,820,-993.60,"SELF","2016-10-10")
+,(478,173,872.01,"TRANSFER","2014-08-07")
+,(955,594,112.44,"TRANSFER","2012-01-12")
+,(524,866,440.49,"TRANSFER","2014-02-14")
+,(177,851,896.11,"TRANSFER","2014-01-07")
+,(368,373,974.76,"TRANSFER","2015-02-21")
+,(781,451,689.33,"TRANSFER","2015-05-21")
+,(277,529,551.72,"TRANSFER","2015-11-12")
+,(875,778,173.32,"TRANSFER","2013-04-01")
+,(29,155,20.56,"TRANSFER","2016-08-10")
+,(846,6,947.27,"TRANSFER","2012-03-12")
+,(314,314,208.69,"SELF","2014-09-11")
+,(519,240,374.65,"TRANSFER","2012-08-01")
+,(397,506,127.12,"TRANSFER","2014-10-22")
+,(61,754,810.00,"TRANSFER","2015-01-19")
+,(413,14,995.46,"TRANSFER","2016-03-15")
+,(695,237,59.14,"TRANSFER","2016-07-05")
+,(608,608,-810.61,"SELF","2012-05-18")
+,(534,534,-552.11,"SELF","2013-04-27")
+,(155,155,836.58,"SELF","2016-07-05")
+,(438,438,793.42,"SELF","2016-12-05")
+,(565,565,-201.80,"SELF","2015-01-23")
+,(181,631,808.65,"TRANSFER","2015-09-28")
+,(371,317,811.00,"TRANSFER","2012-02-12")
+,(511,827,754.22,"TRANSFER","2012-11-16")
+,(650,140,330.38,"TRANSFER","2016-08-13")
+,(812,108,126.24,"TRANSFER","2012-05-08")
+,(282,282,442.89,"SELF","2016-01-13")
+,(754,668,516.99,"TRANSFER","2014-11-14")
+,(277,104,957.08,"TRANSFER","2014-07-07")
+,(460,460,-353.33,"SELF","2015-12-14")
+,(468,603,984.31,"TRANSFER","2015-12-05")
+,(719,476,544.25,"TRANSFER","2014-09-14")
+,(178,217,947.24,"TRANSFER","2016-05-16")
+,(133,259,854.48,"TRANSFER","2013-01-23")
+,(467,636,271.08,"TRANSFER","2015-11-25")
+,(85,205,13.52,"TRANSFER","2014-09-23")
+,(628,628,-661.56,"SELF","2012-06-14")
+,(343,984,358.30,"TRANSFER","2015-12-12")
+,(162,506,811.77,"TRANSFER","2014-03-01")
+,(454,716,361.22,"TRANSFER","2016-01-02")
+,(268,428,446.25,"TRANSFER","2015-12-20")
+,(467,40,663.42,"TRANSFER","2015-02-01")
+,(884,385,544.84,"TRANSFER","2016-04-12")
+,(182,182,41.60,"SELF","2014-06-13")
+,(755,205,640.76,"TRANSFER","2014-03-15")
+,(403,978,592.74,"TRANSFER","2014-05-10")
+,(959,959,777.87,"SELF","2012-03-14")
+,(951,593,103.56,"TRANSFER","2014-08-25")
+,(823,823,-851.97,"SELF","2014-04-08")
+,(233,906,995.34,"TRANSFER","2016-01-15")
+,(92,894,314.60,"TRANSFER","2012-04-22")
+,(627,857,279.54,"TRANSFER","2015-04-09")
+,(269,548,507.49,"TRANSFER","2015-12-13")
+,(995,439,907.03,"TRANSFER","2015-07-17")
+,(159,160,85.53,"TRANSFER","2013-03-27")
+,(767,665,665.17,"TRANSFER","2012-12-14")
+,(526,526,-660.48,"SELF","2013-10-22")
+,(6,6,938.79,"SELF","2013-05-15")
+,(326,326,125.28,"SELF","2013-12-20")
+,(72,72,115.32,"SELF","2016-04-25")
+,(376,96,152.10,"TRANSFER","2016-11-23")
+,(424,424,824.37,"SELF","2014-10-04")
+,(341,893,197.08,"TRANSFER","2013-03-01")
+,(67,309,744.65,"TRANSFER","2016-06-07")
+,(93,394,691.49,"TRANSFER","2012-07-22")
+,(877,877,279.74,"SELF","2014-07-19")
+,(10,168,119.49,"TRANSFER","2012-12-20")
+,(894,894,-816.36,"SELF","2014-04-26")
+,(935,77,992.74,"TRANSFER","2012-09-04")
+,(645,645,-699.09,"SELF","2015-11-28")
+,(969,503,23.17,"TRANSFER","2013-02-23")
+,(217,217,97.92,"SELF","2015-07-22")
+,(545,400,793.70,"TRANSFER","2014-06-06")
+,(725,725,368.62,"SELF","2012-04-01")
+,(140,140,-554.40,"SELF","2014-12-07")
+,(88,236,618.04,"TRANSFER","2012-12-26")
+,(479,16,584.73,"TRANSFER","2015-02-08")
+,(929,791,629.83,"TRANSFER","2016-04-25")
+,(606,522,94.45,"TRANSFER","2015-03-20")
+,(905,262,184.40,"TRANSFER","2015-03-18")
+,(120,660,572.50,"TRANSFER","2012-01-01")
+,(650,277,278.56,"TRANSFER","2014-05-09")
+,(852,77,50.39,"TRANSFER","2014-04-15")
+,(941,941,876.25,"SELF","2015-11-23")
+,(961,124,83.08,"TRANSFER","2016-06-14")
+,(671,671,602.05,"SELF","2013-10-28")
+,(204,435,833.40,"TRANSFER","2016-12-25")
+,(274,394,470.12,"TRANSFER","2012-11-05")
+,(326,698,80.84,"TRANSFER","2013-04-02")
+,(893,630,928.32,"TRANSFER","2014-10-20")
+,(894,894,456.74,"SELF","2013-04-17")
+,(496,725,119.50,"TRANSFER","2016-04-08")
+,(568,568,329.94,"SELF","2013-07-13")
+,(181,168,461.99,"TRANSFER","2012-04-02")
+,(636,636,751.70,"SELF","2016-12-09")
+,(492,917,196.14,"TRANSFER","2012-11-13")
+,(411,99,504.32,"TRANSFER","2014-07-02")
+,(252,186,66.32,"TRANSFER","2015-12-28")
+,(876,876,137.91,"SELF","2013-11-17")
+,(280,906,975.23,"TRANSFER","2015-10-02")
+,(136,136,-83.38,"SELF","2013-02-03")
+,(945,945,98.49,"SELF","2012-10-07")
+,(755,934,82.43,"TRANSFER","2012-05-07")
+,(260,638,162.81,"TRANSFER","2012-02-03")
+,(142,115,25.26,"TRANSFER","2014-07-18")
+,(631,631,729.03,"SELF","2014-01-08")
+,(141,141,-884.41,"SELF","2015-10-13")
+,(828,919,448.77,"TRANSFER","2014-12-17")
+,(244,244,-438.59,"SELF","2016-12-13")
+,(299,449,410.01,"TRANSFER","2013-12-05")
+,(936,936,-853.00,"SELF","2015-11-09")
+,(987,647,207.25,"TRANSFER","2013-10-10")
+,(331,683,497.12,"TRANSFER","2012-10-23")
+,(657,684,240.42,"TRANSFER","2013-06-02")
+,(740,91,292.77,"TRANSFER","2013-08-13")
+,(106,4,770.08,"TRANSFER","2013-09-15")
+,(103,585,489.34,"TRANSFER","2012-01-21")
+,(845,44,391.21,"TRANSFER","2016-12-24")
+,(139,139,292.54,"SELF","2012-04-13")
+,(560,560,-286.04,"SELF","2014-04-10")
+,(833,833,-730.10,"SELF","2012-10-27")
+,(944,92,309.81,"TRANSFER","2012-03-13")
+,(227,227,-402.51,"SELF","2012-02-24")
+,(610,610,143.66,"SELF","2015-02-27")
+,(244,212,403.25,"TRANSFER","2013-06-14")
+,(657,657,-222.35,"SELF","2013-07-10")
+,(799,945,957.31,"TRANSFER","2014-11-18")
+,(194,194,858.49,"SELF","2014-02-23")
+,(794,224,484.22,"TRANSFER","2014-03-27")
+,(709,709,-668.95,"SELF","2012-06-06")
+,(425,214,653.23,"TRANSFER","2015-05-05")
+,(153,834,968.84,"TRANSFER","2012-09-13")
+,(210,414,810.61,"TRANSFER","2016-01-18")
+,(404,317,489.15,"TRANSFER","2015-04-05")
+,(603,286,830.70,"TRANSFER","2012-11-17")
+,(302,302,618.96,"SELF","2012-11-28")
+,(715,647,173.34,"TRANSFER","2013-12-08")
+,(409,564,394.35,"TRANSFER","2015-03-13")
+,(186,964,403.38,"TRANSFER","2013-10-19")
+,(441,206,844.99,"TRANSFER","2014-06-19")
+,(965,846,112.67,"TRANSFER","2012-03-08")
+,(943,371,239.41,"TRANSFER","2013-02-14")
+,(836,639,703.08,"TRANSFER","2013-08-26")
+,(131,131,327.42,"SELF","2016-09-24")
+,(943,649,453.36,"TRANSFER","2013-08-27")
+,(433,717,975.95,"TRANSFER","2014-10-06")
+,(793,438,540.43,"TRANSFER","2013-10-01")
+,(86,86,-940.42,"SELF","2012-04-06")
+,(839,131,500.09,"TRANSFER","2012-07-05")
+,(558,558,705.95,"SELF","2016-02-06")
+,(244,428,100.50,"TRANSFER","2014-07-14")
+,(229,32,602.11,"TRANSFER","2012-10-11")
+,(811,811,218.39,"SELF","2012-02-18")
+,(928,928,-770.21,"SELF","2012-08-28")
+,(584,924,760.37,"TRANSFER","2015-09-02")
+,(584,584,885.24,"SELF","2016-03-04")
+,(344,344,-34.08,"SELF","2014-06-05")
+,(333,353,664.87,"TRANSFER","2015-04-08")
+,(914,358,533.61,"TRANSFER","2012-07-26")
+,(212,965,110.26,"TRANSFER","2016-02-08")
+,(431,431,829.04,"SELF","2012-09-15")
+,(154,920,65.35,"TRANSFER","2012-05-06")
+,(801,431,231.06,"TRANSFER","2013-03-06")
+,(121,980,679.18,"TRANSFER","2013-07-24")
+,(389,389,898.28,"SELF","2014-02-11")
+,(40,676,480.15,"TRANSFER","2013-05-24")
+,(18,18,-411.27,"SELF","2012-09-26")
+,(16,16,75.84,"SELF","2012-03-01")
+,(270,450,313.19,"TRANSFER","2013-06-25")
+,(733,294,757.01,"TRANSFER","2014-04-19")
+,(186,752,165.72,"TRANSFER","2014-12-05")
+,(984,530,90.49,"TRANSFER","2015-01-18")
+,(49,49,-996.86,"SELF","2015-06-25")
+,(775,2,599.04,"TRANSFER","2013-08-22")
+,(167,646,578.24,"TRANSFER","2014-11-21")
+,(274,624,686.87,"TRANSFER","2016-10-23")
+,(525,173,943.05,"TRANSFER","2014-05-08")
+,(42,905,126.08,"TRANSFER","2016-06-11")
+,(920,655,523.69,"TRANSFER","2013-10-11")
+,(18,51,684.31,"TRANSFER","2012-09-22")
+,(651,651,894.63,"SELF","2015-09-13")
+,(492,613,414.88,"TRANSFER","2012-05-09")
+,(998,998,37.82,"SELF","2012-11-03")
+,(971,109,382.89,"TRANSFER","2014-09-16")
+,(971,971,821.48,"SELF","2014-07-17")
+,(403,821,222.02,"TRANSFER","2015-01-02")
+,(881,881,602.19,"SELF","2013-08-03")
+,(915,915,-30.68,"SELF","2015-09-07")
+,(431,465,105.03,"TRANSFER","2012-04-22")
+,(529,748,357.75,"TRANSFER","2014-10-09")
+,(237,237,-997.71,"SELF","2012-08-10")
+,(981,233,222.33,"TRANSFER","2012-04-19")
+,(479,458,336.68,"TRANSFER","2016-09-26")
+,(329,627,709.82,"TRANSFER","2014-02-03")
+,(752,752,529.36,"SELF","2015-08-09")
+,(684,562,946.51,"TRANSFER","2015-04-22")
+,(392,65,95.64,"TRANSFER","2013-02-25")
+,(1,1,-982.00,"SELF","2015-02-02")
+,(63,252,411.61,"TRANSFER","2016-01-02")
+,(974,652,310.77,"TRANSFER","2016-12-17")
+,(30,919,318.66,"TRANSFER","2012-09-15")
+,(863,863,450.44,"SELF","2014-01-03")
+,(976,976,-280.53,"SELF","2015-05-20")
+,(171,665,442.94,"TRANSFER","2015-02-13")
+,(408,408,29.08,"SELF","2014-06-19")
+,(168,597,700.67,"TRANSFER","2013-03-28")
+,(569,569,311.52,"SELF","2014-11-28")
+,(989,472,30.70,"TRANSFER","2015-08-09")
+,(347,767,729.05,"TRANSFER","2014-04-24")
+,(913,913,-898.92,"SELF","2014-03-21")
+,(444,814,381.22,"TRANSFER","2014-04-12")
+,(879,974,1.45,"TRANSFER","2015-09-04")
+,(888,442,690.10,"TRANSFER","2013-03-18")
+,(282,356,463.63,"TRANSFER","2015-02-20")
+,(989,640,715.78,"TRANSFER","2013-06-21")
+,(669,320,755.23,"TRANSFER","2012-09-13")
+,(249,249,260.52,"SELF","2016-04-26")
+,(945,768,245.30,"TRANSFER","2013-02-08")
+,(454,851,195.05,"TRANSFER","2014-08-20")
+,(5,898,579.53,"TRANSFER","2016-07-06")
+,(621,942,434.80,"TRANSFER","2013-02-23")
+,(328,528,809.54,"TRANSFER","2015-01-07")
+,(490,947,829.34,"TRANSFER","2014-04-14")
+,(749,749,-557.36,"SELF","2012-02-03")
+,(506,506,-773.79,"SELF","2012-04-12")
+,(684,684,-540.39,"SELF","2015-10-08")
+,(660,660,-270.31,"SELF","2012-05-08")
+,(188,188,-687.94,"SELF","2016-01-06")
+,(780,645,611.49,"TRANSFER","2015-11-27")
+,(535,535,-60.19,"SELF","2013-12-16")
+,(687,769,15.66,"TRANSFER","2013-07-19")
+,(636,636,184.25,"SELF","2013-10-04")
+,(970,970,-367.67,"SELF","2013-01-13")
+,(485,485,-625.77,"SELF","2014-03-23")
+,(838,838,-813.58,"SELF","2016-08-07")
+,(803,201,799.49,"TRANSFER","2016-07-18")
+,(345,754,122.00,"TRANSFER","2015-12-11")
+,(706,146,448.28,"TRANSFER","2013-02-28")
+,(612,219,930.19,"TRANSFER","2016-10-17")
+,(766,766,59.87,"SELF","2013-02-28")
+,(374,87,278.80,"TRANSFER","2016-09-26")
+,(940,940,627.84,"SELF","2016-12-06")
+,(956,956,731.93,"SELF","2012-12-15")
+,(737,415,344.77,"TRANSFER","2012-09-08")
+,(918,918,-874.97,"SELF","2013-10-10")
+,(88,778,694.05,"TRANSFER","2014-07-01")
+,(623,623,440.65,"SELF","2012-12-06")
+,(947,947,-27.45,"SELF","2016-02-11")
+,(763,801,911.69,"TRANSFER","2014-04-20")
+,(603,983,437.28,"TRANSFER","2015-05-19")
+,(390,787,444.37,"TRANSFER","2012-01-09")
+,(556,809,702.36,"TRANSFER","2012-08-06")
+,(457,407,726.90,"TRANSFER","2014-03-06")
+,(538,545,925.30,"TRANSFER","2015-10-12")
+,(75,64,858.64,"TRANSFER","2013-06-22")
+,(129,644,765.74,"TRANSFER","2013-07-15")
+,(134,134,780.48,"SELF","2013-05-04")
+,(440,707,891.42,"TRANSFER","2015-04-27")
+,(989,989,-171.75,"SELF","2014-05-09")
+,(195,936,858.85,"TRANSFER","2016-10-20")
+,(543,436,266.06,"TRANSFER","2012-10-02")
+,(556,213,640.97,"TRANSFER","2012-07-08")
+,(512,512,-150.24,"SELF","2012-05-17")
+,(787,708,677.33,"TRANSFER","2015-06-10")
+,(109,818,295.36,"TRANSFER","2015-12-10")
+,(314,311,248.42,"TRANSFER","2014-11-08")
+,(20,819,88.98,"TRANSFER","2013-11-01")
+,(203,352,983.47,"TRANSFER","2015-12-14")
+,(553,553,861.58,"SELF","2016-06-22")
+,(690,690,535.12,"SELF","2016-07-07")
+,(525,626,155.62,"TRANSFER","2015-02-02")
+,(750,750,1.71,"SELF","2013-04-01")
+,(312,850,3.69,"TRANSFER","2013-12-27")
+,(709,544,127.60,"TRANSFER","2015-02-15")
+,(712,400,54.08,"TRANSFER","2016-03-27")
+,(481,481,-837.98,"SELF","2014-08-25")
+,(668,668,-871.07,"SELF","2012-01-19")
+,(117,432,184.72,"TRANSFER","2013-12-26")
+,(554,65,598.64,"TRANSFER","2012-03-26")
+,(155,155,-512.03,"SELF","2012-05-21")
+,(741,979,809.76,"TRANSFER","2014-04-16")
+,(957,521,615.55,"TRANSFER","2015-02-15")
+,(907,929,860.63,"TRANSFER","2016-02-11")
+,(236,773,346.83,"TRANSFER","2013-01-24")
+,(750,234,8.70,"TRANSFER","2013-11-08")
+,(480,362,387.68,"TRANSFER","2013-03-24")
+,(716,65,344.00,"TRANSFER","2012-01-19")
+,(215,481,325.03,"TRANSFER","2015-07-21")
+,(313,313,-536.72,"SELF","2013-04-12")
+,(643,425,255.03,"TRANSFER","2012-05-01")
+,(483,969,188.59,"TRANSFER","2012-05-08")
+,(497,497,-261.97,"SELF","2014-07-26")
+,(677,677,-188.57,"SELF","2014-09-10")
+,(16,752,40.28,"TRANSFER","2016-10-06")
+,(317,317,-788.46,"SELF","2014-12-21")
+,(520,423,427.95,"TRANSFER","2016-04-14")
+,(891,891,-126.86,"SELF","2015-06-08")
+,(30,124,418.71,"TRANSFER","2015-11-26")
+,(350,640,840.21,"TRANSFER","2013-12-23")
+,(481,59,782.39,"TRANSFER","2016-08-27")
+,(131,484,421.08,"TRANSFER","2012-07-13")
+,(551,92,750.34,"TRANSFER","2016-02-17")
+,(978,507,829.73,"TRANSFER","2014-11-14")
+,(757,622,389.36,"TRANSFER","2013-06-07")
+,(244,84,28.57,"TRANSFER","2015-04-06")
+,(421,227,977.93,"TRANSFER","2016-02-01")
+,(636,221,794.42,"TRANSFER","2016-10-05")
+,(833,72,204.37,"TRANSFER","2016-09-24")
+,(494,417,630.99,"TRANSFER","2015-05-13")
+,(284,852,569.79,"TRANSFER","2016-02-27")
+,(556,208,405.23,"TRANSFER","2016-10-21")
+,(409,618,742.63,"TRANSFER","2014-06-22")
+,(672,888,978.67,"TRANSFER","2012-07-24")
+,(709,709,-553.08,"SELF","2013-06-26")
+,(187,101,334.50,"TRANSFER","2016-08-04")
+,(599,957,637.71,"TRANSFER","2015-11-21")
+,(105,786,598.05,"TRANSFER","2014-02-19")
+,(590,590,-811.45,"SELF","2012-04-09")
+,(712,753,882.05,"TRANSFER","2013-07-17")
+,(685,460,649.87,"TRANSFER","2013-10-01")
+,(898,898,-63.26,"SELF","2012-10-07")
+,(952,690,838.37,"TRANSFER","2013-09-20")
+,(646,985,451.82,"TRANSFER","2015-10-08")
+,(736,119,834.29,"TRANSFER","2016-09-08")
+,(324,221,663.06,"TRANSFER","2013-12-02")
+,(589,931,103.23,"TRANSFER","2015-10-25")
+,(793,793,30.51,"SELF","2012-11-21")
+,(680,680,-104.80,"SELF","2015-02-13")
+,(434,890,901.59,"TRANSFER","2015-11-26")
+,(731,223,422.65,"TRANSFER","2012-08-06")
+,(658,799,652.00,"TRANSFER","2013-09-14")
+,(849,728,274.13,"TRANSFER","2012-07-05")
+,(605,796,666.94,"TRANSFER","2015-09-17")
+,(575,267,740.72,"TRANSFER","2013-07-26")
+,(387,48,436.55,"TRANSFER","2016-10-03")
+,(675,396,984.08,"TRANSFER","2015-10-08")
+,(549,299,387.06,"TRANSFER","2016-03-18")
+,(776,648,95.85,"TRANSFER","2014-06-06")
+,(569,444,739.07,"TRANSFER","2015-04-27")
+,(965,965,-885.11,"SELF","2015-03-14")
+,(818,881,482.20,"TRANSFER","2016-05-25")
+,(211,211,178.82,"SELF","2016-06-26")
+,(38,38,-592.30,"SELF","2016-12-23")
+,(502,37,20.07,"TRANSFER","2015-12-10")
+,(275,314,366.85,"TRANSFER","2015-08-14")
+,(795,485,163.47,"TRANSFER","2016-04-16")
+,(207,640,134.33,"TRANSFER","2012-05-27")
+,(124,839,865.91,"TRANSFER","2012-12-28")
+,(47,47,633.40,"SELF","2016-07-28")
+,(632,449,237.86,"TRANSFER","2014-05-22")
+,(879,893,246.90,"TRANSFER","2013-01-09")
+,(212,749,119.73,"TRANSFER","2015-10-16")
+,(909,564,983.71,"TRANSFER","2012-03-13")
+,(257,257,-18.63,"SELF","2013-02-06")
+,(154,154,-905.07,"SELF","2012-05-25")
+,(827,349,881.68,"TRANSFER","2016-05-01")
+,(817,987,169.12,"TRANSFER","2014-09-02")
+,(191,624,779.43,"TRANSFER","2014-08-01")
+,(585,226,415.81,"TRANSFER","2016-07-11")
+,(40,40,-164.32,"SELF","2012-07-11")
+,(55,840,678.95,"TRANSFER","2014-07-24")
+,(834,558,386.88,"TRANSFER","2012-12-24")
+,(693,693,-996.07,"SELF","2014-11-11")
+,(792,982,827.97,"TRANSFER","2012-07-04")
+,(185,332,228.99,"TRANSFER","2016-01-26")
+,(177,432,313.49,"TRANSFER","2015-05-23")
+,(324,525,814.34,"TRANSFER","2016-12-04")
+,(203,203,455.53,"SELF","2014-07-26")
+,(671,671,-152.08,"SELF","2014-04-23")
+,(911,970,115.71,"TRANSFER","2014-11-12")
+,(260,260,-643.12,"SELF","2014-03-14")
+,(677,247,392.07,"TRANSFER","2016-12-15")
+,(898,40,601.73,"TRANSFER","2015-06-12")
+,(436,128,908.34,"TRANSFER","2012-10-25")
+,(762,575,779.16,"TRANSFER","2014-06-06")
+,(628,628,937.40,"SELF","2012-12-28")
+,(204,939,293.49,"TRANSFER","2013-06-13")
+,(246,707,990.86,"TRANSFER","2015-10-12")
+,(52,169,9.51,"TRANSFER","2015-12-15")
+,(670,670,885.65,"SELF","2013-07-25")
+,(973,973,497.00,"SELF","2013-03-10")
+,(124,550,41.63,"TRANSFER","2016-05-03")
+,(259,443,663.92,"TRANSFER","2015-06-09")
+,(592,496,593.53,"TRANSFER","2014-01-13")
+,(753,753,-162.28,"SELF","2013-08-23")
+,(309,309,-110.69,"SELF","2012-03-01")
+,(207,185,14.82,"TRANSFER","2012-10-09")
+,(83,83,761.44,"SELF","2016-04-11")
+,(320,207,172.14,"TRANSFER","2014-04-17")
+,(973,728,786.64,"TRANSFER","2013-11-04")
+,(94,179,591.33,"TRANSFER","2012-07-13")
+,(919,897,646.54,"TRANSFER","2016-02-07")
+,(56,56,-841.49,"SELF","2013-06-26")
+,(350,350,-174.27,"SELF","2016-04-14")
+,(553,553,796.52,"SELF","2016-04-08")
+,(940,537,498.69,"TRANSFER","2016-09-15")
+,(833,833,-828.38,"SELF","2013-04-28")
+,(139,139,-630.59,"SELF","2015-03-28")
+,(398,931,610.81,"TRANSFER","2014-05-10")
+,(819,654,469.53,"TRANSFER","2016-08-06")
+,(766,848,665.58,"TRANSFER","2014-09-15")
+,(780,780,-909.07,"SELF","2014-09-13")
+,(867,867,-287.82,"SELF","2012-04-25")
+,(456,456,-78.64,"SELF","2014-06-02")
+,(145,641,432.09,"TRANSFER","2012-10-03")
+,(864,904,913.41,"TRANSFER","2013-11-19")
+,(929,20,690.10,"TRANSFER","2013-04-08")
+,(824,449,995.36,"TRANSFER","2013-08-24")
+,(339,635,338.03,"TRANSFER","2015-07-11")
+,(720,720,-934.61,"SELF","2013-05-25")
+,(748,325,870.49,"TRANSFER","2012-10-13")
+,(116,116,990.99,"SELF","2014-10-08")
+,(899,624,491.82,"TRANSFER","2012-04-28")
+,(477,434,692.96,"TRANSFER","2016-04-14")
+,(183,41,144.23,"TRANSFER","2014-10-08")
+,(921,504,823.21,"TRANSFER","2014-04-15")
+,(243,243,7.68,"SELF","2016-03-03")
+,(759,492,373.15,"TRANSFER","2015-06-03")
+,(754,153,312.82,"TRANSFER","2016-03-04")
+,(423,78,739.53,"TRANSFER","2013-07-17")
+,(698,698,-980.76,"SELF","2016-02-05")
+,(624,570,165.93,"TRANSFER","2015-03-14")
+,(888,888,866.44,"SELF","2016-09-05")
+,(473,927,433.91,"TRANSFER","2014-04-01")
+,(507,103,929.97,"TRANSFER","2015-02-25")
+,(71,119,929.96,"TRANSFER","2013-10-03")
+,(991,660,838.46,"TRANSFER","2013-03-11")
+,(708,22,133.31,"TRANSFER","2015-03-11")
+,(149,967,504.79,"TRANSFER","2014-11-17")
+,(333,333,270.43,"SELF","2015-04-26")
+,(805,805,758.42,"SELF","2012-02-24")
+,(754,754,164.30,"SELF","2013-04-08")
+,(582,844,179.44,"TRANSFER","2015-04-05")
+,(784,784,-424.79,"SELF","2013-06-24")
+,(593,593,693.04,"SELF","2016-03-26")
+,(726,946,211.52,"TRANSFER","2015-08-01")
+,(112,695,465.81,"TRANSFER","2013-03-01")
+,(166,166,122.14,"SELF","2014-12-27")
+,(110,110,-943.09,"SELF","2013-01-01")
+,(991,991,405.97,"SELF","2012-05-24")
+,(467,467,15.23,"SELF","2013-12-17")
+,(944,292,355.70,"TRANSFER","2012-09-11")
+,(676,112,715.87,"TRANSFER","2012-07-10")
+,(942,671,558.95,"TRANSFER","2015-08-02")
+,(474,478,893.86,"TRANSFER","2012-07-22")
+,(159,159,351.95,"SELF","2015-06-19")
+,(46,583,463.99,"TRANSFER","2012-01-12")
+,(598,598,374.26,"SELF","2014-08-15")
+,(922,305,46.29,"TRANSFER","2013-04-13")
+,(554,959,571.46,"TRANSFER","2013-12-01")
+,(421,595,772.84,"TRANSFER","2014-02-27")
+,(474,846,0.02,"TRANSFER","2013-12-05")
+,(113,152,87.71,"TRANSFER","2013-10-09")
+,(93,93,-752.17,"SELF","2012-09-03")
+,(932,932,-391.85,"SELF","2012-05-05")
+,(952,313,229.13,"TRANSFER","2013-05-13")
+,(60,997,896.63,"TRANSFER","2012-04-24")
+,(773,773,732.25,"SELF","2013-02-17")
+,(638,638,-113.56,"SELF","2015-01-25")
+,(826,826,293.02,"SELF","2016-03-17")
+,(775,314,50.01,"TRANSFER","2016-06-11")
+,(600,600,324.71,"SELF","2014-03-16")
+,(570,570,204.23,"SELF","2014-01-17")
+,(612,685,556.55,"TRANSFER","2013-11-23")
+,(771,771,-734.46,"SELF","2012-09-08")
+,(197,302,326.63,"TRANSFER","2016-10-19")
+,(831,590,555.76,"TRANSFER","2013-07-19")
+,(416,519,516.94,"TRANSFER","2012-06-16")
+,(48,513,676.27,"TRANSFER","2015-05-07")
+,(357,357,617.83,"SELF","2013-12-28")
+,(784,237,251.54,"TRANSFER","2012-03-25")
+,(886,886,210.64,"SELF","2015-01-24")
+,(300,227,502.93,"TRANSFER","2016-04-04")
+,(131,756,741.50,"TRANSFER","2012-06-05")
+,(230,230,136.01,"SELF","2013-04-14")
+,(697,198,420.33,"TRANSFER","2013-12-18")
+,(581,581,-341.66,"SELF","2015-10-11")
+,(670,367,92.53,"TRANSFER","2012-08-14")
+,(487,860,800.75,"TRANSFER","2012-06-22")
+,(162,162,-543.00,"SELF","2012-02-23")
+,(165,486,281.80,"TRANSFER","2015-10-01")
+,(988,988,-534.36,"SELF","2013-08-06")
+,(3,91,59.01,"TRANSFER","2016-06-24")
+,(127,673,788.55,"TRANSFER","2016-10-26")
+,(33,33,684.17,"SELF","2012-01-22")
+,(162,162,777.50,"SELF","2013-09-21")
+,(846,843,402.28,"TRANSFER","2015-03-25")
+,(540,540,822.96,"SELF","2016-01-07")
+,(635,941,435.56,"TRANSFER","2012-01-16")
+,(85,85,459.64,"SELF","2014-07-24")
+,(208,208,434.19,"SELF","2012-03-24")
+,(519,912,748.08,"TRANSFER","2013-07-23")
+,(541,396,59.81,"TRANSFER","2016-03-21")
+,(674,674,-521.12,"SELF","2014-05-19")
+,(962,449,875.30,"TRANSFER","2016-06-12")
+,(51,519,967.51,"TRANSFER","2012-06-22")
+,(874,874,605.23,"SELF","2015-01-18")
+,(789,789,-245.06,"SELF","2014-12-08")
+,(551,91,229.11,"TRANSFER","2015-05-05")
+,(707,707,887.94,"SELF","2013-12-14")
+,(731,222,487.48,"TRANSFER","2013-06-18")
+,(263,159,734.51,"TRANSFER","2012-05-19")
+,(630,329,999.89,"TRANSFER","2013-04-19")
+,(408,409,321.79,"TRANSFER","2015-02-11")
+,(919,669,981.73,"TRANSFER","2012-07-17")
+,(731,599,645.34,"TRANSFER","2012-04-08")
+,(330,106,500.81,"TRANSFER","2012-04-15")
+,(967,717,798.72,"TRANSFER","2012-01-26")
+,(690,571,110.12,"TRANSFER","2014-01-27")
+,(549,24,780.96,"TRANSFER","2014-08-19")
+,(577,907,489.83,"TRANSFER","2016-06-03")
+,(561,561,-904.69,"SELF","2016-05-01")
+,(619,940,118.48,"TRANSFER","2012-03-20")
+,(666,225,169.37,"TRANSFER","2015-02-01")
+,(130,697,474.39,"TRANSFER","2015-01-17")
+,(617,617,-718.03,"SELF","2013-11-17")
+,(947,546,142.39,"TRANSFER","2012-03-22")
+,(637,351,807.70,"TRANSFER","2013-03-26")
+,(557,576,522.27,"TRANSFER","2014-03-18")
+,(461,263,956.91,"TRANSFER","2013-10-14")
+,(432,249,275.45,"TRANSFER","2016-05-12")
+,(762,319,809.20,"TRANSFER","2014-09-26")
+,(729,287,862.91,"TRANSFER","2014-01-25")
+,(718,921,814.65,"TRANSFER","2014-12-02")
+,(274,729,281.40,"TRANSFER","2014-12-03")
+,(191,154,663.50,"TRANSFER","2014-03-10")
+,(382,353,861.75,"TRANSFER","2015-07-01")
+,(14,14,-585.93,"SELF","2016-12-22")
+,(467,467,-776.61,"SELF","2013-05-17")
+,(391,391,880.92,"SELF","2016-06-05")
+,(90,11,745.95,"TRANSFER","2015-02-04")
+,(253,814,961.08,"TRANSFER","2013-12-23")
+,(301,301,239.08,"SELF","2013-02-18")
+,(16,16,687.01,"SELF","2015-09-05")
+,(402,528,992.56,"TRANSFER","2014-07-28")
+,(347,939,986.74,"TRANSFER","2013-05-04")
+,(540,694,328.33,"TRANSFER","2013-08-10")
+,(578,861,678.88,"TRANSFER","2013-07-04")
+,(590,590,-892.45,"SELF","2012-04-18")
+,(182,816,141.83,"TRANSFER","2014-09-28")
+,(327,860,215.81,"TRANSFER","2014-02-21")
+,(615,142,657.41,"TRANSFER","2012-05-16")
+,(542,196,735.21,"TRANSFER","2014-10-21")
+,(730,497,202.42,"TRANSFER","2016-04-21")
+,(922,922,939.35,"SELF","2012-10-18")
+,(573,772,102.31,"TRANSFER","2013-07-09")
+,(150,749,162.19,"TRANSFER","2012-09-05")
+,(224,711,2.78,"TRANSFER","2015-04-12")
+,(426,221,682.69,"TRANSFER","2014-10-06")
+,(162,162,308.37,"SELF","2014-04-02")
+,(246,246,-864.62,"SELF","2013-06-11")
+,(335,465,872.94,"TRANSFER","2013-01-26")
+,(359,703,471.18,"TRANSFER","2016-01-06")
+,(446,443,374.88,"TRANSFER","2013-09-02")
+,(926,409,475.84,"TRANSFER","2013-12-18")
+,(589,479,865.81,"TRANSFER","2013-12-12")
+,(735,735,987.15,"SELF","2012-06-24")
+,(809,866,758.89,"TRANSFER","2014-04-22")
+,(864,864,-684.77,"SELF","2016-05-14")
+,(690,159,803.14,"TRANSFER","2016-05-20")
+,(903,903,197.46,"SELF","2012-10-14")
+,(414,301,587.86,"TRANSFER","2015-11-04")
+,(769,644,42.92,"TRANSFER","2016-11-19")
+,(762,205,368.33,"TRANSFER","2012-06-09")
+,(944,944,787.54,"SELF","2012-01-28")
+,(59,677,356.84,"TRANSFER","2015-05-20")
+,(649,838,553.80,"TRANSFER","2016-11-01")
+,(100,654,675.00,"TRANSFER","2015-08-03")
+,(195,319,318.40,"TRANSFER","2012-10-25")
+,(983,104,946.19,"TRANSFER","2012-03-17")
+,(833,833,-208.94,"SELF","2016-04-03")
+,(946,946,574.13,"SELF","2016-11-28")
+,(290,523,183.75,"TRANSFER","2014-09-08")
+,(556,556,-158.43,"SELF","2012-06-10")
+,(30,352,603.47,"TRANSFER","2012-10-18")
+,(420,420,493.09,"SELF","2015-06-04")
+,(654,654,-286.28,"SELF","2013-01-10")
+,(135,135,-463.37,"SELF","2013-01-22")
+,(657,657,-443.93,"SELF","2013-11-13")
+,(174,462,72.44,"TRANSFER","2016-02-01")
+,(102,42,963.70,"TRANSFER","2015-06-14")
+,(834,89,562.02,"TRANSFER","2012-05-07")
+,(198,198,-904.40,"SELF","2016-10-01")
+,(781,868,110.24,"TRANSFER","2016-09-01")
+,(967,490,795.84,"TRANSFER","2014-01-13")
+,(676,321,403.40,"TRANSFER","2015-02-05")
+,(383,713,91.18,"TRANSFER","2016-09-13")
+,(484,4,436.89,"TRANSFER","2013-08-04")
+,(655,655,-501.15,"SELF","2012-06-15")
+,(796,796,407.77,"SELF","2016-02-06")
+,(366,366,-522.46,"SELF","2013-08-08")
+,(408,408,331.14,"SELF","2012-11-07")
+,(20,494,592.52,"TRANSFER","2016-03-22")
+,(493,506,937.89,"TRANSFER","2015-04-09")
+,(607,245,805.31,"TRANSFER","2012-06-08")
+,(60,60,-102.39,"SELF","2012-02-23")
+,(873,873,622.38,"SELF","2014-06-15")
+,(316,316,717.35,"SELF","2016-09-25")
+,(64,111,112.12,"TRANSFER","2015-03-16")
+,(773,612,662.10,"TRANSFER","2014-12-23")
+,(545,112,845.84,"TRANSFER","2015-10-15")
+,(919,919,363.86,"SELF","2016-04-16")
+,(775,775,-619.17,"SELF","2012-05-09")
+,(638,928,938.91,"TRANSFER","2013-08-07")
+,(111,144,954.97,"TRANSFER","2016-11-01")
+,(320,320,659.81,"SELF","2014-11-11")
+,(178,310,95.38,"TRANSFER","2012-02-03")
+,(297,178,199.74,"TRANSFER","2012-06-22")
+,(678,715,589.09,"TRANSFER","2014-12-14")
+,(793,958,218.63,"TRANSFER","2015-09-10")
+,(463,923,74.79,"TRANSFER","2016-08-15")
+,(511,865,82.25,"TRANSFER","2015-08-15")
+,(368,56,238.98,"TRANSFER","2015-07-25")
+,(583,16,730.83,"TRANSFER","2013-02-10")
+,(225,225,-543.88,"SELF","2012-02-02")
+,(167,80,808.33,"TRANSFER","2012-02-21")
+,(679,679,-639.87,"SELF","2016-03-27")
+,(872,154,527.49,"TRANSFER","2013-10-22")
+,(28,858,388.25,"TRANSFER","2015-06-09")
+,(678,678,848.54,"SELF","2016-01-10")
+,(967,845,204.40,"TRANSFER","2012-02-13")
+,(15,629,764.71,"TRANSFER","2013-02-16")
+,(413,896,216.63,"TRANSFER","2013-08-15")
+,(718,801,105.56,"TRANSFER","2013-02-10")
+,(321,244,280.18,"TRANSFER","2016-04-04")
+,(886,886,-46.77,"SELF","2013-05-09")
+,(218,155,203.09,"TRANSFER","2014-02-09")
+,(147,348,700.74,"TRANSFER","2014-01-07")
+,(90,90,-126.17,"SELF","2013-03-18")
+,(312,518,689.32,"TRANSFER","2012-01-09")
+,(794,678,772.07,"TRANSFER","2016-05-11")
+,(856,622,350.56,"TRANSFER","2016-08-21")
+,(105,241,909.67,"TRANSFER","2012-10-01")
+,(671,976,950.03,"TRANSFER","2012-07-19")
+,(333,84,343.59,"TRANSFER","2012-04-20")
+,(388,475,157.92,"TRANSFER","2016-10-18")
+,(422,403,17.88,"TRANSFER","2015-09-14")
+,(610,610,-280.90,"SELF","2016-05-04")
+,(13,776,916.82,"TRANSFER","2016-04-14")
+,(424,424,745.90,"SELF","2015-08-20")
+,(202,537,441.69,"TRANSFER","2015-01-11")
+,(247,793,260.65,"TRANSFER","2016-08-01")
+,(505,360,330.42,"TRANSFER","2014-07-18")
+,(903,351,412.99,"TRANSFER","2013-11-05")
+,(517,517,135.70,"SELF","2016-04-16")
+,(3,280,355.01,"TRANSFER","2016-06-05")
+,(197,169,788.18,"TRANSFER","2014-08-02")
+,(807,524,67.48,"TRANSFER","2013-06-01")
+,(938,961,345.51,"TRANSFER","2016-12-19")
+,(119,548,113.69,"TRANSFER","2013-04-20")
+,(509,509,-130.93,"SELF","2014-07-11")
+,(128,128,-138.41,"SELF","2013-07-06")
+,(13,13,66.46,"SELF","2015-05-06")
+,(470,470,148.01,"SELF","2013-03-12")
+,(705,784,498.57,"TRANSFER","2015-04-21")
+,(143,143,-363.63,"SELF","2016-01-23")
+,(931,931,-188.87,"SELF","2016-02-14")
+,(662,560,382.45,"TRANSFER","2014-04-21")
+,(443,87,119.90,"TRANSFER","2015-08-21")
+,(765,418,600.22,"TRANSFER","2016-01-06")
+,(327,327,-847.02,"SELF","2016-09-21")
+,(776,128,258.38,"TRANSFER","2012-08-19")
+,(715,24,572.09,"TRANSFER","2016-02-17")
+,(383,727,142.31,"TRANSFER","2014-10-12")
+,(343,41,659.74,"TRANSFER","2013-03-22")
+,(638,531,352.10,"TRANSFER","2016-10-11")
+,(660,660,561.33,"SELF","2013-03-24")
+,(86,86,-94.68,"SELF","2015-09-23")
+,(213,213,-4.36,"SELF","2016-02-08")
+,(56,546,191.80,"TRANSFER","2013-11-28")
+,(850,408,426.46,"TRANSFER","2012-08-26")
+,(332,742,62.88,"TRANSFER","2014-07-16")
+,(898,898,980.99,"SELF","2014-02-25")
+,(159,159,984.51,"SELF","2012-05-03")
+,(415,338,221.86,"TRANSFER","2013-05-01")
+,(135,985,23.42,"TRANSFER","2015-10-23")
+,(263,263,514.99,"SELF","2013-04-25")
+,(486,778,764.63,"TRANSFER","2013-09-11")
+,(356,53,966.63,"TRANSFER","2015-04-05")
+,(492,492,-583.39,"SELF","2013-08-13")
+,(266,809,131.88,"TRANSFER","2012-05-09")
+,(815,815,411.45,"SELF","2013-01-06")
+,(321,496,107.79,"TRANSFER","2013-06-22")
+,(375,622,658.90,"TRANSFER","2016-02-03")
+,(106,424,45.59,"TRANSFER","2014-04-25")
+,(73,701,486.77,"TRANSFER","2012-01-22")
+,(315,315,-272.16,"SELF","2013-04-09")
+,(959,959,983.21,"SELF","2012-05-05")
+,(290,290,-278.22,"SELF","2013-08-15")
+,(43,224,78.89,"TRANSFER","2013-08-20")
+,(848,87,439.88,"TRANSFER","2014-02-10")
+,(226,762,909.15,"TRANSFER","2014-04-20")
+,(201,201,182.24,"SELF","2014-08-05")
+,(577,865,824.38,"TRANSFER","2016-06-07")
+,(384,398,154.98,"TRANSFER","2015-12-05")
+,(345,345,-964.49,"SELF","2012-06-01")
+,(283,324,527.83,"TRANSFER","2012-05-21")
+,(423,433,800.02,"TRANSFER","2013-04-05")
+,(839,839,270.82,"SELF","2016-05-08")
+,(749,749,296.33,"SELF","2015-12-09")
+,(914,914,-771.89,"SELF","2012-11-19")
+,(996,871,570.88,"TRANSFER","2016-07-05")
+,(299,299,158.42,"SELF","2015-01-17")
+,(2,848,226.12,"TRANSFER","2015-08-24")
+,(745,832,247.48,"TRANSFER","2012-06-12")
+,(614,957,963.35,"TRANSFER","2012-07-11")
+,(791,791,-706.19,"SELF","2012-10-11")
+,(261,133,342.14,"TRANSFER","2015-04-16")
+,(13,225,113.49,"TRANSFER","2012-05-26")
+,(343,528,130.86,"TRANSFER","2015-08-26")
+,(418,871,62.58,"TRANSFER","2012-01-07")
+,(863,863,-107.55,"SELF","2015-08-20")
+,(795,396,718.55,"TRANSFER","2013-04-01")
+,(640,640,19.58,"SELF","2012-08-28")
+,(679,435,371.62,"TRANSFER","2015-07-23")
+,(152,415,868.73,"TRANSFER","2015-09-26")
+,(660,721,785.35,"TRANSFER","2012-05-07")
+,(712,621,999.54,"TRANSFER","2016-10-05")
+,(612,779,175.66,"TRANSFER","2012-03-25")
+,(61,61,409.36,"SELF","2014-12-10")
+,(297,923,66.54,"TRANSFER","2012-10-01")
+,(326,637,609.93,"TRANSFER","2012-10-08")
+,(65,557,100.88,"TRANSFER","2012-04-26")
+,(90,868,395.36,"TRANSFER","2013-05-08")
+,(411,495,60.67,"TRANSFER","2013-07-11")
+,(128,262,625.48,"TRANSFER","2014-09-03")
+,(149,100,276.84,"TRANSFER","2014-03-09")
+,(674,674,92.24,"SELF","2014-02-24")
+,(219,325,929.13,"TRANSFER","2016-11-01")
+,(973,973,684.64,"SELF","2016-03-10")
+,(630,639,310.87,"TRANSFER","2014-12-15")
+,(287,266,643.52,"TRANSFER","2013-05-14")
+,(295,165,131.85,"TRANSFER","2014-05-22")
+,(109,358,46.39,"TRANSFER","2014-02-26")
+,(131,95,431.47,"TRANSFER","2015-02-08")
+,(24,833,429.34,"TRANSFER","2016-09-28")
+,(920,673,112.41,"TRANSFER","2016-01-27")
+,(42,520,488.20,"TRANSFER","2014-02-03")
+,(47,320,706.28,"TRANSFER","2015-05-09")
+,(906,906,642.48,"SELF","2015-06-05")
+,(926,144,255.44,"TRANSFER","2012-09-08")
+,(892,96,215.62,"TRANSFER","2014-10-17")
+,(137,26,336.67,"TRANSFER","2014-02-05")
+,(319,517,337.47,"TRANSFER","2013-01-23")
+,(787,787,-776.76,"SELF","2014-04-08")
+,(379,379,-367.86,"SELF","2013-03-15")
+,(804,804,-536.12,"SELF","2014-05-06")
+,(823,622,518.88,"TRANSFER","2012-09-01")
+,(974,574,651.13,"TRANSFER","2012-06-02")
+,(418,193,648.85,"TRANSFER","2012-09-05")
+,(791,401,53.89,"TRANSFER","2014-09-09")
+,(988,988,-648.28,"SELF","2015-09-05")
+,(738,647,870.36,"TRANSFER","2014-12-24")
+,(300,435,482.31,"TRANSFER","2013-09-26")
+,(526,646,725.43,"TRANSFER","2013-07-12")
+,(351,511,306.45,"TRANSFER","2012-07-06")
+,(121,121,-150.45,"SELF","2016-05-24")
+,(722,722,736.97,"SELF","2015-06-05")
+,(446,928,111.78,"TRANSFER","2012-07-25")
+,(625,185,717.66,"TRANSFER","2014-12-22")
+,(393,696,325.93,"TRANSFER","2012-05-25")
+,(695,367,6.87,"TRANSFER","2015-05-01")
+,(628,628,-39.82,"SELF","2015-02-27")
+,(193,771,693.07,"TRANSFER","2013-09-03")
+,(450,359,71.29,"TRANSFER","2016-01-17")
+,(770,790,930.51,"TRANSFER","2015-11-28")
+,(159,159,-605.03,"SELF","2014-10-03")
+,(427,679,673.53,"TRANSFER","2015-07-08")
+,(361,981,770.24,"TRANSFER","2016-05-18")
+,(93,554,980.28,"TRANSFER","2013-07-20")
+,(859,731,503.42,"TRANSFER","2012-01-19")
+,(833,38,433.49,"TRANSFER","2014-05-14")
+,(815,964,326.38,"TRANSFER","2016-04-01")
+,(17,241,871.37,"TRANSFER","2012-08-10")
+,(277,277,-582.40,"SELF","2012-07-24")
+,(918,918,-390.80,"SELF","2016-08-10")
+,(182,625,804.50,"TRANSFER","2013-08-12")
+,(602,753,387.02,"TRANSFER","2013-08-20")
+,(402,453,551.36,"TRANSFER","2014-03-04")
+,(68,447,519.22,"TRANSFER","2012-09-13")
+,(306,957,464.64,"TRANSFER","2016-10-22")
+,(651,174,982.30,"TRANSFER","2016-05-27")
+,(468,327,943.10,"TRANSFER","2014-04-10")
+,(285,866,336.52,"TRANSFER","2016-10-04")
+,(886,80,120.10,"TRANSFER","2015-02-15")
+,(523,363,237.00,"TRANSFER","2016-06-04")
+,(196,330,65.34,"TRANSFER","2013-08-17")
+,(754,233,252.62,"TRANSFER","2013-07-07")
+,(971,913,257.45,"TRANSFER","2013-03-26")
+,(506,585,66.02,"TRANSFER","2016-12-02")
+,(587,475,457.06,"TRANSFER","2012-11-17")
+,(352,58,549.68,"TRANSFER","2016-09-10")
+,(381,529,64.01,"TRANSFER","2012-09-26")
+,(263,847,244.18,"TRANSFER","2012-06-27")
+,(278,1000,796.85,"TRANSFER","2012-04-22")
+,(864,998,313.49,"TRANSFER","2014-08-12")
+,(727,964,308.12,"TRANSFER","2014-11-17")
+,(657,369,192.41,"TRANSFER","2014-10-25")
+,(48,151,323.98,"TRANSFER","2015-05-25")
+,(526,147,402.54,"TRANSFER","2014-03-20")
+,(850,736,464.53,"TRANSFER","2015-01-04")
+,(767,742,462.32,"TRANSFER","2016-08-01")
+,(180,549,104.36,"TRANSFER","2012-12-23")
+,(224,780,175.42,"TRANSFER","2015-05-10")
+,(143,143,-573.10,"SELF","2012-10-05")
+,(403,403,-931.52,"SELF","2014-07-07")
+,(245,58,78.76,"TRANSFER","2016-06-10")
+,(655,655,-771.69,"SELF","2014-03-20")
+,(698,698,198.93,"SELF","2014-07-07")
+,(893,64,980.41,"TRANSFER","2015-07-17")
+,(101,383,898.32,"TRANSFER","2014-11-24")
+,(920,920,-234.05,"SELF","2013-02-23")
+,(397,753,344.99,"TRANSFER","2016-01-25")
+,(843,154,816.06,"TRANSFER","2014-10-06")
+,(800,505,86.62,"TRANSFER","2013-06-04")
+,(476,476,-420.23,"SELF","2016-10-03")
+,(455,386,809.77,"TRANSFER","2015-01-18")
+,(875,519,517.69,"TRANSFER","2013-02-12")
+,(301,301,-640.10,"SELF","2013-10-04")
+,(94,778,698.93,"TRANSFER","2015-02-06")
+,(967,967,230.95,"SELF","2014-10-01")
+,(903,184,526.70,"TRANSFER","2015-12-10")
+,(140,140,382.72,"SELF","2015-01-14")
+,(118,958,39.36,"TRANSFER","2014-02-16")
+,(404,404,184.77,"SELF","2013-05-10")
+,(193,806,453.81,"TRANSFER","2015-10-17")
+,(817,747,325.51,"TRANSFER","2014-08-23")
+,(378,571,847.84,"TRANSFER","2016-05-05")
+,(413,413,437.43,"SELF","2015-10-15")
+,(876,876,13.90,"SELF","2013-04-26")
+,(721,721,-843.98,"SELF","2015-04-11")
+,(873,670,679.45,"TRANSFER","2012-02-03")
+,(48,810,409.18,"TRANSFER","2012-01-17")
+,(95,839,145.64,"TRANSFER","2015-01-07")
+,(60,835,541.51,"TRANSFER","2013-05-14")
+,(849,849,624.26,"SELF","2016-04-25")
+,(972,796,414.98,"TRANSFER","2012-04-06")
+,(808,890,365.31,"TRANSFER","2013-07-07")
+,(561,259,266.45,"TRANSFER","2013-10-19")
+,(874,443,312.54,"TRANSFER","2015-08-04")
+,(665,932,75.78,"TRANSFER","2015-11-04")
+,(352,204,495.54,"TRANSFER","2016-03-09")
+,(746,746,768.50,"SELF","2015-07-07")
+,(244,915,115.89,"TRANSFER","2015-03-26")
+,(424,424,431.59,"SELF","2014-05-03")
+,(25,25,-580.47,"SELF","2012-08-20")
+,(364,364,103.62,"SELF","2013-10-24")
+,(862,862,582.43,"SELF","2014-10-26")
+,(571,571,-466.40,"SELF","2012-04-26")
+,(451,555,386.92,"TRANSFER","2012-05-08")
+,(992,565,987.34,"TRANSFER","2016-08-07")
+,(549,856,742.51,"TRANSFER","2014-11-21")
+,(973,973,-2.16,"SELF","2012-01-10")
+,(577,577,777.38,"SELF","2014-11-12")
+,(899,899,781.67,"SELF","2014-10-26")
+,(744,744,-418.18,"SELF","2012-08-27")
+,(47,47,-506.37,"SELF","2014-06-20")
+,(954,954,251.24,"SELF","2014-02-28")
+,(78,78,-374.94,"SELF","2013-02-12")
+,(453,453,-562.03,"SELF","2014-08-16")
+,(815,199,693.02,"TRANSFER","2013-04-17")
+,(884,714,504.59,"TRANSFER","2015-01-05")
+,(431,299,224.32,"TRANSFER","2016-04-14")
+,(507,587,81.60,"TRANSFER","2013-05-27")
+,(472,472,327.59,"SELF","2015-08-05")
+,(374,374,855.09,"SELF","2015-07-20")
+,(859,556,990.22,"TRANSFER","2014-06-14")
+,(947,952,989.23,"TRANSFER","2012-04-21")
+,(372,372,986.72,"SELF","2015-01-10")
+,(271,75,631.43,"TRANSFER","2015-08-24")
+,(857,857,112.18,"SELF","2016-08-01")
+,(682,682,173.25,"SELF","2015-02-24")
+,(217,21,401.67,"TRANSFER","2015-07-18")
+,(588,350,755.15,"TRANSFER","2012-05-11")
+,(67,67,584.73,"SELF","2016-02-08")
+,(103,103,-808.09,"SELF","2013-12-20")
+,(235,878,196.94,"TRANSFER","2016-10-05")
+,(733,243,942.65,"TRANSFER","2014-08-06")
+,(977,977,-609.81,"SELF","2014-03-01")
+,(461,461,879.91,"SELF","2014-09-05")
+,(324,854,611.91,"TRANSFER","2014-11-06")
+,(204,850,310.93,"TRANSFER","2014-10-28")
+,(995,270,980.46,"TRANSFER","2014-04-19")
+,(895,895,-354.79,"SELF","2012-08-18")
+,(278,278,-832.78,"SELF","2016-05-06")
+,(385,385,-629.37,"SELF","2012-02-14")
+,(693,346,959.12,"TRANSFER","2015-07-23")
+,(877,430,85.83,"TRANSFER","2015-10-06")
+,(839,839,-474.61,"SELF","2013-10-02")
+,(477,224,218.46,"TRANSFER","2016-05-12")
+,(701,196,576.51,"TRANSFER","2014-04-22")
+,(507,439,534.09,"TRANSFER","2016-10-26")
+,(504,141,763.15,"TRANSFER","2016-12-16")
+,(665,337,319.81,"TRANSFER","2016-10-15")
+,(269,815,660.43,"TRANSFER","2012-07-07")
+,(286,725,584.00,"TRANSFER","2015-02-18")
+,(636,23,275.69,"TRANSFER","2015-03-09")
+,(961,317,398.02,"TRANSFER","2014-10-18")
+,(625,625,606.89,"SELF","2012-04-02")
+,(515,450,294.98,"TRANSFER","2012-04-28")
+,(140,140,629.10,"SELF","2013-02-19")
+,(669,619,368.47,"TRANSFER","2012-03-28")
+,(796,284,63.83,"TRANSFER","2014-08-12")
+,(775,901,835.00,"TRANSFER","2014-01-14")
+,(21,119,806.68,"TRANSFER","2016-11-14")
+,(220,220,704.99,"SELF","2014-09-21")
+,(445,457,182.87,"TRANSFER","2013-03-24")
+,(650,650,832.94,"SELF","2014-01-17")
+,(796,796,-616.18,"SELF","2012-11-23")
+,(185,739,323.86,"TRANSFER","2012-04-26")
+,(210,930,702.17,"TRANSFER","2013-03-16")
+,(701,701,369.13,"SELF","2013-03-28")
+,(654,866,245.58,"TRANSFER","2013-08-03")
+,(32,268,148.80,"TRANSFER","2013-01-24")
+,(219,219,974.17,"SELF","2012-07-21")
+,(742,417,97.60,"TRANSFER","2012-10-09")
+,(450,532,550.07,"TRANSFER","2015-04-13")
+,(9,161,35.90,"TRANSFER","2013-05-03")
+,(229,384,892.33,"TRANSFER","2016-11-05")
+,(35,122,476.78,"TRANSFER","2012-02-19")
+,(839,839,-1.72,"SELF","2016-09-18")
+,(364,575,681.57,"TRANSFER","2016-09-13")
+,(308,308,-96.47,"SELF","2012-05-22")
+,(497,343,50.94,"TRANSFER","2013-05-14")
+,(773,773,-744.05,"SELF","2012-06-01")
+,(424,189,370.10,"TRANSFER","2013-05-27")
+,(873,873,517.36,"SELF","2015-06-09")
+,(587,587,308.95,"SELF","2016-03-04")
+,(220,529,181.12,"TRANSFER","2015-08-22")
+,(136,443,424.00,"TRANSFER","2013-09-01")
+,(61,61,-300.20,"SELF","2014-03-27")
+,(867,867,-127.44,"SELF","2015-03-15")
+,(214,734,216.42,"TRANSFER","2012-09-14")
+,(328,271,789.96,"TRANSFER","2016-09-27")
+,(924,903,497.12,"TRANSFER","2012-12-23")
+,(738,488,526.90,"TRANSFER","2014-01-06")
+,(890,71,97.56,"TRANSFER","2013-09-06")
+,(647,647,949.37,"SELF","2013-09-02")
+,(519,930,270.69,"TRANSFER","2012-07-08")
+,(964,175,749.70,"TRANSFER","2012-05-01")
+,(58,58,919.29,"SELF","2013-12-25")
+,(162,217,519.58,"TRANSFER","2012-06-09")
+,(225,276,950.05,"TRANSFER","2014-10-14")
+,(601,601,-306.50,"SELF","2013-04-05")
+,(573,573,-306.14,"SELF","2012-04-25")
+,(991,509,23.55,"TRANSFER","2015-01-02")
+,(578,524,878.71,"TRANSFER","2014-09-20")
+,(600,600,-207.67,"SELF","2012-05-08")
+,(906,906,-215.00,"SELF","2016-03-10")
+,(93,938,478.51,"TRANSFER","2014-12-20")
+,(505,139,169.88,"TRANSFER","2016-05-01")
+,(76,881,439.40,"TRANSFER","2013-10-10")
+,(370,370,-834.47,"SELF","2012-05-12")
+,(984,745,653.68,"TRANSFER","2013-08-05")
+,(788,788,-301.65,"SELF","2012-06-05")
+,(325,325,-801.21,"SELF","2016-03-07")
+,(139,65,355.35,"TRANSFER","2016-03-08")
+,(275,960,589.10,"TRANSFER","2013-03-20")
+,(350,655,477.41,"TRANSFER","2012-11-12")
+,(592,752,32.96,"TRANSFER","2012-02-10")
+,(854,475,988.93,"TRANSFER","2016-02-04")
+,(835,835,36.28,"SELF","2013-11-12")
+,(284,284,-591.89,"SELF","2013-02-10")
+,(169,261,816.67,"TRANSFER","2012-08-18")
+,(702,483,426.25,"TRANSFER","2012-02-07")
+,(127,127,709.32,"SELF","2016-02-03")
+,(2,607,32.79,"TRANSFER","2016-04-12")
+,(293,293,818.94,"SELF","2013-08-22")
+,(330,330,-927.19,"SELF","2012-04-12")
+,(18,702,783.06,"TRANSFER","2012-05-04")
+,(753,753,-979.69,"SELF","2012-12-23")
+,(301,566,645.43,"TRANSFER","2015-12-23")
+,(203,69,479.81,"TRANSFER","2012-07-16")
+,(854,854,567.62,"SELF","2012-07-27")
+,(83,278,670.17,"TRANSFER","2015-10-23")
+,(415,980,84.13,"TRANSFER","2013-09-13")
+,(834,249,576.56,"TRANSFER","2013-12-28")
+,(638,838,905.62,"TRANSFER","2013-12-19")
+,(818,854,663.29,"TRANSFER","2012-04-17")
+,(510,914,662.41,"TRANSFER","2012-08-10")
+,(627,823,127.47,"TRANSFER","2012-06-13")
+,(785,785,241.64,"SELF","2012-05-15")
+,(902,382,940.77,"TRANSFER","2014-04-16")
+,(567,567,613.49,"SELF","2012-10-20")
+,(55,55,-269.87,"SELF","2016-04-01")
+,(298,441,756.96,"TRANSFER","2013-01-15")
+,(212,212,529.16,"SELF","2013-03-07")
+,(771,771,-226.58,"SELF","2015-05-26")
+,(709,709,-634.22,"SELF","2013-09-21")
+,(139,418,97.20,"TRANSFER","2016-04-17")
+,(213,213,939.32,"SELF","2012-03-26")
+,(940,243,694.84,"TRANSFER","2012-08-21")
+,(753,166,49.74,"TRANSFER","2014-02-15")
+,(543,699,601.20,"TRANSFER","2013-06-22")
+,(385,385,-322.51,"SELF","2012-02-27")
+,(965,208,567.11,"TRANSFER","2016-02-12")
+,(793,793,-10.63,"SELF","2013-08-01")
+,(642,743,28.48,"TRANSFER","2013-07-08")
+,(318,460,828.33,"TRANSFER","2014-01-28")
+,(489,167,138.79,"TRANSFER","2014-08-10")
+,(325,604,567.15,"TRANSFER","2015-10-17")
+,(481,601,219.14,"TRANSFER","2014-08-26")
+,(398,850,152.08,"TRANSFER","2014-03-25")
+,(8,653,363.54,"TRANSFER","2014-08-10")
+,(422,505,990.25,"TRANSFER","2013-08-10")
+,(678,890,984.38,"TRANSFER","2013-03-11")
+,(836,836,-924.44,"SELF","2015-04-23")
+,(141,196,213.36,"TRANSFER","2015-08-17")
+,(162,162,826.67,"SELF","2012-09-03")
+,(737,297,205.97,"TRANSFER","2015-10-02")
+,(689,689,-426.03,"SELF","2016-05-24")
+,(176,950,806.21,"TRANSFER","2013-08-14")
+,(524,562,529.33,"TRANSFER","2016-05-02")
+,(427,264,827.95,"TRANSFER","2014-04-01")
+,(92,218,884.52,"TRANSFER","2012-09-15")
+,(24,24,-731.68,"SELF","2013-04-06")
+,(423,735,114.17,"TRANSFER","2013-08-21")
+,(740,331,1.27,"TRANSFER","2015-11-15")
+,(303,957,947.07,"TRANSFER","2014-09-16")
+,(611,611,111.58,"SELF","2013-05-05")
+,(478,633,935.33,"TRANSFER","2012-07-15")
+,(627,625,191.90,"TRANSFER","2013-09-01")
+,(971,858,830.08,"TRANSFER","2012-11-22")
+,(42,42,-14.29,"SELF","2013-07-06")
+,(598,954,728.65,"TRANSFER","2016-04-10")
+,(358,903,307.25,"TRANSFER","2013-12-09")
+,(468,468,-601.02,"SELF","2015-05-17")
+,(259,259,-588.07,"SELF","2012-04-21")
+,(238,238,-150.81,"SELF","2016-12-15")
+,(908,323,486.69,"TRANSFER","2014-01-17")
+,(680,967,357.32,"TRANSFER","2014-07-18")
+,(544,242,718.75,"TRANSFER","2012-01-24")
+,(285,285,-283.16,"SELF","2013-04-28")
+,(991,939,168.36,"TRANSFER","2014-03-06")
+,(434,921,734.32,"TRANSFER","2016-07-02")
+,(787,180,209.33,"TRANSFER","2012-09-02")
+,(248,248,211.57,"SELF","2014-04-05")
+,(701,463,474.97,"TRANSFER","2014-06-16")
+,(98,553,288.22,"TRANSFER","2015-08-06")
+,(416,515,325.56,"TRANSFER","2013-02-13")
+,(966,703,559.59,"TRANSFER","2014-10-27")
+,(776,776,-164.56,"SELF","2013-11-14")
+,(704,287,154.53,"TRANSFER","2014-09-20")
+,(669,749,372.98,"TRANSFER","2013-09-24")
+,(520,520,-212.17,"SELF","2012-10-09")
+,(344,132,571.35,"TRANSFER","2013-01-24")
+,(52,52,508.10,"SELF","2013-02-08")
+,(603,596,44.41,"TRANSFER","2014-01-04")
+,(842,568,446.21,"TRANSFER","2016-04-15")
+,(782,782,359.63,"SELF","2013-04-15")
+,(893,660,361.89,"TRANSFER","2014-10-23")
+,(427,969,731.57,"TRANSFER","2013-06-10")
+,(600,542,423.25,"TRANSFER","2013-02-13")
+,(170,170,-79.24,"SELF","2012-11-24")
+,(599,788,144.34,"TRANSFER","2016-12-08")
+,(452,452,-751.40,"SELF","2016-07-13")
+,(791,32,440.39,"TRANSFER","2016-07-26")
+,(347,133,614.97,"TRANSFER","2012-07-28")
+,(846,879,620.40,"TRANSFER","2012-01-22")
+,(77,77,825.79,"SELF","2014-01-06")
+,(294,29,727.37,"TRANSFER","2014-07-17")
+,(159,249,542.96,"TRANSFER","2012-01-06")
+,(705,705,894.91,"SELF","2014-04-24")
+,(625,625,128.87,"SELF","2015-01-07")
+,(163,368,90.30,"TRANSFER","2015-06-25")
+,(224,434,317.97,"TRANSFER","2013-03-21")
+,(455,455,-632.49,"SELF","2012-05-03")
+,(371,752,504.60,"TRANSFER","2014-12-20")
+,(674,681,116.14,"TRANSFER","2014-06-12")
+,(832,832,901.03,"SELF","2016-09-27")
+,(116,116,-888.86,"SELF","2016-11-15")
+,(820,888,919.08,"TRANSFER","2016-06-16")
+,(561,584,759.49,"TRANSFER","2015-11-10")
+,(513,631,780.69,"TRANSFER","2012-07-08")
+,(941,993,739.28,"TRANSFER","2016-12-03")
+,(197,197,972.44,"SELF","2015-06-08")
+,(912,487,589.12,"TRANSFER","2015-01-28")
+,(843,843,405.25,"SELF","2013-05-05")
+,(206,206,-29.34,"SELF","2014-11-06")
+,(124,772,241.01,"TRANSFER","2016-04-13")
+,(474,665,540.86,"TRANSFER","2012-04-07")
+,(907,260,909.62,"TRANSFER","2015-07-27")
+,(676,676,-98.62,"SELF","2014-09-11")
+,(364,175,749.03,"TRANSFER","2015-02-14")
+,(703,933,601.47,"TRANSFER","2013-11-25")
+,(792,792,-708.74,"SELF","2015-10-16")
+,(51,51,349.34,"SELF","2015-06-13")
+,(555,555,-603.00,"SELF","2013-06-08")
+,(354,248,171.84,"TRANSFER","2015-05-11")
+,(476,67,288.89,"TRANSFER","2015-09-14")
+,(114,209,115.46,"TRANSFER","2012-08-20")
+,(549,549,-712.21,"SELF","2015-04-26")
+,(532,42,980.89,"TRANSFER","2013-12-17")
+,(204,589,204.48,"TRANSFER","2012-02-24")
+,(196,196,-649.54,"SELF","2016-02-06")
+,(581,660,964.30,"TRANSFER","2015-05-26")
+,(210,210,753.44,"SELF","2015-10-01")
+,(987,584,518.32,"TRANSFER","2014-10-16")
+,(808,808,-240.31,"SELF","2016-01-21")
+,(72,72,-628.15,"SELF","2013-07-21")
+,(556,129,387.69,"TRANSFER","2013-05-22")
+,(892,66,227.68,"TRANSFER","2013-09-19")
+,(728,397,512.99,"TRANSFER","2015-10-27")
+,(865,968,975.20,"TRANSFER","2016-12-14")
+,(905,760,646.29,"TRANSFER","2014-08-15")
+,(331,331,729.06,"SELF","2014-09-14")
+,(357,742,641.45,"TRANSFER","2015-03-23")
+,(480,357,216.20,"TRANSFER","2016-01-12")
+,(659,659,436.94,"SELF","2015-12-08")
+,(754,601,191.62,"TRANSFER","2012-06-18")
+,(114,500,271.63,"TRANSFER","2013-01-16")
+,(834,405,884.83,"TRANSFER","2015-03-03")
+,(603,603,-874.29,"SELF","2012-01-22")
+,(754,438,202.46,"TRANSFER","2012-02-01")
+,(892,116,697.17,"TRANSFER","2015-01-25")
+,(371,494,74.29,"TRANSFER","2016-08-15")
+,(441,955,509.52,"TRANSFER","2013-04-20")
+,(821,101,441.85,"TRANSFER","2013-09-23")
+,(593,864,281.71,"TRANSFER","2012-08-04")
+,(65,65,973.64,"SELF","2013-02-20")
+,(473,473,-489.91,"SELF","2016-08-11")
+,(993,993,929.85,"SELF","2015-02-01")
+,(551,551,-484.18,"SELF","2016-02-28")
+,(794,794,-360.94,"SELF","2012-07-18")
+,(184,541,165.67,"TRANSFER","2013-01-26")
+,(380,42,559.35,"TRANSFER","2013-10-03")
+,(191,984,1000.29,"TRANSFER","2013-11-28")
+,(523,789,989.12,"TRANSFER","2013-02-10")
+,(533,16,851.51,"TRANSFER","2014-03-21")
+,(595,595,-279.44,"SELF","2016-02-22")
+,(607,607,341.86,"SELF","2016-08-11")
+,(586,177,427.42,"TRANSFER","2016-04-13")
+,(492,82,529.62,"TRANSFER","2014-02-06")
+,(118,614,398.74,"TRANSFER","2016-06-23")
+,(934,793,771.33,"TRANSFER","2014-01-20")
+,(503,274,132.56,"TRANSFER","2012-08-28")
+,(566,894,299.02,"TRANSFER","2012-06-19")
+,(21,924,399.30,"TRANSFER","2013-01-09")
+,(196,662,660.23,"TRANSFER","2014-10-24")
+,(639,584,983.90,"TRANSFER","2016-11-27")
+,(842,821,4.09,"TRANSFER","2013-01-21")
+,(100,100,570.70,"SELF","2014-03-20")
+,(557,557,-834.31,"SELF","2012-02-07")
+,(872,66,675.85,"TRANSFER","2012-01-12")
+,(490,317,257.60,"TRANSFER","2015-01-03")
+,(514,514,543.32,"SELF","2013-06-20")
+,(28,236,758.68,"TRANSFER","2013-09-14")
+,(406,802,702.92,"TRANSFER","2015-02-22")
+,(181,676,775.82,"TRANSFER","2013-12-23")
+,(954,863,127.21,"TRANSFER","2012-02-06")
+,(213,213,834.24,"SELF","2014-08-17")
+,(474,488,691.05,"TRANSFER","2015-05-10")
+,(963,963,-380.95,"SELF","2012-02-07")
+,(28,326,699.85,"TRANSFER","2012-06-03")
+,(671,128,567.88,"TRANSFER","2014-03-12")
+,(182,40,640.32,"TRANSFER","2013-12-16")
+,(469,469,688.26,"SELF","2012-10-01")
+,(259,360,377.65,"TRANSFER","2016-09-17")
+,(841,91,782.52,"TRANSFER","2012-01-21")
+,(341,787,29.02,"TRANSFER","2012-05-06")
+,(502,502,130.39,"SELF","2013-07-20")
+,(932,602,376.92,"TRANSFER","2015-12-03")
+,(663,215,72.62,"TRANSFER","2014-06-09")
+,(936,936,823.48,"SELF","2015-04-09")
+,(318,535,428.15,"TRANSFER","2012-11-24")
+,(979,477,655.10,"TRANSFER","2012-07-18")
+,(551,551,-223.62,"SELF","2013-09-05")
+,(728,728,58.72,"SELF","2013-02-27")
+,(580,439,331.57,"TRANSFER","2014-07-24")
+,(577,473,408.69,"TRANSFER","2014-06-09")
+,(446,286,205.68,"TRANSFER","2014-12-08")
+,(462,249,807.58,"TRANSFER","2013-02-12")
+,(979,958,249.87,"TRANSFER","2012-04-02")
+,(126,126,734.20,"SELF","2014-11-28")
+,(95,95,-780.82,"SELF","2015-12-23")
+,(382,313,217.99,"TRANSFER","2016-01-12")
+,(219,18,411.34,"TRANSFER","2015-09-09")
+,(127,169,957.63,"TRANSFER","2014-01-09")
+,(324,671,743.97,"TRANSFER","2015-02-25")
+,(354,297,843.48,"TRANSFER","2014-05-25")
+,(412,412,483.25,"SELF","2012-06-16")
+,(677,108,551.38,"TRANSFER","2016-03-08")
+,(522,522,-727.38,"SELF","2014-02-07")
+,(434,430,827.54,"TRANSFER","2016-02-11")
+,(912,912,-29.93,"SELF","2014-02-09")
+,(557,176,712.72,"TRANSFER","2014-10-19")
+,(199,199,-306.36,"SELF","2016-01-28")
+,(989,433,141.03,"TRANSFER","2014-12-23")
+,(74,74,759.08,"SELF","2013-11-04")
+,(394,666,691.42,"TRANSFER","2014-08-10")
+,(685,533,853.03,"TRANSFER","2013-08-27")
+,(721,721,-776.85,"SELF","2016-06-15")
+,(325,645,120.09,"TRANSFER","2013-05-13")
+,(998,602,494.84,"TRANSFER","2013-05-24")
+,(499,593,604.02,"TRANSFER","2014-09-02")
+,(808,58,668.45,"TRANSFER","2013-06-06")
+,(109,793,728.99,"TRANSFER","2015-02-17")
+,(3,3,174.47,"SELF","2013-02-16")
+,(123,123,-263.62,"SELF","2014-09-04")
+,(735,904,265.92,"TRANSFER","2012-11-28")
+,(585,585,-760.35,"SELF","2012-04-25")
+,(735,735,-850.24,"SELF","2015-01-05")
+,(634,868,61.95,"TRANSFER","2016-06-04")
+,(281,570,414.32,"TRANSFER","2016-06-09")
+,(96,634,20.70,"TRANSFER","2016-04-27")
+,(138,538,276.84,"TRANSFER","2014-06-26")
+,(523,212,128.54,"TRANSFER","2012-06-01")
+,(919,695,758.19,"TRANSFER","2014-06-25")
+,(210,966,584.03,"TRANSFER","2013-10-05")
+,(215,215,123.29,"SELF","2014-05-04")
+,(310,310,-909.59,"SELF","2014-02-21")
+,(572,433,896.98,"TRANSFER","2015-09-10")
+,(916,682,202.20,"TRANSFER","2012-09-11")
+,(629,629,638.37,"SELF","2012-06-04")
+,(33,678,293.12,"TRANSFER","2016-10-22")
+,(578,237,141.28,"TRANSFER","2012-12-12")
+,(652,652,-188.72,"SELF","2015-07-21")
+,(180,969,465.28,"TRANSFER","2014-07-25")
+,(685,229,451.09,"TRANSFER","2016-09-10")
+,(645,529,563.77,"TRANSFER","2015-04-21")
+,(258,258,-819.43,"SELF","2014-08-13")
+,(552,502,557.46,"TRANSFER","2012-12-23")
+,(241,964,384.86,"TRANSFER","2014-02-08")
+,(312,312,-456.40,"SELF","2016-11-09")
+,(436,708,635.87,"TRANSFER","2012-07-17")
+,(392,357,312.14,"TRANSFER","2014-12-28")
+,(852,309,766.83,"TRANSFER","2015-06-01")
+,(453,840,277.62,"TRANSFER","2015-12-22")
+,(726,726,-81.97,"SELF","2014-06-21")
+,(71,276,960.24,"TRANSFER","2012-01-27")
+,(829,8,186.03,"TRANSFER","2012-02-07")
+,(214,302,354.42,"TRANSFER","2012-03-05")
+,(858,858,233.53,"SELF","2016-11-25")
+,(229,229,-86.39,"SELF","2012-09-03")
+,(600,286,647.59,"TRANSFER","2016-03-16")
+,(293,717,895.03,"TRANSFER","2015-04-20")
+,(704,184,142.58,"TRANSFER","2013-04-15")
+,(177,177,346.98,"SELF","2016-07-06")
+,(1,454,940.31,"TRANSFER","2016-04-18")
+,(915,915,-820.94,"SELF","2016-05-25")
+,(106,682,566.90,"TRANSFER","2014-04-06")
+,(797,797,274.64,"SELF","2012-07-13")
+,(679,848,629.25,"TRANSFER","2013-01-05")
+,(120,120,209.86,"SELF","2013-08-12")
+,(617,368,64.57,"TRANSFER","2015-02-06")
+,(654,502,866.01,"TRANSFER","2012-04-08")
+,(117,117,-86.37,"SELF","2015-03-07")
+,(182,924,536.80,"TRANSFER","2013-10-08")
+,(344,523,58.44,"TRANSFER","2015-11-05")
+,(4,4,958.37,"SELF","2015-01-04")
+,(736,736,241.87,"SELF","2012-08-27")
+,(730,730,-358.78,"SELF","2014-12-17")
+,(652,652,-368.91,"SELF","2012-04-22")
+,(739,739,-318.65,"SELF","2012-12-07")
+,(883,848,469.28,"TRANSFER","2013-04-27")
+,(571,571,-390.69,"SELF","2014-07-12")
+,(431,220,60.03,"TRANSFER","2016-09-21")
+,(778,819,659.98,"TRANSFER","2014-10-26")
+,(521,726,153.46,"TRANSFER","2013-12-02")
+,(751,751,-464.42,"SELF","2012-07-20")
+,(585,852,422.51,"TRANSFER","2016-07-07")
+,(305,305,-768.04,"SELF","2015-08-23")
+,(519,1,797.96,"TRANSFER","2013-03-13")
+,(753,53,413.44,"TRANSFER","2015-09-25")
+,(37,148,484.37,"TRANSFER","2014-02-01")
+,(197,124,573.20,"TRANSFER","2015-11-06")
+,(539,736,574.91,"TRANSFER","2014-10-25")
+,(55,290,793.13,"TRANSFER","2014-11-06")
+,(224,488,679.92,"TRANSFER","2012-11-16")
+,(753,585,125.55,"TRANSFER","2012-04-01")
+,(561,705,879.47,"TRANSFER","2012-06-05")
+,(31,505,113.30,"TRANSFER","2012-05-11")
+,(202,87,709.01,"TRANSFER","2016-09-19")
+,(319,217,388.83,"TRANSFER","2013-05-23")
+,(887,772,272.31,"TRANSFER","2016-06-11")
+,(846,702,806.16,"TRANSFER","2012-01-09")
+,(833,921,72.92,"TRANSFER","2015-11-23")
+,(523,523,4.71,"SELF","2012-02-22")
+,(24,24,-496.60,"SELF","2016-09-01")
+,(821,821,991.64,"SELF","2016-08-15")
+,(546,355,342.19,"TRANSFER","2015-05-19")
+,(405,488,583.39,"TRANSFER","2014-11-19")
+,(440,739,761.55,"TRANSFER","2016-05-10")
+,(302,26,946.81,"TRANSFER","2013-06-17")
+,(539,539,917.36,"SELF","2015-09-15")
+,(682,15,575.07,"TRANSFER","2012-11-14")
+,(571,94,546.57,"TRANSFER","2012-05-28")
+,(473,699,932.10,"TRANSFER","2015-03-20")
+,(761,111,525.19,"TRANSFER","2012-09-17")
+,(133,106,515.27,"TRANSFER","2013-08-01")
+,(343,786,95.66,"TRANSFER","2012-07-10")
+,(426,426,-617.78,"SELF","2012-01-09")
+,(318,318,710.78,"SELF","2016-06-23")
+,(375,825,264.36,"TRANSFER","2016-09-03")
+,(356,842,71.20,"TRANSFER","2016-02-17")
+,(492,345,117.33,"TRANSFER","2016-02-02")
+,(858,536,422.74,"TRANSFER","2012-04-01")
+,(137,324,762.74,"TRANSFER","2014-11-06")
+,(617,617,-978.28,"SELF","2012-11-26")
+,(759,835,887.18,"TRANSFER","2012-02-18")
+,(941,941,424.59,"SELF","2012-03-21")
+,(400,2,497.43,"TRANSFER","2013-11-22")
+,(400,428,705.43,"TRANSFER","2016-08-10")
+,(736,736,-360.93,"SELF","2013-10-23")
+,(108,108,-968.09,"SELF","2013-11-12")
+,(349,920,640.14,"TRANSFER","2015-07-02")
+,(606,606,952.65,"SELF","2012-05-21")
+,(538,538,-245.05,"SELF","2012-05-18")
+,(937,748,592.18,"TRANSFER","2015-09-16")
+,(414,414,-773.11,"SELF","2012-12-02")
+,(108,108,-426.10,"SELF","2014-05-06")
+,(82,810,502.72,"TRANSFER","2015-12-15")
+,(148,148,-536.17,"SELF","2013-02-03")
+,(626,760,948.77,"TRANSFER","2014-07-28")
+,(990,635,740.33,"TRANSFER","2014-02-16")
+,(475,447,603.04,"TRANSFER","2012-09-01")
+,(187,776,206.12,"TRANSFER","2013-10-14")
+,(435,435,276.90,"SELF","2013-09-19")
+,(111,747,335.57,"TRANSFER","2016-11-17")
+,(264,403,477.15,"TRANSFER","2015-03-10")
+,(499,874,894.70,"TRANSFER","2013-06-19")
+,(718,530,269.01,"TRANSFER","2015-06-27")
+,(271,431,91.75,"TRANSFER","2014-12-12")
+,(177,622,238.54,"TRANSFER","2013-11-21")
+,(399,399,241.44,"SELF","2016-10-24")
+,(842,842,-879.27,"SELF","2016-08-16")
+,(209,259,156.97,"TRANSFER","2014-11-28")
+,(843,843,-582.39,"SELF","2012-10-04")
+,(313,631,961.31,"TRANSFER","2012-05-03")
+,(604,719,642.91,"TRANSFER","2014-10-17")
+,(631,631,-291.52,"SELF","2013-01-26")
+,(629,629,111.95,"SELF","2012-07-05")
+,(219,219,421.30,"SELF","2016-08-21")
+,(468,468,993.78,"SELF","2012-08-06")
+,(478,478,-987.90,"SELF","2015-02-03")
+,(297,297,353.39,"SELF","2013-03-20")
+,(572,572,799.84,"SELF","2012-08-06")
+,(317,747,606.34,"TRANSFER","2014-07-27")
+,(978,397,444.56,"TRANSFER","2013-04-12")
+,(507,273,972.29,"TRANSFER","2015-09-27")
+,(530,530,-399.81,"SELF","2013-03-10")
+,(460,887,186.38,"TRANSFER","2013-09-02")
+,(832,304,680.07,"TRANSFER","2015-05-12")
+,(416,416,-759.64,"SELF","2013-09-16")
+,(978,978,-814.12,"SELF","2013-10-22")
+,(693,118,897.73,"TRANSFER","2012-03-11")
+,(124,942,844.28,"TRANSFER","2012-09-12")
+,(924,540,714.08,"TRANSFER","2016-12-06")
+,(518,8,78.44,"TRANSFER","2012-06-20")
+,(285,471,892.75,"TRANSFER","2012-06-07")
+,(526,526,617.67,"SELF","2016-05-18")
+,(164,546,918.04,"TRANSFER","2015-09-25")
+,(212,458,733.32,"TRANSFER","2014-08-24")
+,(465,121,77.30,"TRANSFER","2012-12-16")
+,(388,888,351.20,"TRANSFER","2013-09-15")
+,(990,395,886.30,"TRANSFER","2016-12-08")
+,(645,612,648.05,"TRANSFER","2012-12-20")
+,(35,890,487.62,"TRANSFER","2016-09-24")
+,(311,642,289.21,"TRANSFER","2016-10-27")
+,(606,715,695.43,"TRANSFER","2013-03-12")
+,(682,417,443.97,"TRANSFER","2014-09-11")
+,(903,152,951.65,"TRANSFER","2012-02-11")
+,(774,774,214.87,"SELF","2015-09-18")
+,(29,29,-364.90,"SELF","2015-12-20")
+,(30,30,-186.38,"SELF","2014-09-05")
+,(136,480,766.60,"TRANSFER","2016-08-23")
+,(191,191,-189.96,"SELF","2012-02-28")
+,(978,126,560.11,"TRANSFER","2016-07-21")
+,(513,44,145.18,"TRANSFER","2015-09-23")
+,(772,772,-982.63,"SELF","2014-12-16")
+,(92,589,488.13,"TRANSFER","2014-12-16")
+,(695,987,455.67,"TRANSFER","2014-02-02")
+,(879,241,5.96,"TRANSFER","2015-02-17")
+,(346,346,203.93,"SELF","2015-04-15")
+,(477,477,753.35,"SELF","2013-02-19")
+,(88,88,-511.60,"SELF","2015-04-28")
+,(669,27,147.98,"TRANSFER","2013-04-01")
+,(505,505,-889.67,"SELF","2012-04-06")
+,(639,639,917.14,"SELF","2016-05-17")
+,(856,561,261.63,"TRANSFER","2015-11-04")
+,(654,654,627.18,"SELF","2013-09-09")
+,(777,620,503.34,"TRANSFER","2013-04-19")
+,(617,52,360.74,"TRANSFER","2015-09-25")
+,(404,350,177.45,"TRANSFER","2013-11-01")
+,(473,392,712.38,"TRANSFER","2012-05-01")
+,(725,725,458.68,"SELF","2014-02-23")
+,(659,451,797.04,"TRANSFER","2015-03-25")
+,(624,624,571.58,"SELF","2012-03-20")
+,(452,574,261.23,"TRANSFER","2015-04-05")
+,(185,787,516.20,"TRANSFER","2014-07-14")
+,(948,948,-932.45,"SELF","2015-11-03")
+,(398,920,167.93,"TRANSFER","2015-07-14")
+,(943,943,-634.68,"SELF","2013-12-13")
+,(796,912,238.22,"TRANSFER","2015-09-03")
+,(218,706,908.73,"TRANSFER","2015-06-17")
+,(717,478,754.18,"TRANSFER","2015-02-16")
+,(399,532,404.67,"TRANSFER","2016-05-08")
+,(591,591,-475.23,"SELF","2014-09-22")
+,(221,221,332.24,"SELF","2016-04-28")
+,(533,533,-75.29,"SELF","2014-04-10")
+,(602,386,564.63,"TRANSFER","2015-08-18")
+,(844,844,295.63,"SELF","2014-10-25")
+,(264,797,491.10,"TRANSFER","2015-04-06")
+,(205,278,904.10,"TRANSFER","2014-09-26")
+,(366,366,-8.27,"SELF","2014-10-13")
+,(524,572,260.75,"TRANSFER","2013-12-28")
+,(566,651,246.05,"TRANSFER","2016-04-11")
+,(934,934,913.93,"SELF","2013-03-17")
+,(939,861,825.57,"TRANSFER","2014-10-18")
+,(590,357,571.56,"TRANSFER","2016-10-22")
+,(455,272,755.29,"TRANSFER","2014-02-09")
+,(570,755,123.90,"TRANSFER","2014-05-14")
+,(320,217,933.91,"TRANSFER","2014-08-20")
+,(415,212,67.27,"TRANSFER","2015-03-15")
+,(388,748,22.77,"TRANSFER","2012-12-24")
+,(23,129,990.03,"TRANSFER","2014-08-18")
+,(359,359,-215.06,"SELF","2014-08-03")
+,(703,938,951.28,"TRANSFER","2014-12-05")
+,(306,353,195.80,"TRANSFER","2014-07-20")
+,(878,878,-789.34,"SELF","2013-11-21")
+,(761,795,533.11,"TRANSFER","2013-12-24")
+,(673,563,738.64,"TRANSFER","2013-05-27")
+,(233,765,772.76,"TRANSFER","2012-09-06")
+,(617,378,372.24,"TRANSFER","2016-06-20")
+,(93,93,-788.85,"SELF","2016-12-02")
+,(170,170,89.22,"SELF","2016-05-16")
+,(188,586,532.38,"TRANSFER","2016-10-09")
+,(87,126,153.95,"TRANSFER","2016-08-26")
+,(772,683,528.73,"TRANSFER","2013-01-14")
+,(761,974,234.16,"TRANSFER","2016-11-14")
+,(363,363,737.98,"SELF","2015-09-13")
+,(299,200,473.33,"TRANSFER","2013-07-07")
+,(704,704,181.94,"SELF","2012-02-09")
+,(860,860,-340.34,"SELF","2015-11-15")
+,(65,65,-999.19,"SELF","2014-12-14")
+,(548,77,577.24,"TRANSFER","2015-03-18")
+,(870,870,-543.92,"SELF","2016-08-02")
+,(591,591,-860.86,"SELF","2012-02-26")
+,(863,424,843.29,"TRANSFER","2014-03-25")
+,(37,151,809.20,"TRANSFER","2012-10-04")
+,(680,379,889.48,"TRANSFER","2016-05-28")
+,(53,610,596.40,"TRANSFER","2013-01-24")
+,(691,746,795.05,"TRANSFER","2015-09-18")
+,(339,487,824.60,"TRANSFER","2015-01-15")
+,(95,954,221.05,"TRANSFER","2013-04-09")
+,(368,497,597.05,"TRANSFER","2016-10-02")
+,(832,318,979.97,"TRANSFER","2015-11-02")
+,(44,758,987.89,"TRANSFER","2012-11-17")
+,(568,568,-10.37,"SELF","2014-01-06")
+,(968,743,809.32,"TRANSFER","2013-04-09")
+,(768,518,47.77,"TRANSFER","2012-01-01")
+,(332,362,377.26,"TRANSFER","2013-03-21")
+,(131,131,-482.18,"SELF","2014-09-05")
+,(951,801,672.58,"TRANSFER","2012-05-23")
+,(659,659,-381.00,"SELF","2014-01-22")
+,(112,112,211.26,"SELF","2012-03-24")
+,(35,35,953.28,"SELF","2012-01-19")
+,(163,30,765.76,"TRANSFER","2012-03-20")
+,(369,369,-108.11,"SELF","2013-09-05")
+,(136,315,690.60,"TRANSFER","2013-11-01")
+,(748,638,540.02,"TRANSFER","2016-04-17")
+,(793,793,-309.82,"SELF","2016-10-23")
+,(463,113,119.35,"TRANSFER","2014-10-08")
+,(5,727,344.68,"TRANSFER","2012-11-24")
+,(130,130,617.48,"SELF","2015-01-06")
+,(720,943,696.89,"TRANSFER","2014-08-17")
+,(579,654,902.86,"TRANSFER","2016-07-13")
+,(934,743,688.05,"TRANSFER","2012-08-22")
+,(903,903,-978.19,"SELF","2012-08-07")
+,(876,961,270.71,"TRANSFER","2015-07-12")
+,(689,441,927.62,"TRANSFER","2013-02-06")
+,(593,613,571.02,"TRANSFER","2012-05-07")
+,(138,155,278.72,"TRANSFER","2016-12-18")
+,(627,790,222.36,"TRANSFER","2016-04-13")
+,(995,113,676.70,"TRANSFER","2016-07-21")
+,(491,141,716.51,"TRANSFER","2014-11-17")
+,(1000,963,155.21,"TRANSFER","2013-11-24")
+,(456,456,850.09,"SELF","2013-02-15")
+,(364,364,-154.84,"SELF","2014-01-14")
+,(99,381,857.39,"TRANSFER","2014-12-06")
+,(728,118,798.24,"TRANSFER","2015-02-18")
+,(812,331,185.30,"TRANSFER","2015-12-22")
+,(845,845,778.44,"SELF","2013-01-14")
+,(249,59,544.59,"TRANSFER","2015-07-28")
+,(559,728,455.00,"TRANSFER","2015-06-02")
+,(236,466,123.59,"TRANSFER","2014-10-07")
+,(989,989,-4.33,"SELF","2015-12-12")
+,(291,33,622.90,"TRANSFER","2015-07-23")
+,(210,722,860.86,"TRANSFER","2014-07-27")
+,(590,435,194.63,"TRANSFER","2015-02-25")
+,(179,91,928.88,"TRANSFER","2016-02-05")
+,(554,465,118.53,"TRANSFER","2012-02-09")
+,(178,532,187.97,"TRANSFER","2014-04-23")
+,(142,609,86.75,"TRANSFER","2012-05-07")
+,(648,230,284.83,"TRANSFER","2016-10-23")
+,(477,748,749.04,"TRANSFER","2015-09-01")
+,(627,627,-443.08,"SELF","2012-02-09")
+,(297,434,283.30,"TRANSFER","2015-11-05")
+,(73,73,474.68,"SELF","2014-08-26")
+,(88,523,178.78,"TRANSFER","2015-04-07")
+,(464,156,398.88,"TRANSFER","2016-08-09")
+,(309,964,564.65,"TRANSFER","2016-08-12")
+,(686,714,447.88,"TRANSFER","2014-12-07")
+,(373,47,242.37,"TRANSFER","2015-08-03")
+,(635,654,72.81,"TRANSFER","2016-05-01")
+,(68,68,-353.72,"SELF","2012-06-02")
+,(354,354,421.54,"SELF","2014-02-04")
+,(907,469,731.84,"TRANSFER","2013-05-19")
+,(677,677,-241.94,"SELF","2014-05-10")
+,(102,102,-965.32,"SELF","2013-03-27")
+,(19,19,-51.25,"SELF","2016-01-09")
+,(350,627,366.08,"TRANSFER","2015-07-05")
+,(703,703,-784.48,"SELF","2013-10-04")
+,(966,232,21.00,"TRANSFER","2014-04-11")
+,(184,377,314.96,"TRANSFER","2015-12-12")
+,(574,924,176.69,"TRANSFER","2015-09-25")
+,(538,538,-671.18,"SELF","2014-06-14")
+,(201,201,429.20,"SELF","2014-06-20")
+,(564,684,157.83,"TRANSFER","2015-06-13")
+,(946,950,47.31,"TRANSFER","2015-12-02")
+,(918,876,352.23,"TRANSFER","2014-07-20")
+,(650,918,121.35,"TRANSFER","2016-06-11")
+,(83,687,374.46,"TRANSFER","2016-12-19")
+,(396,692,83.68,"TRANSFER","2012-03-19")
+,(269,269,50.16,"SELF","2015-06-07")
+,(46,763,61.58,"TRANSFER","2013-10-22")
+,(51,51,-183.61,"SELF","2013-07-06")
+,(290,290,631.51,"SELF","2012-03-15")
+,(435,516,656.21,"TRANSFER","2015-06-16")
+,(971,971,-155.95,"SELF","2013-10-27")
+,(419,392,149.00,"TRANSFER","2012-03-20")
+,(777,777,594.24,"SELF","2013-06-10")
+,(620,620,-440.96,"SELF","2016-02-02")
+,(384,384,-532.27,"SELF","2016-02-27")
+,(368,765,827.53,"TRANSFER","2012-09-24")
+,(767,159,575.69,"TRANSFER","2015-01-07")
+,(247,852,686.88,"TRANSFER","2016-04-11")
+,(837,163,168.70,"TRANSFER","2016-10-27")
+,(695,695,419.69,"SELF","2016-07-17")
+,(211,264,224.86,"TRANSFER","2014-02-14")
+,(193,720,532.15,"TRANSFER","2016-02-26")
+,(396,862,692.79,"TRANSFER","2014-02-15")
+,(804,804,195.05,"SELF","2015-02-27")
+,(167,167,145.43,"SELF","2012-07-23")
+,(358,512,401.10,"TRANSFER","2014-09-13")
+,(227,566,850.99,"TRANSFER","2012-08-26")
+,(411,796,613.59,"TRANSFER","2016-06-21")
+,(147,664,766.21,"TRANSFER","2016-08-24")
+,(622,386,318.67,"TRANSFER","2016-04-21")
+,(201,340,274.22,"TRANSFER","2015-11-17")
+,(184,184,372.01,"SELF","2012-05-07")
+,(777,493,106.45,"TRANSFER","2015-02-06")
+,(901,279,85.13,"TRANSFER","2012-10-14")
+,(965,965,913.77,"SELF","2013-08-03")
+,(454,429,921.49,"TRANSFER","2012-08-04")
+,(448,70,642.39,"TRANSFER","2015-08-11")
+,(486,486,992.58,"SELF","2013-12-03")
+,(86,86,178.76,"SELF","2014-08-16")
+,(433,318,702.04,"TRANSFER","2014-07-08")
+,(613,538,459.54,"TRANSFER","2016-04-14")
+,(255,255,496.57,"SELF","2013-08-02")
+,(859,26,51.15,"TRANSFER","2016-11-07")
+,(947,947,-847.43,"SELF","2013-05-26")
+,(299,208,801.99,"TRANSFER","2013-02-25")
+,(619,470,956.66,"TRANSFER","2012-01-04")
+,(222,222,807.36,"SELF","2014-12-13")
+,(882,689,581.81,"TRANSFER","2014-12-10")
+,(328,627,27.77,"TRANSFER","2016-06-26")
+,(849,326,870.24,"TRANSFER","2013-12-11")
+,(39,510,928.82,"TRANSFER","2016-10-01")
+,(735,270,127.29,"TRANSFER","2014-01-23")
+,(197,197,992.02,"SELF","2016-05-08")
+,(376,326,561.93,"TRANSFER","2016-02-05")
+,(515,151,598.01,"TRANSFER","2013-04-28")
+,(707,689,911.49,"TRANSFER","2014-11-14")
+,(198,637,332.52,"TRANSFER","2016-11-01")
+,(532,532,157.78,"SELF","2015-10-28")
+,(73,785,392.66,"TRANSFER","2015-05-18")
+,(182,182,669.53,"SELF","2012-01-22")
+,(358,142,157.36,"TRANSFER","2015-09-09")
+,(429,790,122.84,"TRANSFER","2016-06-12")
+,(4,4,-396.42,"SELF","2013-07-17")
+,(810,810,-564.23,"SELF","2014-12-19")
+,(771,771,293.74,"SELF","2015-11-25")
+,(534,59,167.68,"TRANSFER","2015-02-10")
+,(26,26,-534.22,"SELF","2013-06-14")
+,(392,729,78.36,"TRANSFER","2016-03-04")
+,(839,839,-955.12,"SELF","2012-04-17")
+,(578,578,355.51,"SELF","2016-04-01")
+,(745,828,790.90,"TRANSFER","2014-06-23")
+,(588,588,-209.10,"SELF","2012-06-16")
+,(885,980,160.28,"TRANSFER","2016-09-20")
+,(950,950,-535.15,"SELF","2015-03-06")
+,(945,945,-260.80,"SELF","2014-09-14")
+,(263,426,556.80,"TRANSFER","2016-09-22")
+,(287,604,812.26,"TRANSFER","2016-09-14")
+,(417,548,753.38,"TRANSFER","2015-12-03")
+,(338,338,463.38,"SELF","2016-06-19")
+,(795,490,727.05,"TRANSFER","2015-09-11")
+,(871,896,932.50,"TRANSFER","2016-07-23")
+,(115,115,-885.35,"SELF","2012-11-03")
+,(89,119,265.29,"TRANSFER","2015-08-01")
+,(281,281,429.14,"SELF","2015-04-28")
+,(619,108,677.67,"TRANSFER","2015-07-10")
+,(115,21,248.41,"TRANSFER","2012-07-15")
+,(892,814,358.58,"TRANSFER","2012-08-18")
+,(984,114,468.67,"TRANSFER","2016-08-07")
+,(650,977,4.20,"TRANSFER","2012-06-05")
+,(323,636,236.59,"TRANSFER","2012-09-08")
+,(369,763,818.34,"TRANSFER","2016-09-08")
+,(149,929,127.33,"TRANSFER","2013-05-05")
+,(396,260,350.17,"TRANSFER","2013-04-03")
+,(810,133,175.66,"TRANSFER","2014-06-16")
+,(219,151,107.53,"TRANSFER","2014-08-16")
+,(515,897,593.37,"TRANSFER","2013-08-22")
+,(947,374,176.97,"TRANSFER","2016-12-21")
+,(48,440,138.36,"TRANSFER","2016-04-24")
+,(107,107,516.50,"SELF","2014-06-15")
+,(311,516,95.38,"TRANSFER","2012-02-03")
+,(673,501,384.96,"TRANSFER","2015-12-11")
+,(105,346,86.54,"TRANSFER","2012-07-15")
+,(677,227,748.66,"TRANSFER","2013-06-03")
+,(905,905,507.18,"SELF","2013-10-20")
+,(665,206,812.60,"TRANSFER","2013-10-03")
+,(929,224,353.45,"TRANSFER","2016-09-18")
+,(499,1,765.90,"TRANSFER","2015-10-22")
+,(762,762,912.83,"SELF","2015-10-01")
+,(628,628,-545.49,"SELF","2012-10-10")
+,(778,207,844.80,"TRANSFER","2013-11-06")
+,(766,297,64.76,"TRANSFER","2013-02-05")
+,(110,919,297.90,"TRANSFER","2016-05-12")
+,(421,208,153.28,"TRANSFER","2016-05-14")
+,(447,447,351.75,"SELF","2012-04-28")
+,(570,218,97.34,"TRANSFER","2016-06-20")
+,(554,765,677.02,"TRANSFER","2013-04-08")
+,(53,849,249.85,"TRANSFER","2012-06-21")
+,(809,809,564.99,"SELF","2015-08-18")
+,(62,807,576.13,"TRANSFER","2016-12-08")
+,(512,512,527.04,"SELF","2012-08-17")
+,(72,72,414.17,"SELF","2012-10-04")
+,(352,256,304.98,"TRANSFER","2013-08-01")
+,(747,607,880.71,"TRANSFER","2015-12-18")
+,(679,300,815.91,"TRANSFER","2012-04-26")
+,(347,196,555.41,"TRANSFER","2014-05-07")
+,(917,917,280.34,"SELF","2014-01-16")
+,(567,304,202.36,"TRANSFER","2016-06-13")
+,(303,303,-254.67,"SELF","2016-03-19")
+,(434,63,29.46,"TRANSFER","2014-08-04")
+,(10,756,622.26,"TRANSFER","2014-04-12")
+,(666,666,441.66,"SELF","2016-10-17")
+,(37,37,-926.63,"SELF","2012-02-13")
+,(594,594,-733.67,"SELF","2015-05-22")
+,(440,440,-578.49,"SELF","2012-08-06")
+,(628,628,82.71,"SELF","2012-06-03")
+,(534,534,91.45,"SELF","2016-11-10")
+,(193,863,373.82,"TRANSFER","2013-07-24")
+,(435,109,17.23,"TRANSFER","2012-02-01")
+,(80,277,560.55,"TRANSFER","2012-04-25")
+,(200,786,593.33,"TRANSFER","2015-01-02")
+,(52,389,140.87,"TRANSFER","2013-03-07")
+,(185,185,927.86,"SELF","2015-05-28")
+,(942,942,-973.56,"SELF","2013-10-25")
+,(191,928,912.17,"TRANSFER","2013-09-03")
+,(137,273,296.54,"TRANSFER","2014-03-26")
+,(117,602,660.92,"TRANSFER","2012-08-25")
+,(117,5,882.66,"TRANSFER","2014-08-19")
+,(78,148,180.13,"TRANSFER","2016-02-07")
+,(660,298,46.56,"TRANSFER","2014-01-16")
+,(532,319,984.86,"TRANSFER","2014-06-25")
+,(262,262,-904.92,"SELF","2016-12-03")
+,(158,115,555.96,"TRANSFER","2015-04-09")
+,(217,982,516.34,"TRANSFER","2016-08-23")
+,(60,60,33.84,"SELF","2012-04-13")
+,(524,524,177.29,"SELF","2013-12-09")
+,(642,219,36.29,"TRANSFER","2015-01-03")
+,(168,133,846.33,"TRANSFER","2012-08-17")
+,(364,494,899.86,"TRANSFER","2012-06-21")
+,(848,269,517.17,"TRANSFER","2014-06-20")
+,(149,957,938.71,"TRANSFER","2014-08-15")
+,(602,900,69.86,"TRANSFER","2014-02-01")
+,(861,861,432.56,"SELF","2016-12-24")
+,(782,782,496.16,"SELF","2016-07-10")
+,(697,697,495.52,"SELF","2015-01-05")
+,(19,410,781.65,"TRANSFER","2016-11-07")
+,(827,425,474.65,"TRANSFER","2016-03-11")
+,(711,188,558.54,"TRANSFER","2013-11-26")
+,(837,646,462.04,"TRANSFER","2015-04-03")
+,(92,92,-123.04,"SELF","2016-05-22")
+,(188,172,700.50,"TRANSFER","2013-06-13")
+,(381,550,678.98,"TRANSFER","2013-12-07")
+,(873,873,-187.82,"SELF","2012-02-24")
+,(512,704,358.92,"TRANSFER","2013-06-08")
+,(779,779,-173.55,"SELF","2013-10-16")
+,(896,896,-132.80,"SELF","2016-03-08")
+,(399,603,686.46,"TRANSFER","2015-05-18")
+,(755,830,714.95,"TRANSFER","2013-08-01")
+,(623,171,851.43,"TRANSFER","2012-10-12")
+,(596,295,785.78,"TRANSFER","2016-06-14")
+,(323,201,78.65,"TRANSFER","2015-02-13")
+,(928,928,16.50,"SELF","2014-05-16")
+,(839,744,836.89,"TRANSFER","2016-11-06")
+,(262,262,-292.62,"SELF","2013-09-17")
+,(445,107,326.07,"TRANSFER","2013-05-17")
+,(572,767,430.08,"TRANSFER","2014-09-18")
+,(135,864,405.81,"TRANSFER","2013-08-23")
+,(330,330,-117.23,"SELF","2014-11-27")
+,(644,469,456.64,"TRANSFER","2016-10-19")
+,(962,962,-891.69,"SELF","2012-01-15")
+,(211,211,-352.56,"SELF","2013-01-16")
+,(399,52,489.85,"TRANSFER","2014-09-26")
+,(135,135,518.87,"SELF","2012-06-16")
+,(691,691,-252.69,"SELF","2014-05-02")
+,(227,227,39.64,"SELF","2015-03-01")
+,(147,397,971.22,"TRANSFER","2015-07-15")
+,(310,844,825.55,"TRANSFER","2013-03-04")
+,(538,538,489.19,"SELF","2012-09-21")
+,(396,562,982.74,"TRANSFER","2013-09-11")
+,(77,77,220.19,"SELF","2012-03-21")
+,(460,963,96.13,"TRANSFER","2014-02-01")
+,(379,379,-956.93,"SELF","2012-10-12")
+,(641,944,876.11,"TRANSFER","2014-11-13")
+,(155,719,96.78,"TRANSFER","2014-01-24")
+,(177,570,903.67,"TRANSFER","2012-02-25")
+,(838,838,700.74,"SELF","2013-09-09")
+,(161,705,753.72,"TRANSFER","2016-01-18")
+,(479,541,370.52,"TRANSFER","2016-08-12")
+,(43,43,268.45,"SELF","2016-04-25")
+,(489,489,-30.25,"SELF","2014-10-21")
+,(565,193,233.89,"TRANSFER","2016-08-26")
+,(330,754,66.98,"TRANSFER","2013-10-06")
+,(266,286,791.33,"TRANSFER","2015-08-01")
+,(151,885,405.40,"TRANSFER","2013-02-26")
+,(239,716,179.87,"TRANSFER","2016-12-08")
+,(539,720,618.27,"TRANSFER","2013-05-26")
+,(879,787,772.81,"TRANSFER","2016-10-20")
+,(351,743,360.02,"TRANSFER","2016-08-22")
+,(438,923,886.64,"TRANSFER","2014-04-10")
+,(440,440,-348.17,"SELF","2014-09-05")
+,(598,680,951.30,"TRANSFER","2013-02-23")
+,(714,301,266.82,"TRANSFER","2012-12-21")
+,(440,440,-955.73,"SELF","2016-08-10")
+,(857,857,-949.43,"SELF","2015-03-21")
+,(404,199,812.93,"TRANSFER","2014-03-22")
+,(203,203,192.42,"SELF","2013-01-19")
+,(344,344,-913.49,"SELF","2013-06-09")
+,(181,842,980.98,"TRANSFER","2013-08-16")
+,(960,877,615.36,"TRANSFER","2015-06-10")
+,(627,627,-90.26,"SELF","2012-11-13")
+,(195,461,881.17,"TRANSFER","2012-10-15")
+,(439,870,711.78,"TRANSFER","2012-02-03")
+,(168,450,138.51,"TRANSFER","2016-11-19")
+,(3,490,58.31,"TRANSFER","2014-11-24")
+,(750,750,495.62,"SELF","2012-12-04")
+,(227,912,550.15,"TRANSFER","2016-03-19")
+,(458,458,5.75,"SELF","2014-05-09")
+,(386,386,-463.79,"SELF","2015-10-28")
+,(645,470,269.70,"TRANSFER","2012-04-03")
+,(823,823,269.01,"SELF","2014-04-06")
+,(481,32,788.85,"TRANSFER","2015-01-04")
+,(826,993,547.69,"TRANSFER","2016-11-11")
+,(97,196,315.97,"TRANSFER","2016-12-20")
+,(457,457,-816.27,"SELF","2016-08-01")
+,(1000,434,737.27,"TRANSFER","2013-06-25")
+,(438,358,287.28,"TRANSFER","2016-02-24")
+,(275,367,963.76,"TRANSFER","2016-03-23")
+,(623,623,-286.55,"SELF","2013-01-23")
+,(882,882,528.57,"SELF","2012-02-17")
+,(691,691,838.43,"SELF","2012-04-16")
+,(711,438,646.65,"TRANSFER","2012-03-19")
+,(983,983,332.59,"SELF","2012-10-10")
+,(288,896,272.87,"TRANSFER","2015-08-11")
+,(504,262,50.87,"TRANSFER","2015-09-05")
+,(333,890,203.33,"TRANSFER","2012-04-10")
+,(682,682,83.68,"SELF","2016-12-17")
+,(386,835,379.98,"TRANSFER","2012-03-18")
+,(87,210,508.55,"TRANSFER","2013-03-21")
+,(717,680,528.10,"TRANSFER","2016-09-22")
+,(564,779,75.19,"TRANSFER","2012-06-04")
+,(894,967,519.81,"TRANSFER","2012-03-06")
+,(613,549,888.89,"TRANSFER","2012-11-14")
+,(605,873,167.64,"TRANSFER","2013-12-01")
+,(433,36,655.60,"TRANSFER","2013-08-10")
+,(819,816,250.20,"TRANSFER","2016-12-25")
+,(494,714,170.96,"TRANSFER","2015-08-11")
+,(256,256,-651.41,"SELF","2015-12-02")
+,(146,612,750.49,"TRANSFER","2016-10-14")
+,(2,2,150.70,"SELF","2012-07-14")
+,(7,36,656.04,"TRANSFER","2016-10-21")
+,(244,149,479.13,"TRANSFER","2016-07-25")
+,(711,877,589.01,"TRANSFER","2014-07-23")
+,(104,593,958.82,"TRANSFER","2016-09-25")
+,(220,142,930.81,"TRANSFER","2016-04-28")
+,(866,879,500.17,"TRANSFER","2014-06-02")
+,(306,306,-502.96,"SELF","2012-02-02")
+,(221,41,278.39,"TRANSFER","2015-06-06")
+,(481,47,801.94,"TRANSFER","2016-10-24")
+,(453,58,264.70,"TRANSFER","2013-07-03")
+,(558,320,398.52,"TRANSFER","2014-10-10")
+,(377,821,514.20,"TRANSFER","2016-04-09")
+,(929,991,731.70,"TRANSFER","2016-02-16")
+,(611,243,937.23,"TRANSFER","2016-12-18")
+,(950,17,311.78,"TRANSFER","2013-09-18")
+,(733,733,795.74,"SELF","2014-11-07")
+,(903,717,775.69,"TRANSFER","2012-04-13")
+,(853,234,226.21,"TRANSFER","2016-10-08")
+,(757,757,123.03,"SELF","2012-07-08")
+,(380,80,786.17,"TRANSFER","2013-06-17")
+,(766,766,534.34,"SELF","2013-04-16")
+,(778,778,3.67,"SELF","2016-02-04")
+,(543,710,967.55,"TRANSFER","2013-09-25")
+,(641,977,828.56,"TRANSFER","2012-10-19")
+,(273,947,306.50,"TRANSFER","2016-02-06")
+,(958,747,786.18,"TRANSFER","2016-04-28")
+,(265,11,526.65,"TRANSFER","2016-05-07")
+,(791,791,625.12,"SELF","2014-06-27")
+,(771,544,143.21,"TRANSFER","2012-05-06")
+,(342,298,77.21,"TRANSFER","2014-08-27")
+,(643,677,617.34,"TRANSFER","2015-03-20")
+,(829,656,942.76,"TRANSFER","2016-03-28")
+,(746,279,627.73,"TRANSFER","2012-05-22")
+,(971,747,335.83,"TRANSFER","2016-01-07")
+,(504,504,870.48,"SELF","2015-09-19")
+,(906,906,-935.10,"SELF","2014-08-09")
+,(935,649,365.58,"TRANSFER","2016-11-13")
+,(833,833,14.43,"SELF","2014-05-03")
+,(706,237,980.83,"TRANSFER","2016-05-27")
+,(662,662,-615.06,"SELF","2013-06-28")
+,(786,314,486.26,"TRANSFER","2016-11-25")
+,(694,22,355.89,"TRANSFER","2012-04-03")
+,(60,44,785.75,"TRANSFER","2012-07-24")
+,(543,543,326.66,"SELF","2016-10-10")
+,(952,952,-289.98,"SELF","2016-06-15")
+,(682,682,509.32,"SELF","2014-04-25")
+,(569,569,15.76,"SELF","2012-05-10")
+,(514,18,702.51,"TRANSFER","2016-12-09")
+,(61,618,208.75,"TRANSFER","2013-09-18")
+,(455,618,803.37,"TRANSFER","2012-01-27")
+,(587,231,280.16,"TRANSFER","2014-01-18")
+,(366,366,-444.33,"SELF","2013-03-10")
+,(287,776,988.27,"TRANSFER","2014-01-11")
+,(353,353,25.62,"SELF","2012-04-04")
+,(197,288,313.92,"TRANSFER","2012-08-03")
+,(121,121,339.36,"SELF","2016-06-12")
+,(91,579,873.83,"TRANSFER","2014-07-01")
+,(26,26,-717.31,"SELF","2016-06-10")
+,(781,781,816.46,"SELF","2013-07-13")
+,(745,745,764.73,"SELF","2015-12-06")
+,(2,2,342.82,"SELF","2012-09-28")
+,(738,738,538.31,"SELF","2015-02-11")
+,(978,978,82.47,"SELF","2013-04-24")
+,(934,767,575.82,"TRANSFER","2012-04-28")
+,(349,238,251.16,"TRANSFER","2016-06-12")
+,(146,336,200.45,"TRANSFER","2012-12-22")
+,(991,891,475.63,"TRANSFER","2016-11-01")
+,(943,943,-49.94,"SELF","2012-01-07")
+,(169,39,776.01,"TRANSFER","2015-05-08")
+,(156,740,691.10,"TRANSFER","2013-02-26")
+,(315,252,722.96,"TRANSFER","2015-07-16")
+,(191,163,573.25,"TRANSFER","2013-12-07")
+,(988,826,551.18,"TRANSFER","2015-12-05")
+,(19,91,191.83,"TRANSFER","2012-01-21")
+,(250,464,950.29,"TRANSFER","2013-10-20")
+,(251,206,590.84,"TRANSFER","2013-09-16")
+,(891,461,576.78,"TRANSFER","2012-04-08")
+,(982,982,147.85,"SELF","2016-01-08")
+,(728,151,655.04,"TRANSFER","2014-02-26")
+,(842,471,529.27,"TRANSFER","2012-02-08")
+,(234,210,430.00,"TRANSFER","2013-05-07")
+,(975,387,281.33,"TRANSFER","2012-05-16")
+,(784,292,363.60,"TRANSFER","2013-12-16")
+,(630,717,319.52,"TRANSFER","2013-07-19")
+,(517,765,328.62,"TRANSFER","2014-05-08")
+,(166,166,-449.05,"SELF","2012-02-22")
+,(679,652,628.43,"TRANSFER","2014-03-04")
+,(304,260,196.10,"TRANSFER","2012-07-21")
+,(376,243,753.10,"TRANSFER","2013-11-06")
+,(258,258,-603.51,"SELF","2014-08-07")
+,(844,747,705.76,"TRANSFER","2016-08-27")
+,(430,407,196.61,"TRANSFER","2016-01-06")
+,(748,175,569.36,"TRANSFER","2013-04-21")
+,(323,323,-165.44,"SELF","2013-09-08")
+,(295,819,173.25,"TRANSFER","2013-12-17")
+,(692,220,911.93,"TRANSFER","2015-02-23")
+,(146,799,501.45,"TRANSFER","2015-07-04")
+,(986,997,53.46,"TRANSFER","2013-04-02")
+,(289,289,25.78,"SELF","2016-04-23")
+,(578,578,-828.77,"SELF","2012-04-06")
+,(640,859,746.95,"TRANSFER","2013-10-15")
+,(388,388,-118.68,"SELF","2015-08-12")
+,(931,181,579.47,"TRANSFER","2012-03-06")
+,(399,893,244.77,"TRANSFER","2013-01-13")
+,(831,53,118.16,"TRANSFER","2014-08-22")
+,(986,596,502.04,"TRANSFER","2016-11-07")
+,(284,3,870.41,"TRANSFER","2012-10-20")
+,(247,247,87.07,"SELF","2015-10-05")
+,(825,241,11.48,"TRANSFER","2012-06-01")
+,(961,40,539.26,"TRANSFER","2013-08-18")
+,(242,686,665.28,"TRANSFER","2016-03-13")
+,(184,184,-758.67,"SELF","2014-06-08")
+,(674,776,211.42,"TRANSFER","2014-08-23")
+,(979,120,196.82,"TRANSFER","2013-07-25")
+,(218,715,5.86,"TRANSFER","2014-02-22")
+,(960,363,983.21,"TRANSFER","2013-07-23")
+,(614,180,403.17,"TRANSFER","2013-10-01")
+,(246,246,354.50,"SELF","2014-11-07")
+,(814,882,642.74,"TRANSFER","2013-11-05")
+,(42,417,682.84,"TRANSFER","2015-07-14")
+,(615,85,484.55,"TRANSFER","2013-01-09")
+,(419,604,251.75,"TRANSFER","2012-07-02")
+,(127,633,680.35,"TRANSFER","2012-09-22")
+,(567,567,-878.95,"SELF","2012-04-28")
+,(775,262,405.75,"TRANSFER","2014-07-06")
+,(171,46,508.75,"TRANSFER","2016-10-06")
+,(103,568,712.39,"TRANSFER","2015-06-23")
+,(841,144,541.84,"TRANSFER","2013-07-06")
+,(373,373,791.99,"SELF","2016-01-06")
+,(459,576,816.70,"TRANSFER","2015-02-28")
+,(728,805,437.59,"TRANSFER","2012-03-23")
+,(811,384,528.45,"TRANSFER","2014-12-19")
+,(665,665,903.90,"SELF","2016-08-05")
+,(350,743,28.44,"TRANSFER","2014-08-07")
+,(429,417,228.97,"TRANSFER","2013-11-16")
+,(586,809,516.57,"TRANSFER","2013-07-04")
+,(686,721,765.48,"TRANSFER","2013-06-08")
+,(863,188,91.50,"TRANSFER","2013-03-11")
+,(866,137,630.23,"TRANSFER","2012-08-26")
+,(85,149,269.57,"TRANSFER","2015-05-02")
+,(127,999,455.03,"TRANSFER","2013-09-10")
+,(589,589,791.93,"SELF","2014-07-06")
+,(190,190,-569.30,"SELF","2015-08-02")
+,(763,570,787.14,"TRANSFER","2012-05-20")
+,(832,125,991.38,"TRANSFER","2015-08-12")
+,(745,282,392.01,"TRANSFER","2014-04-08")
+,(250,386,504.32,"TRANSFER","2014-08-04")
+,(732,567,134.94,"TRANSFER","2012-05-02")
+,(545,113,967.12,"TRANSFER","2015-04-03")
+,(653,653,-306.36,"SELF","2013-01-26")
+,(665,428,985.96,"TRANSFER","2015-01-08")
+,(157,781,392.46,"TRANSFER","2013-08-28")
+,(301,432,326.10,"TRANSFER","2012-03-06")
+,(347,572,568.16,"TRANSFER","2012-07-06")
+,(902,568,908.63,"TRANSFER","2013-11-01")
+,(584,584,97.96,"SELF","2013-06-07")
+,(757,898,142.00,"TRANSFER","2013-05-25")
+,(645,416,201.08,"TRANSFER","2016-01-19")
+,(458,876,951.76,"TRANSFER","2014-12-24")
+,(899,899,-542.82,"SELF","2016-04-15")
+,(621,621,201.90,"SELF","2015-12-22")
+,(871,871,-681.67,"SELF","2013-06-13")
+,(25,506,893.47,"TRANSFER","2016-03-28")
+,(16,983,939.29,"TRANSFER","2016-06-24")
+,(34,369,57.33,"TRANSFER","2013-04-18")
+,(159,159,588.58,"SELF","2013-10-15")
+,(309,254,497.98,"TRANSFER","2012-02-14")
+,(463,908,997.60,"TRANSFER","2016-03-06")
+,(691,250,33.76,"TRANSFER","2014-06-03")
+,(51,865,956.22,"TRANSFER","2014-06-18")
+,(489,576,551.58,"TRANSFER","2016-11-25")
+,(627,558,931.86,"TRANSFER","2013-02-24")
+,(800,839,295.78,"TRANSFER","2012-04-23")
+,(214,214,985.97,"SELF","2014-12-27")
+,(605,525,513.66,"TRANSFER","2016-05-26")
+,(92,266,676.26,"TRANSFER","2012-05-08")
+,(990,96,956.47,"TRANSFER","2016-01-26")
+,(742,742,-443.89,"SELF","2015-08-11")
+,(333,333,-775.83,"SELF","2012-07-01")
+,(77,425,532.04,"TRANSFER","2014-05-11")
+,(863,498,867.45,"TRANSFER","2014-09-15")
+,(802,64,673.54,"TRANSFER","2016-10-04")
+,(162,283,720.38,"TRANSFER","2012-11-28")
+,(874,958,888.46,"TRANSFER","2015-11-16")
+,(411,618,127.56,"TRANSFER","2012-06-24")
+,(867,907,201.22,"TRANSFER","2014-10-09")
+,(295,295,272.04,"SELF","2014-06-06")
+,(184,184,-729.94,"SELF","2013-03-20")
+,(733,396,244.69,"TRANSFER","2016-07-09")
+,(641,641,39.45,"SELF","2015-08-20")
+,(757,757,831.34,"SELF","2015-11-12")
+,(616,455,211.67,"TRANSFER","2012-02-05")
+,(823,13,808.82,"TRANSFER","2016-12-18")
+,(822,596,589.98,"TRANSFER","2016-02-03")
+,(277,423,49.93,"TRANSFER","2012-04-06")
+,(529,466,412.86,"TRANSFER","2012-05-18")
+,(754,754,335.79,"SELF","2013-12-24")
+,(933,893,161.08,"TRANSFER","2013-01-12")
+,(981,236,613.66,"TRANSFER","2015-03-16")
+,(951,881,623.88,"TRANSFER","2016-03-20")
+,(382,744,686.76,"TRANSFER","2016-09-13")
+,(946,45,766.29,"TRANSFER","2013-11-02")
+,(668,647,821.86,"TRANSFER","2016-06-05")
+,(546,213,301.20,"TRANSFER","2013-07-02")
+,(382,382,830.02,"SELF","2014-02-28")
+,(22,587,298.71,"TRANSFER","2016-07-17")
+,(368,437,812.67,"TRANSFER","2012-04-12")
+,(227,575,341.79,"TRANSFER","2013-08-21")
+,(803,803,705.07,"SELF","2012-06-14")
+,(329,329,-862.70,"SELF","2012-04-17")
+,(568,865,989.41,"TRANSFER","2014-03-02")
+,(767,70,390.26,"TRANSFER","2013-09-19")
+,(283,283,758.99,"SELF","2016-08-01")
+,(76,91,638.39,"TRANSFER","2015-09-26")
+,(745,745,847.24,"SELF","2016-03-04")
+,(572,572,115.94,"SELF","2014-07-03")
+,(756,241,343.43,"TRANSFER","2014-01-03")
+,(935,285,499.13,"TRANSFER","2015-10-17")
+,(299,848,617.89,"TRANSFER","2014-11-07")
+,(334,719,158.80,"TRANSFER","2012-10-18")
+,(947,989,622.88,"TRANSFER","2016-02-17")
+,(301,301,407.62,"SELF","2015-06-23")
+,(481,481,106.60,"SELF","2013-04-24")
+,(606,46,826.77,"TRANSFER","2012-02-02")
+,(616,616,969.43,"SELF","2016-11-12")
+,(998,574,864.38,"TRANSFER","2012-01-14")
+,(868,15,734.11,"TRANSFER","2015-05-06")
+,(777,97,516.00,"TRANSFER","2016-05-21")
+,(435,502,42.49,"TRANSFER","2015-07-07")
+,(999,999,62.94,"SELF","2014-08-02")
+,(869,87,674.67,"TRANSFER","2016-04-05")
+,(157,917,845.72,"TRANSFER","2014-06-10")
+,(636,636,-394.83,"SELF","2012-04-21")
+,(835,422,695.73,"TRANSFER","2016-06-09")
+,(9,9,-42.27,"SELF","2013-09-21")
+,(249,249,59.89,"SELF","2016-11-05")
+,(127,14,15.21,"TRANSFER","2015-12-21")
+,(381,381,209.30,"SELF","2016-03-15")
+,(518,518,388.91,"SELF","2012-08-01")
+,(40,40,655.87,"SELF","2013-01-08")
+,(487,487,376.00,"SELF","2013-03-02")
+,(371,845,667.18,"TRANSFER","2012-08-05")
+,(521,591,771.28,"TRANSFER","2012-08-11")
+,(203,203,685.06,"SELF","2012-12-27")
+,(622,622,546.63,"SELF","2016-08-19")
+,(9,9,-730.87,"SELF","2012-04-10")
+,(518,518,924.25,"SELF","2015-02-10")
+,(69,503,316.39,"TRANSFER","2015-05-13")
+,(471,471,874.08,"SELF","2012-01-03")
+,(380,164,57.65,"TRANSFER","2013-07-05")
+,(986,986,327.57,"SELF","2013-04-04")
+,(160,421,410.55,"TRANSFER","2016-01-27")
+,(490,490,819.39,"SELF","2012-05-23")
+,(26,310,695.15,"TRANSFER","2013-08-08")
+,(907,68,411.83,"TRANSFER","2013-01-13")
+,(363,244,836.75,"TRANSFER","2012-07-06")
+,(190,190,917.96,"SELF","2015-11-14")
+,(351,80,48.59,"TRANSFER","2016-01-07")
+,(441,441,-107.30,"SELF","2012-11-04")
+,(820,914,736.65,"TRANSFER","2014-08-10")
+,(790,466,887.20,"TRANSFER","2015-01-16")
+,(239,239,899.43,"SELF","2014-11-18")
+,(641,945,889.68,"TRANSFER","2012-10-09")
+,(203,103,849.46,"TRANSFER","2016-03-28")
+,(101,164,938.54,"TRANSFER","2012-05-10")
+,(434,254,908.84,"TRANSFER","2013-12-09")
+,(152,756,481.05,"TRANSFER","2012-12-18")
+,(813,309,325.80,"TRANSFER","2014-12-15")
+,(224,224,-535.87,"SELF","2013-04-10")
+,(324,324,-608.51,"SELF","2015-12-12")
+,(141,141,21.29,"SELF","2015-07-06")
+,(698,286,589.22,"TRANSFER","2013-08-15")
+,(431,380,509.07,"TRANSFER","2014-07-01")
+,(215,215,53.77,"SELF","2016-11-19")
+,(210,116,947.64,"TRANSFER","2013-03-04")
+,(974,685,285.56,"TRANSFER","2014-08-06")
+,(247,247,146.64,"SELF","2015-07-24")
+,(925,948,511.91,"TRANSFER","2016-05-13")
+,(213,772,425.91,"TRANSFER","2014-04-12")
+,(396,200,980.99,"TRANSFER","2014-09-17")
+,(488,675,709.22,"TRANSFER","2016-06-10")
+,(730,156,937.16,"TRANSFER","2014-12-08")
+,(446,942,423.99,"TRANSFER","2016-12-23")
+,(264,676,781.71,"TRANSFER","2014-12-07")
+,(305,792,486.31,"TRANSFER","2013-11-06")
+,(972,834,536.06,"TRANSFER","2015-12-14")
+,(930,851,310.72,"TRANSFER","2015-06-23")
+,(956,144,466.37,"TRANSFER","2013-11-06")
+,(966,792,310.62,"TRANSFER","2015-12-11")
+,(363,363,-889.33,"SELF","2014-06-13")
+,(17,348,617.62,"TRANSFER","2012-09-25")
+,(403,403,-74.61,"SELF","2014-05-24")
+,(466,517,985.04,"TRANSFER","2012-07-20")
+,(537,854,696.50,"TRANSFER","2016-03-12")
+,(396,589,889.46,"TRANSFER","2014-03-10")
+,(507,507,434.53,"SELF","2014-02-04")
+,(299,856,101.73,"TRANSFER","2012-10-06")
+,(778,778,-998.04,"SELF","2015-03-25")
+,(495,495,-593.18,"SELF","2016-06-11")
+,(297,841,318.64,"TRANSFER","2015-02-14")
+,(102,102,-337.65,"SELF","2012-03-23")
+,(409,848,700.95,"TRANSFER","2016-08-26")
+,(609,749,988.83,"TRANSFER","2013-07-11")
+,(942,404,567.84,"TRANSFER","2014-07-10")
+,(880,330,592.40,"TRANSFER","2015-04-14")
+,(299,299,906.15,"SELF","2015-01-02")
+,(263,461,721.90,"TRANSFER","2012-11-03")
+,(936,476,114.28,"TRANSFER","2015-09-07")
+,(731,731,3.91,"SELF","2014-09-25")
+,(375,375,-42.20,"SELF","2015-06-13")
+,(422,454,796.14,"TRANSFER","2015-10-18")
+,(674,674,284.88,"SELF","2016-10-23")
+,(467,394,684.19,"TRANSFER","2013-12-22")
+,(695,161,893.37,"TRANSFER","2012-09-06")
+,(886,421,214.45,"TRANSFER","2015-10-26")
+,(23,23,-757.70,"SELF","2016-03-14")
+,(119,119,-746.10,"SELF","2016-04-07")
+,(841,841,502.27,"SELF","2014-06-28")
+,(312,831,964.55,"TRANSFER","2016-10-01")
+,(162,640,936.44,"TRANSFER","2016-11-03")
+,(258,258,656.70,"SELF","2016-09-06")
+,(942,542,381.66,"TRANSFER","2014-05-11")
+,(68,132,391.19,"TRANSFER","2014-12-28")
+,(773,773,943.40,"SELF","2015-03-15")
+,(882,705,391.37,"TRANSFER","2013-02-08")
+,(570,570,-196.20,"SELF","2013-01-02")
+,(540,540,-96.05,"SELF","2012-04-26")
+,(700,464,788.41,"TRANSFER","2013-10-20")
+,(84,183,468.47,"TRANSFER","2012-06-11")
+,(188,569,902.32,"TRANSFER","2016-01-21")
+,(994,23,493.83,"TRANSFER","2015-05-11")
+,(407,963,558.89,"TRANSFER","2016-05-28")
+,(89,534,60.28,"TRANSFER","2014-03-03")
+,(223,46,931.52,"TRANSFER","2016-01-17")
+,(182,609,747.35,"TRANSFER","2012-03-09")
+,(178,12,345.61,"TRANSFER","2014-02-14")
+,(767,310,898.34,"TRANSFER","2014-01-14")
+,(434,917,603.04,"TRANSFER","2015-09-26")
+,(325,733,347.67,"TRANSFER","2013-10-21")
+,(542,342,237.34,"TRANSFER","2012-07-12")
+,(107,107,-796.73,"SELF","2015-05-18")
+,(440,987,87.36,"TRANSFER","2016-06-25")
+,(468,679,497.10,"TRANSFER","2015-07-01")
+,(873,767,360.09,"TRANSFER","2014-05-16")
+,(979,772,405.38,"TRANSFER","2013-05-23")
+,(111,174,586.84,"TRANSFER","2015-10-05")
+,(697,408,140.26,"TRANSFER","2013-04-23")
+,(463,141,416.32,"TRANSFER","2012-05-06")
+,(21,282,107.34,"TRANSFER","2013-01-15")
+,(835,835,169.85,"SELF","2015-06-07")
+,(209,492,207.67,"TRANSFER","2016-12-08")
+,(173,324,5.30,"TRANSFER","2015-04-05")
+,(198,198,-393.24,"SELF","2014-01-19")
+,(899,751,446.44,"TRANSFER","2015-07-15")
+,(864,864,-781.48,"SELF","2014-12-11")
+,(724,724,-832.24,"SELF","2016-04-08")
+,(680,242,199.83,"TRANSFER","2012-08-28")
+,(591,314,624.44,"TRANSFER","2015-12-09")
+,(251,323,323.53,"TRANSFER","2012-06-13")
+,(962,962,160.81,"SELF","2013-11-09")
+,(514,514,-530.68,"SELF","2013-07-03")
+,(22,955,894.53,"TRANSFER","2012-01-14")
+,(326,326,547.00,"SELF","2015-01-12")
+,(945,478,110.34,"TRANSFER","2012-04-18")
+,(471,947,73.95,"TRANSFER","2014-06-28")
+,(652,663,213.25,"TRANSFER","2013-05-14")
+,(480,409,497.76,"TRANSFER","2012-09-01")
+,(223,223,401.21,"SELF","2015-09-19")
+,(88,977,30.48,"TRANSFER","2016-12-10")
+,(668,424,410.68,"TRANSFER","2012-02-27")
+,(943,943,-270.05,"SELF","2012-01-09")
+,(590,590,852.49,"SELF","2015-03-27")
+,(359,754,612.55,"TRANSFER","2015-02-11")
+,(273,273,438.95,"SELF","2014-09-11")
+,(865,865,-640.70,"SELF","2014-06-15")
+,(758,758,975.97,"SELF","2012-02-22")
+,(186,655,638.55,"TRANSFER","2012-07-13")
+,(947,974,332.48,"TRANSFER","2016-09-12")
+,(29,562,53.93,"TRANSFER","2015-05-10")
+,(242,429,702.91,"TRANSFER","2013-12-27")
+,(805,805,-613.82,"SELF","2016-11-02")
+,(94,811,156.71,"TRANSFER","2012-06-16")
+,(385,385,-996.00,"SELF","2014-06-05")
+,(745,745,-506.36,"SELF","2013-05-13")
+,(822,822,-458.93,"SELF","2016-08-14")
+,(445,990,87.48,"TRANSFER","2013-06-21")
+,(858,71,836.66,"TRANSFER","2016-01-05")
+,(316,485,310.14,"TRANSFER","2012-07-23")
+,(23,23,640.13,"SELF","2013-06-15")
+,(823,823,-820.92,"SELF","2015-10-06")
+,(742,441,512.59,"TRANSFER","2013-03-10")
+,(552,721,950.36,"TRANSFER","2016-05-18")
+,(780,780,-409.55,"SELF","2012-12-10")
+,(304,442,80.97,"TRANSFER","2012-06-16")
+,(657,200,49.95,"TRANSFER","2012-06-21")
+,(252,210,699.28,"TRANSFER","2012-10-07")
+,(368,998,606.70,"TRANSFER","2013-10-16")
+,(492,492,928.89,"SELF","2013-04-24")
+,(149,149,-245.21,"SELF","2012-01-28")
+,(896,502,921.60,"TRANSFER","2016-03-16")
+,(985,985,64.50,"SELF","2014-07-15")
+,(183,837,568.79,"TRANSFER","2016-05-27")
+,(516,265,375.35,"TRANSFER","2012-05-15")
+,(708,416,727.96,"TRANSFER","2012-05-14")
+,(113,899,130.35,"TRANSFER","2016-03-16")
+,(300,300,-702.71,"SELF","2015-04-13")
+,(448,503,556.92,"TRANSFER","2016-11-11")
+,(854,854,708.22,"SELF","2012-02-20")
+,(341,769,339.19,"TRANSFER","2015-01-06")
+,(204,204,113.72,"SELF","2015-10-26")
+,(56,785,585.34,"TRANSFER","2013-12-05")
+,(385,41,215.18,"TRANSFER","2014-01-02")
+,(339,175,802.75,"TRANSFER","2016-10-11")
+,(590,590,348.06,"SELF","2015-05-14")
+,(873,873,-543.09,"SELF","2012-06-12")
+,(182,945,116.85,"TRANSFER","2016-12-22")
+,(124,124,557.69,"SELF","2014-07-22")
+,(801,243,686.39,"TRANSFER","2012-09-20")
+,(275,275,198.72,"SELF","2012-09-03")
+,(881,881,74.51,"SELF","2016-03-22")
+,(166,634,419.88,"TRANSFER","2012-09-12")
+,(718,706,931.50,"TRANSFER","2013-02-01")
+,(896,93,2.08,"TRANSFER","2016-06-27")
+,(213,213,945.10,"SELF","2014-04-28")
+,(667,561,245.26,"TRANSFER","2015-04-05")
+,(215,215,-545.58,"SELF","2012-10-16")
+,(340,517,983.48,"TRANSFER","2012-07-14")
+,(989,851,322.14,"TRANSFER","2016-03-03")
+,(566,404,318.44,"TRANSFER","2016-02-08")
+,(179,312,786.56,"TRANSFER","2013-05-04")
+,(142,227,461.26,"TRANSFER","2015-02-10")
+,(410,186,449.98,"TRANSFER","2013-03-11")
+,(984,984,412.13,"SELF","2015-10-12")
+,(198,198,129.16,"SELF","2016-02-22")
+,(724,335,202.12,"TRANSFER","2012-07-07")
+,(769,769,854.35,"SELF","2013-08-21")
+,(687,895,259.33,"TRANSFER","2013-06-06")
+,(400,133,180.77,"TRANSFER","2016-11-27")
+,(93,183,49.38,"TRANSFER","2015-02-23")
+,(39,571,9.71,"TRANSFER","2015-09-27")
+,(325,37,133.35,"TRANSFER","2013-09-08")
+,(589,484,494.40,"TRANSFER","2014-12-06")
+,(838,896,710.12,"TRANSFER","2015-07-09")
+,(410,512,1000.78,"TRANSFER","2015-08-20")
+,(572,306,384.47,"TRANSFER","2013-01-16")
+,(103,796,668.06,"TRANSFER","2012-05-07")
+,(66,473,141.19,"TRANSFER","2012-08-11")
+,(795,795,-965.08,"SELF","2012-11-04")
+,(444,975,210.82,"TRANSFER","2012-03-01")
+,(852,19,617.45,"TRANSFER","2016-09-19")
+,(252,252,-568.13,"SELF","2016-07-01")
+,(875,58,738.54,"TRANSFER","2013-08-04")
+,(739,841,141.12,"TRANSFER","2012-05-24")
+,(922,922,243.69,"SELF","2015-05-16")
+,(243,243,900.46,"SELF","2013-02-07")
+,(531,531,642.94,"SELF","2016-03-26")
+,(255,697,537.69,"TRANSFER","2012-05-06")
+,(601,68,515.51,"TRANSFER","2013-03-06")
+,(136,566,932.51,"TRANSFER","2013-05-12")
+,(783,783,444.86,"SELF","2015-01-01")
+,(352,755,791.49,"TRANSFER","2016-06-09")
+,(862,444,253.12,"TRANSFER","2012-06-12")
+,(848,563,605.00,"TRANSFER","2012-09-15")
+,(791,256,132.46,"TRANSFER","2015-05-17")
+,(36,36,-647.35,"SELF","2013-02-15")
+,(69,406,755.51,"TRANSFER","2015-10-02")
+,(175,823,467.34,"TRANSFER","2012-06-17")
+,(466,970,175.57,"TRANSFER","2016-07-06")
+,(198,181,513.35,"TRANSFER","2015-12-27")
+,(354,455,212.50,"TRANSFER","2014-11-26")
+,(996,358,715.54,"TRANSFER","2014-01-02")
+,(25,516,916.19,"TRANSFER","2015-08-03")
+,(428,428,-847.12,"SELF","2016-05-03")
+,(87,63,276.54,"TRANSFER","2014-05-05")
+,(129,206,673.65,"TRANSFER","2012-10-01")
+,(617,617,-279.62,"SELF","2012-06-07")
+,(834,850,972.23,"TRANSFER","2016-04-11")
+,(881,881,379.26,"SELF","2015-04-26")
+,(862,862,-815.53,"SELF","2014-04-22")
+,(418,167,715.78,"TRANSFER","2014-01-20")
+,(803,803,-404.63,"SELF","2013-10-03")
+,(389,389,468.21,"SELF","2016-10-10")
+,(989,947,590.38,"TRANSFER","2015-11-12")
+,(912,786,611.05,"TRANSFER","2015-09-13")
+,(307,467,861.59,"TRANSFER","2012-10-06")
+,(496,279,167.27,"TRANSFER","2015-05-17")
+,(990,432,210.86,"TRANSFER","2016-11-17")
+,(887,887,616.19,"SELF","2016-11-07")
+,(413,680,536.68,"TRANSFER","2014-12-12")
+,(846,846,978.74,"SELF","2014-08-12")
+,(410,892,849.55,"TRANSFER","2015-12-09")
+,(803,803,-18.86,"SELF","2016-11-19")
+,(374,383,142.40,"TRANSFER","2016-08-13")
+,(103,77,138.51,"TRANSFER","2015-04-20")
+,(978,596,465.62,"TRANSFER","2016-04-11")
+,(149,149,-826.06,"SELF","2013-08-25")
+,(598,177,587.32,"TRANSFER","2014-08-07")
+,(41,41,-336.05,"SELF","2012-06-11")
+,(94,75,285.04,"TRANSFER","2016-04-04")
+,(960,960,97.64,"SELF","2016-03-16")
+,(644,91,469.64,"TRANSFER","2015-11-27")
+,(472,472,388.11,"SELF","2015-09-22")
+,(621,63,336.25,"TRANSFER","2016-05-01")
+,(763,763,-243.01,"SELF","2012-01-16")
+,(202,202,-869.92,"SELF","2012-04-23")
+,(542,542,-594.30,"SELF","2016-05-28")
+,(652,906,178.56,"TRANSFER","2014-01-27")
+,(567,567,227.47,"SELF","2014-10-13")
+,(255,935,650.72,"TRANSFER","2014-10-24")
+,(562,261,847.63,"TRANSFER","2012-05-25")
+,(120,333,46.69,"TRANSFER","2015-12-17")
+,(225,213,261.36,"TRANSFER","2014-03-19")
+,(902,212,186.45,"TRANSFER","2012-06-22")
+,(929,842,473.43,"TRANSFER","2013-12-01")
+,(719,578,602.00,"TRANSFER","2012-03-19")
+,(879,753,647.67,"TRANSFER","2013-09-11")
+,(787,440,866.84,"TRANSFER","2013-08-10")
+,(871,747,311.90,"TRANSFER","2015-05-21")
+,(203,865,69.73,"TRANSFER","2014-02-04")
+,(477,625,206.60,"TRANSFER","2016-03-05")
+,(657,657,892.15,"SELF","2016-11-19")
+,(223,81,657.47,"TRANSFER","2015-07-16")
+,(326,326,-699.28,"SELF","2014-06-25")
+,(260,260,512.64,"SELF","2015-09-25")
+,(222,222,702.22,"SELF","2012-06-24")
+,(953,378,272.25,"TRANSFER","2016-08-20")
+,(474,320,12.24,"TRANSFER","2016-06-03")
+,(941,712,345.68,"TRANSFER","2014-04-25")
+,(99,438,384.03,"TRANSFER","2015-12-21")
+,(20,54,238.98,"TRANSFER","2013-03-15")
+,(193,193,956.64,"SELF","2016-07-22")
+,(283,291,241.75,"TRANSFER","2015-03-23")
+,(951,734,48.05,"TRANSFER","2016-04-12")
+,(852,539,889.36,"TRANSFER","2014-04-11")
+,(951,951,-748.92,"SELF","2012-01-28")
+,(675,236,886.62,"TRANSFER","2014-09-16")
+,(786,599,943.68,"TRANSFER","2014-11-15")
+,(663,354,52.48,"TRANSFER","2016-02-08")
+,(992,275,634.23,"TRANSFER","2015-11-14")
+,(858,597,191.88,"TRANSFER","2016-08-19")
+,(161,476,957.18,"TRANSFER","2012-09-14")
+,(812,639,685.63,"TRANSFER","2012-06-05")
+,(837,925,921.16,"TRANSFER","2012-03-14")
+,(686,724,607.66,"TRANSFER","2013-03-16")
+,(471,471,-197.87,"SELF","2016-08-04")
+,(978,887,216.86,"TRANSFER","2012-10-16")
+,(790,698,882.64,"TRANSFER","2015-04-18")
+,(781,831,463.88,"TRANSFER","2012-04-25")
+,(342,342,989.36,"SELF","2015-07-20")
+,(12,933,334.01,"TRANSFER","2016-07-20")
+,(454,80,882.36,"TRANSFER","2016-03-27")
+,(769,769,-262.22,"SELF","2016-02-13")
+,(163,163,-665.49,"SELF","2015-12-16")
+,(613,382,459.17,"TRANSFER","2013-04-06")
+,(645,645,-711.10,"SELF","2014-08-07")
+,(123,87,889.90,"TRANSFER","2016-01-15")
+,(190,310,313.85,"TRANSFER","2015-05-15")
+,(441,441,-851.51,"SELF","2012-08-14")
+,(906,980,624.98,"TRANSFER","2014-06-08")
+,(821,275,833.60,"TRANSFER","2015-06-03")
+,(118,370,638.71,"TRANSFER","2015-03-20")
+,(386,543,70.59,"TRANSFER","2016-02-17")
+,(95,407,519.96,"TRANSFER","2012-03-27")
+,(966,148,669.55,"TRANSFER","2014-12-20")
+,(302,302,841.47,"SELF","2013-06-25")
+,(643,236,584.98,"TRANSFER","2016-05-25")
+,(14,14,83.09,"SELF","2013-12-07")
+,(663,855,287.33,"TRANSFER","2014-07-12")
+,(56,250,887.07,"TRANSFER","2014-06-17")
+,(388,388,778.72,"SELF","2013-10-14")
+,(176,176,684.51,"SELF","2015-03-24")
+,(126,958,414.23,"TRANSFER","2012-09-01")
+,(266,921,255.05,"TRANSFER","2013-04-16")
+,(493,888,722.48,"TRANSFER","2012-03-07")
+,(843,843,263.04,"SELF","2013-04-03")
+,(205,990,384.29,"TRANSFER","2014-07-09")
+,(400,400,-610.98,"SELF","2013-07-16")
+,(444,684,441.38,"TRANSFER","2016-09-05")
+,(811,292,435.44,"TRANSFER","2014-12-20")
+,(383,380,277.85,"TRANSFER","2015-10-22")
+,(452,452,-695.87,"SELF","2016-04-09")
+,(390,390,-432.39,"SELF","2014-03-10")
+,(88,88,737.41,"SELF","2015-02-06")
+,(704,704,941.38,"SELF","2012-03-09")
+,(85,719,24.67,"TRANSFER","2012-12-19")
+,(787,896,542.41,"TRANSFER","2015-02-25")
+,(484,484,811.25,"SELF","2016-01-23")
+,(318,803,182.02,"TRANSFER","2015-04-17")
+,(255,893,293.28,"TRANSFER","2016-04-28")
+,(85,205,596.84,"TRANSFER","2013-08-28")
+,(993,993,-842.99,"SELF","2016-11-10")
+,(412,430,55.62,"TRANSFER","2015-04-28")
+,(489,489,321.30,"SELF","2014-02-13")
+,(700,700,144.45,"SELF","2012-06-01")
+,(435,435,-43.40,"SELF","2016-02-18")
+,(2,690,583.03,"TRANSFER","2016-04-24")
+,(389,389,-526.46,"SELF","2012-09-26")
+,(593,573,756.58,"TRANSFER","2014-03-20")
+,(608,98,459.36,"TRANSFER","2014-06-08")
+,(647,598,211.50,"TRANSFER","2016-04-09")
+,(630,630,-878.45,"SELF","2012-11-09")
+,(951,651,395.34,"TRANSFER","2013-06-06")
+,(832,838,436.89,"TRANSFER","2014-08-21")
+,(623,802,308.32,"TRANSFER","2012-01-07")
+,(491,779,66.02,"TRANSFER","2014-03-26")
+,(308,111,395.07,"TRANSFER","2015-01-04")
+,(500,500,42.08,"SELF","2012-07-10")
+,(213,688,692.76,"TRANSFER","2014-01-23")
+,(212,212,116.93,"SELF","2013-05-09")
+,(912,912,27.60,"SELF","2015-12-18")
+,(265,265,-662.96,"SELF","2014-02-16")
+,(623,535,787.25,"TRANSFER","2014-04-05")
+,(113,113,75.81,"SELF","2016-05-03")
+,(452,840,401.82,"TRANSFER","2013-11-02")
+,(26,26,-659.08,"SELF","2013-05-23")
+,(474,975,714.23,"TRANSFER","2015-07-02")
+,(978,865,177.02,"TRANSFER","2012-04-24")
+,(455,455,258.04,"SELF","2012-02-17")
+,(267,22,480.71,"TRANSFER","2014-07-07")
+,(855,855,-896.05,"SELF","2016-09-03")
+,(736,736,-679.25,"SELF","2014-05-03")
+,(119,119,-20.45,"SELF","2015-11-14")
+,(230,217,190.10,"TRANSFER","2013-06-20")
+,(543,978,326.86,"TRANSFER","2014-08-21")
+,(473,706,711.36,"TRANSFER","2016-05-23")
+,(594,594,316.70,"SELF","2012-04-05")
+,(888,450,627.12,"TRANSFER","2016-05-06")
+,(868,868,272.60,"SELF","2016-09-14")
+,(1000,225,351.23,"TRANSFER","2016-03-07")
+,(332,332,-298.62,"SELF","2016-02-24")
+,(474,903,133.18,"TRANSFER","2013-01-22")
+,(603,625,771.20,"TRANSFER","2014-11-06")
+,(342,494,334.10,"TRANSFER","2013-08-18")
+,(41,130,848.70,"TRANSFER","2012-01-02")
+,(600,921,155.55,"TRANSFER","2014-09-05")
+,(110,110,311.29,"SELF","2013-05-05")
+,(781,123,996.38,"TRANSFER","2014-01-27")
+,(955,955,903.25,"SELF","2014-01-22")
+,(605,231,817.77,"TRANSFER","2015-07-07")
+,(897,897,-457.75,"SELF","2015-03-11")
+,(871,64,212.35,"TRANSFER","2013-11-05")
+,(352,58,376.35,"TRANSFER","2016-06-26")
+,(686,645,131.49,"TRANSFER","2016-04-26")
+,(959,959,696.44,"SELF","2014-09-15")
+,(788,380,293.79,"TRANSFER","2016-07-01")
+,(38,172,11.89,"TRANSFER","2015-10-28")
+,(936,798,839.56,"TRANSFER","2013-06-20")
+,(555,555,-105.17,"SELF","2012-08-02")
+,(340,223,639.10,"TRANSFER","2015-10-26")
+,(135,396,243.73,"TRANSFER","2015-05-04")
+,(143,143,619.45,"SELF","2013-05-24")
+,(161,925,736.60,"TRANSFER","2016-02-14")
+,(47,47,-125.99,"SELF","2012-10-03")
+,(717,838,175.58,"TRANSFER","2016-04-07")
+,(340,340,-607.77,"SELF","2013-04-17")
+,(965,87,223.19,"TRANSFER","2012-11-23")
+,(853,853,199.51,"SELF","2016-01-12")
+,(846,485,641.29,"TRANSFER","2013-02-21")
+,(927,55,234.99,"TRANSFER","2013-02-09")
+,(526,355,638.08,"TRANSFER","2016-09-25")
+,(616,616,-122.63,"SELF","2012-10-15")
+,(459,932,180.49,"TRANSFER","2016-11-06")
+,(842,842,-848.20,"SELF","2013-12-17")
+,(267,267,28.99,"SELF","2013-01-15")
+,(231,641,716.79,"TRANSFER","2012-03-20")
+,(523,586,851.44,"TRANSFER","2012-09-08")
+,(165,192,592.61,"TRANSFER","2014-06-18")
+,(914,525,969.86,"TRANSFER","2016-01-08")
+,(607,607,881.56,"SELF","2015-12-13")
+,(954,480,469.45,"TRANSFER","2012-08-18")
+,(125,242,688.02,"TRANSFER","2016-05-18")
+,(282,627,84.99,"TRANSFER","2013-10-05")
+,(903,107,950.83,"TRANSFER","2016-04-02")
+,(917,238,91.34,"TRANSFER","2016-08-01")
+,(468,468,-199.02,"SELF","2013-02-07")
+,(571,108,627.61,"TRANSFER","2012-02-08")
+,(512,282,496.28,"TRANSFER","2015-02-05")
+,(704,229,884.18,"TRANSFER","2015-07-04")
+,(489,861,66.18,"TRANSFER","2013-03-03")
+,(598,598,-792.00,"SELF","2013-07-27")
+,(144,985,274.92,"TRANSFER","2014-07-22")
+,(921,921,-523.60,"SELF","2015-01-22")
+,(758,483,764.94,"TRANSFER","2016-08-04")
+,(664,664,698.89,"SELF","2015-03-16")
+,(543,451,57.09,"TRANSFER","2015-10-13")
+,(596,810,118.49,"TRANSFER","2015-05-07")
+,(240,722,59.71,"TRANSFER","2016-04-12")
+,(895,895,-455.70,"SELF","2013-07-25")
+,(613,613,83.81,"SELF","2014-07-15")
+,(148,681,965.90,"TRANSFER","2015-07-22")
+,(737,737,-784.87,"SELF","2014-09-19")
+,(496,294,262.16,"TRANSFER","2013-07-03")
+,(170,630,38.09,"TRANSFER","2013-01-22")
+,(264,264,584.13,"SELF","2013-04-08")
+,(695,719,480.35,"TRANSFER","2013-02-27")
+,(341,210,620.36,"TRANSFER","2016-10-11")
+,(971,971,246.69,"SELF","2016-07-12")
+,(268,877,595.57,"TRANSFER","2013-11-17")
+,(947,990,739.94,"TRANSFER","2015-01-08")
+,(996,547,925.85,"TRANSFER","2012-12-02")
+,(597,597,666.64,"SELF","2015-03-11")
+,(243,243,151.68,"SELF","2015-07-23")
+,(142,435,101.44,"TRANSFER","2014-09-24")
+,(629,570,445.35,"TRANSFER","2014-05-01")
+,(858,858,49.26,"SELF","2015-09-25")
+,(540,667,421.35,"TRANSFER","2016-01-02")
+,(766,766,-759.65,"SELF","2014-03-16")
+,(456,456,-640.40,"SELF","2016-06-21")
+,(564,564,477.67,"SELF","2015-04-25")
+,(367,471,168.22,"TRANSFER","2013-02-07")
+,(444,444,601.08,"SELF","2016-09-11")
+,(325,325,-477.81,"SELF","2015-07-25")
+,(383,821,726.93,"TRANSFER","2013-06-11")
+,(122,368,264.20,"TRANSFER","2012-04-24")
+,(483,99,382.41,"TRANSFER","2015-06-23")
+,(730,949,245.74,"TRANSFER","2013-10-16")
+,(504,968,392.61,"TRANSFER","2015-02-15")
+,(615,841,354.85,"TRANSFER","2015-02-01")
+,(842,868,969.48,"TRANSFER","2014-10-08")
+,(326,475,75.49,"TRANSFER","2015-03-28")
+,(76,76,923.63,"SELF","2012-09-19")
+,(502,513,142.35,"TRANSFER","2015-10-20")
+,(647,647,503.81,"SELF","2016-08-04")
+,(590,616,127.83,"TRANSFER","2014-04-18")
+,(958,153,849.46,"TRANSFER","2012-07-03")
+,(569,569,-14.77,"SELF","2016-01-19")
+,(893,602,626.10,"TRANSFER","2014-09-13")
+,(758,6,294.75,"TRANSFER","2015-01-05")
+,(394,144,552.17,"TRANSFER","2013-06-07")
+,(646,673,862.51,"TRANSFER","2015-08-10")
+,(448,448,416.93,"SELF","2013-06-07")
+,(820,824,354.10,"TRANSFER","2013-10-27")
+,(726,726,39.08,"SELF","2014-04-19")
+,(632,965,556.15,"TRANSFER","2014-01-22")
+,(354,554,620.36,"TRANSFER","2015-09-15")
+,(875,136,541.90,"TRANSFER","2013-08-15")
+,(970,9,161.59,"TRANSFER","2016-04-23")
+,(802,131,717.15,"TRANSFER","2013-03-06")
+,(75,462,183.64,"TRANSFER","2012-11-12")
+,(796,796,144.03,"SELF","2012-03-24")
+,(230,230,-364.59,"SELF","2012-07-12")
+,(90,360,369.83,"TRANSFER","2014-11-22")
+,(498,498,194.68,"SELF","2014-03-09")
+,(360,725,974.32,"TRANSFER","2012-06-14")
+,(62,62,-957.72,"SELF","2015-04-24")
+,(949,580,705.48,"TRANSFER","2013-02-01")
+,(469,303,975.57,"TRANSFER","2013-03-05")
+,(99,99,82.06,"SELF","2015-12-10")
+,(207,207,-877.59,"SELF","2016-07-16")
+,(821,821,-678.44,"SELF","2014-01-12")
+,(834,972,975.06,"TRANSFER","2012-01-11")
+,(340,340,-537.92,"SELF","2012-03-03")
+,(574,574,-249.47,"SELF","2013-11-23")
+,(277,267,308.47,"TRANSFER","2015-07-09")
+,(813,813,112.80,"SELF","2014-03-23")
+,(170,598,870.50,"TRANSFER","2012-07-02")
+,(383,273,236.42,"TRANSFER","2013-08-24")
+,(884,334,794.87,"TRANSFER","2014-09-20")
+,(630,426,70.95,"TRANSFER","2016-12-20")
+,(693,387,164.73,"TRANSFER","2016-10-24")
+,(982,982,-702.57,"SELF","2013-08-27")
+,(986,493,419.37,"TRANSFER","2014-04-07")
+,(152,486,236.48,"TRANSFER","2016-08-16")
+,(741,238,958.74,"TRANSFER","2012-12-11")
+,(760,2,483.15,"TRANSFER","2013-07-12")
+,(321,893,178.79,"TRANSFER","2012-02-16")
+,(434,941,500.51,"TRANSFER","2014-03-26")
+,(987,987,772.70,"SELF","2012-10-26")
+,(920,609,267.17,"TRANSFER","2015-12-03")
+,(985,847,251.22,"TRANSFER","2012-05-04")
+,(584,131,13.58,"TRANSFER","2015-08-06")
+,(744,744,-578.75,"SELF","2013-10-11")
+,(129,133,297.73,"TRANSFER","2013-08-15")
+,(432,432,292.28,"SELF","2012-11-17")
+,(759,155,491.65,"TRANSFER","2016-10-26")
+,(655,655,-571.01,"SELF","2015-03-24")
+,(919,919,478.63,"SELF","2014-12-24")
+,(284,443,442.71,"TRANSFER","2012-02-13")
+,(892,892,-521.09,"SELF","2012-07-03")
+,(603,603,595.31,"SELF","2016-10-16")
+,(674,674,-990.63,"SELF","2016-09-21")
+,(825,146,202.69,"TRANSFER","2013-02-21")
+,(379,379,424.14,"SELF","2016-08-07")
+,(684,684,876.36,"SELF","2015-12-14")
+,(958,226,321.88,"TRANSFER","2013-01-05")
+,(480,366,840.42,"TRANSFER","2015-05-07")
+,(258,848,509.71,"TRANSFER","2012-10-04")
+,(622,996,961.77,"TRANSFER","2014-12-25")
+,(400,400,-422.32,"SELF","2015-08-01")
+,(126,849,768.16,"TRANSFER","2016-02-04")
+,(524,725,424.09,"TRANSFER","2012-01-18")
+,(450,450,-399.71,"SELF","2013-10-06")
+,(967,22,504.90,"TRANSFER","2013-02-16")
+,(383,383,871.29,"SELF","2014-12-24")
+,(207,207,-927.23,"SELF","2013-05-14")
+,(291,550,566.61,"TRANSFER","2012-06-14")
+,(979,814,579.39,"TRANSFER","2013-11-07")
+,(982,982,-733.31,"SELF","2015-11-17")
+,(796,796,965.58,"SELF","2012-10-26")
+,(204,285,132.54,"TRANSFER","2015-02-18")
+,(33,33,761.76,"SELF","2014-02-17")
+,(508,508,-460.33,"SELF","2014-07-18")
+,(610,464,264.09,"TRANSFER","2014-09-19")
+,(260,866,80.68,"TRANSFER","2015-11-02")
+,(755,3,816.41,"TRANSFER","2014-09-18")
+,(727,727,26.19,"SELF","2012-10-26")
+,(795,643,16.98,"TRANSFER","2015-06-28")
+,(298,298,384.78,"SELF","2014-07-20")
+,(296,452,149.40,"TRANSFER","2016-04-02")
+,(212,294,203.45,"TRANSFER","2016-07-24")
+,(574,251,907.67,"TRANSFER","2016-09-07")
+,(290,723,676.88,"TRANSFER","2012-07-07")
+,(46,547,227.18,"TRANSFER","2012-01-08")
+,(154,154,-766.85,"SELF","2014-04-03")
+,(59,59,-536.69,"SELF","2014-10-04")
+,(322,439,130.98,"TRANSFER","2015-11-14")
+,(233,53,433.30,"TRANSFER","2014-05-10")
+,(926,926,-196.07,"SELF","2015-03-21")
+,(66,151,321.02,"TRANSFER","2012-12-09")
+,(767,568,513.62,"TRANSFER","2013-02-23")
+,(952,896,750.84,"TRANSFER","2016-12-05")
+,(745,745,692.38,"SELF","2013-05-25")
+,(338,164,496.72,"TRANSFER","2015-06-02")
+,(818,466,194.44,"TRANSFER","2014-02-14")
+,(140,164,188.76,"TRANSFER","2012-03-26")
+,(187,134,71.56,"TRANSFER","2012-09-28")
+,(700,940,516.48,"TRANSFER","2016-04-11")
+,(892,956,758.60,"TRANSFER","2014-02-18")
+,(141,141,216.48,"SELF","2014-10-01")
+,(363,313,319.02,"TRANSFER","2015-10-04")
+,(2,731,664.77,"TRANSFER","2013-06-13")
+,(973,871,977.97,"TRANSFER","2014-05-14")
+,(953,953,-240.43,"SELF","2015-07-10")
+,(532,764,154.59,"TRANSFER","2012-12-09")
+,(112,112,-745.52,"SELF","2013-09-05")
+,(671,996,205.98,"TRANSFER","2013-12-07")
+,(869,869,-881.85,"SELF","2012-07-26")
+,(789,789,-417.20,"SELF","2012-12-04")
+,(38,234,171.09,"TRANSFER","2012-04-09")
+,(27,27,50.80,"SELF","2014-03-02")
+,(161,644,951.06,"TRANSFER","2013-08-17")
+,(686,177,439.47,"TRANSFER","2014-04-17")
+,(825,969,247.66,"TRANSFER","2016-03-28")
+,(251,86,688.93,"TRANSFER","2014-09-24")
+,(941,265,308.80,"TRANSFER","2016-07-10")
+,(11,362,947.51,"TRANSFER","2015-02-13")
+,(670,183,582.78,"TRANSFER","2014-05-24")
+,(150,140,190.58,"TRANSFER","2015-01-03")
+,(253,253,-736.38,"SELF","2014-12-10")
+,(840,909,198.99,"TRANSFER","2014-03-23")
+,(789,789,218.83,"SELF","2012-12-04")
+,(650,351,127.85,"TRANSFER","2016-10-11")
+,(818,818,732.48,"SELF","2015-06-08")
+,(858,38,183.23,"TRANSFER","2012-09-17")
+,(198,627,655.38,"TRANSFER","2014-01-04")
+,(918,880,827.34,"TRANSFER","2012-07-27")
+,(937,937,622.05,"SELF","2014-11-04")
+,(621,828,20.98,"TRANSFER","2013-12-10")
+,(971,160,574.39,"TRANSFER","2012-11-10")
+,(4,4,81.51,"SELF","2016-04-06")
+,(330,330,703.97,"SELF","2016-02-26")
+,(932,642,611.57,"TRANSFER","2013-07-27")
+,(499,683,852.44,"TRANSFER","2014-01-08")
+,(837,663,107.67,"TRANSFER","2013-06-15")
+,(505,513,807.89,"TRANSFER","2014-05-27")
+,(883,883,118.46,"SELF","2013-10-04")
+,(55,140,6.81,"TRANSFER","2016-05-02")
+,(713,713,46.94,"SELF","2013-04-27")
+,(112,288,991.90,"TRANSFER","2016-10-28")
+,(765,598,578.47,"TRANSFER","2014-08-07")
+,(748,429,619.24,"TRANSFER","2014-11-15")
+,(196,56,114.48,"TRANSFER","2014-01-07")
+,(390,615,180.77,"TRANSFER","2014-12-12")
+,(996,578,319.18,"TRANSFER","2013-05-20")
+,(956,956,-428.07,"SELF","2015-08-10")
+,(22,22,-875.59,"SELF","2016-09-21")
+,(745,824,963.70,"TRANSFER","2014-06-09")
+,(853,853,460.30,"SELF","2013-11-23")
+,(608,608,960.88,"SELF","2016-05-14")
+,(877,959,562.72,"TRANSFER","2014-01-17")
+,(515,515,698.28,"SELF","2015-05-28")
+,(662,662,524.07,"SELF","2014-01-04")
+,(435,435,-434.47,"SELF","2015-06-24")
+,(831,531,716.70,"TRANSFER","2013-06-14")
+,(857,126,498.92,"TRANSFER","2015-01-01")
+,(413,413,738.78,"SELF","2016-12-07")
+,(64,189,550.66,"TRANSFER","2015-05-15")
+,(78,758,61.67,"TRANSFER","2013-05-10")
+,(464,572,755.92,"TRANSFER","2016-09-25")
+,(93,93,443.97,"SELF","2014-04-19")
+,(826,197,638.50,"TRANSFER","2016-05-09")
+,(906,833,853.35,"TRANSFER","2014-07-08")
+,(833,236,648.25,"TRANSFER","2015-12-01")
+,(72,72,-297.05,"SELF","2012-09-07")
+,(16,16,-911.00,"SELF","2013-03-05")
+,(511,511,788.00,"SELF","2015-10-13")
+,(263,215,387.82,"TRANSFER","2013-12-07")
+,(467,519,357.31,"TRANSFER","2014-10-04")
+,(180,180,191.17,"SELF","2016-09-10")
+,(293,293,543.40,"SELF","2016-05-01")
+,(624,624,-231.27,"SELF","2013-02-27")
+,(779,711,637.76,"TRANSFER","2014-05-03")
+,(152,152,330.95,"SELF","2012-10-24")
+,(776,57,151.10,"TRANSFER","2014-11-14")
+,(739,739,-234.54,"SELF","2013-07-20")
+,(594,560,323.37,"TRANSFER","2015-04-18")
+,(323,323,-640.78,"SELF","2015-11-12")
+,(331,331,677.28,"SELF","2012-06-14")
+,(293,148,771.02,"TRANSFER","2015-02-23")
+,(39,39,-279.66,"SELF","2014-02-04")
+,(574,603,271.28,"TRANSFER","2012-08-06")
+,(626,31,330.29,"TRANSFER","2012-10-03")
+,(774,925,405.51,"TRANSFER","2014-03-23")
+,(661,996,954.58,"TRANSFER","2013-06-27")
+,(477,477,942.05,"SELF","2013-09-18")
+,(721,494,538.61,"TRANSFER","2012-07-26")
+,(678,678,60.70,"SELF","2015-07-18")
+,(462,57,849.05,"TRANSFER","2016-01-22")
+,(943,943,309.61,"SELF","2016-04-08")
+,(85,85,660.66,"SELF","2013-07-01")
+,(10,10,-958.68,"SELF","2015-10-19")
+,(133,580,451.46,"TRANSFER","2013-05-27")
+,(92,125,609.11,"TRANSFER","2012-06-15")
+,(935,150,42.53,"TRANSFER","2012-11-25")
+,(929,522,128.87,"TRANSFER","2016-01-02")
+,(1000,49,7.56,"TRANSFER","2012-02-11")
+,(185,44,862.03,"TRANSFER","2013-01-09")
+,(458,78,569.67,"TRANSFER","2015-04-20")
+,(420,754,17.23,"TRANSFER","2013-05-04")
+,(853,810,917.53,"TRANSFER","2015-01-24")
+,(721,167,178.57,"TRANSFER","2012-05-04")
+,(448,915,722.90,"TRANSFER","2016-12-24")
+,(467,467,587.65,"SELF","2015-08-18")
+,(101,101,128.03,"SELF","2016-07-11")
+,(404,138,590.20,"TRANSFER","2012-09-15")
+,(764,764,-278.19,"SELF","2014-08-20")
+,(695,67,941.11,"TRANSFER","2014-01-20")
+,(114,50,656.56,"TRANSFER","2013-12-24")
+,(130,909,806.65,"TRANSFER","2013-08-27")
+,(711,711,-298.81,"SELF","2015-01-20")
+,(874,870,25.16,"TRANSFER","2015-08-27")
+,(932,932,36.58,"SELF","2016-01-24")
+,(745,745,106.60,"SELF","2016-04-02")
+,(856,856,656.14,"SELF","2015-03-25")
+,(688,816,634.94,"TRANSFER","2015-10-03")
+,(577,577,333.87,"SELF","2016-09-06")
+,(405,405,-35.58,"SELF","2016-07-09")
+,(219,309,10.26,"TRANSFER","2012-11-14")
+,(106,106,131.34,"SELF","2016-08-14")
+,(663,663,-356.22,"SELF","2015-01-16")
+,(82,82,888.50,"SELF","2012-08-25")
+,(167,966,914.51,"TRANSFER","2012-02-21")
+,(608,608,897.34,"SELF","2016-09-04")
+,(901,553,946.50,"TRANSFER","2015-02-19")
+,(32,32,-51.16,"SELF","2013-01-18")
+,(815,815,198.52,"SELF","2013-04-18")
+,(969,969,414.53,"SELF","2015-02-14")
+,(58,58,-429.39,"SELF","2014-07-24")
+,(795,417,711.39,"TRANSFER","2013-06-21")
+,(511,267,595.19,"TRANSFER","2014-04-20")
+,(947,484,368.82,"TRANSFER","2013-10-12")
+,(692,876,836.79,"TRANSFER","2013-10-17")
+,(393,35,509.25,"TRANSFER","2013-04-16")
+,(612,880,24.80,"TRANSFER","2016-05-10")
+,(304,304,409.42,"SELF","2015-07-15")
+,(988,988,902.77,"SELF","2016-07-07")
+,(827,931,356.69,"TRANSFER","2012-10-25")
+,(142,205,56.56,"TRANSFER","2015-07-07")
+,(401,48,389.96,"TRANSFER","2012-04-01")
+,(36,36,679.07,"SELF","2016-04-08")
+,(23,265,452.22,"TRANSFER","2015-12-13")
+,(763,33,374.98,"TRANSFER","2013-07-07")
+,(304,413,308.88,"TRANSFER","2016-03-04")
+,(811,35,249.10,"TRANSFER","2015-09-17")
+,(959,959,-847.54,"SELF","2016-07-10")
+,(373,870,851.11,"TRANSFER","2013-05-21")
+,(583,583,530.99,"SELF","2015-09-09")
+,(117,633,571.70,"TRANSFER","2015-07-08")
+,(195,404,974.39,"TRANSFER","2016-03-08")
+,(282,690,529.75,"TRANSFER","2015-05-26")
+,(209,328,230.83,"TRANSFER","2015-10-21")
+,(860,860,-257.60,"SELF","2013-08-27")
+,(320,320,-38.53,"SELF","2013-05-19")
+,(274,274,-812.39,"SELF","2014-02-20")
+,(224,110,315.31,"TRANSFER","2016-01-02")
+,(523,269,44.00,"TRANSFER","2015-09-21")
+,(689,221,602.27,"TRANSFER","2016-02-15")
+,(650,650,-155.12,"SELF","2016-09-16")
+,(378,378,635.61,"SELF","2015-04-20")
+,(737,819,491.53,"TRANSFER","2015-10-03")
+,(554,258,557.11,"TRANSFER","2016-02-01")
+,(564,349,651.89,"TRANSFER","2016-11-08")
+,(127,84,190.75,"TRANSFER","2016-01-12")
+,(672,672,-699.62,"SELF","2012-02-21")
+,(586,807,425.32,"TRANSFER","2016-05-02")
+,(797,797,640.67,"SELF","2015-12-27")
+,(639,238,884.94,"TRANSFER","2016-05-23")
+,(297,130,977.85,"TRANSFER","2016-12-07")
+,(151,151,-722.78,"SELF","2012-08-26")
+,(971,538,628.22,"TRANSFER","2015-03-09")
+,(899,983,180.84,"TRANSFER","2016-05-01")
+,(904,904,459.59,"SELF","2012-11-01")
+,(387,388,110.33,"TRANSFER","2013-12-12")
+,(543,543,-435.06,"SELF","2014-03-21")
+,(122,122,48.61,"SELF","2016-10-06")
+,(935,674,181.05,"TRANSFER","2016-12-03")
+,(478,779,893.06,"TRANSFER","2016-07-03")
+,(951,351,590.19,"TRANSFER","2012-12-26")
+,(788,12,866.93,"TRANSFER","2012-08-20")
+,(715,715,-329.57,"SELF","2014-04-03")
+,(946,946,937.98,"SELF","2012-07-20")
+,(658,62,563.07,"TRANSFER","2012-09-25")
+,(356,244,275.43,"TRANSFER","2012-03-25")
+,(615,231,19.47,"TRANSFER","2015-10-09")
+,(300,681,182.22,"TRANSFER","2016-11-20")
+,(732,118,15.99,"TRANSFER","2016-12-19")
+,(100,100,-20.23,"SELF","2012-04-05")
+,(324,282,350.81,"TRANSFER","2016-10-15")
+,(115,70,878.98,"TRANSFER","2012-05-02")
+,(93,827,414.75,"TRANSFER","2014-03-14")
+,(373,442,655.39,"TRANSFER","2013-11-06")
+,(257,90,45.61,"TRANSFER","2014-08-09")
+,(846,846,12.23,"SELF","2014-01-06")
+,(875,262,97.80,"TRANSFER","2012-01-26")
+,(962,33,890.22,"TRANSFER","2012-12-24")
+,(248,52,109.20,"TRANSFER","2013-01-06")
+,(404,404,972.14,"SELF","2014-08-04")
+,(871,105,168.36,"TRANSFER","2014-06-18")
+,(885,885,706.84,"SELF","2012-03-20")
+,(375,375,374.84,"SELF","2013-06-07")
+,(555,191,766.50,"TRANSFER","2015-10-13")
+,(690,678,629.75,"TRANSFER","2012-09-13")
+,(556,603,364.32,"TRANSFER","2016-12-26")
+,(494,494,-655.24,"SELF","2014-02-10")
+,(322,633,228.65,"TRANSFER","2015-09-04")
+,(646,646,-428.56,"SELF","2014-02-19")
+,(554,554,-861.19,"SELF","2013-01-14")
+,(302,302,444.09,"SELF","2016-09-24")
+,(259,318,703.91,"TRANSFER","2016-08-11")
+,(535,208,238.50,"TRANSFER","2016-09-25")
+,(706,429,154.42,"TRANSFER","2014-10-17")
+,(612,401,337.16,"TRANSFER","2016-05-09")
+,(88,967,830.99,"TRANSFER","2013-07-11")
+,(794,227,736.23,"TRANSFER","2015-10-28")
+,(58,58,-218.23,"SELF","2014-07-14")
+,(615,615,857.25,"SELF","2014-06-13")
+,(58,3,772.59,"TRANSFER","2013-01-10")
+,(620,910,592.82,"TRANSFER","2013-01-06")
+,(433,758,493.02,"TRANSFER","2012-05-05")
+,(802,140,118.87,"TRANSFER","2016-03-07")
+,(150,680,301.61,"TRANSFER","2014-07-18")
+,(668,668,-379.41,"SELF","2012-08-05")
+,(848,986,25.00,"TRANSFER","2015-10-05")
+,(710,714,252.79,"TRANSFER","2016-07-13")
+,(456,778,314.68,"TRANSFER","2014-12-24")
+,(22,523,596.11,"TRANSFER","2015-06-03")
+,(694,694,777.55,"SELF","2015-07-14")
+,(155,155,-559.26,"SELF","2016-12-27")
+,(810,810,117.44,"SELF","2014-10-05")
+,(546,546,-979.66,"SELF","2016-04-28")
+,(727,727,138.32,"SELF","2015-12-08")
+,(165,816,554.51,"TRANSFER","2012-06-02")
+,(617,617,900.53,"SELF","2014-12-26")
+,(709,191,607.24,"TRANSFER","2012-03-20")
+,(190,213,645.37,"TRANSFER","2014-08-28")
+,(346,183,434.32,"TRANSFER","2013-09-16")
+,(739,739,221.17,"SELF","2016-06-02")
+,(698,797,277.23,"TRANSFER","2013-02-24")
+,(474,474,-504.99,"SELF","2013-01-05")
+,(568,568,506.82,"SELF","2015-09-01")
+,(853,853,244.53,"SELF","2013-02-08")
+,(915,834,278.13,"TRANSFER","2015-07-15")
+,(588,348,558.26,"TRANSFER","2014-06-16")
+,(559,559,-460.71,"SELF","2014-12-01")
+,(202,202,867.10,"SELF","2013-10-14")
+,(389,982,62.74,"TRANSFER","2016-05-20")
+,(367,367,-224.58,"SELF","2016-05-26")
+,(657,657,98.75,"SELF","2012-12-06")
+,(377,811,659.74,"TRANSFER","2012-05-26")
+,(377,179,75.19,"TRANSFER","2016-01-15")
+,(622,318,599.47,"TRANSFER","2015-02-02")
+,(951,964,255.98,"TRANSFER","2016-12-03")
+,(728,728,230.43,"SELF","2014-12-23")
+,(259,49,171.48,"TRANSFER","2013-08-25")
+,(609,609,270.73,"SELF","2015-07-17")
+,(688,688,386.57,"SELF","2012-07-24")
+,(478,478,-254.41,"SELF","2016-07-23")
+,(666,666,-562.28,"SELF","2016-09-23")
+,(621,611,942.52,"TRANSFER","2016-02-11")
+,(221,630,289.38,"TRANSFER","2015-01-05")
+,(720,939,908.09,"TRANSFER","2015-02-08")
+,(233,399,408.84,"TRANSFER","2015-05-12")
+,(81,936,690.08,"TRANSFER","2015-10-05")
+,(865,944,199.31,"TRANSFER","2013-10-28")
+,(519,232,584.32,"TRANSFER","2015-06-19")
+,(153,881,499.25,"TRANSFER","2012-07-07")
+,(280,280,-773.44,"SELF","2012-02-18")
+,(353,80,248.32,"TRANSFER","2012-09-10")
+,(955,921,540.57,"TRANSFER","2015-03-22")
+,(747,747,-832.53,"SELF","2015-09-04")
+,(565,565,-82.17,"SELF","2012-03-24")
+,(63,63,167.74,"SELF","2013-02-11")
+,(246,246,-813.09,"SELF","2016-11-08")
+,(953,681,262.15,"TRANSFER","2014-04-28")
+,(975,764,98.19,"TRANSFER","2015-08-16")
+,(20,612,476.46,"TRANSFER","2016-02-08")
+,(784,498,871.59,"TRANSFER","2013-02-25")
+,(819,819,-291.90,"SELF","2015-03-17")
+,(298,298,287.74,"SELF","2015-06-20")
+,(882,530,594.68,"TRANSFER","2013-11-14")
+,(734,628,489.73,"TRANSFER","2015-03-05")
+,(68,316,830.67,"TRANSFER","2012-05-28")
+,(231,836,294.15,"TRANSFER","2015-03-09")
+,(609,843,529.26,"TRANSFER","2012-03-17")
+,(91,91,-960.50,"SELF","2016-03-19")
+,(185,530,437.38,"TRANSFER","2016-05-12")
+,(283,102,315.55,"TRANSFER","2012-10-03")
+,(783,613,957.59,"TRANSFER","2014-09-25")
+,(482,755,967.00,"TRANSFER","2015-06-17")
+,(455,705,749.58,"TRANSFER","2012-11-24")
+,(856,109,818.47,"TRANSFER","2012-08-04")
+,(561,901,844.72,"TRANSFER","2012-03-04")
+,(209,171,47.41,"TRANSFER","2013-07-25")
+,(955,242,550.32,"TRANSFER","2016-07-14")
+,(318,169,749.16,"TRANSFER","2014-05-08")
+,(444,364,356.23,"TRANSFER","2012-02-16")
+,(637,110,795.79,"TRANSFER","2013-06-16")
+,(346,48,69.75,"TRANSFER","2012-07-01")
+,(392,392,641.22,"SELF","2013-09-12")
+,(427,462,141.41,"TRANSFER","2013-02-18")
+,(87,985,550.99,"TRANSFER","2015-05-21")
+,(827,1000,189.10,"TRANSFER","2013-07-21")
+,(392,392,-521.60,"SELF","2012-12-06")
+,(103,103,-254.63,"SELF","2012-04-06")
+,(951,493,269.81,"TRANSFER","2015-07-25")
+,(548,508,487.46,"TRANSFER","2016-11-18")
+,(181,181,19.96,"SELF","2013-09-15")
+,(867,867,259.07,"SELF","2015-02-03")
+,(26,603,237.80,"TRANSFER","2013-02-26")
+,(144,144,-734.29,"SELF","2016-08-04")
+,(519,519,-954.55,"SELF","2013-03-18")
+,(406,437,698.08,"TRANSFER","2013-04-08")
+,(206,381,161.09,"TRANSFER","2012-05-09")
+,(81,719,687.15,"TRANSFER","2012-10-19")
+,(483,672,960.51,"TRANSFER","2015-09-06")
+,(156,156,435.44,"SELF","2014-01-04")
+,(11,270,911.74,"TRANSFER","2016-12-27")
+,(233,233,-528.75,"SELF","2013-05-08")
+,(354,81,591.95,"TRANSFER","2012-05-21")
+,(544,496,510.03,"TRANSFER","2014-08-24")
+,(321,828,838.41,"TRANSFER","2013-06-28")
+,(938,528,281.94,"TRANSFER","2012-11-14")
+,(115,592,714.09,"TRANSFER","2013-10-25")
+,(278,278,338.73,"SELF","2016-09-21")
+,(501,445,837.58,"TRANSFER","2012-01-04")
+,(36,772,802.53,"TRANSFER","2012-08-16")
+,(797,459,489.03,"TRANSFER","2013-10-11")
+,(292,1000,486.80,"TRANSFER","2015-04-26")
+,(877,415,969.32,"TRANSFER","2012-11-28")
+,(597,172,852.88,"TRANSFER","2015-08-13")
+,(713,713,-193.46,"SELF","2015-10-26")
+,(64,64,-349.64,"SELF","2014-08-26")
+,(598,598,973.41,"SELF","2016-07-21")
+,(789,804,270.07,"TRANSFER","2014-05-19")
+,(424,843,652.74,"TRANSFER","2013-09-22")
+,(486,873,850.87,"TRANSFER","2015-01-17")
+,(588,588,-888.13,"SELF","2013-11-19")
+,(316,681,493.99,"TRANSFER","2012-02-13")
+,(874,874,-601.02,"SELF","2015-07-27")
+,(343,343,-971.13,"SELF","2012-10-05")
+,(657,234,288.24,"TRANSFER","2016-06-07")
+,(369,321,411.31,"TRANSFER","2012-10-16")
+,(183,868,587.75,"TRANSFER","2014-12-24")
+,(797,596,150.68,"TRANSFER","2015-07-11")
+,(734,282,223.23,"TRANSFER","2012-06-02")
+,(983,983,-275.68,"SELF","2016-11-04")
+,(461,103,297.85,"TRANSFER","2016-07-11")
+,(105,105,332.46,"SELF","2013-02-25")
+,(389,372,843.27,"TRANSFER","2013-09-24")
+,(119,119,-555.92,"SELF","2014-10-22")
+,(452,452,-806.80,"SELF","2015-07-21")
+,(862,799,584.48,"TRANSFER","2012-12-04")
+,(283,925,452.56,"TRANSFER","2012-05-15")
+,(326,326,-366.74,"SELF","2012-07-25")
+,(814,226,29.12,"TRANSFER","2015-12-07")
+,(428,328,208.60,"TRANSFER","2016-01-12")
+,(331,331,-683.72,"SELF","2012-06-08")
+,(973,602,756.77,"TRANSFER","2015-10-03")
+,(481,481,-119.36,"SELF","2016-10-19")
+,(352,352,-590.08,"SELF","2014-07-07")
+,(944,944,-225.47,"SELF","2016-09-16")
+,(491,491,-645.87,"SELF","2014-06-20")
+,(728,426,761.19,"TRANSFER","2012-07-19")
+,(452,625,556.11,"TRANSFER","2014-06-24")
+,(818,754,619.57,"TRANSFER","2013-02-25")
+,(397,397,47.92,"SELF","2012-02-22")
+,(702,702,939.45,"SELF","2014-05-28")
+,(37,37,-385.60,"SELF","2013-02-19")
+,(173,173,252.41,"SELF","2014-01-17")
+,(672,760,737.20,"TRANSFER","2013-03-24")
+,(545,545,-5.73,"SELF","2012-02-12")
+,(753,513,557.49,"TRANSFER","2012-02-04")
+,(552,29,418.50,"TRANSFER","2016-10-16")
+,(86,86,-581.06,"SELF","2015-07-07")
+,(532,532,215.88,"SELF","2012-04-17")
+,(919,780,544.39,"TRANSFER","2015-08-02")
+,(871,465,756.22,"TRANSFER","2016-01-04")
+,(402,317,633.33,"TRANSFER","2014-12-04")
+,(260,592,658.25,"TRANSFER","2016-05-06")
+,(973,101,503.41,"TRANSFER","2012-09-11")
+,(454,199,390.68,"TRANSFER","2016-12-13")
+,(662,408,317.10,"TRANSFER","2014-09-23")
+,(987,987,-329.44,"SELF","2016-01-01")
+,(956,956,-941.62,"SELF","2013-03-12")
+,(585,952,823.03,"TRANSFER","2015-10-11")
+,(959,946,501.45,"TRANSFER","2013-12-09")
+,(673,673,977.69,"SELF","2014-01-13")
+,(356,326,901.51,"TRANSFER","2016-09-28")
+,(8,8,628.10,"SELF","2014-07-11")
+,(120,123,829.29,"TRANSFER","2014-10-19")
+,(422,983,193.31,"TRANSFER","2014-06-17")
+,(456,456,653.66,"SELF","2015-09-14")
+,(346,97,453.04,"TRANSFER","2013-09-20")
+,(640,982,193.11,"TRANSFER","2015-03-19")
+,(674,57,356.24,"TRANSFER","2013-12-03")
+,(798,846,957.43,"TRANSFER","2015-12-15")
+,(722,99,371.22,"TRANSFER","2012-08-21")
+,(126,126,-717.64,"SELF","2012-08-13")
+,(353,353,-888.11,"SELF","2016-06-11")
+,(561,702,268.03,"TRANSFER","2016-05-03")
+,(202,202,386.76,"SELF","2012-11-16")
+,(847,847,530.73,"SELF","2014-10-16")
+,(424,474,106.18,"TRANSFER","2012-12-16")
+,(146,436,974.47,"TRANSFER","2015-01-08")
+,(595,476,361.47,"TRANSFER","2015-06-25")
+,(505,168,120.40,"TRANSFER","2012-03-25")
+,(914,705,534.91,"TRANSFER","2015-08-19")
+,(940,277,829.99,"TRANSFER","2014-05-18")
+,(766,719,723.13,"TRANSFER","2014-12-18")
+,(399,399,-543.75,"SELF","2016-12-13")
+,(70,70,658.85,"SELF","2012-06-03")
+,(116,806,688.64,"TRANSFER","2016-12-22")
+,(820,820,-458.42,"SELF","2014-04-09")
+,(721,649,373.30,"TRANSFER","2016-01-13")
+,(11,11,-151.15,"SELF","2012-04-06")
+,(120,120,-222.65,"SELF","2016-12-20")
+,(711,999,550.60,"TRANSFER","2014-10-18")
+,(580,580,845.05,"SELF","2014-05-08")
+,(880,568,684.29,"TRANSFER","2012-07-18")
+,(699,699,-558.78,"SELF","2016-08-17")
+,(483,692,354.95,"TRANSFER","2013-10-26")
+,(223,675,873.15,"TRANSFER","2016-11-04")
+,(393,931,423.10,"TRANSFER","2012-03-09")
+,(634,570,233.64,"TRANSFER","2014-11-21")
+,(177,177,448.46,"SELF","2015-08-28")
+,(309,354,529.48,"TRANSFER","2016-04-07")
+,(107,846,988.28,"TRANSFER","2014-06-27")
+,(660,660,57.93,"SELF","2016-03-03")
+,(837,930,564.92,"TRANSFER","2014-03-27")
+,(985,985,-92.58,"SELF","2015-09-12")
+,(809,809,-894.23,"SELF","2013-01-20")
+,(789,526,130.79,"TRANSFER","2016-01-20")
+,(941,941,215.59,"SELF","2013-12-22")
+,(430,736,46.63,"TRANSFER","2014-12-17")
+,(596,421,542.50,"TRANSFER","2015-08-05")
+,(350,348,138.07,"TRANSFER","2013-08-04")
+,(915,915,-985.66,"SELF","2012-04-09")
+,(490,490,240.32,"SELF","2015-03-16")
+,(522,639,196.77,"TRANSFER","2013-02-04")
+,(5,661,493.03,"TRANSFER","2013-10-15")
+,(726,726,302.21,"SELF","2015-06-20")
+,(660,931,91.96,"TRANSFER","2015-08-11")
+,(267,297,187.30,"TRANSFER","2015-08-01")
+,(963,118,931.67,"TRANSFER","2015-10-10")
+,(333,237,893.00,"TRANSFER","2015-11-03")
+,(499,725,92.51,"TRANSFER","2015-09-04")
+,(893,893,-864.82,"SELF","2014-05-26")
+,(722,261,750.72,"TRANSFER","2013-12-27")
+,(946,946,-837.79,"SELF","2014-09-18")
+,(49,263,537.84,"TRANSFER","2013-12-10")
+,(907,97,110.67,"TRANSFER","2013-11-02")
+,(759,198,995.40,"TRANSFER","2013-11-04")
+,(139,674,682.34,"TRANSFER","2012-12-24")
+,(347,347,647.23,"SELF","2016-07-20")
+,(638,666,325.81,"TRANSFER","2014-01-25")
+,(63,766,956.92,"TRANSFER","2012-03-25")
+,(75,581,527.82,"TRANSFER","2016-05-25")
+,(695,449,191.54,"TRANSFER","2012-10-22")
+,(725,725,-670.58,"SELF","2016-10-15")
+,(522,120,118.01,"TRANSFER","2016-10-13")
+,(311,813,512.60,"TRANSFER","2013-07-15")
+,(513,819,26.38,"TRANSFER","2012-03-27")
+,(185,680,508.47,"TRANSFER","2012-10-06")
+,(713,843,768.49,"TRANSFER","2016-03-23")
+,(360,360,348.27,"SELF","2012-05-25")
+,(795,795,-685.93,"SELF","2013-06-03")
+,(889,105,427.44,"TRANSFER","2013-11-11")
+,(672,970,947.49,"TRANSFER","2012-11-21")
+,(406,173,223.75,"TRANSFER","2014-07-11")
+,(448,106,402.97,"TRANSFER","2013-08-22")
+,(359,359,558.19,"SELF","2015-05-06")
+,(704,811,826.93,"TRANSFER","2012-07-13")
+,(801,801,-811.39,"SELF","2016-02-16")
+,(24,24,-150.08,"SELF","2015-01-02")
+,(163,130,444.91,"TRANSFER","2015-02-27")
+,(553,901,68.72,"TRANSFER","2015-04-28")
+,(445,355,871.62,"TRANSFER","2016-07-23")
+,(987,456,680.98,"TRANSFER","2012-10-28")
+,(280,135,424.27,"TRANSFER","2016-07-09")
+,(993,993,-496.11,"SELF","2015-10-23")
+,(491,491,223.30,"SELF","2013-11-09")
+,(976,58,445.12,"TRANSFER","2012-10-04")
+,(12,26,23.18,"TRANSFER","2014-12-19")
+,(119,119,909.57,"SELF","2012-07-03")
+,(293,293,37.05,"SELF","2015-06-28")
+,(309,551,225.94,"TRANSFER","2015-05-01")
+,(8,751,830.54,"TRANSFER","2014-04-12")
+,(85,196,982.06,"TRANSFER","2013-04-17")
+,(57,327,502.92,"TRANSFER","2016-03-05")
+,(489,212,30.98,"TRANSFER","2012-05-24")
+,(553,646,901.17,"TRANSFER","2014-04-08")
+,(433,964,229.19,"TRANSFER","2016-06-22")
+,(486,486,-305.78,"SELF","2015-09-08")
+,(100,270,90.18,"TRANSFER","2012-10-27")
+,(765,994,783.29,"TRANSFER","2012-05-09")
+,(952,873,870.48,"TRANSFER","2013-03-12")
+,(461,541,822.77,"TRANSFER","2013-07-17")
+,(401,478,732.17,"TRANSFER","2012-10-19")
+,(970,970,-740.65,"SELF","2015-03-06")
+,(457,770,82.95,"TRANSFER","2016-12-01")
+,(555,555,294.45,"SELF","2015-11-17")
+,(331,582,413.77,"TRANSFER","2012-04-20")
+,(860,860,34.30,"SELF","2015-05-13")
+,(125,816,476.04,"TRANSFER","2013-02-11")
+,(90,90,-237.45,"SELF","2013-07-20")
+,(385,385,-997.60,"SELF","2013-04-01")
+,(100,797,676.99,"TRANSFER","2012-10-01")
+,(541,54,498.67,"TRANSFER","2016-06-28")
+,(828,578,438.94,"TRANSFER","2016-07-17")
+,(287,986,828.77,"TRANSFER","2016-12-09")
+,(585,323,207.82,"TRANSFER","2012-04-06")
+,(525,525,-918.75,"SELF","2016-10-26")
+,(978,396,338.28,"TRANSFER","2015-11-06")
+,(189,595,490.84,"TRANSFER","2012-04-16")
+,(261,954,415.28,"TRANSFER","2013-05-04")
+,(144,202,694.83,"TRANSFER","2013-09-18")
+,(763,763,822.36,"SELF","2016-08-10")
+,(8,8,346.25,"SELF","2013-02-02")
+,(754,818,360.64,"TRANSFER","2013-02-06")
+,(410,725,585.16,"TRANSFER","2016-07-28")
+,(628,166,323.08,"TRANSFER","2012-10-07")
+,(536,536,-736.78,"SELF","2012-11-24")
+,(121,121,-880.75,"SELF","2015-02-15")
+,(253,481,802.89,"TRANSFER","2016-04-21")
+,(282,995,318.87,"TRANSFER","2016-07-11")
+,(912,471,643.15,"TRANSFER","2013-03-28")
+,(155,622,628.62,"TRANSFER","2013-12-16")
+,(288,288,276.97,"SELF","2016-06-13")
+,(127,779,553.99,"TRANSFER","2015-04-24")
+,(606,47,962.81,"TRANSFER","2016-08-06")
+,(820,820,-468.14,"SELF","2015-07-19")
+,(899,438,489.80,"TRANSFER","2014-08-10")
+,(764,675,820.01,"TRANSFER","2015-05-05")
+,(228,228,90.18,"SELF","2013-02-17")
+,(427,828,62.72,"TRANSFER","2016-10-04")
+,(81,81,916.18,"SELF","2015-06-17")
+,(350,565,65.79,"TRANSFER","2016-04-22")
+,(509,862,24.07,"TRANSFER","2015-04-15")
+,(511,542,953.61,"TRANSFER","2014-09-22")
+,(932,932,425.41,"SELF","2012-12-10")
+,(299,771,804.11,"TRANSFER","2016-04-24")
+,(990,990,-387.27,"SELF","2016-07-12")
+,(399,213,381.11,"TRANSFER","2013-07-10")
+,(935,648,329.76,"TRANSFER","2013-07-06")
+,(323,323,-21.52,"SELF","2016-05-06")
+,(698,677,891.78,"TRANSFER","2012-11-26")
+,(122,122,373.67,"SELF","2016-01-21")
+,(543,861,178.78,"TRANSFER","2014-03-25")
+,(592,328,964.25,"TRANSFER","2016-03-07")
+,(71,71,-893.63,"SELF","2016-11-23")
+,(588,588,-285.39,"SELF","2013-07-26")
+,(264,29,832.06,"TRANSFER","2013-08-21")
+,(163,337,899.07,"TRANSFER","2015-09-17")
+,(787,186,249.91,"TRANSFER","2013-11-24")
+,(538,532,54.51,"TRANSFER","2014-07-16")
+,(854,682,367.77,"TRANSFER","2015-06-18")
+,(833,871,933.36,"TRANSFER","2012-10-27")
+,(995,995,-402.43,"SELF","2012-12-16")
+,(161,161,-798.29,"SELF","2014-09-26")
+,(291,291,601.70,"SELF","2016-11-05")
+,(472,526,872.14,"TRANSFER","2016-06-25")
+,(635,635,-501.08,"SELF","2016-12-17")
+,(209,209,-540.27,"SELF","2013-08-28")
+,(968,719,884.29,"TRANSFER","2015-03-07")
+,(216,216,81.36,"SELF","2012-06-08")
+,(242,242,481.05,"SELF","2013-10-10")
+,(549,953,585.09,"TRANSFER","2015-03-28")
+,(736,582,26.93,"TRANSFER","2013-04-10")
+,(181,181,-392.21,"SELF","2013-03-17")
+,(815,834,106.36,"TRANSFER","2014-07-10")
+,(652,669,333.94,"TRANSFER","2014-07-18")
+,(673,392,672.89,"TRANSFER","2012-09-06")
+,(416,299,126.22,"TRANSFER","2014-11-02")
+,(554,554,-840.56,"SELF","2016-03-01")
+,(627,627,644.07,"SELF","2014-04-26")
+,(389,389,-1000.10,"SELF","2016-11-28")
+,(927,865,768.93,"TRANSFER","2013-11-02")
+,(967,481,755.04,"TRANSFER","2014-01-01")
+,(792,340,331.91,"TRANSFER","2016-06-03")
+,(124,124,-711.16,"SELF","2016-07-17")
+,(132,277,807.29,"TRANSFER","2013-10-19")
+,(778,484,660.84,"TRANSFER","2013-09-23")
+,(52,52,-452.79,"SELF","2013-08-08")
+,(66,66,269.00,"SELF","2016-07-17")
+,(937,18,413.97,"TRANSFER","2012-12-06")
+,(318,415,691.54,"TRANSFER","2016-06-11")
+,(570,512,143.24,"TRANSFER","2014-05-02")
+,(498,261,659.68,"TRANSFER","2016-05-19")
+,(305,36,952.12,"TRANSFER","2015-12-14")
+,(904,904,347.24,"SELF","2012-05-05")
+,(833,25,305.40,"TRANSFER","2016-09-06")
+,(866,500,449.82,"TRANSFER","2015-11-11")
+,(348,363,668.92,"TRANSFER","2013-08-17")
+,(106,400,901.57,"TRANSFER","2016-02-24")
+,(679,444,963.22,"TRANSFER","2016-10-28")
+,(814,814,277.72,"SELF","2012-05-19")
+,(783,38,43.70,"TRANSFER","2013-03-14")
+,(874,546,529.61,"TRANSFER","2012-03-28")
+,(766,766,899.53,"SELF","2015-10-26")
+,(51,986,231.88,"TRANSFER","2013-09-26")
+,(797,797,-918.62,"SELF","2014-06-11")
+,(575,453,415.16,"TRANSFER","2014-01-21")
+,(116,983,11.29,"TRANSFER","2012-10-14")
+,(628,410,930.33,"TRANSFER","2014-06-11")
+,(675,675,649.77,"SELF","2015-07-16")
+,(429,644,275.41,"TRANSFER","2013-08-16")
+,(686,994,869.20,"TRANSFER","2016-02-02")
+,(519,531,558.46,"TRANSFER","2014-09-04")
+,(648,648,-172.05,"SELF","2012-09-15")
+,(128,128,-161.96,"SELF","2014-04-02")
+,(791,822,992.03,"TRANSFER","2014-07-06")
+,(286,646,433.08,"TRANSFER","2012-10-02")
+,(625,479,693.00,"TRANSFER","2013-10-26")
+,(694,38,770.86,"TRANSFER","2016-12-07")
+,(721,813,126.65,"TRANSFER","2014-09-06")
+,(946,998,642.37,"TRANSFER","2013-07-09")
+,(458,295,224.62,"TRANSFER","2015-02-25")
+,(944,938,332.40,"TRANSFER","2014-08-05")
+,(237,169,201.27,"TRANSFER","2013-07-09")
+,(359,88,446.26,"TRANSFER","2014-02-07")
+,(146,146,-862.71,"SELF","2015-05-22")
+,(82,82,100.10,"SELF","2012-06-17")
+,(511,511,-294.77,"SELF","2012-09-10")
+,(781,781,973.32,"SELF","2015-09-18")
+,(863,595,45.21,"TRANSFER","2012-05-13")
+,(348,348,-658.43,"SELF","2016-05-26")
+,(835,533,27.83,"TRANSFER","2014-05-10")
+,(10,490,919.60,"TRANSFER","2013-10-08")
+,(448,46,762.34,"TRANSFER","2013-02-24")
+,(438,765,452.25,"TRANSFER","2016-04-21")
+,(869,816,927.53,"TRANSFER","2014-07-28")
+,(667,667,944.70,"SELF","2014-03-25")
+,(923,389,878.55,"TRANSFER","2012-12-17")
+,(52,946,637.18,"TRANSFER","2012-01-01")
+,(953,507,331.57,"TRANSFER","2015-07-19")
+,(351,351,120.69,"SELF","2012-03-07")
+,(968,968,553.49,"SELF","2013-01-16")
+,(569,569,-932.78,"SELF","2016-02-06")
+,(958,739,330.97,"TRANSFER","2014-02-26")
+,(425,107,794.23,"TRANSFER","2016-01-19")
+,(106,797,71.71,"TRANSFER","2016-11-26")
+,(486,450,830.78,"TRANSFER","2012-09-10")
+,(220,220,-318.78,"SELF","2013-11-12")
+,(588,977,696.30,"TRANSFER","2013-02-14")
+,(986,136,448.34,"TRANSFER","2016-11-19")
+,(477,477,-824.71,"SELF","2012-06-01")
+,(662,561,59.30,"TRANSFER","2012-11-25")
+,(92,390,364.96,"TRANSFER","2012-06-17")
+,(298,298,-987.20,"SELF","2014-08-03")
+,(883,883,-796.90,"SELF","2016-09-14")
+,(412,412,721.91,"SELF","2014-03-20")
+,(340,340,89.16,"SELF","2016-08-01")
+,(746,746,-489.53,"SELF","2015-07-21")
+,(318,545,480.19,"TRANSFER","2015-02-11")
+,(295,186,71.81,"TRANSFER","2014-08-08")
+,(740,68,259.24,"TRANSFER","2012-10-06")
+,(99,99,-486.93,"SELF","2012-10-05")
+,(389,895,323.19,"TRANSFER","2012-06-12")
+,(369,877,298.95,"TRANSFER","2012-11-14")
+,(466,466,910.13,"SELF","2015-12-14")
+,(716,87,330.52,"TRANSFER","2016-03-21")
+,(521,642,273.10,"TRANSFER","2015-12-09")
+,(140,640,929.11,"TRANSFER","2012-11-13")
+,(434,570,800.42,"TRANSFER","2013-01-17")
+,(439,765,332.56,"TRANSFER","2013-12-04")
+,(297,377,131.85,"TRANSFER","2012-03-18")
+,(909,901,634.21,"TRANSFER","2015-08-21")
+,(960,960,812.67,"SELF","2015-05-02")
+,(78,78,-837.39,"SELF","2015-01-25")
+,(533,757,405.96,"TRANSFER","2014-03-28")
+,(982,982,-720.09,"SELF","2014-11-05")
+,(979,979,533.18,"SELF","2015-09-10")
+,(803,862,518.19,"TRANSFER","2012-02-10")
+,(566,997,855.28,"TRANSFER","2016-04-21")
+,(962,962,894.71,"SELF","2012-08-03")
+,(182,585,985.11,"TRANSFER","2012-01-24")
+,(615,99,234.59,"TRANSFER","2012-07-24")
+,(759,482,390.87,"TRANSFER","2012-03-26")
+,(977,977,-382.04,"SELF","2014-01-15")
+,(27,124,960.34,"TRANSFER","2014-08-23")
+,(631,390,456.41,"TRANSFER","2012-10-11")
+,(970,970,615.68,"SELF","2014-04-01")
+,(583,223,689.21,"TRANSFER","2014-06-22")
+,(958,671,762.93,"TRANSFER","2012-04-06")
+,(570,226,383.46,"TRANSFER","2016-11-24")
+,(156,156,280.62,"SELF","2015-02-21")
+,(262,262,-886.10,"SELF","2012-05-26")
+,(348,348,-518.59,"SELF","2013-10-25")
+,(197,855,160.75,"TRANSFER","2016-10-01")
+,(771,771,466.91,"SELF","2014-09-23")
+,(48,48,156.92,"SELF","2013-10-12")
+,(30,404,122.27,"TRANSFER","2014-07-02")
+,(867,867,-759.16,"SELF","2012-10-14")
+,(620,620,-76.67,"SELF","2014-02-05")
+,(669,887,71.21,"TRANSFER","2016-05-28")
+,(827,827,159.16,"SELF","2013-04-11")
+,(559,559,551.12,"SELF","2016-10-23")
+,(154,266,902.19,"TRANSFER","2015-06-23")
+,(438,247,157.03,"TRANSFER","2013-10-24")
+,(98,98,-443.26,"SELF","2013-06-14")
+,(226,777,271.44,"TRANSFER","2016-06-26")
+,(579,18,914.39,"TRANSFER","2013-11-09")
+,(274,205,580.59,"TRANSFER","2013-04-04")
+,(810,810,-520.79,"SELF","2015-02-06")
+,(960,960,109.85,"SELF","2015-08-20")
+,(518,518,-465.80,"SELF","2014-06-12")
+,(843,345,284.71,"TRANSFER","2013-05-18")
+,(243,108,652.86,"TRANSFER","2014-05-14")
+,(181,933,136.84,"TRANSFER","2014-10-10")
+,(253,471,720.76,"TRANSFER","2013-06-23")
+,(687,687,763.06,"SELF","2012-05-22")
+,(447,429,463.84,"TRANSFER","2012-12-03")
+,(643,643,-736.91,"SELF","2015-08-06")
+,(386,386,-439.91,"SELF","2014-04-01")
+,(451,634,521.18,"TRANSFER","2014-04-22")
+,(216,216,938.46,"SELF","2016-02-21")
+,(499,747,685.00,"TRANSFER","2013-11-05")
+,(249,311,380.27,"TRANSFER","2014-01-17")
+,(183,183,985.25,"SELF","2016-08-16")
+,(537,537,-618.45,"SELF","2012-02-10")
+,(343,56,233.10,"TRANSFER","2015-04-16")
+,(379,379,367.84,"SELF","2015-10-20")
+,(171,377,749.18,"TRANSFER","2015-12-02")
+,(234,234,-376.72,"SELF","2013-07-10")
+,(809,498,276.63,"TRANSFER","2016-04-02")
+,(886,536,505.62,"TRANSFER","2013-06-11")
+,(723,670,530.14,"TRANSFER","2012-10-14")
+,(95,95,-621.23,"SELF","2013-03-03")
+,(347,347,691.56,"SELF","2014-04-11")
+,(679,679,-887.58,"SELF","2012-10-04")
+,(989,989,320.51,"SELF","2013-03-27")
+,(236,236,-724.63,"SELF","2016-10-11")
+,(999,719,180.82,"TRANSFER","2012-01-16")
+,(974,974,-869.70,"SELF","2014-06-14")
+,(470,529,745.93,"TRANSFER","2012-11-27")
+,(994,86,713.76,"TRANSFER","2012-12-06")
+,(804,237,316.00,"TRANSFER","2016-10-21")
+,(229,229,-924.67,"SELF","2013-05-03")
+,(247,676,824.44,"TRANSFER","2012-08-12")
+,(385,385,66.84,"SELF","2016-10-09")
+,(109,109,100.85,"SELF","2012-11-11")
+,(63,571,108.26,"TRANSFER","2016-03-16")
+,(14,851,404.24,"TRANSFER","2016-12-12")
+,(266,266,754.53,"SELF","2013-04-13")
+,(528,773,437.80,"TRANSFER","2012-02-09")
+,(745,745,750.73,"SELF","2016-11-24")
+,(192,192,113.81,"SELF","2014-08-25")
+,(319,725,654.87,"TRANSFER","2013-05-04")
+,(814,800,606.89,"TRANSFER","2016-02-20")
+,(281,351,787.69,"TRANSFER","2012-07-26")
+,(903,903,123.93,"SELF","2015-08-20")
+,(440,973,115.40,"TRANSFER","2016-07-01")
+,(153,190,35.91,"TRANSFER","2016-04-08")
+,(930,835,113.79,"TRANSFER","2013-10-08")
+,(121,793,316.21,"TRANSFER","2016-05-20")
+,(902,221,690.68,"TRANSFER","2016-01-27")
+,(261,751,323.64,"TRANSFER","2014-02-19")
+,(680,914,8.99,"TRANSFER","2016-07-28")
+,(526,555,933.04,"TRANSFER","2015-06-22")
+,(684,73,32.65,"TRANSFER","2014-02-02")
+,(60,60,269.30,"SELF","2015-12-24")
+,(563,52,631.73,"TRANSFER","2016-07-10")
+,(721,68,582.52,"TRANSFER","2012-09-04")
+,(811,248,67.45,"TRANSFER","2012-06-07")
+,(777,547,680.11,"TRANSFER","2016-11-14")
+,(335,335,559.65,"SELF","2012-09-11")
+,(869,869,-596.98,"SELF","2016-03-09")
+,(976,336,421.68,"TRANSFER","2015-05-28")
+,(433,197,921.45,"TRANSFER","2016-11-24")
+,(479,847,663.70,"TRANSFER","2013-04-28")
+,(712,226,90.93,"TRANSFER","2014-09-03")
+,(511,201,220.32,"TRANSFER","2012-08-13")
+,(812,812,-224.30,"SELF","2012-05-07")
+,(316,316,-808.91,"SELF","2016-10-03")
+,(984,984,-580.88,"SELF","2013-11-19")
+,(664,903,318.30,"TRANSFER","2016-09-09")
+,(739,978,756.74,"TRANSFER","2013-11-09")
+,(603,183,375.61,"TRANSFER","2016-08-07")
+,(332,332,-506.71,"SELF","2013-10-05")
+,(612,612,-126.80,"SELF","2013-04-09")
+,(862,251,281.05,"TRANSFER","2012-06-20")
+,(545,647,474.04,"TRANSFER","2016-02-22")
+,(829,598,697.75,"TRANSFER","2016-09-23")
+,(554,554,-658.70,"SELF","2012-07-01")
+,(259,259,-479.83,"SELF","2012-11-23")
+,(206,190,756.25,"TRANSFER","2013-09-07")
+,(403,403,572.99,"SELF","2013-10-11")
+,(917,738,147.39,"TRANSFER","2016-11-15")
+,(821,296,619.62,"TRANSFER","2015-05-13")
+,(645,136,529.71,"TRANSFER","2013-03-23")
+,(897,897,986.48,"SELF","2012-11-07")
+,(853,412,33.35,"TRANSFER","2012-11-06")
+,(12,12,472.66,"SELF","2014-08-02")
+,(838,838,670.57,"SELF","2013-12-17")
+,(87,87,823.58,"SELF","2012-07-18")
+,(748,720,881.56,"TRANSFER","2013-10-03")
+,(13,13,-498.78,"SELF","2014-09-08")
+,(943,892,119.84,"TRANSFER","2013-11-28")
+,(907,9,367.70,"TRANSFER","2013-12-15")
+,(82,672,128.81,"TRANSFER","2014-06-17")
+,(371,371,-33.88,"SELF","2012-05-25")
+,(5,5,-895.03,"SELF","2013-04-14")
+,(300,405,732.38,"TRANSFER","2013-02-03")
+,(366,366,57.13,"SELF","2015-04-12")
+,(251,312,135.93,"TRANSFER","2016-07-05")
+,(14,294,672.03,"TRANSFER","2014-06-09")
+,(263,195,863.27,"TRANSFER","2014-08-27")
+,(802,500,987.19,"TRANSFER","2012-02-01")
+,(113,700,873.64,"TRANSFER","2014-01-14")
+,(52,52,986.04,"SELF","2014-01-23")
+,(997,268,886.00,"TRANSFER","2016-06-06")
+,(508,409,671.09,"TRANSFER","2014-10-16")
+,(634,634,986.75,"SELF","2013-01-03")
+,(264,921,63.65,"TRANSFER","2012-04-03")
+,(443,280,486.72,"TRANSFER","2012-03-08")
+,(82,82,-347.02,"SELF","2013-08-25")
+,(297,743,429.83,"TRANSFER","2012-04-11")
+,(681,213,417.45,"TRANSFER","2015-09-03")
+,(575,575,795.11,"SELF","2016-05-14")
+,(781,283,899.07,"TRANSFER","2012-12-19")
+,(429,429,791.04,"SELF","2014-04-20")
+,(590,590,879.84,"SELF","2014-01-03")
+,(743,743,604.71,"SELF","2014-10-17")
+,(343,908,622.88,"TRANSFER","2013-12-22")
+,(768,407,314.54,"TRANSFER","2013-09-22")
+,(951,62,466.22,"TRANSFER","2016-03-12")
+,(103,103,-124.83,"SELF","2014-04-17")
+,(994,537,345.70,"TRANSFER","2015-12-01")
+,(565,565,-220.82,"SELF","2014-10-08")
+,(613,698,842.60,"TRANSFER","2015-02-11")
+,(31,31,90.07,"SELF","2013-09-10")
+,(355,526,867.31,"TRANSFER","2015-09-14")
+,(928,196,371.95,"TRANSFER","2013-05-26")
+,(494,248,772.31,"TRANSFER","2013-09-05")
+,(356,962,861.95,"TRANSFER","2012-06-27")
+,(882,567,565.08,"TRANSFER","2013-02-15")
+,(589,589,289.03,"SELF","2012-12-06")
+,(542,881,871.18,"TRANSFER","2012-10-16")
+,(423,794,660.85,"TRANSFER","2015-10-28")
+,(524,524,-563.14,"SELF","2013-02-18")
+,(23,23,230.34,"SELF","2015-01-23")
+,(98,210,169.83,"TRANSFER","2012-03-03")
+,(817,67,637.11,"TRANSFER","2012-07-02")
+,(902,734,599.83,"TRANSFER","2012-02-08")
+,(658,658,711.66,"SELF","2013-06-06")
+,(884,884,-290.29,"SELF","2015-11-17")
+,(407,173,28.89,"TRANSFER","2012-06-09")
+,(5,727,349.42,"TRANSFER","2015-08-25")
+,(545,188,579.60,"TRANSFER","2013-01-01")
+,(622,839,130.50,"TRANSFER","2015-05-03")
+,(146,734,484.54,"TRANSFER","2016-07-08")
+,(797,679,520.85,"TRANSFER","2015-07-14")
+,(186,574,838.98,"TRANSFER","2015-01-07")
+,(578,578,-888.85,"SELF","2015-10-15")
+,(343,98,309.51,"TRANSFER","2016-01-28")
+,(215,716,981.37,"TRANSFER","2015-06-16")
+,(520,781,590.00,"TRANSFER","2013-05-08")
+,(846,645,573.59,"TRANSFER","2015-05-13")
+,(943,247,21.76,"TRANSFER","2014-08-22")
+,(710,351,143.85,"TRANSFER","2012-06-27")
+,(895,78,859.70,"TRANSFER","2014-04-27")
+,(619,71,106.95,"TRANSFER","2016-11-26")
+,(587,702,76.50,"TRANSFER","2015-05-28")
+,(901,196,273.77,"TRANSFER","2015-07-08")
+,(23,349,326.98,"TRANSFER","2016-07-22")
+,(278,905,764.92,"TRANSFER","2016-12-26")
+,(590,540,421.63,"TRANSFER","2012-12-15")
+,(134,134,938.81,"SELF","2013-08-08")
+,(346,563,101.75,"TRANSFER","2013-07-23")
+,(684,849,939.53,"TRANSFER","2014-06-08")
+,(575,256,784.32,"TRANSFER","2014-10-01")
+,(278,460,715.09,"TRANSFER","2012-07-15")
+,(61,696,930.77,"TRANSFER","2013-06-02")
+,(448,29,572.52,"TRANSFER","2012-12-09")
+,(460,639,980.12,"TRANSFER","2013-12-08")
+,(355,778,186.57,"TRANSFER","2012-02-07")
+,(347,347,-173.50,"SELF","2016-10-15")
+,(103,454,835.23,"TRANSFER","2016-08-12")
+,(654,654,676.27,"SELF","2015-02-28")
+,(92,661,263.78,"TRANSFER","2013-08-23")
+,(140,327,39.36,"TRANSFER","2014-10-25")
+,(613,613,798.66,"SELF","2016-09-27")
+,(28,221,349.88,"TRANSFER","2013-11-13")
+,(40,40,195.59,"SELF","2013-03-20")
+,(144,635,844.47,"TRANSFER","2014-05-24")
+,(188,188,159.16,"SELF","2013-06-28")
+,(998,998,-863.99,"SELF","2015-04-08")
+,(580,580,207.44,"SELF","2014-09-02")
+,(80,80,-248.44,"SELF","2016-01-23")
+,(469,675,824.48,"TRANSFER","2014-12-16")
+,(212,292,796.52,"TRANSFER","2012-07-06")
+,(713,718,236.13,"TRANSFER","2014-10-07")
+,(319,979,81.32,"TRANSFER","2012-02-24")
+,(454,82,389.93,"TRANSFER","2014-01-28")
+,(119,119,333.54,"SELF","2015-06-28")
+,(281,379,836.32,"TRANSFER","2015-09-10")
+,(754,503,690.34,"TRANSFER","2016-04-25")
+,(895,895,-484.38,"SELF","2014-05-19")
+,(848,848,560.49,"SELF","2012-11-09")
+,(772,772,-179.03,"SELF","2013-06-22")
+,(267,248,549.19,"TRANSFER","2016-09-18")
+,(351,439,202.51,"TRANSFER","2014-03-14")
+,(357,219,463.23,"TRANSFER","2012-12-06")
+,(865,779,790.24,"TRANSFER","2015-08-08")
+,(677,290,433.58,"TRANSFER","2014-07-12")
+,(605,71,319.54,"TRANSFER","2012-02-03")
+,(217,928,174.88,"TRANSFER","2014-10-04")
+,(964,494,56.22,"TRANSFER","2014-03-03")
+,(522,115,200.87,"TRANSFER","2014-01-17")
+,(795,91,207.69,"TRANSFER","2016-12-03")
+,(860,64,541.44,"TRANSFER","2016-11-01")
+,(98,981,883.10,"TRANSFER","2012-09-23")
+,(190,190,822.57,"SELF","2012-10-13")
+,(855,456,841.27,"TRANSFER","2012-10-07")
+,(689,689,-82.72,"SELF","2012-07-17")
+,(548,961,584.85,"TRANSFER","2012-10-13")
+,(271,271,-469.24,"SELF","2013-08-20")
+,(551,551,-361.25,"SELF","2014-06-14")
+,(442,684,426.37,"TRANSFER","2016-04-13")
+,(304,304,-173.90,"SELF","2012-06-11")
+,(937,139,370.06,"TRANSFER","2012-09-16")
+,(204,204,617.41,"SELF","2013-11-16")
+,(10,78,667.46,"TRANSFER","2016-05-26")
+,(156,156,-486.07,"SELF","2013-06-03")
+,(472,472,762.22,"SELF","2015-01-13")
+,(982,82,546.21,"TRANSFER","2014-08-19")
+,(662,662,-794.15,"SELF","2012-07-03")
+,(895,73,158.50,"TRANSFER","2016-09-07")
+,(840,378,72.56,"TRANSFER","2015-12-23")
+,(699,52,874.30,"TRANSFER","2016-05-10")
+,(502,958,74.51,"TRANSFER","2014-10-02")
+,(45,745,471.55,"TRANSFER","2015-08-19")
+,(641,644,945.22,"TRANSFER","2013-08-19")
+,(392,854,563.83,"TRANSFER","2013-01-06")
+,(736,449,199.22,"TRANSFER","2013-04-12")
+,(642,642,586.65,"SELF","2012-12-27")
+,(543,6,234.74,"TRANSFER","2016-06-05")
+,(933,219,718.08,"TRANSFER","2014-11-12")
+,(788,664,992.34,"TRANSFER","2013-03-12")
+,(604,604,222.49,"SELF","2012-08-25")
+,(480,746,392.44,"TRANSFER","2016-01-12")
+,(159,635,640.16,"TRANSFER","2013-01-28")
+,(279,239,531.59,"TRANSFER","2012-05-04")
+,(368,4,48.31,"TRANSFER","2013-11-04")
+,(141,552,20.48,"TRANSFER","2016-04-04")
+,(346,341,259.16,"TRANSFER","2012-01-03")
+,(157,157,418.84,"SELF","2016-12-01")
+,(392,376,225.22,"TRANSFER","2013-09-26")
+,(852,852,-964.71,"SELF","2016-02-03")
+,(399,814,423.57,"TRANSFER","2013-07-17")
+,(812,812,-132.41,"SELF","2016-03-17")
+,(606,113,231.13,"TRANSFER","2013-06-11")
+,(458,287,493.67,"TRANSFER","2014-06-23")
+,(319,678,25.00,"TRANSFER","2016-04-20")
+,(176,176,271.23,"SELF","2016-10-20")
+,(803,438,701.55,"TRANSFER","2015-05-19")
+,(29,378,659.84,"TRANSFER","2016-12-09")
+,(554,554,-966.92,"SELF","2016-03-18")
+,(531,278,936.23,"TRANSFER","2014-02-26")
+,(812,525,314.38,"TRANSFER","2016-08-01")
+,(752,206,174.65,"TRANSFER","2013-10-25")
+,(937,56,362.09,"TRANSFER","2016-10-18")
+,(31,31,-697.09,"SELF","2015-12-19")
+,(581,975,644.46,"TRANSFER","2016-05-28")
+,(147,147,-750.02,"SELF","2016-07-26")
+,(605,13,127.64,"TRANSFER","2016-11-26")
+,(244,244,-78.23,"SELF","2016-07-24")
+,(79,79,-730.75,"SELF","2013-03-21")
+,(787,787,-461.05,"SELF","2016-06-23")
+,(94,94,-146.95,"SELF","2016-11-06")
+,(962,916,316.49,"TRANSFER","2012-10-19")
+,(676,701,333.04,"TRANSFER","2012-05-10")
+,(133,931,701.61,"TRANSFER","2012-04-24")
+,(981,693,840.01,"TRANSFER","2013-07-05")
+,(315,989,600.06,"TRANSFER","2012-07-23")
+,(107,148,484.79,"TRANSFER","2012-02-09")
+,(547,474,791.30,"TRANSFER","2012-12-05")
+,(367,180,96.75,"TRANSFER","2012-11-11")
+,(994,285,165.68,"TRANSFER","2015-10-19")
+,(138,323,652.40,"TRANSFER","2013-01-25")
+,(977,196,958.82,"TRANSFER","2015-08-09")
+,(684,684,-490.09,"SELF","2012-04-09")
+,(818,818,741.52,"SELF","2012-11-28")
+,(914,682,464.24,"TRANSFER","2012-06-27")
+,(645,200,925.11,"TRANSFER","2013-04-12")
+,(900,291,878.82,"TRANSFER","2015-08-11")
+,(539,539,373.15,"SELF","2015-12-11")
+,(467,386,38.82,"TRANSFER","2013-07-01")
+,(688,688,782.03,"SELF","2013-11-03")
+,(103,585,333.30,"TRANSFER","2016-07-28")
+,(260,502,603.30,"TRANSFER","2014-07-19")
+,(180,889,382.55,"TRANSFER","2012-11-26")
+,(203,152,35.04,"TRANSFER","2016-03-19")
+,(340,341,497.41,"TRANSFER","2014-12-12")
+,(525,745,550.15,"TRANSFER","2014-02-05")
+,(610,541,168.33,"TRANSFER","2012-03-17")
+,(161,161,550.78,"SELF","2013-06-04")
+,(143,143,-203.83,"SELF","2014-10-06")
+,(711,727,445.77,"TRANSFER","2014-01-17")
+,(1,207,399.51,"TRANSFER","2015-03-21")
+,(105,105,524.49,"SELF","2013-02-27")
+,(855,657,786.55,"TRANSFER","2014-02-02")
+,(630,126,378.92,"TRANSFER","2016-05-15")
+,(263,73,623.16,"TRANSFER","2016-06-23")
+,(969,251,790.75,"TRANSFER","2013-12-03")
+,(486,824,718.65,"TRANSFER","2012-05-24")
+,(707,820,479.34,"TRANSFER","2013-06-12")
+,(923,484,571.46,"TRANSFER","2012-04-03")
+,(645,645,916.89,"SELF","2016-11-16")
+,(195,742,242.19,"TRANSFER","2015-02-28")
+,(249,249,-332.26,"SELF","2014-11-14")
+,(46,46,-12.41,"SELF","2013-04-08")
+,(198,997,626.68,"TRANSFER","2016-01-22")
+,(944,542,192.33,"TRANSFER","2015-05-05")
+,(416,416,-32.42,"SELF","2015-07-24")
+,(472,472,205.10,"SELF","2014-07-03")
+,(9,978,951.07,"TRANSFER","2012-06-23")
+,(20,245,528.40,"TRANSFER","2013-10-19")
+,(359,806,257.44,"TRANSFER","2016-12-02")
+,(565,499,13.09,"TRANSFER","2014-04-09")
+,(94,94,134.82,"SELF","2014-12-23")
+,(328,347,100.85,"TRANSFER","2016-02-08")
+,(748,600,38.77,"TRANSFER","2014-03-26")
+,(57,442,448.66,"TRANSFER","2016-12-16")
+,(993,993,-890.08,"SELF","2012-05-15")
+,(550,366,380.54,"TRANSFER","2012-01-11")
+,(661,468,975.64,"TRANSFER","2015-07-07")
+,(542,417,339.17,"TRANSFER","2014-06-19")
+,(121,121,-584.99,"SELF","2012-06-15")
+,(66,66,-833.54,"SELF","2013-05-21")
+,(435,836,397.77,"TRANSFER","2015-07-17")
+,(15,15,446.25,"SELF","2015-01-01")
+,(976,976,-729.71,"SELF","2016-04-24")
+,(588,819,86.07,"TRANSFER","2012-08-10")
+,(633,126,841.26,"TRANSFER","2014-04-07")
+,(102,762,765.66,"TRANSFER","2015-03-05")
+,(618,618,-105.03,"SELF","2015-01-13")
+,(460,821,626.89,"TRANSFER","2014-07-02")
+,(808,804,435.66,"TRANSFER","2016-08-08")
+,(115,435,805.12,"TRANSFER","2014-11-09")
+,(372,892,767.74,"TRANSFER","2013-06-27")
+,(193,592,594.76,"TRANSFER","2015-02-03")
+,(905,737,813.65,"TRANSFER","2012-04-01")
+,(157,157,-324.60,"SELF","2015-06-27")
+,(647,279,132.41,"TRANSFER","2014-10-22")
+,(655,264,91.64,"TRANSFER","2015-06-09")
+,(960,960,223.99,"SELF","2013-01-07")
+,(235,132,946.41,"TRANSFER","2012-08-01")
+,(820,190,175.51,"TRANSFER","2015-03-03")
+,(72,72,-368.49,"SELF","2015-02-08")
+,(729,245,552.18,"TRANSFER","2014-02-27")
+,(287,156,313.45,"TRANSFER","2015-07-02")
+,(964,579,482.07,"TRANSFER","2014-08-10")
+,(302,523,604.87,"TRANSFER","2016-05-04")
+,(683,128,421.96,"TRANSFER","2014-01-13")
+,(253,848,197.84,"TRANSFER","2014-07-16")
+,(783,870,631.22,"TRANSFER","2014-02-18")
+,(321,241,612.91,"TRANSFER","2015-01-06")
+,(683,820,34.34,"TRANSFER","2012-11-11")
+,(775,505,805.09,"TRANSFER","2016-10-01")
+,(437,30,689.11,"TRANSFER","2016-12-17")
+,(671,219,388.92,"TRANSFER","2013-07-28")
+,(791,772,57.97,"TRANSFER","2012-02-01")
+,(738,566,465.47,"TRANSFER","2013-04-10")
+,(157,700,739.03,"TRANSFER","2012-08-28")
+,(818,818,-430.01,"SELF","2015-10-20")
+,(18,240,967.11,"TRANSFER","2016-12-14")
+,(714,714,8.87,"SELF","2013-07-20")
+,(485,263,411.62,"TRANSFER","2014-01-04")
+,(505,839,738.44,"TRANSFER","2012-08-05")
+,(209,846,281.52,"TRANSFER","2015-10-15")
+,(728,177,630.35,"TRANSFER","2014-07-20")
+,(546,417,268.27,"TRANSFER","2016-04-08")
+,(462,462,856.27,"SELF","2012-01-13")
+,(587,254,694.22,"TRANSFER","2015-07-27")
+,(224,224,96.65,"SELF","2012-05-21")
+,(798,195,324.38,"TRANSFER","2015-12-26")
+,(404,404,576.23,"SELF","2015-04-01")
+,(754,910,619.45,"TRANSFER","2012-07-26")
+,(689,689,-692.32,"SELF","2012-12-19")
+,(365,365,-483.00,"SELF","2016-06-14")
+,(235,792,43.32,"TRANSFER","2015-02-08")
+,(210,854,167.67,"TRANSFER","2012-01-28")
+,(587,587,-872.71,"SELF","2012-01-03")
+,(239,342,982.61,"TRANSFER","2015-02-13")
+,(957,311,791.17,"TRANSFER","2014-08-14")
+,(520,98,463.61,"TRANSFER","2016-06-27")
+,(669,190,845.23,"TRANSFER","2016-03-05")
+,(375,724,273.54,"TRANSFER","2014-06-01")
+,(363,843,246.20,"TRANSFER","2012-01-16")
+,(838,906,217.51,"TRANSFER","2016-06-09")
+,(907,107,249.97,"TRANSFER","2015-06-04")
+,(718,718,-244.86,"SELF","2014-07-16")
+,(70,938,81.46,"TRANSFER","2012-08-12")
+,(309,309,677.98,"SELF","2015-01-25")
+,(250,250,-16.81,"SELF","2012-06-04")
+,(306,461,167.28,"TRANSFER","2012-06-10")
+,(981,981,930.26,"SELF","2015-01-02")
+,(874,874,80.90,"SELF","2015-03-27")
+,(699,699,-727.35,"SELF","2015-04-04")
+,(582,546,484.40,"TRANSFER","2013-12-03")
+,(332,179,106.08,"TRANSFER","2015-06-20")
+,(386,516,60.95,"TRANSFER","2013-04-17")
+,(525,525,-425.68,"SELF","2016-09-05")
+,(381,381,-672.83,"SELF","2012-11-17")
+,(473,473,-500.99,"SELF","2012-05-17")
+,(679,679,529.32,"SELF","2013-12-09")
+,(225,730,702.97,"TRANSFER","2013-03-26")
+,(44,44,-53.35,"SELF","2015-07-08")
+,(649,961,931.29,"TRANSFER","2013-12-10")
+,(642,642,-15.78,"SELF","2013-03-21")
+,(632,79,413.16,"TRANSFER","2014-05-06")
+,(756,360,894.66,"TRANSFER","2012-06-14")
+;
