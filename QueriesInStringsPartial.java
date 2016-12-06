@@ -1,98 +1,90 @@
 // CREATE NEW USER
 //inputs: FirstName, LastName, Age, Street, City, State, Phone, AccountType, AccountValue
 "INSERT INTO Customers (FirstName, LastName, Age, Street, City, State, PhoneNumber) VALUES('" + firstname + "', '" + lastname + "', " + age ", '" + street + "', '" + city + "', '" + state + "', " + phone + ");"
-"SELECT CustomerId FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname "';"
-"INSERT INTO Accounts (CustomerId, AccountType, AccountValue) VALUES(" + customer + ", '" + accountType + "', " + accountValue + ");"
-
+"SELECT CustomerID FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname "';"
+"INSERT INTO Accounts (CustomerID, AccountType, AccountValue) VALUES(" + customerId + ", '" + accountType + "', " + accountValue + ");"
 "SELECT AccountNumber, AccountValue FROM Customers NATURAL JOIN Accounts WHERE CustomerID = " + customerId + ";
-//return to user: CustomerId, AccountNumber, Balance, AccountType
+//return to user: CustomerID, AccountNumber, Balance, AccountType
 
 //DELETE USER
-//inputs: CustomerId or FirstName, LastName
+//inputs: CustomerID or FirstName, LastName
 //if First, Last
-"SELECT CustomerId FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname + "';"
+"SELECT CustomerID FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname + "';"
 //use customerID
 "DELETE FROM Accounts WHERE CustomerID = " + customerId + ";"
 "DELETE FROM Customers WHERE CustomerID = " + customerId + ";"
-//return to user: CustomerId, FirstName, LastName was deleted
+//return to user: 
+
+//DELETE Account
+//inputs: AccountNumber
+"DELETE FROM Accounts WHERE AccountNumber = " + accountNumber + ";"
+//return to user:
 
 //GET ALL BALANCES FOR USER
-//inputs: CustomerId or FirstName, LastName
+//inputs: CustomerID or FirstName, LastName
 //if First, Last
-"SELECT CustomerId FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname + "';"
+"SELECT CustomerID FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname + "';"
 //use customerID
-"SELECT AccountValue, AccountType FROM Accounts NATURAL JOIN Customers WHERE CustomerID = " + customerId + ";"
+"SELECT AccountType, AccountValue FROM Accounts NATURAL JOIN Customers WHERE CustomerID = " + customerId + ";"
 //return to user: AccountNumber, AccountType, AccountValue
 
 //GET BALANCE FOR ACCOUNT
 //inputs: AccountNumber
-"SELECT AccountValue, AccountType FROM Accounts NATURAL JOIN Customers WHERE CustomerID = " + customerId + " AND AccountNumber = " + accountNumber + ";"
+"SELECT AccountValue, AccountType FROM Accounts NATURAL JOIN Customers WHERE AccountNumber = " + accountNumber + ";"
 //return to user: AccountNumber, AccountType, AccountValue
 
 //TRANSFER
 //inputs: AccountNumberTo, AccountNumberFrom, Amount, CurrentDate
-"INSERT INTO Transactions (AccountFrom, AccountTo, TransactionAmount, TransactionType, TransactionDate) VALUES (" + accountFrom + "," + accountTo + ", " + amount + ", 'transfer', '" + date +  "');"
+"INSERT INTO Transactions (AccountFrom, AccountTo, TransactionAmount, TransactionType, TransactionDate) VALUES (" + accountFrom + "," + accountTo + ", " + amount + ", 'TRANSFER', '" + date +  "');"
 "UPDATE Accounts SET AccountValue = AccountValue - " + amount + " WHERE AccountNumber = " + accountFrom + ";"
 "UPDATE Accounts SET AccountValue = AccountValue + " + amount + " WHERE AccountNumber = " + accountTo + ";"
 "SELECT max(TransactionID) FROM Transactions;"
-"SELECT TransactionAmount FROM Transactions WHERE TransactionID = " + transactionId + ";"
 //return to user: AccountNumbers and balances, TransactionID and Amount
 
-//WITHDRAW: accountFrom = accountTo
+//DEPOSIT / WITHDRAW: accountFrom = accountTo
 //inputs: AccountNumberFrom, Amount
-"INSERT INTO Transactions (AccountFrom, AccountTo, TransactionAmount, TransactionType, TransactionDate) VALUES (" + accountFrom + "," + accountTo + ", " + amount + ", 'withdraw', '" + date +  "');"
-"UPDATE Accounts SET AccountValue = AccountValue - " + amount + " WHERE AccountNumber = " + accountFrom + ";"
-"SELECT max(TransactionID) FROM Transactions;"
-"SELECT CustomerId From Accounts WHERE AccountNumber = " + accountFrom + ";"
-//return to user: CustomerId of account, AccountNumber, TransactionID and Amount
-
-//DEPOSIT: accountFrom = accountTo
-//inputs: AccountNumberTo, Amount
-"INSERT INTO Transactions (AccountFrom, AccountTo, TransactionAmount, TransactionType, TransactionDate) VALUES (" + accountFrom + "," + accountTo + ", " + amount + ", 'deposit', '" + date +  "');"
+"INSERT INTO Transactions (AccountFrom, AccountTo, TransactionAmount, TransactionType, TransactionDate) VALUES (" + accountFrom + "," + accountTo + ", " + amount + ", 'SELF', '" + date +  "');"
 "UPDATE Accounts SET AccountValue = AccountValue + " + amount + " WHERE AccountNumber = " + accountTo + ";"
 "SELECT max(TransactionID) FROM Transactions;"
-"SELECT CustomerId From Accounts WHERE AccountNumber = " + accountTo + ";"
-//return to user: CustomerId of account, AccountNumber, TransactionID and Amount
+//return to user: AccountNumber, TransactionID and Amount
 
 //List Transactions for Account Overall
 //inputs: AccountNumber
-"((SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = " + accountNumber + " AND TransactionType = 'deposit') UNION " +
-"(SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = " + accountNumber + " AND TransactionType = 'withdraw') UNION " +
-"(SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = " + accountNumber + " AND TransactionType = 'transfer')) ORDER BY TransactionID;"
+"SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = " + accountNumber + " ORDER BY TransactionID;"
 //return to user: items in select clause
 
 //List Transactions for Account By Date
 //inputs: AccountNumber, BeginDateRange, EndDateRange
-"((SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = " + accountNumber + " AND TransactionType = 'deposit' AND TransactionDate >= '" + transactionFirstDate + "' AND TransactionDate <= '" + transactionSecondDate + "') UNION " +
-"(SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = " + accountNumber + " AND TransactionType = 'withdraw' AND TransactionDate >= '" + transactionFirstDate + "' AND TransactionDate <= '" + transactionSecondDate + "') UNION " +
-"(SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = " + accountNumber + " AND TransactionType = 'transfer' AND TransactionDate >= '" + transactionFirstDate + "' AND TransactionDate <= '" + transactionSecondDate + "')) ORDER BY TransactionID;"
+"SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = " + accountNumber + " AND TransactionDate >= '" + transactionFirstDate + "' AND TransactionDate <= '" + transactionSecondDate + "' ORDER BY TransactionID;"
 //return to user: items in select clause
 
 
 //List Transactions for User Overall
-//inputs: CustomerId or FirstName, LastName
+//inputs: CustomerID or FirstName, LastName
 //if First, Last
-"SELECT CustomerId FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname + "';"
+"SELECT CustomerID FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname + "';"
 //use customerID
-"((SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions, Accounts WHERE AccountFrom = AccountNumber AND CustomerID = " + customerId + " AND TransactionType = 'deposit') UNION " +
-"(SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE AccountTo = AccountNumber AND CustomerID = " + customerId + " AND TransactionType = 'withdraw') UNION " +
-"(SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = AccountNumber AND CustomerID = " + customerId + "AND TransactionType = 'transfer')) ORDER BY TransactionID;"
-//return to user: CustomerId, items in select clause
+"SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions, Accounts WHERE AccountFrom = AccountNumber AND CustomerID = " + customerId + " AND TransactionType = 'SELF' ORDER BY TransactionID;"
+
+"SELECT TransactionID, AccountFrom, AccountTo, TransactionType, TransactionAmount, TransactionDate FROM Transactions, Accounts WHERE AccountFrom = AccountNumber AND CustomerID = " + customerId + " AND TransactionType = 'TRANSFER' ORDER BY TransactionID;"
+//return to user: CustomerID, items in select clause
 
 
 //List Transactions for User By Date
-//inputs: CustomerId or FirstName, LastName, BeginDateRange, EndDateRange
+//inputs: CustomerID or FirstName, LastName, BeginDateRange, EndDateRange
 //if First, Last
-"SELECT CustomerId FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname + "';"
+"SELECT CustomerID FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname + "';"
 //use customerID
-"((SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions, Accounts WHERE AccountFrom = AccountNumber AND CustomerID = " + customerId + " AND TransactionType = 'deposit' AND TransactionDate >= '" + transactionFirstDate + "' AND TransactionDate <= '" + transactionSecondDate + "') UNION " +
-"(SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE AccountTo = AccountNumber AND CustomerID = " + customerId + " AND TransactionType = 'withdraw' AND TransactionDate >= '" + transactionFirstDate + "' AND TransactionDate <= '" + transactionSecondDate + "') UNION " +
-"(SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = AccountNumber AND CustomerID = " + customerId + "AND TransactionType = 'transfer' AND TransactionDate >= '" + transactionFirstDate + "' AND TransactionDate <= '" + transactionSecondDate + "')) ORDER BY TransactionID;"
-//return to user: CustomerId, items in select clause
+"SELECT TransactionID, AccounNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions, Accounts WHERE AccountFrom = AccountNumber AND CustomerID = " + customerId + " AND TransactionType = 'SELF' AND TransactionDate >= '" + transactionFirstDate + "' AND TransactionDate <= '" + transactionSecondDate + "' ORDER BY TransactionID;"
+
+"SELECT TransactionID, AccountFrom, AccountTo, TransactionType, TransactionAmount, TransactionDate FROM Transactions, Accounts WHERE AccountFrom = AccountNumber AND CustomerID = " + customerId + " AND TransactionType = 'TRANSFER' AND TransactionDate >= '" + transactionFirstDate + "' AND TransactionDate <= '" + transactionSecondDate + "' ORDER BY TransactionID;"
+//return to user: CustomerID, items in select clause
 
 //List Transactions By Date
 //inputs: BeginDateRange, EndDateRange
-"SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions WHERE TransactionDate >= '" + transactionFirstDate + "' AND TransactionDate <= '" + transactionSecondDate + "' ORDER BY TransactionID;" 
+"SELECT TransactionID, AccountNumber, TransactionType, TransactionAmount, TransactionDate FROM Transactions, Accounts WHERE TransactionType = 'SELF' AND TransactionDate >= '" + transactionFirstDate + "' AND TransactionDate <= '" + transactionSecondDate + "' ORDER BY TransactionID;"
+
+"SELECT TransactionID, AccountFrom, AccountTo, TransactionType, TransactionAmount, TransactionDate FROM Transactions, Accounts WHERE TransactionType = 'TRANSFER' AND TransactionDate >= '" + transactionFirstDate + "' AND TransactionDate <= '" + transactionSecondDate + "' ORDER BY TransactionID;" 
 //return to user: items in select clause
 
 //Customers By State
@@ -105,5 +97,41 @@
 "SELECT CustomerID, FirstName, LastName, Age FROM Customers WHERE City = '" + city + "' ORDER BY CustomerID;"
 //return to user: items in select clause
 
+//Customer Age Histogram: call 10 times with ranges 0, 9; 10, 19; 20, 29
+//inputs: BeginAgeRange, EndAgeRange
+"SELECT count(*) AS 'Num Customers' FROM Customers WHERE Age >= " + ageBegin + " AND Age <= " + ageEnd + ";" 
+//return to user: 
+
+//Customer Account Histogram Transacted 
+//if First, Last
+"SELECT CustomerID FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname + "';"
+//use customerID
+"SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS 'Total Transacted' FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND CustomerID = " + customerId + " GROUP BY TransactionDate, AccountNumber;"
+//return to user: date, amount
+
+//Customer Account Histogram Withdrawals
+//if First, Last
+"SELECT CustomerID FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname + "';"
+//use customerID
+"SELECT TransactionDate, sum(TransactionAmount) AS 'Total Withdrawn'  FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND TransactionType = 'SELF' AND TransactionAmount < 0 AND CustomerID = " + customerId + " GROUP BY TransactionDate;"
+//return to user: date, amount
+
+//Customer Account Histogram Deposits
+//if First, Last
+"SELECT CustomerID FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname + "';"
+//use customerID
+"SELECT TransactionDate, sum(TransactionAmount) AS 'Total Deposited' FROM Transactions, Accounts WHERE AccountNumber = AccountTo AND TransactionType = 'SELF' AND TransactionAmount > 0 AND CustomerID = " + customerId + " GROUP BY TransactionDate;"
+//return to user: date, amount
+
+//Customer Account Histogram Transfers
+//if First, Last
+"SELECT CustomerID FROM Customers WHERE FirstName = '" + firstname + "' AND LastName = '" + lastname + "';"
+//use customerID
+"SELECT TransactionDate, sum(TransactionAmount) AS 'Total Transferred' FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND TransactionType = 'TRANSFER' AND CustomerID = " + customerId + " GROUP BY TransactionDate;"
+//return to user: date, amount
+
+//Account Value Histogram
+"SELECT TransactionDate, sum(TransactionAmount) AS 'Account Balance' FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND AccountNumber = " + accountNumber + " GROUP BY TransactionDate;"
+//return to user: data, balance
 
 
