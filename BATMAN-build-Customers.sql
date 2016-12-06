@@ -1,501 +1,502 @@
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aaron', 'Aaberg', 2, '429 High Noon Street Frederick', 'Tampa', 'MS', 644694921);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aaron', 'Aaby', 64, '6 Walnutwood Avenue Hopewell', 'Portland', 'AL', 268650866);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Abbey', 'Aadland', 64, '7601 Warren Dr. Rolling Meadows', 'Miami', 'ME', 363779145);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Abbie', 'Aagaard', 44, '23 Border Street Jeffersonville', 'Akron', 'OR', 366334948);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Abby', 'Aakre', 9, '301 Canterbury Dr. Nashville', 'Birmingham', 'NY', 239393941);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Abdul', 'Aaland', 53, '922 Broad Drive Maspeth', 'Mesa', 'VT', 353941351);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Abe', 'Aalbers', 63, '99 Rockville Dr. Saint Johns', 'Milwaukee', 'OR', 633860584);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Abel', 'Aalderink', 4, '769 East George St. Roanoke Rapids', 'Aurora', 'IL', 903023800);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Abigail', 'Aalund', 0, '8382 Howard Dr. West Fargo', 'Chandler', 'CA', 348709744);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Abraham', 'Aamodt', 88, '7185 Fremont St. Whitehall', 'Kansas City', 'GA', 906923265);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Abram', 'Aamot', 33, '7407 Heather Avenue Kernersville', 'Greensboro', 'AR', 574265114);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ada', 'Aanderud', 1, '9695 Hickory St. Shelton', 'Phoenix', 'NC', 329657228);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adah', 'Aanenson', 29, '7172 Galvin St. Fargo', 'Chicago', 'IL', 554961875);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adalberto', 'Aanerud', 6, '9815 Pierce Lane Anderson', 'St. Petersburg', 'HI', 494459366);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adaline', 'Aarant', 99, '8851 Thompson Court Ringgold', 'Sacramento', 'DE', 476697040);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adam', 'Aardema', 93, '351 Birchpond Rd. New Lenox', 'Anaheim', 'PA', 706228509);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adam', 'Aarestad', 18, '1 Glendale St. Troy', 'Scottsdale', 'PA', 318453805);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adan', 'Aarhus', 27, '27 Piper Road Hammonton', 'St. Paul', 'MI', 408707381);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Addie', 'Aaron', 84, '87 Pierce Street Lynnwood', 'Anaheim', 'TN', 351053207);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adela', 'Aarons', 16, '10 Gates St. Montgomery', 'Reno', 'PA', 694346578);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adelaida', 'Aaronson', 95, '870 Gartner Ave. West Deptford', 'Jersey City', 'CT', 629287428);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adelaide', 'Aarsvold', 38, '21 Valley Farms Lane Crawfordsville', 'Philadelphia', 'MT', 399073750);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adele', 'Aas', 86, '9094 Gartner St. Rome', 'Houston', 'PA', 158186171);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adelia', 'Aasby', 23, '8860 Carson Street Hopkins', 'Anaheim', 'OR', 773792826);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adelina', 'Aase', 34, '9017 Cedarwood Drive Willingboro', 'Norfolk', 'MS', 656151934);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adeline', 'Aasen', 1, '541 Saxton St. San Jose', 'Laredo', 'AL', 513791704);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adell', 'Aavang', 28, '339 Franklin Ave. Piscataway', 'Oklahoma City', 'NH', 130243203);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adella', 'Abad', 82, '7717 Canterbury St. Reno', 'Honolulu', 'VA', 850895602);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adelle', 'Abadi', 6, '398 Rock Maple St. Clifton Park', 'Riverside', 'IN', 348006160);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adena', 'Abadie', 26, '9900 Court Rd. Pasadena', 'Boston', 'MD', 119632378);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adina', 'Abair', 67, '7820 E. Windfall Road Solon', 'Huntington', 'HI', 469062462);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adolfo', 'Abaja', 28, '7739 Church Ave. Uniontown', 'Miami', 'IA', 170351734);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adolph', 'Abajian', 34, '8239 Peninsula St. Great Falls', 'Memphis', 'WI', 781222281);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adria', 'Abalos', 13, '9103 East Fremont Avenue Portage', 'Lexington-Fayette', 'OK', 294610650);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adrian', 'Abaloz', 18, '648 West Street Goldsboro', 'Hialeah', 'MN', 603721600);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adrian', 'Abar', 2, '74 Broad Ave. South Richmond Hill', 'St. Petersburg', 'LA', 156711996);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adriana', 'Abarca', 48, '1 Lake Street Everett', 'Houston', 'VA', 230589869);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adriane', 'Abare', 94, '874 Amerige Drive Culpeper', 'Milwaukee', 'NE', 515723750);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adrianna', 'Abascal', 68, '9357 St Margarets Street Saratoga Springs', 'Cincinnati', 'SD', 441970009);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adrianne', 'Abasta', 91, '50 County St. Voorhees', 'Norfolk', 'NY', 352589013);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adrien', 'Abate', 86, '89 Willow Street Jamestown', 'Lexington-Fayette', 'NH', 452963448);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adriene', 'Abati', 26, '9072 E. Shub Farm Street Canonsburg', 'El Paso', 'AL', 689233432);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Adrienne', 'Abatiell', 1, '9818 Fairfield Dr. Middle Village', 'Denver', 'MT', 471300110);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Afton', 'Abato', 82, '432 King Court North Bergen', 'St. Paul', 'MI', 804880573);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Agatha', 'Abatti', 35, '856 West Sunbeam Avenue Youngstown', 'St. Louis', 'ND', 426434691);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Agnes', 'Abaunza', 29, '200 Hilldale Dr. Beltsville', 'Phoenix', 'NE', 128953938);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Agnus', 'Abaya', 77, '32 Arnold Drive Erlanger', 'Colorado Springs', 'MN', 762008421);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Agripina', 'Abbadessa', 94, '2 Mayflower Court Wake Forest', 'Akron', 'TN', 406135445);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Agueda', 'Abbamonte', 69, '158 Cooper Dr. Billerica', 'Los Angeles', 'MS', 202153737);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Agustin', 'Abbas', 74, '8309B Beech Street Rock Hill', 'Philadelphia', 'VA', 469762298);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Agustina', 'Abbasi', 57, '347 John St. Vienna', 'Tulsa', 'AR', 847794930);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ahmad', 'Abbassi', 57, '67 Helen Avenue Mesa', 'Tucson', 'IL', 347409595);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ahmed', 'Abbate', 31, '7625 Airport St. Front Royal', 'Hialeah', 'SD', 586736172);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ai', 'Abbatiello', 7, '8760 Alton Avenue North Haven', 'Hialeah', 'MD', 827550434);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aida', 'Abbay', 3, '9610 Whitemarsh Street Palm Harbor', 'Norfolk', 'TX', 384292402);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aide', 'Abbe', 78, '641 North Heather St. Bethpage', 'Norfolk', 'AZ', 324712440);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aiko', 'Abbed', 71, '233 North Sussex Court Spring Hill', 'Bakersfield', 'PA', 990716589);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aileen', 'Abbenante', 91, '571 West Roberts Ave. Addison', 'Plano', 'OK', 806825686);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ailene', 'Abbey', 67, '90 North Carson Lane Morrisville', 'Mesa', 'UT', 411470432);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aimee', 'Abbinanti', 35, '926 Cherry St. Winder', 'Cleveland', 'MO', 613323960);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aisha', 'Abbington', 88, '56 Homewood Drive Lewiston', 'Minneapolis', 'MS', 159475689);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aja', 'Abbitt', 58, '9528 Foxrun Lane Sumter', 'New Orleans', 'RI', 244458959);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Akiko', 'Abbot', 80, '8446 Beach St. Mokena', 'St. Paul', 'WI', 647680392);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Akilah', 'Abbott', 24, '608 Bayberry Ave. Norman', 'Durham', 'PA', 912766063);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Al', 'Abboud', 29, '53 Cedar Swamp Rd. Redondo Beach', 'Charlotte', 'OR', 943372048);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alaina', 'Abbruzzese', 12, '7192 Trout Ave. Statesville', 'Anchorage', 'ND', 794367067);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alaine', 'Abbs', 26, '40 Sunbeam Circle Lorton', 'Houston', 'MN', 703062784);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alan', 'Abby', 86, '26 Warren Street Horn Lake', 'Chesapeake', 'RI', 834661621);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alana', 'Abdalla', 37, '371 George Lane Irwin', 'Indianapolis', 'MT', 688906263);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alane', 'Abdallah', 1, '9793 Tarkiln Hill Rd. Kearny', 'New Orleans', 'OK', 608171454);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alanna', 'Abdel', 56, '1 Summer Court North Olmsted', 'Stockton', 'OR', 590882729);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alayna', 'Abdelal', 5, '148 Park Avenue Brockton', 'El Paso', 'VA', 644377129);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alba', 'Abdelaziz', 86, '829 Santa Clara Ave. Suwanee', 'Chicago', 'TX', 479084249);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Albert', 'Abdeldayen', 29, '995 Summer Dr. Hudsonville', 'Albuquerque', 'AZ', 650228005);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Albert', 'Abdelhamid', 1, '37 Beacon St. Clinton Township', 'Tampa', 'IN', 815655706);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alberta', 'Abdella', 48, '7342 Greenrose St. Ocean Springs', 'Seattle', 'MN', 414931890);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Albertha', 'Abdelmuti', 0, '87 Race Rd. Milwaukee', 'Fort Wayne', 'AL', 724382098);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Albertina', 'Abdelrahman', 35, '8 Surrey Road Mansfield', 'Tulsa', 'IN', 734371550);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Albertine', 'Abdelwahed', 32, '9725 Carpenter Drive Mechanicsburg', 'Mesa', 'MI', 253521567);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alberto', 'Abdi', 79, '7126 Queen Street Panama City', 'Newark', 'IN', 940128127);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Albina', 'Abdin', 99, '164 Winchester St. Hermitage', 'New York', 'WY', 720127768);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alda', 'Abdo', 70, '316 Sussex Street Sebastian', 'Bakersfield', 'CT', 133238931);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alden', 'Abdon', 42, '8023 Vernon Road Garner', 'Charlotte', 'WY', 240940105);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aldo', 'Abdool', 9, '538 W. 6th Lane Cranford', 'Tampa', 'KS', 742537259);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alease', 'Abdou', 54, '3 Pendergast Dr. Arlington Heights', 'Cleveland', 'ID', 432373468);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alec', 'Abdul', 8, '41 Orange Ave. Riverdale', 'Arlington', 'NJ', 958808158);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alecia', 'Abdula', 37, '9759 Lancaster Ave. Palmetto', 'Norfolk', 'WA', 873249737);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aleen', 'Abdulaziz', 62, '9747 Shirley St. New Bedford', 'Omaha', 'TX', 326961399);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aleida', 'Abdulkarim', 5, '816 Lincoln Dr. Marquette', 'Seattle', 'GA', 888304477);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aleisha', 'Abdulla', 46, '7791 Indian Spring Rd. Deerfield', 'Austin', 'NC', 451856938);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alejandra', 'Abdullah', 70, '9094 Piper Avenue Powell', 'Fort Wayne', 'FL', 997715101);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alejandrina', 'Abdullai', 54, '9 San Pablo St. Brooklyn', 'Madison', 'AZ', 657421781);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alejandro', 'Abdulmateen', 91, '268 Ashley St. Mountain View', 'Washington', 'HI', 665649407);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alena', 'Abdulmuniem', 94, '164 Lake Court Nicholasville', 'Seattle', 'WV', 801756709);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alene', 'Abdur', 47, '6 Constitution St. Cedar Rapids', 'Boise', 'CA', 479661638);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alesha', 'Abe', 42, '59 Winding Way St. Garfield', 'Rochester', 'OK', 687926961);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aleshia', 'Abeb', 80, '16 N. Washington Lane Greensburg', 'Baton Rouge', 'LA', 772145664);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alesia', 'Abed', 17, '8099 Overlook Road Greenville', 'Kansas City', 'IL', 324909029);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alessandra', 'Abedelah', 17, '7557 N. Hillcrest Street Hicksville', 'Fresno', 'OR', 565512819);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aleta', 'Abedi', 18, '9888 Miller Ave. Gaithersburg', 'St. Petersburg', 'OH', 305915151);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aletha', 'Abee', 8, '7428 Foster St. State College', 'Dallas', 'TN', 589059776);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alethea', 'Abegg', 81, '9065 College St. Massapequa Park', 'Austin', 'GA', 812699004);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alethia', 'Abeita', 59, '8886 East Whitemarsh Rd. Racine', 'Oakland', 'NY', 613443916);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alex', 'Abel', 0, '34 S. Carriage Street Redondo Beach', 'Miami', 'SD', 811892842);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alex', 'Abela', 7, '8581 Willow Court Honolulu', 'Arlington', 'IN', 383501048);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alexa', 'Abelar', 90, '858 Adams St. Starkville', 'Toledo', 'IA', 623478604);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alexander', 'Abelardo', 90, '510 Kirkland St. Sterling', 'Arlington', 'IA', 401863025);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alexander', 'Abele', 36, '82 Cross Street Colonial Heights', 'New Orleans', 'MD', 603727023);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alexandra', 'Abeles', 79, '7096 Sheffield St. York', 'Tulsa', 'MA', 859495723);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alexandria', 'Abell', 78, '854 E. Nut Swamp Dr. Lincoln Park', 'Fort Worth', 'MD', 430908362);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alexia', 'Abella', 36, '136 Sierra Court Olive Branch', 'St. Petersburg', 'VT', 594263850);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alexis', 'Abellera', 56, '37 Branch Drive Norristown', 'Houston', 'NV', 872904632);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alexis', 'Abelman', 61, '44 South Brickell St. Reading', 'Madison', 'CT', 324738399);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alfonso', 'Abeln', 48, '8320 Sage St. Nampa', 'Tulsa', 'SD', 395269429);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alfonzo', 'Abels', 86, '542 Queen St. Lincoln', 'Tucson', 'MI', 488789264);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alfred', 'Abelson', 47, '6 East Augusta Dr. Neenah', 'Boston', 'NY', 604962731);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alfreda', 'Aben', 46, '7130 S. Tallwood Drive Greer', 'Garland', 'MT', 682585088);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alfredia', 'Abend', 57, '177 Durham Ave. Syosset', 'Long Beach', 'LA', 237876072);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alfredo', 'Abendroth', 94, '34 Lake View Court Mebane', 'Chandler', 'VT', 989050173);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ali', 'Aber', 43, '861 Windsor Dr. Villa Rica', 'St. Petersburg', 'OK', 497412865);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ali', 'Abercombie', 92, '36 Annadale St. Apt 31 Canal Winchester', 'St. Paul', 'ND', 523726887);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alia', 'Abercrombie', 26, '867 Belmont Drive Clarksburg', 'Santa Ana', 'IN', 957328147);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alica', 'Aberle', 32, '8070 Adams St. Norwalk', 'Tampa', 'NJ', 464969237);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alice', 'Abernatha', 21, '61 Wakehurst Dr. Northville', 'Stockton', 'NY', 430207509);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alicia', 'Abernathy', 57, '861 Gainsway Ave. Moses Lake', 'San Diego', 'UT', 665919708);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alida', 'Abernethy', 72, '7875 Lakeview Lane Chelmsford', 'Orlando', 'OH', 554614749);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alina', 'Aberson', 22, '196 SW. Victoria St. Glastonbury', 'Modesto', 'UT', 979521649);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aline', 'Abes', 56, '780 Fifth Ave. Spartanburg', 'Aurora', 'NJ', 830176250);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alisa', 'Abeta', 91, '990 Wintergreen St. West Warwick', 'Minneapolis', 'NY', 654190314);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alise', 'Abete', 38, '1 Canal Court Brandon', 'Sacramento', 'AK', 731140072);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alisha', 'Abetrani', 9, '9422 Surrey Lane Feasterville Trevose', 'San Jose', 'KY', 236781071);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alishia', 'Abeyta', 8, '280 Pulaski Dr. Marlton', 'Glendale', 'MA', 779464278);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alisia', 'Abide', 65, '17 Bishop Drive Birmingham', 'Cincinnati', 'TX', 485184900);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alison', 'Abigantus', 92, '8606 Bridle Drive Hudsonville', 'San Francisco', 'AL', 749461189);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alissa', 'Abila', 60, '800 Philmont Road Essex', 'St. Petersburg', 'AR', 303830263);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alita', 'Abilay', 80, '8155 SW. Orange Lane New Baltimore', 'Miami', 'WY', 653374095);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alix', 'Abild', 74, '728 Old John Rd. Downingtown', 'Virginia Beach', 'ND', 217362951);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aliza', 'Abilez', 87, '56 Meadowbrook Street Joliet', 'Jacksonville', 'IN', 794978676);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alla', 'Abina', 66, '8162 4th Drive Vincentown', 'Toledo', 'AZ', 547703752);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Allan', 'Abington', 17, '7694 Iroquois Dr. Benton Harbor', 'Cincinnati', 'WA', 687233419);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alleen', 'Abitong', 89, '481 Vale Dr. Cordova', 'Plano', 'WY', 881769535);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Allegra', 'Abke', 90, '779 Smoky Hollow Drive Oak Creek', 'Durham', 'NE', 168325730);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Allen', 'Abkemeier', 84, '983 Bayberry St. Derry', 'Corpus Christi', 'ND', 458293064);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Allen', 'Ablang', 87, '324 N. Euclid Lane Mcdonough', 'North Hempstead', 'IN', 410567505);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Allena', 'Ablao', 59, '9712 Linden Ave. Fresh Meadows', 'Boise', 'MI', 556428072);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Allene', 'Able', 51, '388 Sunset Ave. Burbank', 'Phoenix', 'NM', 789680354);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Allie', 'Ableman', 7, '525 Homestead St. Orange Park', 'Miami', 'HI', 822866888);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alline', 'Abler', 47, '56 South Richardson St. Torrington', 'Chandler', 'CT', 274333989);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Allison', 'Ables', 87, '64 Maiden Dr. Clifton', 'Oakland', 'MS', 633916379);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Allyn', 'Ablin', 100, '5 Oak Street Bel Air', 'Anaheim', 'NJ', 403266717);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Allyson', 'Abling', 12, '17 Fieldstone Ave. Jenison', 'Madison', 'VA', 455458520);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alma', 'Abner', 51, '2 S. Beacon Street Logansport', 'Jacksonville', 'MD', 229629469);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Almeda', 'Abnet', 52, '9 West Warren Lane Forest Hills', 'Glendale', 'IL', 206174222);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Almeta', 'Abney', 40, '7 Railroad St. Sylvania', 'Laredo', 'KS', 745148679);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alona', 'Abo', 57, '9824 Fremont Ave. Endicott', 'Jersey City', 'NJ', 796832281);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alonso', 'Abolafia', 75, '10 Sherwood St. Tacoma', 'Tulsa', 'WY', 141414310);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alonzo', 'Abolt', 27, '216 San Juan Court Seymour', 'St. Louis', 'KY', 907270911);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alpha', 'Abood', 12, '9501 Woodsman Drive Oak Lawn', 'Stockton', 'IL', 261524527);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alphonse', 'Aboshihata', 42, '7839 Ramblewood Street New Lenox', 'North Hempstead', 'CA', 946196036);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alphonso', 'Aboud', 11, '180 Willow Dr. Cleveland', 'Wichita', 'AR', 612779949);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alta', 'Aboudi', 59, '15 White Road Wyandotte', 'Honolulu', 'TX', 797105003);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Altagracia', 'Aboulahoud', 50, '970 E. Devon Dr. Johnson City', 'San Francisco', 'AZ', 776089395);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Altha', 'Aboulissan', 35, '7508 Summer Court Altoona', 'Oklahoma City', 'ME', 408625548);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Althea', 'Abousaleh', 62, '7915 Westport Circle Kearny', 'Oakland', 'CO', 673093003);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alton', 'Aboytes', 93, '782B Cross St. Hartford', 'Atlanta', 'FL', 221495552);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alva', 'Abplanalp', 82, '70 Deerfield Lane Davison', 'Oakland', 'NJ', 777412640);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alva', 'Abrachinsky', 4, '93 Trusel Lane Redford', 'Anaheim', 'PA', 791015957);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alvaro', 'Abraham', 92, '9442 St Louis St. North Tonawanda', 'Boston', 'VT', 938797828);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alvera', 'Abrahamian', 96, '8546 1st Ave. West Bloomfield', 'Lubbock', 'WV', 745665423);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alverta', 'Abrahams', 80, '7838 Buckingham Dr. Dallas', 'Austin', 'CA', 762960265);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alvin', 'Abrahamsen', 39, '8138 Lilac Street Ormond Beach', 'San Diego', 'NH', 659893395);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alvina', 'Abrahamson', 45, '9291 Hawthorne Court Warwick', 'Fort Worth', 'CT', 427767068);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alyce', 'Abram', 5, '69 Dogwood Court Tewksbury', 'Montgomery', 'RI', 782158096);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alycia', 'Abramek', 49, '6 Foster Drive West Fargo', 'Sacramento', 'IN', 385400194);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alysa', 'Abramian', 54, '9158 Ketch Harbour Dr. Colorado Springs', 'Bakersfield', 'MN', 189596509);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alyse', 'Abramoff', 10, '536 N. Evergreen Rd. Stroudsburg', 'Lincoln', 'MD', 260012221);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alysha', 'Abramov', 40, '18 N. Jockey Hollow Street Freehold', 'Wichita', 'SC', 498519169);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alysia', 'Abramovich', 31, '209 Livingston Drive Yakima', 'Long Beach', 'RI', 640188993);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alyson', 'Abramovitz', 37, '467 Philmont Drive Canandaigua', 'Norfolk', 'RI', 756181719);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Alyssa', 'Abramowitz', 99, '799 Del Monte St. Woodhaven', 'Columbus', 'ND', 590249573);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amada', 'Abramowski', 100, '703 N. Sunnyslope Avenue Canal Winchester', 'Chesapeake', 'ND', 859525797);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amado', 'Abrams', 9, '9917 Country Club Lane Roselle', 'Orlando', 'WA', 269584919);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amal', 'Abramson', 47, '8474 Lake Avenue Riverview', 'Cleveland', 'CO', 953406187);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amalia', 'Abrantes', 37, '8704 Halifax Street Mankato', 'Hialeah', 'SC', 789962416);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amanda', 'Abreau', 13, '7509 Lexington St. Atlantic City', 'Stockton', 'NC', 134495022);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amber', 'Abrecht', 56, '9526 Bellevue Lane Arvada', 'Dallas', 'ND', 550620482);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amberly', 'Abrego', 5, '817 Cobblestone Dr. Christiansburg', 'Miami', 'KY', 486131565);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ambrose', 'Abrell', 59, '10 Ridgewood Lane Round Lake', 'Anaheim', 'CT', 967308063);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amee', 'Abreo', 38, '7563 Greystone St. Levittown', 'Virginia Beach', 'VA', 175568271);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amelia', 'Abreu', 73, '8345 Sage St. Racine', 'Boise', 'ME', 620876002);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('America', 'Abrev', 0, '993 Westminster Ave. Daphne', 'Norfolk', 'CO', 935795937);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ami', 'Abrew', 59, '56 N. Park Dr. Southgate', 'San Bernardino', 'PA', 877113619);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amie', 'Abrey', 33, '715 Ashley Dr. West Warwick', 'Philadelphia', 'DE', 164051181);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amiee', 'Abrial', 16, '685 Locust Lane Camp Hill', 'Houston', 'CT', 559892456);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amina', 'Abril', 15, '8738 Bohemia St. Dubuque', 'Boston', 'UT', 917987961);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amira', 'Abriola', 62, '60 Edgefield Lane New Castle', 'Wichita', 'IN', 854079894);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ammie', 'Abrom', 58, '373 East Redwood Circle Hyattsville', 'Arlington', 'MD', 826861860);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amos', 'Abron', 14, '54 Addison Lane Davison', 'Atlanta', 'ME', 305968891);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amparo', 'Abruzzese', 1, '606 Hamilton Rd. Forney', 'Memphis', 'UT', 649118288);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Amy', 'Abruzzino', 17, '669 Brewery Rd. Perrysburg', 'Charlotte', 'NH', 671909420);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('An', 'Abruzzo', 58, '6 Brook Street Alliance', 'Garland', 'HI', 992581827);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ana', 'Absalon', 9, '155 East Grandrose Court Rosemount', 'Miami', 'MA', 488990894);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anabel', 'Abshear', 47, '8269 South Green Rd. Uniondale', 'Greensboro', 'IA', 416493277);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Analisa', 'Absher', 83, '7664 Monroe St. West Chicago', 'Sacramento', 'OH', 400908314);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anamaria', 'Abshier', 85, '97 Oxford Drive Commack', 'Chesapeake', 'ME', 507696626);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anastacia', 'Abshire', 1, '83 Gregory Dr. Clifton', 'Nashville-Davidson', 'KS', 861265832);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anastasia', 'Abson', 93, '157 Olive Ave. Mechanicsville', 'Arlington', 'NY', 118584393);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andera', 'Abston', 84, '92 Creekside Drive Camas', 'Philadelphia', 'SC', 529060244);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anderson', 'Abt', 92, '12 Poor House Lane Perkasie', 'Sacramento', 'CT', 574668132);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andra', 'Abts', 63, '420 Ashley St. Havertown', 'Dallas', 'IA', 658210381);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andre', 'Abu', 18, '419 Hartford Rd. District Heights', 'Rochester', 'CO', 708958786);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andre', 'Abuaita', 37, '718 Carriage Dr. Titusville', 'Tucson', 'KS', 135023930);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andrea', 'Abubakr', 68, '574 Canterbury Rd. Springboro', 'Atlanta', 'LA', 390276152);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andrea', 'Abud', 7, '7220 Cedar Dr. Stafford', 'Norfolk', 'OK', 223523685);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andreas', 'Abuel', 20, '2 Warren Lane Wellington', 'Toledo', 'IL', 715366838);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andree', 'Abugn', 51, '360 Liberty Lane Merrimack', 'Denver', 'CO', 134886642);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andres', 'Abuhl', 21, '431 Glenwood Avenue Lorain', 'Washington', 'OR', 368663378);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andrew', 'Abundis', 32, '7524 Spruce Street Dorchester', 'Dallas', 'MN', 188282536);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andrew', 'Abundiz', 61, '25 Ohio Street Rocklin', 'St. Paul', 'DE', 850142061);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andria', 'Aburto', 91, '102 Coffee St. Allison Park', 'Arlington', 'MS', 157350090);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Andy', 'Abusufait', 84, '4 Lantern Court Tacoma', 'Fresno', 'KS', 589675601);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anette', 'Acal', 82, '391 Buckingham Street La Crosse', 'Seattle', 'MS', 697348093);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angel', 'Acampora', 36, '606 Lake Forest Street Noblesville', 'Raleigh', 'PA', 270402957);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angel', 'Accala', 67, '8486 River Street Bay Shore', 'St. Louis', 'MA', 467716362);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angela', 'Accardi', 77, '72 E. Newport Avenue Independence', 'St. Louis', 'CA', 374505646);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angele', 'Accardo', 2, '982 Wild Rose Ave. Montgomery Village', 'Los Angeles', 'LA', 142627179);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angelena', 'Accetta', 91, '33 Grove Court Long Branch', 'Anchorage', 'SC', 228049540);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angeles', 'Accetturo', 48, '5 Cobblestone Road Nanuet', 'Anaheim', 'IN', 209928270);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angelia', 'Accola', 77, '7054 West Cambridge Court Colorado Springs', 'Tampa', 'WY', 781373344);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angelic', 'Accomando', 23, '2 Beacon Ave. Wilkes Barre', 'Chula Vista', 'SD', 946633365);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angelica', 'Accornero', 62, '77 Boston Lane Dunedin', 'Jersey City', 'VA', 844318019);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angelika', 'Accosta', 82, '394 Kingston Ave. Lansdowne', 'Bakersfield', 'GA', 899436210);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angelina', 'Accurso', 74, '9199 West St. Algonquin', 'Chicago', 'NC', 885997590);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angeline', 'Ace', 57, '794 Rock Creek Dr. Dundalk', 'Miami', 'WA', 585825687);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angelique', 'Acebedo', 56, '12 Beaver Ridge Street Murrells Inlet', 'Buffalo', 'MS', 865896520);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angelita', 'Acebo', 75, '343 W. Ketch Harbour Ave. Queensbury', 'Omaha', 'WA', 448876650);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angella', 'Acedo', 35, '96 W. Prince St. Deerfield', 'Lubbock', 'SD', 128341466);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angelo', 'Acee', 70, '44 Poor House Street Miami', 'Reno', 'WY', 387260382);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angelo', 'Aceituno', 78, '534 S. Marshall Dr. Ottumwa', 'Lexington-Fayette', 'HI', 603133776);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angelyn', 'Acencio', 38, '9 Richardson Ave. Egg Harbor Township', 'Henderson', 'MT', 248756301);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angie', 'Aceret', 21, '7907 Valley Lane Cleveland', 'New Orleans', 'VT', 546557424);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angila', 'Acerno', 46, '7657 Santa Clara St. Union City', 'Lincoln', 'ND', 919697049);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angla', 'Acero', 68, '142 Arcadia Dr. Brookfield', 'Detroit', 'MD', 410497672);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Angle', 'Acerra', 6, '819 Pennsylvania Rd. Adrian', 'Virginia Beach', 'SC', 415442302);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anglea', 'Aceto', 75, '711 Mayfield Street Marquette', 'Lincoln', 'OH', 117816544);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anh', 'Aceuedo', 86, '89 North Constitution Lane Palm Beach Gardens', 'Phoenix', 'NH', 516650566);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anibal', 'Acevado', 5, '52 Pulaski Lane Sunnyside', 'Fort Wayne', 'NC', 523268224);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anika', 'Aceveda', 36, '176 Wagon Drive Grand Haven', 'Rochester', 'NC', 534393604);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anisa', 'Acevedo', 38, '67 Nichols Rd. Concord', 'Durham', 'AL', 987105566);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anisha', 'Aceves', 97, '9759 East Broad Drive Dracut', 'Arlington', 'LA', 844683364);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anissa', 'Acey', 67, '5 Saxton Ave. Stuart', 'Birmingham', 'CA', 853213406);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anita', 'Acfalle', 10, '4 North Road New Port Richey', 'Henderson', 'MN', 900106975);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anitra', 'Achane', 1, '7002 Mechanic Road Hazleton', 'Fort Worth', 'MA', 431905254);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anja', 'Ache', 49, '256 Bayberry St. Moses Lake', 'Bakersfield', 'MS', 957295164);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anjanette', 'Acheampong', 64, '9665 Oak Dr. New City', 'Oakland', 'ME', 836583012);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anjelica', 'Achee', 26, '266 South Hickory Street Santa Clara', 'Atlanta', 'IL', 860161757);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ann', 'Achekian', 74, '115 Pheasant St. Lithonia', 'Long Beach', 'CA', 716826527);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anna', 'Achenbach', 33, '133 Pilgrim Ave. Hightstown', 'Colorado Springs', 'IL', 825000836);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annabel', 'Acheson', 53, '7251 New Saddle Dr. Cockeysville', 'Tampa', 'VT', 523544089);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annabell', 'Achille', 6, '7262 Bridge St. Baltimore', 'Philadelphia', 'IL', 810997273);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annabelle', 'Achilles', 80, '657 Cleveland St. Kennewick', 'San Francisco', 'RI', 994219433);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annalee', 'Achin', 69, '32 Woodside St. Hallandale', 'Albuquerque', 'WV', 748894793);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annalisa', 'Achor', 35, '16 Hilltop Street Rockledge', 'Austin', 'LA', 301619765);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annamae', 'Achord', 79, '128 Sierra Lane Encino', 'Scottsdale', 'TN', 485912396);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annamaria', 'Achorn', 30, '7365 East Ivy Street Cockeysville', 'Reno', 'IL', 700027283);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annamarie', 'Achter', 66, '11 East Woodland Lane Elizabeth City', 'Oakland', 'VA', 758838261);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anne', 'Achterhof', 75, '7770 North Marlborough Street Middle River', 'Portland', 'WI', 624212725);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anneliese', 'Achzet', 98, '9138 Winchester Ave. Raleigh', 'Minneapolis', 'RI', 986416454);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annelle', 'Achziger', 37, '507 Piper Rd. Clayton', 'Miami', 'NH', 275720592);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annemarie', 'Acierno', 12, '220 Richardson Avenue Jamaica Plain', 'Birmingham', 'GA', 510559187);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annett', 'Acimovic', 5, '68 Lancaster St. Nottingham', 'Mesa', 'KS', 918694827);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annetta', 'Ack', 58, '7351 N. School Lane Fairburn', 'North Hempstead', 'MT', 296698220);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annette', 'Ackah', 72, '9873 Leeton Ridge Dr. Bel Air', 'San Francisco', 'MD', 641369194);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annice', 'Acken', 56, '8132 Manor Avenue Haines City', 'Minneapolis', 'WA', 536226302);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annie', 'Acker', 31, '5 Howard Dr. Abingdon', 'El Paso', 'MT', 316947652);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annika', 'Ackerley', 54, '441 Gulf Ave. Stuart', 'Baton Rouge', 'WI', 690951119);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annis', 'Ackerly', 2, '33 Nichols Road Roslindale', 'Chandler', 'NH', 286349383);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annita', 'Ackerman', 18, '37 South Rock Maple Road Ontario', 'Boston', 'WY', 144068537);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Annmarie', 'Ackermann', 4, '70 Oakland Street Banning', 'Stockton', 'WV', 393386042);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anthony', 'Ackers', 99, '44 High Ridge St. Feasterville Trevose', 'Tampa', 'SC', 216995308);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anthony', 'Ackerson', 11, '8490 N. Thorne St. Dunedin', 'Lexington-Fayette', 'MI', 972429387);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antione', 'Ackert', 10, '338 Arcadia Ave. Lake Zurich', 'Lexington-Fayette', 'MT', 123604486);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antionette', 'Ackies', 92, '7328 East Kirkland Drive Green Bay', 'Tulsa', 'ND', 981327887);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antoine', 'Ackins', 95, '991 West Dr. Brookfield', 'Raleigh', 'NV', 843653580);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antoinette', 'Ackison', 60, '9160 Iroquois Lane Middleton', 'Akron', 'NV', 654838198);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anton', 'Ackiss', 83, '8256 Henry Avenue Rego Park', 'New Orleans', 'ND', 410200403);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antone', 'Ackland', 65, '7520 Hamilton Ave. Jupiter', 'Boston', 'ME', 432365105);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antonetta', 'Acklen', 64, '7592 Tower St. Hixson', 'Dallas', 'NM', 170534114);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antonette', 'Ackles', 52, '330 W. Shore St. Helena', 'Corpus Christi', 'VA', 365254563);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antonia', 'Ackley', 32, '724 Nut Swamp Lane Baldwin', 'Lexington-Fayette', 'KS', 188853692);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antonia', 'Acklin', 60, '9198 South Pineknoll Road Navarre', 'Arlington', 'SC', 295065859);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antonietta', 'Ackman', 14, '71 Cobblestone Ave. Owatonna', 'Milwaukee', 'MI', 584949460);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antonina', 'Ackmann', 96, '473 Old Academy Dr. Winter Haven', 'St. Paul', 'ID', 417810304);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antonio', 'Ackroyd', 52, '753 E. Shore Lane Newburgh', 'Detroit', 'SC', 142048597);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antonio', 'Acly', 72, '8421 Annadale Dr. Torrance', 'Omaha', 'KY', 303338480);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antony', 'Acoba', 59, '62 Van Dyke St. Montgomery Village', 'Wichita', 'MT', 644834163);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Antwan', 'Acocella', 58, '74 Laurel Court Fairfield', 'Denver', 'MO', 994088504);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Anya', 'Acock', 81, '7413 Lafayette Street Altamonte Springs', 'Boise', 'SC', 724854784);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Apolonia', 'Acoff', 5, '7415 Union Drive Mesa', 'Minneapolis', 'OK', 558888701);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('April', 'Acor', 81, '7046 Van Dyke Avenue Grandville', 'Newark', 'SC', 615597728);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Apryl', 'Acord', 7, '7763 Church Ave. Santa Cruz', 'Santa Ana', 'PA', 584178942);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ara', 'Acorda', 0, '88 Hudson Ave. Point Pleasant Beach', 'Fort Wayne', 'PA', 286836817);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Araceli', 'Acors', 99, '129 S. Walt Whitman Drive Chapel Hill', 'Lincoln', 'NE', 995926571);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aracelis', 'Acosta', 57, '46 Walnut Street Oak Lawn', 'Buffalo', 'VA', 579334682);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aracely', 'Acosto', 44, '823 Virginia Drive Arlington Heights', 'St. Louis', 'CT', 889831390);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arcelia', 'Acothley', 86, '74 Virginia Ave. Ravenna', 'Omaha', 'NH', 950636922);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Archie', 'Acquaviva', 94, '902 Shady Rd. Tullahoma', 'Pittsburgh', 'VT', 807990470);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ardath', 'Acquilla', 84, '489 Rock Maple Court Lockport', 'Oklahoma City', 'NC', 997670324);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ardelia', 'Acre', 39, '8970 Essex Ave. Winchester', 'Norfolk', 'ID', 351317750);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ardell', 'Acree', 94, '9655 Pilgrim Street Massillon', 'Austin', 'OK', 897273438);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ardella', 'Acres', 9, '67 Tallwood Lane Metairie', 'El Paso', 'NJ', 241390161);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ardelle', 'Acrey', 9, '9196 South Fremont Court Fullerton', 'Jersey City', 'VA', 755607300);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arden', 'Acri', 24, '9479 Newcastle Ave. Newport News', 'Henderson', 'LA', 226588354);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ardis', 'Acron', 85, '7350 Devon Ave. Mount Airy', 'Kansas City', 'GA', 514324805);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ardith', 'Actis', 22, '8685 Marconi Court Elmont', 'Lubbock', 'WY', 755043656);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aretha', 'Acton', 85, '268 Oklahoma St. Owosso', 'Virginia Beach', 'GA', 365725646);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Argelia', 'Acuff', 43, '7210 SE. Wrangler St. Wilmington', 'Las Vegas', 'AR', 296390646);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Argentina', 'Acuna', 21, '130 Race Avenue New Kensington', 'Colorado Springs', 'AZ', 152554570);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ariana', 'Acy', 32, '8534 East Sulphur Springs Ave. Roswell', 'Modesto', 'MI', 180027768);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ariane', 'Ada', 1, '8528 6th Court Waterbury', 'Long Beach', 'RI', 415257123);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arianna', 'Adachi', 74, '7248 Homestead Ave. Chambersburg', 'Bakersfield', 'IN', 449759510);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arianne', 'Adair', 24, '7277 Plumb Branch Rd. Mishawaka', 'Anchorage', 'ME', 197462779);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arica', 'Adalja', 54, '376 St Paul St. Terre Haute', 'Omaha', 'AK', 688729671);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arie', 'Adam', 8, '8839 Monroe Street Patchogue', 'Denver', 'NY', 553449582);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ariel', 'Adamaitis', 65, '971 Prince Ave. Avon Lake', 'Kansas City', 'IL', 242854132);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ariel', 'Adamcik', 0, '7887 Thomas Street Utica', 'Fort Wayne', 'NM', 256562543);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arielle', 'Adamczak', 16, '7378 Van Dyke Ave. Cincinnati', 'Los Angeles', 'KS', 489035209);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arla', 'Adamczyk', 81, '780 Depot Drive Hallandale', 'Minneapolis', 'NY', 174241524);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arlean', 'Adame', 72, '764 Oak Meadow Street Bettendorf', 'Newark', 'GA', 760111035);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arleen', 'Adamec', 18, '547 East Rocky River Avenue Wellington', 'Rochester', 'UT', 111472297);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arlen', 'Adamek', 46, '5 New Rd. Oxford', 'Laredo', 'FL', 838553026);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arlena', 'Adames', 18, '9360 Pheasant St. Clarkston', 'Modesto', 'NY', 656352689);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arlene', 'Adami', 1, '24 West Clay Circle Griffin', 'St. Paul', 'IA', 548364278);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arletha', 'Adamiak', 49, '9302 Myers Lane Solon', 'Wichita', 'MS', 436428434);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arletta', 'Adamik', 59, '139 Smith Dr. Boynton Beach', 'Fresno', 'CT', 934359642);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arlette', 'Adamis', 11, '424 Big Rock Cove St. Front Royal', 'Arlington', 'OR', 905220623);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arlie', 'Adamitis', 47, '353 Stillwater Ave. Blackwood', 'Cleveland', 'MT', 249078852);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arlinda', 'Adamo', 87, '902 Acacia Street Forest Hills', 'Madison', 'TX', 297911036);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arline', 'Adamos', 77, '634 Philmont Court Rosedale', 'Portland', 'OK', 998738629);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arlyne', 'Adamowski', 36, '21 River St. North Attleboro', 'St. Louis', 'WY', 934813585);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Armand', 'Adams', 63, '9292 Hudson Lane York', 'Durham', 'WA', 907901549);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Armanda', 'Adamsen', 83, '123 SW. Jennings St. Billings', 'Scottsdale', 'AK', 546290365);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Armandina', 'Adamski', 78, '540 North Stonybrook Street Dearborn', 'Dallas', 'NC', 563274683);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Armando', 'Adamsky', 75, '554 North Forest Lane Tampa', 'Scottsdale', 'SD', 137012433);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Armida', 'Adamson', 73, '7439 Division Drive Torrance', 'San Jose', 'TN', 760250502);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arminda', 'Adamsonis', 32, '46 South Court Dr. Graham', 'Chandler', 'WV', 601397350);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arnetta', 'Adamyan', 27, '19 Warren Street Cockeysville', 'Boise', 'KY', 714566100);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arnette', 'Adan', 37, '895 Clinton Lane San Angelo', 'Las Vegas', 'CT', 555548377);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arnita', 'Adank', 100, '9689 Sheffield Ave. Berwyn', 'Toledo', 'PA', 145263685);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arnold', 'Adas', 100, '8206 Forest St. Traverse City', 'Seattle', 'OR', 757861279);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arnoldo', 'Adauto', 1, '7111 La Sierra Ave. Lemont', 'San Diego', 'CO', 312551713);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arnulfo', 'Adaway', 55, '65 Linda Street Mount Prospect', 'Lubbock', 'TX', 854842672);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aron', 'Aday', 30, '108 Rockaway Street Auburndale', 'Long Beach', 'NE', 584137380);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arron', 'Adcock', 9, '23 Bohemia Rd. Toms River', 'St. Paul', 'MA', 884373323);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Art', 'Adcox', 7, '92 Brook St. Los Banos', 'Tucson', 'MA', 210239117);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arthur', 'Addair', 96, '465 Summerhouse Street Melbourne', 'Chandler', 'NH', 832415290);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arthur', 'Addams', 62, '92 Harvey Street Whitehall', 'Boise', 'VT', 200873051);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Artie', 'Addario', 5, '2 Hillside Court Upper Darby', 'San Antonio', 'HI', 388366370);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arturo', 'Addeo', 95, '941 Fawn Drive Clover', 'Columbus', 'GA', 715341385);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Arvilla', 'Adderley', 100, '315 Plymouth Drive Long Beach', 'Anchorage', 'NY', 625996170);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Asa', 'Adderly', 7, '8 Country St. Farmingdale', 'Chandler', 'NH', 978038233);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Asha', 'Addesso', 17, '8209 Walnut Street Decatur', 'Pittsburgh', 'ND', 253593473);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ashanti', 'Addicks', 60, '8 Studebaker Road Danbury', 'Plano', 'MO', 905558604);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ashely', 'Addie', 11, '194 Helen Avenue Queensbury', 'Oklahoma City', 'HI', 830234179);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ashlea', 'Addiego', 54, '975 Edgewater St. Parkersburg', 'Pittsburgh', 'HI', 128829423);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ashlee', 'Addington', 90, '966 Virginia Dr. Orland Park', 'Nashville-Davidson', 'MO', 611094391);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ashleigh', 'Addis', 76, '7903 Lakeshore Drive Ravenna', 'Phoenix', 'MN', 562046684);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ashley', 'Addison', 22, '7862 Euclid Lane Alabaster', 'Wichita', 'VA', 572962443);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ashley', 'Addleman', 53, '309 Wayne Ave. Easley', 'Hialeah', 'MO', 945802541);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ashli', 'Addo', 22, '17 Golf Dr. Bay City', 'Hialeah', 'AL', 215246173);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ashlie', 'Adduci', 77, '440 Fairview Street Omaha', 'Lubbock', 'FL', 175737503);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ashly', 'Addy', 51, '55 Middle River St. Tucson', 'Tampa', 'IA', 163491015);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ashlyn', 'Ade', 5, '9718 South Durham Lane Huntersville', 'Glendale', 'MT', 198478248);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ashton', 'Adebisi', 38, '7054 Rocky River Street Levittown', 'Montgomery', 'ID', 241609486);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Asia', 'Adee', 70, '7920 Newbridge Dr. Garden City', 'Santa Ana', 'MT', 787759005);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Asley', 'Adel', 84, '8061 Thorne Ave. Forney', 'Birmingham', 'MS', 374609840);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Assunta', 'Adelblue', 93, '63 Lees Creek Court Greenwood', 'Plano', 'NM', 884075068);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Astrid', 'Adelgren', 3, '8169 Applegate St. Davison', 'Chicago', 'GA', 399060896);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Asuncion', 'Adelizzi', 87, '8849 Miles Drive Olive Branch', 'Phoenix', 'MI', 582310441);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Athena', 'Adell', 16, '444 Rockville Dr. Zeeland', 'St. Petersburg', 'NY', 310712464);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aubrey', 'Adelman', 5, '9019 Delaware Street Dekalb', 'Seattle', 'CO', 855297188);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aubrey', 'Adelmann', 4, '905 Arch Street Hendersonville', 'Seattle', 'PA', 582156058);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Audie', 'Adelmund', 19, '172 Bridgeton Ave. Wilmington', 'Phoenix', 'CO', 737269105);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Audra', 'Adels', 82, '9277 6th Rd. Waltham', 'Omaha', 'NH', 182652678);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Audrea', 'Adelsberg', 79, '29 E. Airport St. Rolla', 'Jersey City', 'NE', 225226269);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Audrey', 'Adelson', 37, '41 Valley Farms Avenue Saginaw', 'Lexington-Fayette', 'HI', 187575930);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Audria', 'Adelsperger', 58, '3 Lees Creek Ave. Nanuet', 'Scottsdale', 'IN', 237252049);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Audrie', 'Adelstein', 31, '9311 North Oklahoma Street Hillsboro', 'North Hempstead', 'RI', 391978347);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Audry', 'Adema', 98, '613 Locust St. Mansfield', 'San Francisco', 'FL', 320961977);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('August', 'Aden', 77, '135 North Plymouth Ave. Ossining', 'Fort Wayne', 'NJ', 136196645);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Augusta', 'Adens', 95, '8330 Hudson Rd. Roseville', 'Riverside', 'ID', 323210753);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Augustina', 'Ader', 40, '598 North North Street Roanoke Rapids', 'Arlington', 'WI', 471620070);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Augustine', 'Aderhold', 44, '344 Arnold Ave. Downers Grove', 'Indianapolis', 'AK', 851937602);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Augustine', 'Aderholdt', 62, '707 West Rd. Lake Villa', 'San Bernardino', 'VT', 413665093);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Augustus', 'Aderholt', 96, '499 Nichols Court Kennesaw', 'Akron', 'RI', 481255238);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aundrea', 'Aderman', 74, '372 East Cherry Street Sylvania', 'Milwaukee', 'IL', 674764371);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aura', 'Aderson', 75, '8286 East Ridgeview Road Staten Island', 'Madison', 'AR', 723617639);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aurea', 'Ades', 26, '7472 Rosewood Rd. Jamaica', 'North Hempstead', 'KS', 440909162);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aurelia', 'Adessa', 46, '73 Wentworth Street Glasgow', 'Montgomery', 'MS', 507545756);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aurelio', 'Adesso', 37, '7549 Mayfield Street New Castle', 'Aurora', 'MA', 158719654);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aurora', 'Adey', 26, '182 N. Smoky Hollow Lane Lincoln', 'Columbus', 'ME', 421158175);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Aurore', 'Adeyemo', 51, '7223 Garfield Dr. Holyoke', 'San Jose', 'NM', 391895057);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Austin', 'Adger', 0, '802 Fulton St. Logansport', 'El Paso', 'NE', 543393050);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Austin', 'Adham', 76, '36 Grant Dr. Baldwin', 'North Hempstead', 'NH', 933242762);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Autumn', 'Adhami', 70, '18 Brandywine Dr. Ocean Springs', 'Garland', 'CT', 169849460);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ava', 'Adi', 40, '96 Union Dr. Bristol', 'Long Beach', 'MA', 543369222);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Avelina', 'Adib', 1, '56 Border Circle Mableton', 'Montgomery', 'SC', 854469684);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Avery', 'Adickes', 21, '52 Bay Meadows Ave. Douglasville', 'Indianapolis', 'MS', 968557235);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Avery', 'Adie', 4, '8783 Dogwood Ave. Tuckerton', 'Lincoln', 'SD', 878752635);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Avis', 'Adil', 87, '22 Holly Road Roseville', 'Boise', 'WY', 553935147);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Avril', 'Adinolfi', 6, '92 Pennington Dr. Niagara Falls', 'Hialeah', 'TN', 827571820);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Awilda', 'Adjei', 63, '7021 Arlington Dr. Lumberton', 'Boston', 'WI', 432786604);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ayako', 'Adjutant', 48, '7413 Heritage Ave. Fair Lawn', 'Milwaukee', 'NH', 230040709);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ayana', 'Adkerson', 40, '9384 Shirley St. Painesville', 'New Orleans', 'CA', 740630498);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ayanna', 'Adkin', 29, '677 East Ridge Rd. Davison', 'Stockton', 'SD', 757793530);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ayesha', 'Adkins', 74, '618 West Heather Ave. Reading', 'Lincoln', 'MT', 505157805);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Azalee', 'Adkinson', 2, '405 Nut Swamp Ave. Flushing', 'Chicago', 'RI', 247481019);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Azucena', 'Adkison', 43, '15 Richardson St. Albany', 'Indianapolis', 'SD', 516446049);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Azzie', 'Adkisson', 76, '8243 Thompson Court Danbury', 'Rochester', 'UT', 308622297);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Babara', 'Adlam', 76, '7373 Woodsman Street Gurnee', 'Anaheim', 'LA', 989585348);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Babette', 'Adle', 62, '9445 Livingston Drive Valrico', 'Dallas', 'TX', 620527722);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bailey', 'Adleman', 18, '857 S. Poplar Street Jenison', 'Aurora', 'ND', 807361880);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bambi', 'Adler', 29, '9658 Tunnel Dr. Winchester', 'Rochester', 'DE', 189734309);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bao', 'Adley', 59, '34 Market Ave. Rome', 'Atlanta', 'SD', 315888143);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Barabara', 'Adling', 90, '872 Wild Horse Street Frankfort', 'San Bernardino', 'MT', 242548789);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Barb', 'Adloff', 36, '85 Somerset Street Honolulu', 'St. Petersburg', 'NY', 228347195);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Barbar', 'Admas', 95, '74 North Branch Street Williamsburg', 'Mesa', 'ME', 738333991);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Barbara', 'Admire', 25, '62 Stillwater Dr. Round Lake', 'Fresno', 'NH', 566321000);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Barbera', 'Adner', 87, '9734 Andover St. Strongsville', 'Kansas City', 'VA', 728564575);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Barbie', 'Adney', 74, '39 Constitution Street Halethorpe', 'San Diego', 'AK', 969272992);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Barbra', 'Adolf', 95, '96 Carriage Ave. Schaumburg', 'Montgomery', 'SD', 639180111);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bari', 'Adolfo', 8, '91 Maiden Road Hope Mills', 'Glendale', 'MA', 630701478);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Barney', 'Adolfson', 50, '66 Brook St. Hinesville', 'Portland', 'HI', 494289603);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Barrett', 'Adolph', 58, '372 Purple Finch Ave. Conyers', 'Denver', 'LA', 330488922);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Barrie', 'Adolphe', 77, '8 County St. Lincoln Park', 'Virginia Beach', 'AL', 623237470);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Barry', 'Adolphsen', 2, '954 Arlington Dr. Avon Lake', 'Oakland', 'IL', 832272720);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bart', 'Adolphson', 42, '9108 E. Nicolls Drive Chandler', 'Laredo', 'IA', 990479888);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Barton', 'Adolphus', 19, '937 Dogwood Dr. West Bloomfield', 'Tampa', 'NY', 905873512);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Basil', 'Adomaitis', 90, '9 S. Hamilton St. North Fort Myers', 'Newark', 'NY', 171866040);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Basilia', 'Adon', 60, '4 South Green Avenue Palatine', 'Aurora', 'FL', 549784960);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bea', 'Adonis', 2, '653 Cobblestone St. Chardon', 'El Paso', 'AR', 663465300);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Beata', 'Adorno', 0, '9213 Peg Shop St. Marquette', 'Lubbock', 'FL', 158863722);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Beatrice', 'Adragna', 87, '20 Foster Ave. Hagerstown', 'Atlanta', 'NH', 816310492);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Beatris', 'Adrian', 44, '261 Pacific St. Morrisville', 'St. Louis', 'MT', 598734527);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Beatriz', 'Adriance', 81, '206 Nut Swamp Ave. Oak Forest', 'Durham', 'TN', 431292896);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Beau', 'Adriano', 59, '54 Roberts St. Yakima', 'Las Vegas', 'ME', 486389875);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Beaulah', 'Adrid', 89, '2 South Drive Wausau', 'Baltimore', 'CA', 272414808);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bebe', 'Adrien', 28, '51 Sycamore Drive Oak Ridge', 'Boise', 'VA', 133969237);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Becki', 'Adrion', 84, '898 Livingston Drive Grovetown', 'Baton Rouge', 'NE', 518922516);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Beckie', 'Adrovel', 4, '74 Brookside Street Santa Clara', 'Chesapeake', 'UT', 180818959);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Becky', 'Adside', 0, '643 Mayfair Lane Lakeville', 'Anchorage', 'OK', 822914208);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bee', 'Adsit', 29, '8033 Edgewater St. Tucson', 'Arlington', 'DE', 713519548);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Belen', 'Adu', 81, '9029 Vine Ave. Elk River', 'San Diego', 'FL', 308556659);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Belia', 'Aduddell', 83, '73 Maple Lane Omaha', 'St. Louis', 'MS', 971668070);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Belinda', 'Adule', 95, '55 Morris Ave. Pittsford', 'Minneapolis', 'MS', 492830029);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Belkis', 'Adwell', 5, '7441 Fifth Drive Batavia', 'Boise', 'HI', 636135564);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bell', 'Ady', 63, '231 Edgemont Ave. Millington', 'Newark', 'VA', 415049382);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bella', 'Adzhabakyan', 20, '33 El Dorado Street Jacksonville Beach', 'Long Beach', 'RI', 490170753);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Belle', 'Aegerter', 26, '38 East Pleasant Circle Poughkeepsie', 'Fort Worth', 'ND', 128953535);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Belva', 'Aeillo', 37, '9859 Gartner Dr. Derby', 'Tulsa', 'MN', 609292058);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Ben', 'Aeling', 25, '83 Marvon Lane Louisville', 'Oklahoma City', 'SC', 499563709);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Benedict', 'Aemmer', 87, '96 Cooper St. Westfield', 'Jacksonville', 'DE', 369047173);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Benita', 'Aerni', 74, '636 Birchwood St. Glendora', 'Boise', 'NV', 625179810);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Benito', 'Aerts', 55, '77 Green Ave. Gulfport', 'Sacramento', 'NV', 189480536);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Benjamin', 'Aery', 90, '853 Birch Hill Ave. Elyria', 'North Hempstead', 'NJ', 746038174);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bennett', 'Aeschbacher', 75, '916 Rockwell Street Everett', 'Aurora', 'KS', 826885503);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bennie', 'Aeschliman', 59, '856 Ridge Dr. Newton', 'Huntington', 'NE', 526398510);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bennie', 'Aeschlimann', 65, '58 Madison Lane Chaska', 'Baltimore', 'MI', 595730467);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Benny', 'Afable', 57, '531 Forest St. Redford', 'Cincinnati', 'CO', 282345713);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Benton', 'Afalava', 18, '898 Philmont Court Orchard Park', 'Phoenix', 'SD', 648820107);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Berenice', 'Afan', 70, '195 S. Hillcrest St. Ottumwa', 'Los Angeles', 'ME', 910659216);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Berna', 'Afanador', 16, '11 Stillwater St. Grovetown', 'Chicago', 'OH', 382587946);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bernadette', 'Affagato', 79, '58 Santa Clara Rd. Elmhurst', 'Birmingham', 'SC', 878106901);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bernadine', 'Affeld', 57, '241 Gonzales St. Anaheim', 'Chandler', 'SC', 758926823);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bernard', 'Affelt', 57, '7128 Bridle Street West Lafayette', 'Indianapolis', 'CA', 449847445);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bernarda', 'Affeltranger', 20, '66 Newport Road Gaithersburg', 'Newark', 'AR', 855730123);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bernardina', 'Affleck', 83, '50 Sunbeam Ave. Paramus', 'Baltimore', 'AL', 967261742);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bernardine', 'Afflick', 14, '95 Taylor Street Drexel Hill', 'Virginia Beach', 'AK', 137830589);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bernardo', 'Affolter', 19, '6 Pineknoll St. Astoria', 'Arlington', 'CA', 727770405);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Berneice', 'Affronti', 89, '759 Summerhouse Lane Gainesville', 'Bakersfield', 'NC', 519197108);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bernetta', 'Aflalo', 18, '4 Madison Lane Banning', 'Akron', 'CT', 297848480);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bernice', 'Afoa', 69, '246 Sunbeam Road Statesville', 'Los Angeles', 'TX', 492104734);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bernie', 'Afonso', 15, '8195 Orange Dr. Utica', 'Oklahoma City', 'TX', 305210142);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bernie', 'Africa', 9, '357 Devon St. Grayslake', 'Greensboro', 'KS', 324965093);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Berniece', 'Afshar', 83, '3 Water Lane Maryville', 'Laredo', 'MN', 390846791);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bernita', 'Afshari', 52, '8086 East Lower River St. East Orange', 'Milwaukee', 'SD', 500429233);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Berry', 'Afton', 85, '482 Elm Ave. Blacksburg', 'Pittsburgh', 'AL', 200235637);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Berry', 'Afurong', 31, '779 Lawrence St. Marion', 'Detroit', 'KY', 291637311);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bert', 'Afzal', 4, '8285 Bridle St. Muskego', 'Laredo', 'DE', 499827183);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Berta', 'Agamao', 55, '8954 Trout Street Elmhurst', 'Oakland', 'DE', 978237465);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bertha', 'Agan', 40, '8850 Beechwood Street Reston', 'Riverside', 'MS', 922422538);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bertie', 'Agans', 53, '774 Rosewood Ave. Wadsworth', 'Oakland', 'LA', 917942850);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bertram', 'Agar', 63, '41 Buttonwood St. Germantown', 'El Paso', 'TX', 327647830);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Beryl', 'Agard', 33, '8757 Belmont St. Fort Washington', 'Arlington', 'UT', 695219394);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bess', 'Agarwal', 55, '8869 N. Wood Ave. Snohomish', 'Mesa', 'CT', 416975049);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bessie', 'Agbayani', 71, '522 Bow Ridge St. Sidney', 'Long Beach', 'RI', 598670993);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Beth', 'Agbisit', 12, '749 Fairfield St. Wooster', 'Aurora', 'NV', 980703080);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bethanie', 'Agcaoili', 36, '79 Shipley St. Clermont', 'Lubbock', 'VT', 998901597);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bethann', 'Age', 55, '97 Devon Rd. Malvern', 'Garland', 'WV', 860186296);
-INSERT INTO Customers(FirstName,LastName,Age,Street,City,State,PhoneNumber) VALUES('Bethany', 'Ageboi', 97, '47 Pulaski Lane Brookline', 'Las Vegas', 'MI', 884722335);
-
+INSERT INTO Customers (FirstName, LastName, Age, Street, City, State, PhoneNumber) VALUES
+('Aaron', 'Aaberg', 74, '429 High Noon Street Frederick', 'Seattle', 'MD', 812636814),
+('Aaron', 'Aaby', 61, '6 Walnutwood Avenue Hopewell', 'Austin', 'KY', 540621346),
+('Abbey', 'Aadland', 64, '7601 Warren Dr. Rolling Meadows', 'North Hempstead', 'IN', 851514960),
+('Abbie', 'Aagaard', 14, '23 Border Street Jeffersonville', 'Tulsa', 'NV', 174243475),
+('Abby', 'Aakre', 74, '301 Canterbury Dr. Nashville', 'Sacramento', 'NY', 574427307),
+('Abdul', 'Aaland', 98, '922 Broad Drive Maspeth', 'Anaheim', 'CT', 287590960),
+('Abe', 'Aalbers', 14, '99 Rockville Dr. Saint Johns', 'Norfolk', 'NC', 779772958),
+('Abel', 'Aalderink', 49, '769 East George St. Roanoke Rapids', 'Atlanta', 'NH', 945939090),
+('Abigail', 'Aalund', 28, '8382 Howard Dr. West Fargo', 'Raleigh', 'WY', 603216790),
+('Abraham', 'Aamodt', 92, '7185 Fremont St. Whitehall', 'Kansas City', 'MS', 325513102),
+('Abram', 'Aamot', 36, '7407 Heather Avenue Kernersville', 'Virginia Beach', 'HI', 745071926),
+('Ada', 'Aanderud', 10, '9695 Hickory St. Shelton', 'Atlanta', 'SC', 236818634),
+('Adah', 'Aanenson', 4, '7172 Galvin St. Fargo', 'Oklahoma City', 'MS', 397902271),
+('Adalberto', 'Aanerud', 36, '9815 Pierce Lane Anderson', 'Baton Rouge', 'AK', 559594128),
+('Adaline', 'Aarant', 43, '8851 Thompson Court Ringgold', 'Baltimore', 'MS', 708702483),
+('Adam', 'Aardema', 60, '351 Birchpond Rd. New Lenox', 'Rochester', 'NV', 902396418),
+('Adam', 'Aarestad', 69, '1 Glendale St. Troy', 'Anaheim', 'RI', 436004619),
+('Adan', 'Aarhus', 8, '27 Piper Road Hammonton', 'Chula Vista', 'TX', 805098267),
+('Addie', 'Aaron', 10, '87 Pierce Street Lynnwood', 'Baton Rouge', 'ME', 785282701),
+('Adela', 'Aarons', 4, '10 Gates St. Montgomery', 'Pittsburgh', 'CA', 519469941),
+('Adelaida', 'Aaronson', 40, '870 Gartner Ave. West Deptford', 'Chicago', 'KS', 528340918),
+('Adelaide', 'Aarsvold', 9, '21 Valley Farms Lane Crawfordsville', 'St. Louis', 'OH', 128324788),
+('Adele', 'Aas', 18, '9094 Gartner St. Rome', 'Lubbock', 'PA', 177848077),
+('Adelia', 'Aasby', 10, '8860 Carson Street Hopkins', 'Newark', 'MT', 800199214),
+('Adelina', 'Aase', 27, '9017 Cedarwood Drive Willingboro', 'Lubbock', 'IN', 453731475),
+('Adeline', 'Aasen', 9, '541 Saxton St. San Jose', 'Chesapeake', 'FL', 839378133),
+('Adell', 'Aavang', 57, '339 Franklin Ave. Piscataway', 'Charlotte', 'RI', 887279587),
+('Adella', 'Abad', 10, '7717 Canterbury St. Reno', 'Toledo', 'NM', 621379348),
+('Adelle', 'Abadi', 0, '398 Rock Maple St. Clifton Park', 'New Orleans', 'IA', 739883600),
+('Adena', 'Abadie', 73, '9900 Court Rd. Pasadena', 'Plano', 'MD', 841062011),
+('Adina', 'Abair', 61, '7820 E. Windfall Road Solon', 'Glendale', 'NY', 295590718),
+('Adolfo', 'Abaja', 86, '7739 Church Ave. Uniontown', 'Baltimore', 'FL', 644724390),
+('Adolph', 'Abajian', 14, '8239 Peninsula St. Great Falls', 'Colorado Springs', 'PA', 419793025),
+('Adria', 'Abalos', 31, '9103 East Fremont Avenue Portage', 'Buffalo', 'DE', 937688972),
+('Adrian', 'Abaloz', 90, '648 West Street Goldsboro', 'Durham', 'OR', 884731552),
+('Adrian', 'Abar', 72, '74 Broad Ave. South Richmond Hill', 'Bakersfield', 'WA', 805244469),
+('Adriana', 'Abarca', 43, '1 Lake Street Everett', 'Jersey City', 'KY', 519317762),
+('Adriane', 'Abare', 38, '874 Amerige Drive Culpeper', 'Lexington-Fayette', 'NH', 971069347),
+('Adrianna', 'Abascal', 53, '9357 St Margarets Street Saratoga Springs', 'Madison', 'PA', 559662689),
+('Adrianne', 'Abasta', 77, '50 County St. Voorhees', 'Modesto', 'TX', 751364632),
+('Adrien', 'Abate', 39, '89 Willow Street Jamestown', 'San Bernardino', 'OH', 149312781),
+('Adriene', 'Abati', 82, '9072 E. Shub Farm Street Canonsburg', 'Arlington', 'RI', 136675572),
+('Adrienne', 'Abatiell', 70, '9818 Fairfield Dr. Middle Village', 'Indianapolis', 'AZ', 563252265),
+('Afton', 'Abato', 68, '432 King Court North Bergen', 'Fresno', 'AR', 942641737),
+('Agatha', 'Abatti', 6, '856 West Sunbeam Avenue Youngstown', 'Chula Vista', 'ME', 344275186),
+('Agnes', 'Abaunza', 72, '200 Hilldale Dr. Beltsville', 'Lubbock', 'NM', 458517904),
+('Agnus', 'Abaya', 73, '32 Arnold Drive Erlanger', 'Chesapeake', 'OK', 148598137),
+('Agripina', 'Abbadessa', 97, '2 Mayflower Court Wake Forest', 'Aurora', 'KY', 290190704),
+('Agueda', 'Abbamonte', 81, '158 Cooper Dr. Billerica', 'Philadelphia', 'NJ', 660660777),
+('Agustin', 'Abbas', 35, '8309B Beech Street Rock Hill', 'Garland', 'WI', 547431560),
+('Agustina', 'Abbasi', 24, '347 John St. Vienna', 'Lincoln', 'AK', 877634549),
+('Ahmad', 'Abbassi', 22, '67 Helen Avenue Mesa', 'Arlington', 'IN', 791588415),
+('Ahmed', 'Abbate', 0, '7625 Airport St. Front Royal', 'Austin', 'TX', 956936568),
+('Ai', 'Abbatiello', 28, '8760 Alton Avenue North Haven', 'Reno', 'PA', 397251314),
+('Aida', 'Abbay', 20, '9610 Whitemarsh Street Palm Harbor', 'Portland', 'OK', 215137012),
+('Aide', 'Abbe', 90, '641 North Heather St. Bethpage', 'Indianapolis', 'OR', 427464408),
+('Aiko', 'Abbed', 74, '233 North Sussex Court Spring Hill', 'St. Louis', 'NC', 837105627),
+('Aileen', 'Abbenante', 94, '571 West Roberts Ave. Addison', 'Bakersfield', 'RI', 393414503),
+('Ailene', 'Abbey', 36, '90 North Carson Lane Morrisville', 'Denver', 'UT', 169243977),
+('Aimee', 'Abbinanti', 45, '926 Cherry St. Winder', 'Milwaukee', 'NY', 866483159),
+('Aisha', 'Abbington', 11, '56 Homewood Drive Lewiston', 'Norfolk', 'ND', 938130493),
+('Aja', 'Abbitt', 5, '9528 Foxrun Lane Sumter', 'Phoenix', 'MT', 419542640),
+('Akiko', 'Abbot', 40, '8446 Beach St. Mokena', 'Arlington', 'UT', 780066459),
+('Akilah', 'Abbott', 64, '608 Bayberry Ave. Norman', 'Rochester', 'OK', 288710755),
+('Al', 'Abboud', 10, '53 Cedar Swamp Rd. Redondo Beach', 'Tampa', 'NJ', 641931566),
+('Alaina', 'Abbruzzese', 69, '7192 Trout Ave. Statesville', 'Sacramento', 'IL', 940519796),
+('Alaine', 'Abbs', 8, '40 Sunbeam Circle Lorton', 'Arlington', 'IN', 368386250),
+('Alan', 'Abby', 18, '26 Warren Street Horn Lake', 'Charlotte', 'NH', 301342961),
+('Alana', 'Abdalla', 21, '371 George Lane Irwin', 'Honolulu', 'NV', 553386072),
+('Alane', 'Abdallah', 45, '9793 Tarkiln Hill Rd. Kearny', 'Hialeah', 'GA', 321214961),
+('Alanna', 'Abdel', 58, '1 Summer Court North Olmsted', 'Montgomery', 'CT', 553194841),
+('Alayna', 'Abdelal', 42, '148 Park Avenue Brockton', 'Huntington', 'NJ', 480632080),
+('Alba', 'Abdelaziz', 100, '829 Santa Clara Ave. Suwanee', 'Fort Worth', 'NY', 347226795),
+('Albert', 'Abdeldayen', 28, '995 Summer Dr. Hudsonville', 'Toledo', 'IN', 151368283),
+('Albert', 'Abdelhamid', 46, '37 Beacon St. Clinton Township', 'Anchorage', 'VA', 959514890),
+('Alberta', 'Abdella', 18, '7342 Greenrose St. Ocean Springs', 'Mesa', 'ND', 871500073),
+('Albertha', 'Abdelmuti', 63, '87 Race Rd. Milwaukee', 'Honolulu', 'RI', 598906469),
+('Albertina', 'Abdelrahman', 26, '8 Surrey Road Mansfield', 'Huntington', 'GA', 164492830),
+('Albertine', 'Abdelwahed', 78, '9725 Carpenter Drive Mechanicsburg', 'Raleigh', 'AK', 194769052),
+('Alberto', 'Abdi', 85, '7126 Queen Street Panama City', 'Tampa', 'KS', 382894402),
+('Albina', 'Abdin', 6, '164 Winchester St. Hermitage', 'Fort Worth', 'VT', 534934872),
+('Alda', 'Abdo', 36, '316 Sussex Street Sebastian', 'Boise', 'ND', 469030278),
+('Alden', 'Abdon', 27, '8023 Vernon Road Garner', 'Seattle', 'NM', 376893620),
+('Aldo', 'Abdool', 87, '538 W. 6th Lane Cranford', 'Huntington', 'UT', 816882330),
+('Alease', 'Abdou', 76, '3 Pendergast Dr. Arlington Heights', 'Wichita', 'NY', 512907422),
+('Alec', 'Abdul', 15, '41 Orange Ave. Riverdale', 'Washington', 'MS', 887303403),
+('Alecia', 'Abdula', 34, '9759 Lancaster Ave. Palmetto', 'Raleigh', 'GA', 317398443),
+('Aleen', 'Abdulaziz', 70, '9747 Shirley St. New Bedford', 'Jacksonville', 'UT', 888753739),
+('Aleida', 'Abdulkarim', 39, '816 Lincoln Dr. Marquette', 'Anchorage', 'CA', 972313636),
+('Aleisha', 'Abdulla', 88, '7791 Indian Spring Rd. Deerfield', 'San Jose', 'OR', 467692159),
+('Alejandra', 'Abdullah', 32, '9094 Piper Avenue Powell', 'Riverside', 'AZ', 725578382),
+('Alejandrina', 'Abdullai', 25, '9 San Pablo St. Brooklyn', 'San Francisco', 'MI', 421994150),
+('Alejandro', 'Abdulmateen', 75, '268 Ashley St. Mountain View', 'Portland', 'VA', 938863506),
+('Alena', 'Abdulmuniem', 63, '164 Lake Court Nicholasville', 'Albuquerque', 'TN', 240346723),
+('Alene', 'Abdur', 62, '6 Constitution St. Cedar Rapids', 'Laredo', 'MI', 622457337),
+('Alesha', 'Abe', 93, '59 Winding Way St. Garfield', 'Pittsburgh', 'CO', 326667677),
+('Aleshia', 'Abeb', 91, '16 N. Washington Lane Greensburg', 'Anaheim', 'AK', 509680402),
+('Alesia', 'Abed', 6, '8099 Overlook Road Greenville', 'Oakland', 'TN', 532086204),
+('Alessandra', 'Abedelah', 0, '7557 N. Hillcrest Street Hicksville', 'Colorado Springs', 'MT', 276102147),
+('Aleta', 'Abedi', 6, '9888 Miller Ave. Gaithersburg', 'Atlanta', 'MN', 564755624),
+('Aletha', 'Abee', 13, '7428 Foster St. State College', 'Las Vegas', 'NY', 741199398),
+('Alethea', 'Abegg', 81, '9065 College St. Massapequa Park', 'Lexington-Fayette', 'SD', 275724448),
+('Alethia', 'Abeita', 72, '8886 East Whitemarsh Rd. Racine', 'Tucson', 'ND', 840215617),
+('Alex', 'Abel', 68, '34 S. Carriage Street Redondo Beach', 'Tampa', 'DE', 913730448),
+('Alex', 'Abela', 79, '8581 Willow Court Honolulu', 'Seattle', 'FL', 215263942),
+('Alexa', 'Abelar', 78, '858 Adams St. Starkville', 'Montgomery', 'IA', 607903050),
+('Alexander', 'Abelardo', 4, '510 Kirkland St. Sterling', 'St. Petersburg', 'MS', 843138551),
+('Alexander', 'Abele', 0, '82 Cross Street Colonial Heights', 'Portland', 'OH', 402982387),
+('Alexandra', 'Abeles', 100, '7096 Sheffield St. York', 'Norfolk', 'TN', 998903907),
+('Alexandria', 'Abell', 29, '854 E. Nut Swamp Dr. Lincoln Park', 'Denver', 'VT', 892265202),
+('Alexia', 'Abella', 91, '136 Sierra Court Olive Branch', 'Wichita', 'MD', 914614883),
+('Alexis', 'Abellera', 14, '37 Branch Drive Norristown', 'Chula Vista', 'UT', 642837022),
+('Alexis', 'Abelman', 24, '44 South Brickell St. Reading', 'Tulsa', 'SC', 509893492),
+('Alfonso', 'Abeln', 35, '8320 Sage St. Nampa', 'Hialeah', 'HI', 655513893),
+('Alfonzo', 'Abels', 8, '542 Queen St. Lincoln', 'Fresno', 'IL', 388856402),
+('Alfred', 'Abelson', 78, '6 East Augusta Dr. Neenah', 'St. Louis', 'MD', 743916296),
+('Alfreda', 'Aben', 100, '7130 S. Tallwood Drive Greer', 'Honolulu', 'IN', 801349634),
+('Alfredia', 'Abend', 90, '177 Durham Ave. Syosset', 'Austin', 'MS', 236708257),
+('Alfredo', 'Abendroth', 86, '34 Lake View Court Mebane', 'Lincoln', 'NY', 247079607),
+('Ali', 'Aber', 24, '861 Windsor Dr. Villa Rica', 'Cincinnati', 'AR', 480915274),
+('Ali', 'Abercombie', 68, '36 Annadale St. Apt 31 Canal Winchester', 'Plano', 'VT', 933379887),
+('Alia', 'Abercrombie', 17, '867 Belmont Drive Clarksburg', 'Kansas City', 'SD', 741706431),
+('Alica', 'Aberle', 21, '8070 Adams St. Norwalk', 'Akron', 'NJ', 352278131),
+('Alice', 'Abernatha', 33, '61 Wakehurst Dr. Northville', 'Oklahoma City', 'MN', 649422443),
+('Alicia', 'Abernathy', 49, '861 Gainsway Ave. Moses Lake', 'Washington', 'LA', 159859196),
+('Alida', 'Abernethy', 26, '7875 Lakeview Lane Chelmsford', 'Montgomery', 'AR', 923865822),
+('Alina', 'Aberson', 14, '196 SW. Victoria St. Glastonbury', 'Arlington', 'WA', 726935654),
+('Aline', 'Abes', 98, '780 Fifth Ave. Spartanburg', 'Washington', 'AK', 529593746),
+('Alisa', 'Abeta', 48, '990 Wintergreen St. West Warwick', 'Plano', 'NV', 627033160),
+('Alise', 'Abete', 73, '1 Canal Court Brandon', 'Aurora', 'OH', 669082502),
+('Alisha', 'Abetrani', 74, '9422 Surrey Lane Feasterville Trevose', 'Milwaukee', 'UT', 473899694),
+('Alishia', 'Abeyta', 51, '280 Pulaski Dr. Marlton', 'Norfolk', 'NH', 696905609),
+('Alisia', 'Abide', 81, '17 Bishop Drive Birmingham', 'Los Angeles', 'VT', 759634510),
+('Alison', 'Abigantus', 88, '8606 Bridle Drive Hudsonville', 'Cleveland', 'NJ', 407600787),
+('Alissa', 'Abila', 37, '800 Philmont Road Essex', 'Fort Wayne', 'NV', 302518307),
+('Alita', 'Abilay', 50, '8155 SW. Orange Lane New Baltimore', 'Houston', 'MO', 282676940),
+('Alix', 'Abild', 65, '728 Old John Rd. Downingtown', 'Tucson', 'HI', 330125180),
+('Aliza', 'Abilez', 76, '56 Meadowbrook Street Joliet', 'Milwaukee', 'MO', 567623679),
+('Alla', 'Abina', 11, '8162 4th Drive Vincentown', 'Charlotte', 'NM', 114572845),
+('Allan', 'Abington', 81, '7694 Iroquois Dr. Benton Harbor', 'Huntington', 'NE', 189801939),
+('Alleen', 'Abitong', 2, '481 Vale Dr. Cordova', 'Jersey City', 'KS', 722873650),
+('Allegra', 'Abke', 17, '779 Smoky Hollow Drive Oak Creek', 'Dallas', 'GA', 614806104),
+('Allen', 'Abkemeier', 52, '983 Bayberry St. Derry', 'San Diego', 'RI', 595176324),
+('Allen', 'Ablang', 96, '324 N. Euclid Lane Mcdonough', 'Toledo', 'PA', 336429431),
+('Allena', 'Ablao', 68, '9712 Linden Ave. Fresh Meadows', 'Henderson', 'ID', 387051671),
+('Allene', 'Able', 39, '388 Sunset Ave. Burbank', 'Reno', 'AZ', 690655565),
+('Allie', 'Ableman', 53, '525 Homestead St. Orange Park', 'Houston', 'UT', 509550647),
+('Alline', 'Abler', 40, '56 South Richardson St. Torrington', 'Chula Vista', 'MS', 528674031),
+('Allison', 'Ables', 13, '64 Maiden Dr. Clifton', 'Oklahoma City', 'ND', 652901263),
+('Allyn', 'Ablin', 91, '5 Oak Street Bel Air', 'Las Vegas', 'MI', 517026646),
+('Allyson', 'Abling', 28, '17 Fieldstone Ave. Jenison', 'Montgomery', 'HI', 887386240),
+('Alma', 'Abner', 99, '2 S. Beacon Street Logansport', 'Colorado Springs', 'TN', 374319126),
+('Almeda', 'Abnet', 99, '9 West Warren Lane Forest Hills', 'Raleigh', 'NJ', 196506681),
+('Almeta', 'Abney', 66, '7 Railroad St. Sylvania', 'Washington', 'OH', 680834444),
+('Alona', 'Abo', 96, '9824 Fremont Ave. Endicott', 'Anchorage', 'MO', 244105249),
+('Alonso', 'Abolafia', 76, '10 Sherwood St. Tacoma', 'Chula Vista', 'MT', 845290231),
+('Alonzo', 'Abolt', 60, '216 San Juan Court Seymour', 'Tucson', 'IN', 556550209),
+('Alpha', 'Abood', 40, '9501 Woodsman Drive Oak Lawn', 'Indianapolis', 'NV', 139027230),
+('Alphonse', 'Aboshihata', 16, '7839 Ramblewood Street New Lenox', 'Nashville-Davidson', 'HI', 912021633),
+('Alphonso', 'Aboud', 98, '180 Willow Dr. Cleveland', 'Indianapolis', 'MT', 337673151),
+('Alta', 'Aboudi', 26, '15 White Road Wyandotte', 'Chesapeake', 'DE', 398774995),
+('Altagracia', 'Aboulahoud', 71, '970 E. Devon Dr. Johnson City', 'Laredo', 'CA', 998841721),
+('Altha', 'Aboulissan', 11, '7508 Summer Court Altoona', 'Arlington', 'PA', 254253452),
+('Althea', 'Abousaleh', 14, '7915 Westport Circle Kearny', 'Boston', 'NH', 595997946),
+('Alton', 'Aboytes', 59, '782B Cross St. Hartford', 'Lexington-Fayette', 'WY', 511762369),
+('Alva', 'Abplanalp', 97, '70 Deerfield Lane Davison', 'Chesapeake', 'AL', 256982231),
+('Alva', 'Abrachinsky', 55, '93 Trusel Lane Redford', 'Anchorage', 'NC', 282527326),
+('Alvaro', 'Abraham', 51, '9442 St Louis St. North Tonawanda', 'Huntington', 'ME', 157441536),
+('Alvera', 'Abrahamian', 88, '8546 1st Ave. West Bloomfield', 'El Paso', 'NM', 280249789),
+('Alverta', 'Abrahams', 26, '7838 Buckingham Dr. Dallas', 'San Jose', 'OH', 303539973),
+('Alvin', 'Abrahamsen', 6, '8138 Lilac Street Ormond Beach', 'Tucson', 'NE', 368570166),
+('Alvina', 'Abrahamson', 63, '9291 Hawthorne Court Warwick', 'Huntington', 'AZ', 298689863),
+('Alyce', 'Abram', 54, '69 Dogwood Court Tewksbury', 'Honolulu', 'ID', 765397494),
+('Alycia', 'Abramek', 24, '6 Foster Drive West Fargo', 'Tucson', 'OH', 250839457),
+('Alysa', 'Abramian', 12, '9158 Ketch Harbour Dr. Colorado Springs', 'Oklahoma City', 'MS', 991114654),
+('Alyse', 'Abramoff', 24, '536 N. Evergreen Rd. Stroudsburg', 'Baton Rouge', 'MO', 393569678),
+('Alysha', 'Abramov', 63, '18 N. Jockey Hollow Street Freehold', 'Detroit', 'MO', 270337124),
+('Alysia', 'Abramovich', 48, '209 Livingston Drive Yakima', 'Jacksonville', 'WA', 796252680),
+('Alyson', 'Abramovitz', 100, '467 Philmont Drive Canandaigua', 'Dallas', 'OK', 499137281),
+('Alyssa', 'Abramowitz', 24, '799 Del Monte St. Woodhaven', 'El Paso', 'ME', 852834941),
+('Amada', 'Abramowski', 46, '703 N. Sunnyslope Avenue Canal Winchester', 'Raleigh', 'NM', 423506613),
+('Amado', 'Abrams', 87, '9917 Country Club Lane Roselle', 'San Bernardino', 'WI', 501191378),
+('Amal', 'Abramson', 37, '8474 Lake Avenue Riverview', 'Henderson', 'DE', 850769054),
+('Amalia', 'Abrantes', 92, '8704 Halifax Street Mankato', 'Phoenix', 'UT', 371151675),
+('Amanda', 'Abreau', 84, '7509 Lexington St. Atlantic City', 'Washington', 'RI', 484601813),
+('Amber', 'Abrecht', 34, '9526 Bellevue Lane Arvada', 'Omaha', 'NH', 135635710),
+('Amberly', 'Abrego', 43, '817 Cobblestone Dr. Christiansburg', 'Tampa', 'UT', 242383882),
+('Ambrose', 'Abrell', 80, '10 Ridgewood Lane Round Lake', 'Glendale', 'UT', 814330419),
+('Amee', 'Abreo', 40, '7563 Greystone St. Levittown', 'Newark', 'SC', 233329824),
+('Amelia', 'Abreu', 82, '8345 Sage St. Racine', 'Durham', 'OK', 297528680),
+('America', 'Abrev', 62, '993 Westminster Ave. Daphne', 'Rochester', 'IA', 448030234),
+('Ami', 'Abrew', 53, '56 N. Park Dr. Southgate', 'Stockton', 'NC', 840655931),
+('Amie', 'Abrey', 69, '715 Ashley Dr. West Warwick', 'New Orleans', 'NM', 820221545),
+('Amiee', 'Abrial', 79, '685 Locust Lane Camp Hill', 'Jacksonville', 'DE', 685483606),
+('Amina', 'Abril', 12, '8738 Bohemia St. Dubuque', 'Portland', 'NC', 800908753),
+('Amira', 'Abriola', 37, '60 Edgefield Lane New Castle', 'Newark', 'WY', 923718392),
+('Ammie', 'Abrom', 97, '373 East Redwood Circle Hyattsville', 'Portland', 'IN', 911367158),
+('Amos', 'Abron', 39, '54 Addison Lane Davison', 'Greensboro', 'WV', 722988368),
+('Amparo', 'Abruzzese', 76, '606 Hamilton Rd. Forney', 'Tucson', 'VA', 383988415),
+('Amy', 'Abruzzino', 77, '669 Brewery Rd. Perrysburg', 'St. Petersburg', 'MO', 609321990),
+('An', 'Abruzzo', 20, '6 Brook Street Alliance', 'Kansas City', 'TN', 976375210),
+('Ana', 'Absalon', 56, '155 East Grandrose Court Rosemount', 'San Francisco', 'IL', 414040527),
+('Anabel', 'Abshear', 100, '8269 South Green Rd. Uniondale', 'Rochester', 'VT', 367457173),
+('Analisa', 'Absher', 63, '7664 Monroe St. West Chicago', 'New York', 'NC', 780090450),
+('Anamaria', 'Abshier', 9, '97 Oxford Drive Commack', 'San Antonio', 'AK', 877925902),
+('Anastacia', 'Abshire', 71, '83 Gregory Dr. Clifton', 'El Paso', 'CA', 717439376),
+('Anastasia', 'Abson', 33, '157 Olive Ave. Mechanicsville', 'Honolulu', 'CT', 807174722),
+('Andera', 'Abston', 65, '92 Creekside Drive Camas', 'Las Vegas', 'AL', 690472262),
+('Anderson', 'Abt', 71, '12 Poor House Lane Perkasie', 'Boise', 'CO', 489989909),
+('Andra', 'Abts', 28, '420 Ashley St. Havertown', 'Fort Wayne', 'CO', 892859962),
+('Andre', 'Abu', 67, '419 Hartford Rd. District Heights', 'Houston', 'CO', 282420853),
+('Andre', 'Abuaita', 23, '718 Carriage Dr. Titusville', 'Tulsa', 'MO', 330312450),
+('Andrea', 'Abubakr', 31, '574 Canterbury Rd. Springboro', 'New Orleans', 'AZ', 857147818),
+('Andrea', 'Abud', 34, '7220 Cedar Dr. Stafford', 'Huntington', 'TN', 690729734),
+('Andreas', 'Abuel', 85, '2 Warren Lane Wellington', 'Portland', 'OH', 847228887),
+('Andree', 'Abugn', 79, '360 Liberty Lane Merrimack', 'Newark', 'AZ', 744921634),
+('Andres', 'Abuhl', 36, '431 Glenwood Avenue Lorain', 'Durham', 'HI', 525589228),
+('Andrew', 'Abundis', 31, '7524 Spruce Street Dorchester', 'Houston', 'IL', 454721704),
+('Andrew', 'Abundiz', 5, '25 Ohio Street Rocklin', 'Baltimore', 'OK', 954844210),
+('Andria', 'Aburto', 48, '102 Coffee St. Allison Park', 'San Antonio', 'UT', 196719037),
+('Andy', 'Abusufait', 12, '4 Lantern Court Tacoma', 'Birmingham', 'NY', 535088326),
+('Anette', 'Acal', 20, '391 Buckingham Street La Crosse', 'Dallas', 'WV', 837268646),
+('Angel', 'Acampora', 46, '606 Lake Forest Street Noblesville', 'Indianapolis', 'WI', 346311592),
+('Angel', 'Accala', 8, '8486 River Street Bay Shore', 'Boise', 'NC', 762828621),
+('Angela', 'Accardi', 27, '72 E. Newport Avenue Independence', 'Kansas City', 'RI', 976457788),
+('Angele', 'Accardo', 91, '982 Wild Rose Ave. Montgomery Village', 'San Francisco', 'NM', 423353311),
+('Angelena', 'Accetta', 68, '33 Grove Court Long Branch', 'Phoenix', 'NY', 679879326),
+('Angeles', 'Accetturo', 57, '5 Cobblestone Road Nanuet', 'Anchorage', 'VA', 882369228),
+('Angelia', 'Accola', 81, '7054 West Cambridge Court Colorado Springs', 'Minneapolis', 'GA', 698208488),
+('Angelic', 'Accomando', 64, '2 Beacon Ave. Wilkes Barre', 'Chesapeake', 'MO', 865357441),
+('Angelica', 'Accornero', 84, '77 Boston Lane Dunedin', 'Albuquerque', 'CO', 495148898),
+('Angelika', 'Accosta', 15, '394 Kingston Ave. Lansdowne', 'Scottsdale', 'NH', 978196259),
+('Angelina', 'Accurso', 91, '9199 West St. Algonquin', 'Fort Wayne', 'OK', 949863786),
+('Angeline', 'Ace', 25, '794 Rock Creek Dr. Dundalk', 'Virginia Beach', 'WI', 322271934),
+('Angelique', 'Acebedo', 2, '12 Beaver Ridge Street Murrells Inlet', 'Laredo', 'FL', 889147665),
+('Angelita', 'Acebo', 86, '343 W. Ketch Harbour Ave. Queensbury', 'Plano', 'CT', 981104207),
+('Angella', 'Acedo', 36, '96 W. Prince St. Deerfield', 'Kansas City', 'ME', 759256459),
+('Angelo', 'Acee', 44, '44 Poor House Street Miami', 'Los Angeles', 'LA', 234470220),
+('Angelo', 'Aceituno', 80, '534 S. Marshall Dr. Ottumwa', 'Dallas', 'MT', 630085299),
+('Angelyn', 'Acencio', 3, '9 Richardson Ave. Egg Harbor Township', 'Chesapeake', 'KY', 575247868),
+('Angie', 'Aceret', 3, '7907 Valley Lane Cleveland', 'Bakersfield', 'AK', 134494981),
+('Angila', 'Acerno', 62, '7657 Santa Clara St. Union City', 'Jersey City', 'NM', 204845958),
+('Angla', 'Acero', 28, '142 Arcadia Dr. Brookfield', 'Kansas City', 'AR', 984247965),
+('Angle', 'Acerra', 97, '819 Pennsylvania Rd. Adrian', 'Chesapeake', 'VT', 992690274),
+('Anglea', 'Aceto', 71, '711 Mayfield Street Marquette', 'Madison', 'AK', 612237943),
+('Anh', 'Aceuedo', 86, '89 North Constitution Lane Palm Beach Gardens', 'Oakland', 'FL', 721686923),
+('Anibal', 'Acevado', 58, '52 Pulaski Lane Sunnyside', 'Laredo', 'RI', 315182162),
+('Anika', 'Aceveda', 37, '176 Wagon Drive Grand Haven', 'Milwaukee', 'MO', 727507405),
+('Anisa', 'Acevedo', 48, '67 Nichols Rd. Concord', 'Los Angeles', 'AR', 186725791),
+('Anisha', 'Aceves', 30, '9759 East Broad Drive Dracut', 'Dallas', 'WV', 479197005),
+('Anissa', 'Acey', 99, '5 Saxton Ave. Stuart', 'Oakland', 'NV', 799647793),
+('Anita', 'Acfalle', 28, '4 North Road New Port Richey', 'Philadelphia', 'WA', 790987242),
+('Anitra', 'Achane', 14, '7002 Mechanic Road Hazleton', 'San Jose', 'WV', 345747149),
+('Anja', 'Ache', 12, '256 Bayberry St. Moses Lake', 'Virginia Beach', 'IL', 234835116),
+('Anjanette', 'Acheampong', 62, '9665 Oak Dr. New City', 'Cincinnati', 'DE', 981062537),
+('Anjelica', 'Achee', 83, '266 South Hickory Street Santa Clara', 'Orlando', 'IL', 711027212),
+('Ann', 'Achekian', 39, '115 Pheasant St. Lithonia', 'Bakersfield', 'IN', 685439484),
+('Anna', 'Achenbach', 16, '133 Pilgrim Ave. Hightstown', 'Modesto', 'NH', 803832943),
+('Annabel', 'Acheson', 34, '7251 New Saddle Dr. Cockeysville', 'Orlando', 'CT', 135166392),
+('Annabell', 'Achille', 68, '7262 Bridge St. Baltimore', 'Minneapolis', 'SD', 627556658),
+('Annabelle', 'Achilles', 2, '657 Cleveland St. Kennewick', 'Riverside', 'UT', 994416795),
+('Annalee', 'Achin', 71, '32 Woodside St. Hallandale', 'Modesto', 'MD', 996538075),
+('Annalisa', 'Achor', 32, '16 Hilltop Street Rockledge', 'San Francisco', 'RI', 989686851),
+('Annamae', 'Achord', 46, '128 Sierra Lane Encino', 'Detroit', 'MN', 342617905),
+('Annamaria', 'Achorn', 14, '7365 East Ivy Street Cockeysville', 'Durham', 'CT', 545616896),
+('Annamarie', 'Achter', 76, '11 East Woodland Lane Elizabeth City', 'San Jose', 'AL', 190818839),
+('Anne', 'Achterhof', 51, '7770 North Marlborough Street Middle River', 'Charlotte', 'AR', 819340368),
+('Anneliese', 'Achzet', 8, '9138 Winchester Ave. Raleigh', 'North Hempstead', 'SD', 597712891),
+('Annelle', 'Achziger', 68, '507 Piper Rd. Clayton', 'San Jose', 'TN', 990894161),
+('Annemarie', 'Acierno', 20, '220 Richardson Avenue Jamaica Plain', 'Baltimore', 'MA', 193065130),
+('Annett', 'Acimovic', 72, '68 Lancaster St. Nottingham', 'Bakersfield', 'TX', 296382574),
+('Annetta', 'Ack', 36, '7351 N. School Lane Fairburn', 'Glendale', 'MI', 778343834),
+('Annette', 'Ackah', 89, '9873 Leeton Ridge Dr. Bel Air', 'Chicago', 'IN', 252758682),
+('Annice', 'Acken', 56, '8132 Manor Avenue Haines City', 'New York', 'WY', 721637575),
+('Annie', 'Acker', 85, '5 Howard Dr. Abingdon', 'San Antonio', 'IN', 791850236),
+('Annika', 'Ackerley', 98, '441 Gulf Ave. Stuart', 'Lexington-Fayette', 'VA', 446718798),
+('Annis', 'Ackerly', 57, '33 Nichols Road Roslindale', 'Madison', 'IA', 705626066),
+('Annita', 'Ackerman', 47, '37 South Rock Maple Road Ontario', 'Denver', 'ME', 603252493),
+('Annmarie', 'Ackermann', 22, '70 Oakland Street Banning', 'Scottsdale', 'SC', 620960416),
+('Anthony', 'Ackers', 79, '44 High Ridge St. Feasterville Trevose', 'Reno', 'ND', 759984182),
+('Anthony', 'Ackerson', 27, '8490 N. Thorne St. Dunedin', 'Birmingham', 'ME', 616324281),
+('Antione', 'Ackert', 1, '338 Arcadia Ave. Lake Zurich', 'Buffalo', 'NC', 920626918),
+('Antionette', 'Ackies', 42, '7328 East Kirkland Drive Green Bay', 'Orlando', 'NJ', 226539382),
+('Antoine', 'Ackins', 98, '991 West Dr. Brookfield', 'Austin', 'LA', 321210258),
+('Antoinette', 'Ackison', 34, '9160 Iroquois Lane Middleton', 'Columbus', 'RI', 715505302),
+('Anton', 'Ackiss', 84, '8256 Henry Avenue Rego Park', 'Toledo', 'NH', 652995307),
+('Antone', 'Ackland', 66, '7520 Hamilton Ave. Jupiter', 'Phoenix', 'GA', 526321030),
+('Antonetta', 'Acklen', 100, '7592 Tower St. Hixson', 'Tulsa', 'FL', 679047175),
+('Antonette', 'Ackles', 80, '330 W. Shore St. Helena', 'Plano', 'IA', 427852112),
+('Antonia', 'Ackley', 45, '724 Nut Swamp Lane Baldwin', 'San Bernardino', 'CO', 822562399),
+('Antonia', 'Acklin', 88, '9198 South Pineknoll Road Navarre', 'Huntington', 'AZ', 653078792),
+('Antonietta', 'Ackman', 80, '71 Cobblestone Ave. Owatonna', 'Stockton', 'NH', 890929816),
+('Antonina', 'Ackmann', 58, '473 Old Academy Dr. Winter Haven', 'St. Petersburg', 'VA', 462286274),
+('Antonio', 'Ackroyd', 50, '753 E. Shore Lane Newburgh', 'Milwaukee', 'VT', 136235758),
+('Antonio', 'Acly', 71, '8421 Annadale Dr. Torrance', 'Plano', 'UT', 846267500),
+('Antony', 'Acoba', 30, '62 Van Dyke St. Montgomery Village', 'Columbus', 'AL', 634247237),
+('Antwan', 'Acocella', 27, '74 Laurel Court Fairfield', 'Indianapolis', 'ND', 415570347),
+('Anya', 'Acock', 53, '7413 Lafayette Street Altamonte Springs', 'Stockton', 'MS', 417084499),
+('Apolonia', 'Acoff', 89, '7415 Union Drive Mesa', 'Birmingham', 'SC', 340180781),
+('April', 'Acor', 26, '7046 Van Dyke Avenue Grandville', 'Bakersfield', 'RI', 578331047),
+('Apryl', 'Acord', 9, '7763 Church Ave. Santa Cruz', 'Scottsdale', 'ME', 133592896),
+('Ara', 'Acorda', 49, '88 Hudson Ave. Point Pleasant Beach', 'St. Petersburg', 'NC', 421595719),
+('Araceli', 'Acors', 98, '129 S. Walt Whitman Drive Chapel Hill', 'Scottsdale', 'OH', 948607837),
+('Aracelis', 'Acosta', 66, '46 Walnut Street Oak Lawn', 'Laredo', 'NM', 327614761),
+('Aracely', 'Acosto', 62, '823 Virginia Drive Arlington Heights', 'Norfolk', 'OR', 922259043),
+('Arcelia', 'Acothley', 38, '74 Virginia Ave. Ravenna', 'Chicago', 'MS', 231154177),
+('Archie', 'Acquaviva', 32, '902 Shady Rd. Tullahoma', 'Kansas City', 'MT', 192769341),
+('Ardath', 'Acquilla', 67, '489 Rock Maple Court Lockport', 'El Paso', 'MS', 368108640),
+('Ardelia', 'Acre', 19, '8970 Essex Ave. Winchester', 'Norfolk', 'LA', 966701418),
+('Ardell', 'Acree', 45, '9655 Pilgrim Street Massillon', 'San Antonio', 'WV', 677487972),
+('Ardella', 'Acres', 5, '67 Tallwood Lane Metairie', 'Birmingham', 'AK', 593597133),
+('Ardelle', 'Acrey', 33, '9196 South Fremont Court Fullerton', 'Hialeah', 'NM', 306214019),
+('Arden', 'Acri', 96, '9479 Newcastle Ave. Newport News', 'Jacksonville', 'UT', 924786920),
+('Ardis', 'Acron', 94, '7350 Devon Ave. Mount Airy', 'Aurora', 'KY', 408454646),
+('Ardith', 'Actis', 39, '8685 Marconi Court Elmont', 'Miami', 'KY', 718045926),
+('Aretha', 'Acton', 77, '268 Oklahoma St. Owosso', 'Tampa', 'IN', 270289661),
+('Argelia', 'Acuff', 92, '7210 SE. Wrangler St. Wilmington', 'Long Beach', 'MO', 426540934),
+('Argentina', 'Acuna', 36, '130 Race Avenue New Kensington', 'Montgomery', 'OR', 404708424),
+('Ariana', 'Acy', 65, '8534 East Sulphur Springs Ave. Roswell', 'Anaheim', 'AK', 947761714),
+('Ariane', 'Ada', 48, '8528 6th Court Waterbury', 'Minneapolis', 'MN', 381806996),
+('Arianna', 'Adachi', 7, '7248 Homestead Ave. Chambersburg', 'Anaheim', 'MT', 716950686),
+('Arianne', 'Adair', 51, '7277 Plumb Branch Rd. Mishawaka', 'Norfolk', 'AL', 770707800),
+('Arica', 'Adalja', 38, '376 St Paul St. Terre Haute', 'Riverside', 'NM', 612815864),
+('Arie', 'Adam', 3, '8839 Monroe Street Patchogue', 'Laredo', 'NJ', 181459442),
+('Ariel', 'Adamaitis', 2, '971 Prince Ave. Avon Lake', 'Fort Wayne', 'DE', 235761711),
+('Ariel', 'Adamcik', 49, '7887 Thomas Street Utica', 'Detroit', 'ID', 710504178),
+('Arielle', 'Adamczak', 63, '7378 Van Dyke Ave. Cincinnati', 'Santa Ana', 'IA', 613680179),
+('Arla', 'Adamczyk', 2, '780 Depot Drive Hallandale', 'Washington', 'OK', 247365075),
+('Arlean', 'Adame', 94, '764 Oak Meadow Street Bettendorf', 'Corpus Christi', 'NM', 732288830),
+('Arleen', 'Adamec', 10, '547 East Rocky River Avenue Wellington', 'St. Louis', 'KY', 913069507),
+('Arlen', 'Adamek', 91, '5 New Rd. Oxford', 'Oakland', 'NH', 167777243),
+('Arlena', 'Adames', 90, '9360 Pheasant St. Clarkston', 'Oklahoma City', 'DE', 241612661),
+('Arlene', 'Adami', 53, '24 West Clay Circle Griffin', 'Virginia Beach', 'WY', 887435422),
+('Arletha', 'Adamiak', 93, '9302 Myers Lane Solon', 'Las Vegas', 'MI', 767515293),
+('Arletta', 'Adamik', 12, '139 Smith Dr. Boynton Beach', 'Arlington', 'NJ', 573582169),
+('Arlette', 'Adamis', 68, '424 Big Rock Cove St. Front Royal', 'Oakland', 'TN', 755342547),
+('Arlie', 'Adamitis', 73, '353 Stillwater Ave. Blackwood', 'Atlanta', 'NV', 577378821),
+('Arlinda', 'Adamo', 79, '902 Acacia Street Forest Hills', 'Akron', 'RI', 585893956),
+('Arline', 'Adamos', 6, '634 Philmont Court Rosedale', 'St. Louis', 'HI', 693467231),
+('Arlyne', 'Adamowski', 73, '21 River St. North Attleboro', 'Honolulu', 'FL', 508668160),
+('Armand', 'Adams', 16, '9292 Hudson Lane York', 'New Orleans', 'MT', 363424864),
+('Armanda', 'Adamsen', 56, '123 SW. Jennings St. Billings', 'Newark', 'ID', 889492245),
+('Armandina', 'Adamski', 58, '540 North Stonybrook Street Dearborn', 'Cleveland', 'AR', 995981665),
+('Armando', 'Adamsky', 27, '554 North Forest Lane Tampa', 'Los Angeles', 'GA', 792617968),
+('Armida', 'Adamson', 99, '7439 Division Drive Torrance', 'St. Petersburg', 'NJ', 988383704),
+('Arminda', 'Adamsonis', 84, '46 South Court Dr. Graham', 'Rochester', 'MA', 508850807),
+('Arnetta', 'Adamyan', 91, '19 Warren Street Cockeysville', 'Chula Vista', 'IN', 132893297),
+('Arnette', 'Adan', 9, '895 Clinton Lane San Angelo', 'Pittsburgh', 'PA', 418283820),
+('Arnita', 'Adank', 32, '9689 Sheffield Ave. Berwyn', 'Phoenix', 'ND', 814620005),
+('Arnold', 'Adas', 70, '8206 Forest St. Traverse City', 'Buffalo', 'TX', 931797609),
+('Arnoldo', 'Adauto', 21, '7111 La Sierra Ave. Lemont', 'Colorado Springs', 'SC', 901938964),
+('Arnulfo', 'Adaway', 29, '65 Linda Street Mount Prospect', 'Dallas', 'IA', 888852775),
+('Aron', 'Aday', 44, '108 Rockaway Street Auburndale', 'Anaheim', 'MO', 899093019),
+('Arron', 'Adcock', 44, '23 Bohemia Rd. Toms River', 'Boston', 'WA', 716279877),
+('Art', 'Adcox', 70, '92 Brook St. Los Banos', 'Huntington', 'NV', 395211402),
+('Arthur', 'Addair', 69, '465 Summerhouse Street Melbourne', 'Fort Worth', 'IA', 831503872),
+('Arthur', 'Addams', 80, '92 Harvey Street Whitehall', 'New York', 'UT', 569098565),
+('Artie', 'Addario', 44, '2 Hillside Court Upper Darby', 'Pittsburgh', 'NH', 857366367),
+('Arturo', 'Addeo', 84, '941 Fawn Drive Clover', 'Tulsa', 'SD', 123774146),
+('Arvilla', 'Adderley', 85, '315 Plymouth Drive Long Beach', 'Glendale', 'LA', 956794793),
+('Asa', 'Adderly', 64, '8 Country St. Farmingdale', 'Greensboro', 'OH', 769404446),
+('Asha', 'Addesso', 0, '8209 Walnut Street Decatur', 'North Hempstead', 'MS', 810755614),
+('Ashanti', 'Addicks', 65, '8 Studebaker Road Danbury', 'St. Louis', 'OK', 764775386),
+('Ashely', 'Addie', 72, '194 Helen Avenue Queensbury', 'Corpus Christi', 'AR', 655274875),
+('Ashlea', 'Addiego', 14, '975 Edgewater St. Parkersburg', 'Chandler', 'MS', 839887500),
+('Ashlee', 'Addington', 26, '966 Virginia Dr. Orland Park', 'Montgomery', 'GA', 291786949),
+('Ashleigh', 'Addis', 57, '7903 Lakeshore Drive Ravenna', 'St. Paul', 'NM', 670123786),
+('Ashley', 'Addison', 27, '7862 Euclid Lane Alabaster', 'Detroit', 'NJ', 250972928),
+('Ashley', 'Addleman', 77, '309 Wayne Ave. Easley', 'St. Louis', 'UT', 342270113),
+('Ashli', 'Addo', 93, '17 Golf Dr. Bay City', 'Fresno', 'WY', 477584261),
+('Ashlie', 'Adduci', 63, '440 Fairview Street Omaha', 'Chandler', 'IN', 971770324),
+('Ashly', 'Addy', 81, '55 Middle River St. Tucson', 'Boise', 'AZ', 805245675),
+('Ashlyn', 'Ade', 39, '9718 South Durham Lane Huntersville', 'Montgomery', 'LA', 520034711),
+('Ashton', 'Adebisi', 27, '7054 Rocky River Street Levittown', 'Fresno', 'NM', 375636638),
+('Asia', 'Adee', 81, '7920 Newbridge Dr. Garden City', 'Long Beach', 'VA', 219457648),
+('Asley', 'Adel', 19, '8061 Thorne Ave. Forney', 'Virginia Beach', 'TX', 644999981),
+('Assunta', 'Adelblue', 44, '63 Lees Creek Court Greenwood', 'Glendale', 'WA', 185914772),
+('Astrid', 'Adelgren', 53, '8169 Applegate St. Davison', 'Lubbock', 'WA', 381100388),
+('Asuncion', 'Adelizzi', 67, '8849 Miles Drive Olive Branch', 'St. Paul', 'GA', 640674247),
+('Athena', 'Adell', 27, '444 Rockville Dr. Zeeland', 'Fresno', 'MA', 291179819),
+('Aubrey', 'Adelman', 23, '9019 Delaware Street Dekalb', 'Hialeah', 'IL', 993201599),
+('Aubrey', 'Adelmann', 99, '905 Arch Street Hendersonville', 'Virginia Beach', 'WI', 837302901),
+('Audie', 'Adelmund', 46, '172 Bridgeton Ave. Wilmington', 'Anaheim', 'NV', 433527096),
+('Audra', 'Adels', 59, '9277 6th Rd. Waltham', 'Aurora', 'OR', 365682589),
+('Audrea', 'Adelsberg', 14, '29 E. Airport St. Rolla', 'Glendale', 'KS', 796854148),
+('Audrey', 'Adelson', 87, '41 Valley Farms Avenue Saginaw', 'Buffalo', 'MI', 604524470),
+('Audria', 'Adelsperger', 45, '3 Lees Creek Ave. Nanuet', 'Chesapeake', 'AK', 728598483),
+('Audrie', 'Adelstein', 10, '9311 North Oklahoma Street Hillsboro', 'Chula Vista', 'WY', 598574964),
+('Audry', 'Adema', 18, '613 Locust St. Mansfield', 'Hialeah', 'MA', 768146763),
+('August', 'Aden', 44, '135 North Plymouth Ave. Ossining', 'Pittsburgh', 'WI', 140454553),
+('Augusta', 'Adens', 62, '8330 Hudson Rd. Roseville', 'Henderson', 'ND', 415983352),
+('Augustina', 'Ader', 17, '598 North North Street Roanoke Rapids', 'Chicago', 'MN', 216434180),
+('Augustine', 'Aderhold', 74, '344 Arnold Ave. Downers Grove', 'Seattle', 'MA', 171538743),
+('Augustine', 'Aderholdt', 46, '707 West Rd. Lake Villa', 'Jacksonville', 'ND', 880190144),
+('Augustus', 'Aderholt', 42, '499 Nichols Court Kennesaw', 'Corpus Christi', 'KY', 239615121),
+('Aundrea', 'Aderman', 29, '372 East Cherry Street Sylvania', 'Honolulu', 'PA', 788460186),
+('Aura', 'Aderson', 23, '8286 East Ridgeview Road Staten Island', 'Seattle', 'VT', 995291292),
+('Aurea', 'Ades', 21, '7472 Rosewood Rd. Jamaica', 'Laredo', 'CA', 281443283),
+('Aurelia', 'Adessa', 57, '73 Wentworth Street Glasgow', 'Madison', 'KS', 362006554),
+('Aurelio', 'Adesso', 37, '7549 Mayfield Street New Castle', 'Lubbock', 'TN', 478124150),
+('Aurora', 'Adey', 54, '182 N. Smoky Hollow Lane Lincoln', 'Boise', 'OK', 355899555),
+('Aurore', 'Adeyemo', 21, '7223 Garfield Dr. Holyoke', 'Los Angeles', 'WY', 713836028),
+('Austin', 'Adger', 54, '802 Fulton St. Logansport', 'Corpus Christi', 'ND', 929379990),
+('Austin', 'Adham', 89, '36 Grant Dr. Baldwin', 'Baltimore', 'WV', 379790702),
+('Autumn', 'Adhami', 10, '18 Brandywine Dr. Ocean Springs', 'Plano', 'SC', 120724469),
+('Ava', 'Adi', 99, '96 Union Dr. Bristol', 'Miami', 'IA', 260973127),
+('Avelina', 'Adib', 44, '56 Border Circle Mableton', 'Wichita', 'NJ', 410150661),
+('Avery', 'Adickes', 59, '52 Bay Meadows Ave. Douglasville', 'Fort Wayne', 'OH', 454182104),
+('Avery', 'Adie', 82, '8783 Dogwood Ave. Tuckerton', 'Santa Ana', 'ND', 134468902),
+('Avis', 'Adil', 29, '22 Holly Road Roseville', 'Norfolk', 'MD', 785798848),
+('Avril', 'Adinolfi', 90, '92 Pennington Dr. Niagara Falls', 'Los Angeles', 'ME', 604543313),
+('Awilda', 'Adjei', 3, '7021 Arlington Dr. Lumberton', 'Chesapeake', 'ME', 150888689),
+('Ayako', 'Adjutant', 78, '7413 Heritage Ave. Fair Lawn', 'Chesapeake', 'WV', 533342585),
+('Ayana', 'Adkerson', 32, '9384 Shirley St. Painesville', 'Milwaukee', 'IA', 862471234),
+('Ayanna', 'Adkin', 89, '677 East Ridge Rd. Davison', 'Virginia Beach', 'AR', 858968487),
+('Ayesha', 'Adkins', 21, '618 West Heather Ave. Reading', 'Portland', 'ND', 527972710),
+('Azalee', 'Adkinson', 35, '405 Nut Swamp Ave. Flushing', 'Las Vegas', 'CO', 834317748),
+('Azucena', 'Adkison', 17, '15 Richardson St. Albany', 'Dallas', 'MA', 691375777),
+('Azzie', 'Adkisson', 75, '8243 Thompson Court Danbury', 'Anaheim', 'AZ', 624954607),
+('Babara', 'Adlam', 86, '7373 Woodsman Street Gurnee', 'Tampa', 'IL', 951340902),
+('Babette', 'Adle', 59, '9445 Livingston Drive Valrico', 'Miami', 'PA', 875364036),
+('Bailey', 'Adleman', 65, '857 S. Poplar Street Jenison', 'Baton Rouge', 'AK', 979780203),
+('Bambi', 'Adler', 4, '9658 Tunnel Dr. Winchester', 'Austin', 'NV', 758280841),
+('Bao', 'Adley', 64, '34 Market Ave. Rome', 'Santa Ana', 'WY', 164930677),
+('Barabara', 'Adling', 21, '872 Wild Horse Street Frankfort', 'Milwaukee', 'NV', 122004946),
+('Barb', 'Adloff', 52, '85 Somerset Street Honolulu', 'Plano', 'MI', 317773067),
+('Barbar', 'Admas', 45, '74 North Branch Street Williamsburg', 'Los Angeles', 'AZ', 568368409),
+('Barbara', 'Admire', 7, '62 Stillwater Dr. Round Lake', 'Mesa', 'NV', 637668754),
+('Barbera', 'Adner', 94, '9734 Andover St. Strongsville', 'Tampa', 'VA', 182488297),
+('Barbie', 'Adney', 66, '39 Constitution Street Halethorpe', 'Chandler', 'AZ', 477405002),
+('Barbra', 'Adolf', 14, '96 Carriage Ave. Schaumburg', 'St. Petersburg', 'NJ', 515809472),
+('Bari', 'Adolfo', 6, '91 Maiden Road Hope Mills', 'Hialeah', 'VA', 490089284),
+('Barney', 'Adolfson', 15, '66 Brook St. Hinesville', 'Madison', 'OH', 733262961),
+('Barrett', 'Adolph', 69, '372 Purple Finch Ave. Conyers', 'Phoenix', 'WY', 514445199),
+('Barrie', 'Adolphe', 74, '8 County St. Lincoln Park', 'Tampa', 'AZ', 579484537),
+('Barry', 'Adolphsen', 83, '954 Arlington Dr. Avon Lake', 'Greensboro', 'TX', 514984239),
+('Bart', 'Adolphson', 32, '9108 E. Nicolls Drive Chandler', 'Fort Wayne', 'SD', 685436943),
+('Barton', 'Adolphus', 100, '937 Dogwood Dr. West Bloomfield', 'Arlington', 'SD', 273839390),
+('Basil', 'Adomaitis', 48, '9 S. Hamilton St. North Fort Myers', 'St. Paul', 'MS', 350727793),
+('Basilia', 'Adon', 55, '4 South Green Avenue Palatine', 'Omaha', 'LA', 836048571),
+('Bea', 'Adonis', 13, '653 Cobblestone St. Chardon', 'Anchorage', 'SD', 971413709),
+('Beata', 'Adorno', 11, '9213 Peg Shop St. Marquette', 'Long Beach', 'HI', 866543279),
+('Beatrice', 'Adragna', 28, '20 Foster Ave. Hagerstown', 'Boston', 'LA', 882870285),
+('Beatris', 'Adrian', 89, '261 Pacific St. Morrisville', 'Fresno', 'IL', 571207639),
+('Beatriz', 'Adriance', 21, '206 Nut Swamp Ave. Oak Forest', 'Madison', 'AK', 342199184),
+('Beau', 'Adriano', 79, '54 Roberts St. Yakima', 'Toledo', 'PA', 685642786),
+('Beaulah', 'Adrid', 31, '2 South Drive Wausau', 'Omaha', 'IN', 776316363),
+('Bebe', 'Adrien', 21, '51 Sycamore Drive Oak Ridge', 'Fort Worth', 'AK', 773526000),
+('Becki', 'Adrion', 43, '898 Livingston Drive Grovetown', 'Norfolk', 'AK', 655687018),
+('Beckie', 'Adrovel', 63, '74 Brookside Street Santa Clara', 'Jersey City', 'DE', 858268127),
+('Becky', 'Adside', 10, '643 Mayfair Lane Lakeville', 'Albuquerque', 'NM', 378451301),
+('Bee', 'Adsit', 39, '8033 Edgewater St. Tucson', 'Jersey City', 'NM', 224305519),
+('Belen', 'Adu', 30, '9029 Vine Ave. Elk River', 'Aurora', 'NM', 857533361),
+('Belia', 'Aduddell', 78, '73 Maple Lane Omaha', 'San Jose', 'VA', 292856485),
+('Belinda', 'Adule', 38, '55 Morris Ave. Pittsford', 'Nashville-Davidson', 'VA', 333552610),
+('Belkis', 'Adwell', 34, '7441 Fifth Drive Batavia', 'St. Petersburg', 'HI', 202537490),
+('Bell', 'Ady', 37, '231 Edgemont Ave. Millington', 'Madison', 'ID', 861613732),
+('Bella', 'Adzhabakyan', 39, '33 El Dorado Street Jacksonville Beach', 'Glendale', 'GA', 874646158),
+('Belle', 'Aegerter', 7, '38 East Pleasant Circle Poughkeepsie', 'Austin', 'IL', 464199719),
+('Belva', 'Aeillo', 88, '9859 Gartner Dr. Derby', 'Boston', 'MD', 791206616),
+('Ben', 'Aeling', 99, '83 Marvon Lane Louisville', 'North Hempstead', 'RI', 240331741),
+('Benedict', 'Aemmer', 41, '96 Cooper St. Westfield', 'Corpus Christi', 'NM', 485190450),
+('Benita', 'Aerni', 98, '636 Birchwood St. Glendora', 'Buffalo', 'ME', 814557406),
+('Benito', 'Aerts', 71, '77 Green Ave. Gulfport', 'Kansas City', 'OK', 485709001),
+('Benjamin', 'Aery', 11, '853 Birch Hill Ave. Elyria', 'Mesa', 'MO', 465240815),
+('Bennett', 'Aeschbacher', 74, '916 Rockwell Street Everett', 'Newark', 'IL', 914247355),
+('Bennie', 'Aeschliman', 46, '856 Ridge Dr. Newton', 'Lincoln', 'OK', 145610032),
+('Bennie', 'Aeschlimann', 56, '58 Madison Lane Chaska', 'Philadelphia', 'KY', 948032646),
+('Benny', 'Afable', 30, '531 Forest St. Redford', 'Minneapolis', 'IA', 814303488),
+('Benton', 'Afalava', 5, '898 Philmont Court Orchard Park', 'Norfolk', 'VA', 890771737),
+('Berenice', 'Afan', 46, '195 S. Hillcrest St. Ottumwa', 'Houston', 'AR', 919705531),
+('Berna', 'Afanador', 50, '11 Stillwater St. Grovetown', 'Chesapeake', 'IA', 800741402),
+('Bernadette', 'Affagato', 17, '58 Santa Clara Rd. Elmhurst', 'Chandler', 'OK', 906890462),
+('Bernadine', 'Affeld', 11, '241 Gonzales St. Anaheim', 'Seattle', 'AR', 259931910),
+('Bernard', 'Affelt', 23, '7128 Bridle Street West Lafayette', 'Portland', 'NC', 741987518),
+('Bernarda', 'Affeltranger', 69, '66 Newport Road Gaithersburg', 'Plano', 'VA', 692821606),
+('Bernardina', 'Affleck', 32, '50 Sunbeam Ave. Paramus', 'Jacksonville', 'AK', 965692775),
+('Bernardine', 'Afflick', 1, '95 Taylor Street Drexel Hill', 'Norfolk', 'IN', 271899624),
+('Bernardo', 'Affolter', 90, '6 Pineknoll St. Astoria', 'San Diego', 'AZ', 313702424),
+('Berneice', 'Affronti', 35, '759 Summerhouse Lane Gainesville', 'Toledo', 'MS', 151700444),
+('Bernetta', 'Aflalo', 58, '4 Madison Lane Banning', 'Fort Worth', 'TX', 800277259),
+('Bernice', 'Afoa', 8, '246 Sunbeam Road Statesville', 'Phoenix', 'MT', 829600557),
+('Bernie', 'Afonso', 74, '8195 Orange Dr. Utica', 'Columbus', 'AZ', 868617433),
+('Bernie', 'Africa', 36, '357 Devon St. Grayslake', 'Anchorage', 'CO', 433299667),
+('Berniece', 'Afshar', 86, '3 Water Lane Maryville', 'El Paso', 'DE', 823399740),
+('Bernita', 'Afshari', 10, '8086 East Lower River St. East Orange', 'Hialeah', 'AK', 718015788),
+('Berry', 'Afton', 87, '482 Elm Ave. Blacksburg', 'Toledo', 'NV', 417501759),
+('Berry', 'Afurong', 24, '779 Lawrence St. Marion', 'Austin', 'KY', 541494446),
+('Bert', 'Afzal', 12, '8285 Bridle St. Muskego', 'Anaheim', 'MI', 822114338),
+('Berta', 'Agamao', 84, '8954 Trout Street Elmhurst', 'Memphis', 'KY', 215382293),
+('Bertha', 'Agan', 77, '8850 Beechwood Street Reston', 'St. Louis', 'TX', 553049866),
+('Bertie', 'Agans', 5, '774 Rosewood Ave. Wadsworth', 'Nashville-Davidson', 'NV', 840475562),
+('Bertram', 'Agar', 54, '41 Buttonwood St. Germantown', 'Chicago', 'RI', 314979183),
+('Beryl', 'Agard', 37, '8757 Belmont St. Fort Washington', 'Chicago', 'OH', 825106945),
+('Bess', 'Agarwal', 3, '8869 N. Wood Ave. Snohomish', 'Memphis', 'WI', 285561915),
+('Bessie', 'Agbayani', 22, '522 Bow Ridge St. Sidney', 'San Francisco', 'IL', 115035516),
+('Beth', 'Agbisit', 12, '749 Fairfield St. Wooster', 'Raleigh', 'CA', 926360428),
+('Bethanie', 'Agcaoili', 37, '79 Shipley St. Clermont', 'Wichita', 'WA', 956529320),
+('Bethann', 'Age', 40, '97 Devon Rd. Malvern', 'Colorado Springs', 'MS', 624653761),
+('Bethany', 'Ageboi', 87, '47 Pulaski Lane Brookline', 'Philadelphia', 'TN', 612408707)
+;
