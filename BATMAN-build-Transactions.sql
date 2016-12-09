@@ -1,5 +1,5 @@
-## BATMAN-build-Transactions.sql
-## Team mySQL is better than yourSQL
+-- BATMAN-build-Transactions.sql
+-- Team mySQL is better than yourSQL
 
 INSERT INTO Transactions(AccountFrom, AccountTo, TransactionAmount, TransactionType, TransactionDate) VALUES
 (705,933,998.85,"TRANSFER","2015-01-25")
