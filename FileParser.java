@@ -1,17 +1,37 @@
-public static FileToString(String fileName) throws Exception {
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+public static ArrayList<String> FileToString(String fileName) throws Exception {
+   ArrayList<String> list = new ArrayList<String>();
    File file = new File(fileName);
 
    Scanner scan = new Scanner(file);
-   StringBuilder text = new StringBuilder();
-   String line = "";
+   StringBuilder query;
+   String line;
 
    while (scan.hasNextLine())
    {
-      line = scan.nextLine();
-      line = line.replaceAll(";", "; ");
-      text.append(line);
-      text.append("\n");
+      line = "";
+      query = new StringBuilder();
+      while (scan.hasNextLine()) 
+      {
+         line = scan.nextLine(); 
+         if (line.contains(";")) 
+         {
+            break;
+         }
+         query.append(line);
+      }
+      if (scan.hasNextLine())
+      {
+         query.append("; "); 
+      }
+      if (!(query.toString().equals(""))) {
+         list.add(query.toString());
+      }
    }
+   scan.close();
 
-   return text.toString();
+   return list;
 }
