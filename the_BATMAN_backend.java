@@ -49,7 +49,7 @@ public class the_BATMAN_backend {
       };
    }
 
-   private void connClose() {
+   public void connClose() {
       try{
          Statement s1 = conn.createStatement();
          s1.executeUpdate("commit;");
@@ -115,11 +115,6 @@ public class the_BATMAN_backend {
       };
    }
 
-   public void close() {
-      connClose();
-      System.exit(0);
-   }
-
    private void show_tables() {
       try {
          connConnect();
@@ -167,12 +162,12 @@ public class the_BATMAN_backend {
       return list;
    }
 
-   public int CustomerId_From_Name(String FirstName, String LastName) {
+   public int CustomerId_From_Name(String FirstName, String LastName) throws Exception {
       ResultSet results;
       boolean resultBool;
       Statement s1 = conn.createStatement();
 
-      results = s1.executeQuery("SELECT CustomerID FROM Customers WHERE FirstName = '" + FirstName + "' AND LastName = '" + LastName "';");
+      results = s1.executeQuery("SELECT CustomerID FROM Customers WHERE FirstName = '" + FirstName + "' AND LastName = '" + LastName +"';");
       resultBool = results.next();
 
       if (resultBool) {
@@ -181,13 +176,13 @@ public class the_BATMAN_backend {
       return -1;
    }
 
-   public String[] Get_Customer_Name(int customerId) {
+   public String[] Get_Customer_Name(int customerId) throws Exception {
       ResultSet results;
       boolean resultBool;
       Statement s1 = conn.createStatement();
       String names[] = {"", ""};
 
-      results = s1.executeQuery("SELECT FirstName, LastName FROM Customers WHERE CustomerID = " + customerId + ;");
+      results = s1.executeQuery("SELECT FirstName, LastName FROM Customers WHERE CustomerID = " + customerId + ";");
 
       resultBool = results.next();
       if (resultBool) {
@@ -197,7 +192,7 @@ public class the_BATMAN_backend {
       return names;
    }
 
-   public boolean Customer_Is_Valid(int customerId) {
+   public boolean Customer_Is_Valid(int customerId) throws Exception {
       String names[] = Get_Customer_Name(customerId);
     
       if (!names[0].equals("") && !names[1].equals("")) {
@@ -206,7 +201,7 @@ public class the_BATMAN_backend {
       return false;
    }
 
-   public int[] Create_New_User() {
+   public int[] Create_New_User(String FirstName, String LastName, int age, String street, String city, String state, int phoneNum, String accntType, float accountValue) throws Exception {
 
       Statement s1 = conn.createStatement();
       ResultSet results;
@@ -214,7 +209,7 @@ public class the_BATMAN_backend {
       int customerId;
       boolean resultBool;
 
-      s1.executeUpdate("INSERT INTO Customers (FirstName, LastName, Age, Street, City, State, PhoneNumber) VALUES('" + FirstName + "', '" + LastName + "', " + age ", '" + street + "', '" + city + "', '" + state + "', " + phoneNum + ");");
+      s1.executeUpdate("INSERT INTO Customers (FirstName, LastName, Age, Street, City, State, PhoneNumber) VALUES('" + FirstName + "', '" + LastName + "', " + age + ", '" + street + "', '" + city + "', '" + state + "', " + phoneNum + ");");
 
       returns[0] = CustomerId_From_Name(FirstName, LastName);
 
@@ -230,26 +225,26 @@ public class the_BATMAN_backend {
 
    }
 
-   public void Delete_User(int customerId) {
+   public void Delete_User(int customerId) throws Exception {
       Statement s1 = conn.createStatement();
       s1.executeUpdate("DELETE FROM Accounts WHERE CustomerID = " + customerId + ";");
       s1.executeUpdate("DELETE FROM Customers WHERE CustomerID = " + customerId + ";");
    }
 
-   public void Delete_User(String FirstName, String LastName) {
+   public void Delete_User(String FirstName, String LastName) throws Exception {
       Delete_User(CustomerId_From_Name(FirstName, LastName));
    }
 
-   public void Delete_Account(int accountNumber) {
+   public void Delete_Account(int accountNumber) throws Exception {
       Statement s1 = conn.createStatement();
       s1.executeUpdate("DELETE FROM Accounts WHERE AccountNumber = " + accountNumber + ";");
    }
 
-   public float[] Get_All_Accounts_Balances(int customerId) {
+   public float[] Get_All_Accounts_Balances(int customerId) throws Exception {
       ResultSet results;
       boolean resultBool;
       Statement s1 = conn.createStatement();
-      float returns[10] = {0};
+      float returns[] = new float[10];
       int i = 0;
 
       results = s1.executeQuery("SELECT AccountNumber, AccountValue FROM Accounts NATURAL JOIN Customers WHERE CustomerID = " + customerId + ";");
@@ -264,7 +259,7 @@ public class the_BATMAN_backend {
       return returns;
    }
 
-   public float Get_Account_Value(int accntNumber) {
+   public float Get_Account_Value(int accntNumber) throws Exception {
       ResultSet results;
       boolean resultBool;
       Statement s1 = conn.createStatement();
@@ -279,7 +274,7 @@ public class the_BATMAN_backend {
       return -1;
    }
 
-   private int Get_Newest_TransID() {
+   private int Get_Newest_TransID() throws Exception {
       ResultSet results;
       boolean resultBool;
       Statement s1 = conn.createStatement();
@@ -293,13 +288,13 @@ public class the_BATMAN_backend {
       return -1;
    }
 
-   private void Update_Accounts(float value, int accntNumber) {
+   private void Update_Accounts(float value, int accntNumber) throws Exception {
       Statement s1 = conn.createStatement();
 
       s1.executeUpdate("UPDATE Accounts SET AccountValue = AccountValue + " + value + " WHERE AccountNumber = " + accntNumber + ";");
    }
 
-   private void Create_Transaction(int accntFrom, int accntTo, float value, String accntType, Date date) {
+   private void Create_Transaction(int accntFrom, int accntTo, float value, String accntType, java.sql.Date date) throws Exception {
       ResultSet results;
       boolean resultBool;
       Statement s1 = conn.createStatement();
@@ -309,14 +304,15 @@ public class the_BATMAN_backend {
 
    } 
 
-   public Date Get_Current_Date() {
+   public java.sql.Date Get_Current_Date() {
+      return null;
    }
 
-   public float[] Transfer(int accntTO, int accntFROM, float value) {
+   public float[] Transfer(int accntTO, int accntFROM, float value) throws Exception {
       float returns[] = {-1, -1, -1};
-      Create_Transaction(accntFROM, accntTO, float value, "TRANSFER", date);
-      Update_Accounts((-1 * value), accountFROM);
-      Update_Accounts(value, accountTO);
+      Create_Transaction(accntFROM, accntTO, value, "TRANSFER", Get_Current_Date());
+      Update_Accounts((-1 * value), accntFROM);
+      Update_Accounts(value, accntTO);
       returns[0] = (float)Get_Newest_TransID();
       returns[1] = Get_Account_Value(accntFROM);
       returns[2] = Get_Account_Value(accntTO);
@@ -324,19 +320,19 @@ public class the_BATMAN_backend {
       return returns;
    }
 
-   public void Withdraw(int accntNum, float value) {
-      Create_Transaction(accntNum, accntNum, value, "SELF", date);
-      Update_Accounts((-1 * value), accntFROM);
-      return Get_Account_Value(accntFROM);
+   public float Withdraw(int accntNum, float value) throws Exception {
+      Create_Transaction(accntNum, accntNum, value, "SELF", Get_Current_Date());
+      Update_Accounts((-1 * value), accntNum);
+      return Get_Account_Value(accntNum);
    }
 
-   public void Deposit(int accntNum, float value) {
-      Create_Transaction(accntNum, accntNum, value, "SELF", date);
-      Update_Accounts(value, accntTO);
-      return Get_Account_Value(accntTO);
+   public float Deposit(int accntNum, float value) throws Exception {
+      Create_Transaction(accntNum, accntNum, value, "SELF", Get_Current_Date());
+      Update_Accounts(value, accntNum);
+      return Get_Account_Value(accntNum);
    }
 
-   public String Get_Transaction_Date(int transactionID) {
+   public String Get_Transaction_Date(int transactionID) throws Exception {
       ResultSet results;
       boolean resultBool;
       Statement s1 = conn.createStatement();
@@ -351,10 +347,10 @@ public class the_BATMAN_backend {
       return "";
    }
 
-   public String[] List_Of_Transactions_Per_User(int customerId, int accntNum) {
+   public String[] List_Of_Transactions_Per_User(int customerId, int accntNum) throws Exception {
       ResultSet results;
       boolean resultBool;
-      String returns[10] = {""};
+      String returns[] = new String[10];
       int i = 0;
       Statement s1 = conn.createStatement();
       
@@ -370,7 +366,7 @@ public class the_BATMAN_backend {
       return returns; 
    } 
 
-   public int Customers_In_State(String state){
+   public int Customers_In_State(String state) throws Exception {
       ResultSet results;
       boolean resultBool;
       Statement s1 = conn.createStatement();
@@ -384,7 +380,7 @@ public class the_BATMAN_backend {
       return -1;
    }
 
-   public void Customers_In_City(String city){
+   public int Customers_In_City(String city) throws Exception {
       ResultSet results;
       boolean resultBool;
       Statement s1 = conn.createStatement();
@@ -398,7 +394,7 @@ public class the_BATMAN_backend {
       return -1;
    }  
 
-   public String Customer_Age_Histogram(int beginAge, int endAge){
+   public String Customer_Age_Histogram(int beginAge, int endAge) throws Exception {
       ResultSet results;
       boolean resultBool;
       Statement s1 = conn.createStatement();
@@ -413,8 +409,8 @@ public class the_BATMAN_backend {
       return "";
    }
 
-   public String[] Customer_Age_Histogram(){
-      String results[10] = {""};   
+   public String[] Customer_Age_Histogram() throws Exception {
+      String results[] = new String[10];   
       int beginAge = 0, i = 0;      
 
       while (beginAge < 100 && i < 10) {
@@ -425,12 +421,12 @@ public class the_BATMAN_backend {
       return results; 
    }
 
-   public String[] Customer_Account_Histogram_Transaction_Amounts(int customerId) {
+   public String[] Customer_Account_Histogram_Transaction_Amounts(int customerId) throws Exception {
       ResultSet results;
       boolean resultBool;
       int i = 0;
       Statement s1 = conn.createStatement();
-      String returns[10] = "";
+      String returns[] = new String[10];
       
       results = s1.executeQuery("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Total_Transacted FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND CustomerID = " + customerId + " GROUP BY AccountNumber, TransactionDate;");
       resultBool = results.next();
@@ -442,12 +438,12 @@ public class the_BATMAN_backend {
       return returns;
    }
 
-   public String[] Customer_Account_Histogram_Withdrawals(int customerId) {
+   public String[] Customer_Account_Histogram_Withdrawals(int customerId) throws Exception {
       ResultSet results;
       boolean resultBool;
       int i = 0;
       Statement s1 = conn.createStatement();
-      String returns[10] = "";
+      String returns[] = new String[10];
 
       results = s1.executeQuery("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Total_Withdrawn FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND TransactionType = 'SELF' AND CustomerID = " + customerId + " GROUP BY AccountNumber, TransactionDate;");
       resultBool = results.next();
@@ -459,12 +455,12 @@ public class the_BATMAN_backend {
       return returns;
    }
   
-   public String[] Customer_Account_Histogram_Deposits(int customerId) {
+   public String[] Customer_Account_Histogram_Deposits(int customerId) throws Exception {
       ResultSet results;
       boolean resultBool;
       int i = 0;
       Statement s1 = conn.createStatement();
-      String returns[10] = "";
+      String returns[] = new String[10];
 
       results = s1.executeQuery("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Total_Deposited FROM Transactions, Accounts WHERE AccountNumber = AccountTo AND TransactionType = 'SELF' AND CustomerID = " + customerId + " GROUP BY AccountNumber, TransactionDate;");
       resultBool = results.next();
@@ -476,12 +472,12 @@ public class the_BATMAN_backend {
       return returns;
    }
 
-   public String[] Customer_Account_Histogram_Transfers(int customerId) {
+   public String[] Customer_Account_Histogram_Transfers(int customerId) throws Exception {
       ResultSet results;
       boolean resultBool;
       int i = 0;
       Statement s1 = conn.createStatement();
-      String returns[10] = "";
+      String returns[] = new String[10];
 
       results = s1.executeQuery("SELECT TransactionDate, AccountFrom, AccountTo, sum(TransactionAmount) AS Total_Transferred FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND TransactionType = 'TRANSFER' AND CustomerID = " + customerId + " GROUP BY AccountFrom, TransactionDate;");
       resultBool = results.next();
@@ -493,14 +489,14 @@ public class the_BATMAN_backend {
       return returns;
    }
 
-   public String[] Customer_Account_Value_Histogram_Per_Customer(int customerId){
+   public String[] Customer_Account_Value_Histogram_Per_Customer(int customerId) throws Exception {
       ResultSet results;
       boolean resultBool;      
       int i = 0;
       Statement s1 = conn.createStatement();
-      String returns[10] = {""};
+      String returns[] = new String[10];
 
-      results = s1.execute("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Account_Balance FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND CustomerID = " + customerId + " GROUP BY TransactionDate, AccountNumber;");
+      results = s1.executeQuery("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Account_Balance FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND CustomerID = " + customerId + " GROUP BY TransactionDate, AccountNumber;");
       resultBool = results.next();
       
       while (resultBool && i < 10) {
