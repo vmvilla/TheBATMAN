@@ -23,6 +23,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
      */
     public the_BATMAN_UI() {
         backend = new the_BATMAN_backend("vmvilla", "L0V3Dav1D!~", "vmvilla");
+        backend.Clear_Database();
         backend.Create_Database();
         initComponents();
         //the_BATMAN_ui = new JFrame();
@@ -2032,7 +2033,6 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         String account = jTextField26.getText();
         int accntNum = Integer.parseInt(account);
         
-      
         try {
             backend.Delete_Account(accntNum);
             jLabel36.setText("Account " + accntNum + " has been deleted");
@@ -2040,7 +2040,6 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
             Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
         }
 
-        
         jLabel36.setText("Account " + accntNum + " has been deleted");
         jLabel37.setText("");
         jLabel38.setText("");
@@ -2158,10 +2157,9 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
-        java.awt.EventQueue.invokeLater(() -> {
-            the_BATMAN_ui = new the_BATMAN_UI();
-            the_BATMAN_ui.setVisible(true);
-        });
+        the_BATMAN_ui = new the_BATMAN_UI();
+        the_BATMAN_ui.setVisible(true);
+        
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
