@@ -274,7 +274,7 @@ public class the_BATMAN_backend {
             return (accntNumber + ": $" + String.format("%.2f", results.getFloat("AccountValue")));
       }
 
-      return null;
+      return "";
    }
 
    private int Get_Newest_TransID() throws Exception {
@@ -319,7 +319,8 @@ public class the_BATMAN_backend {
       Create_Transaction(accntFROM, accntTO, value, "TRANSFER", Get_Current_Date());
       Update_Accounts((-1 * value), accntFROM);
       Update_Accounts(value, accntTO);
-      returns = (Get_Newest_TransID() + ": AccountFrom: " + accntFROM + ": $" + Get_Account_Value(accntFROM) + " AccountTo: " + accntTO + ": $" + Get_Account_Value(accntTo));
+
+      returns = ("Transaction: " + Get_Newest_TransID() + " AccountFrom: " + Get_Account_Value(accntFROM) + " --> AccountTo: " + Get_Account_Value(accntTO));
 
       return returns;
    }
@@ -327,13 +328,13 @@ public class the_BATMAN_backend {
    public String Withdraw(int accntNum, float value) throws Exception {
       Create_Transaction(accntNum, accntNum, value, "SELF", Get_Current_Date());
       Update_Accounts((-1 * value), accntNum);
-      return Get_Account_Value(accntNum);
+      return ("Transaction: " + Get_Newest_TransID() + " AccountNumber: " + Get_Account_Value(accntNum));
    }
 
    public String Deposit(int accntNum, float value) throws Exception {
       Create_Transaction(accntNum, accntNum, value, "SELF", Get_Current_Date());
       Update_Accounts(value, accntNum);
-      return Get_Account_Value(accntNum);
+      return ("Transaction: " + Get_Newest_TransID() + " AccountNumber: " + Get_Account_Value(accntNum));
    }
 
    public String[] List_Of_Transactions_Per_User(int customerId, int accntNum) throws Exception {
@@ -343,19 +344,19 @@ public class the_BATMAN_backend {
       int i = 0;
       Statement s1 = conn.createStatement();
       
-      results = s1.executeQuery("((SELECT TransactionID, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = " + accntNum + " AND TransactionAmount < 0 AND TransactionType = 'SELF') UNION (SELECT TransactionID, TransactionAmount, TransactionDate FROM Transactions WHERE AccountTo = " + accntNum + " AND TransactionAmount >= 0 AND TransactionType = 'SELF') UNION (SELECT TransactionID, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = " + accntNum + " AND TransactionType = 'TRANSFER')) ORDER BY TransactionID;");
+      results = s1.executeQuery("(SELECT TransactionID, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = " + accntNum + " AND TransactionType = 'SELF') UNION (SELECT TransactionID, TransactionAmount, TransactionDate FROM Transactions WHERE AccountTo = " + accntNum + " AND TransactionType = 'TRANSFER') UNION (SELECT TransactionID, TransactionAmount, TransactionDate FROM Transactions WHERE AccountFrom = " + accntNum + " AND TransactionType = 'TRANSFER') ORDER BY TransactionID;");
       
       resultBool = results.next();
 
       while (resultBool && i < 10) {
-         returns[i++] = results.getInt("TransactionID") + ": $" + results.getFloat("TransactionAmount") + ": " + results.getDate("TransactionDate").toString();
+         returns[i++] = "Transaction: " + results.getInt("TransactionID") + ": $" + results.getFloat("TransactionAmount") + ": " + results.getDate("TransactionDate").toString();
          resultBool = results.next();
       }
 
       return returns; 
    } 
 
-   public int Customers_In_State(String state) throws Exception {
+   public String Customers_In_State(String state) throws Exception {
       ResultSet results;
       boolean resultBool;
       Statement s1 = conn.createStatement();
@@ -364,12 +365,12 @@ public class the_BATMAN_backend {
       resultBool = results.next();
       
       if (resultBool) {
-         return results.getInt("Num_Customers");
+         return ("Customers In " + state + ": " + results.getInt("Num_Customers"));
       }
-      return -1;
+      return "";
    }
 
-   public int Customers_In_City(String city) throws Exception {
+   public String Customers_In_City(String city) throws Exception {
       ResultSet results;
       boolean resultBool;
       Statement s1 = conn.createStatement();
@@ -378,9 +379,9 @@ public class the_BATMAN_backend {
       resultBool = results.next();
       
       if (resultBool) {
-         return results.getInt("Num_Customers");
+         return ("Customers In " + city + ": " + results.getInt("Num_Customers"));
       }
-      return -1;
+      return "";
    }  
 
    public String Customer_Age_Histogram(int beginAge, int endAge) throws Exception {
@@ -417,11 +418,11 @@ public class the_BATMAN_backend {
       Statement s1 = conn.createStatement();
       String returns[] = new String[10];
       
-      results = s1.executeQuery("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Total_Transacted FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND CustomerID = " + customerId + " GROUP BY AccountNumber, TransactionDate;");
+      results = s1.executeQuery("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Total_Transacted FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND CustomerID = " + customerId + " GROUP BY AccountNumber, TransactionDate ORDER BY TransactionDate, AccountNumber;");
       resultBool = results.next();
       
       while (resultBool && i < 10) {
-         returns[i++] = results.getInt("AccountNumber") + ": $" + results.getFloat("Total_Transacted") + ": " + results.getDate("TransactionDate").toString();
+         returns[i++] = "Customer: " + customerId + " AccountNumber: " + results.getInt("AccountNumber") + ": $" + results.getFloat("Total_Transacted") + ": " + results.getDate("TransactionDate").toString();
          resultBool = results.next(); 
       }
       return returns;
@@ -434,11 +435,11 @@ public class the_BATMAN_backend {
       Statement s1 = conn.createStatement();
       String returns[] = new String[10];
 
-      results = s1.executeQuery("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Total_Withdrawn FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND TransactionType = 'SELF' AND CustomerID = " + customerId + " GROUP BY AccountNumber, TransactionDate;");
+      results = s1.executeQuery("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Total_Withdrawn FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND TransactionAmount < 0 AND TransactionType = 'SELF' AND CustomerID = " + customerId + " GROUP BY AccountNumber, TransactionDate ORDER BY TransactionDate, AccountNumber;");
       resultBool = results.next();
 
       while (resultBool && i < 10) {
-         returns[i++] = results.getInt("AccountNumber") + ": $" + results.getFloat("Total_Withdrawn") + ": " + results.getDate("TransactionDate").toString();
+         returns[i++] = "Customer: " + customerId + " AccountNumber: " + results.getInt("AccountNumber") + ": $" + results.getFloat("Total_Withdrawn") + ": " + results.getDate("TransactionDate").toString();
          resultBool = results.next();
       }
       return returns;
@@ -451,11 +452,11 @@ public class the_BATMAN_backend {
       Statement s1 = conn.createStatement();
       String returns[] = new String[10];
 
-      results = s1.executeQuery("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Total_Deposited FROM Transactions, Accounts WHERE AccountNumber = AccountTo AND TransactionType = 'SELF' AND CustomerID = " + customerId + " GROUP BY AccountNumber, TransactionDate;");
+      results = s1.executeQuery("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Total_Deposited FROM Transactions, Accounts WHERE AccountNumber = AccountTo AND TransactionAmount >= 0 AND TransactionType = 'SELF' AND CustomerID = " + customerId + " GROUP BY AccountNumber, TransactionDate ORDER BY TransactionDate, AccountNumber;");
       resultBool = results.next();
 
       while (resultBool && i < 10) {
-         returns[i++] = results.getInt("AccountNumber") + ": $" + results.getFloat("Total_Deposited") + ": " + results.getDate("TransactionDate").toString();
+         returns[i++] = "Customer: " + customerId + " AccountNumber: " + results.getInt("AccountNumber") + ": $" + results.getFloat("Total_Deposited") + ": " + results.getDate("TransactionDate").toString();
          resultBool = results.next();
       }
       return returns;
@@ -468,11 +469,11 @@ public class the_BATMAN_backend {
       Statement s1 = conn.createStatement();
       String returns[] = new String[10];
 
-      results = s1.executeQuery("SELECT TransactionDate, AccountFrom, AccountTo, sum(TransactionAmount) AS Total_Transferred FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND TransactionType = 'TRANSFER' AND CustomerID = " + customerId + " GROUP BY AccountFrom, TransactionDate;");
+      results = s1.executeQuery("SELECT TransactionDate, AccountFrom, AccountTo, sum(TransactionAmount) AS Total_Transferred FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND TransactionType = 'TRANSFER' AND CustomerID = " + customerId + " GROUP BY AccountNumber, TransactionDate ORDER BY AccountNumber, TransactionDate;");
       resultBool = results.next();
 
       while (resultBool && i < 10) {
-         returns[i++] = results.getInt("AccountFrom") + " -> " + results.getInt("AccountTo") + ": $" + results.getFloat("Total_Transferred") + ": " + results.getDate("TransactionDate").toString();
+         returns[i++] = "AccountFrom: " + results.getInt("AccountFrom") + " -> AccountTo: " + results.getInt("AccountTo") + ": $" + results.getFloat("Total_Transferred") + ": " + results.getDate("TransactionDate").toString();
          resultBool = results.next();
       }
       return returns;
@@ -485,11 +486,11 @@ public class the_BATMAN_backend {
       Statement s1 = conn.createStatement();
       String returns[] = new String[10];
 
-      results = s1.executeQuery("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Account_Balance FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND CustomerID = " + customerId + " GROUP BY TransactionDate, AccountNumber;");
+      results = s1.executeQuery("SELECT TransactionDate, AccountNumber, sum(TransactionAmount) AS Account_Balance FROM Transactions, Accounts WHERE AccountNumber = AccountFrom AND CustomerID = " + customerId + " GROUP BY AccountNumber, TransactionDate ORDER BY TransactionDate, AccountNumber;");
       resultBool = results.next();
       
       while (resultBool && i < 10) {
-         returns[i++] = results.getInt("AccountNumber") + ": $" + results.getFloat("Account_Balance") + ": " + results.getDate("TransactionDate").toString();
+         returns[i++] = "Customer: " + customerId + " AccountNumber: " + results.getInt("AccountNumber") + ": $" + results.getFloat("Account_Balance") + ": " + results.getDate("TransactionDate").toString();
          resultBool = results.next();
       } 
       return returns;
