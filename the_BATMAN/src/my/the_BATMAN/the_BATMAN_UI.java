@@ -1254,7 +1254,11 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         }
         //call function createnewuser
         int arr[] = new int[10]; 
-        arr = backend.Create_New_User(firstName, lastName, age, street, city, state, phoneInt, accntValue);
+        try {
+            arr = backend.Create_New_User(firstName, lastName, age, street, city, state, phoneInt, accntValue);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
         
         jPanel3.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel4); 
@@ -1286,52 +1290,63 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         //is this a valid login?
         
         if(!firstName.equals("") && !lastName.equals("")){
-            int isValid = backend.CustomerId_From_Name(firstName, lastName);
+            int isValid = 0;
+            try {
+                isValid = backend.CustomerId_From_Name(firstName, lastName);
+            } catch (Exception ex) {
+                Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+            }
             if(isValid == -1){
-            {
                 jLabel27.setText("Not a vaild Name. Please try again.");
                 return;
             }
         }else if(!customerID.equals("")){
-            boolean isValidID = backend.Customer_Is_Valid(Integer.parseInt(customerID));
+            boolean isValidID = false;
+                try {
+                    isValidID = backend.Customer_Is_Valid(Integer.parseInt(customerID));
+                } catch (Exception ex) {
+                    Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+                }
             if(isValidID){
                 jLabel27.setText("Not a valid ID. Please try again.");
                 return;
             }
         }
-        
         jPanel5.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel6);         
         jPanel6.setVisible(true);
     }//GEN-LAST:event_jButton5ActionPerformed
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
-        // TODO add your handling code here:
-        //WITHDRAWL
-        
-        String account = jTextField18.getText();
-        String amount = jTextField22.getText();
-        float amountNum = Float.parseFloat(amount);
-        int accountNum = Integer.parseInt(account);
-        if(amountNum < 0){
-            jLabel16.setText("Invalid amount");
-            return;
+        try{
+            // TODO add your handling code here:
+            //WITHDRAWL
+            String account = jTextField18.getText();
+            String amount = jTextField22.getText();
+            float amountNum = Float.parseFloat(amount);
+            int accountNum = Integer.parseInt(account);
+            if(amountNum < 0){
+                jLabel16.setText("Invalid amount");
+                return;
+            }
+            String newVal = backend.Withdraw(accountNum, amountNum);
+            jLabel36.setText(newVal);
+            jLabel37.setText("");
+            jLabel38.setText("");
+            jLabel39.setText("");
+            jLabel40.setText("");
+            jLabel41.setText("");
+            jLabel42.setText("");
+            jLabel43.setText("");
+            jLabel44.setText("");
+            jLabel45.setText("");
+            
+            jPanel6.setVisible(false);
+            the_BATMAN_ui.setContentPane(jPanel10);
+            jPanel10.setVisible(true);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
         }
-        String newVal = backend.Withdraw(accountNum, amountNum);
-        jLabel36.setText(newVal);
-        jLabel37.setText("");
-        jLabel38.setText("");
-        jLabel39.setText("");
-        jLabel40.setText("");
-        jLabel41.setText("");
-        jLabel42.setText("");
-        jLabel43.setText("");
-        jLabel44.setText("");
-        jLabel45.setText("");
-       
-        jPanel6.setVisible(false);
-        the_BATMAN_ui.setContentPane(jPanel10);         
-        jPanel10.setVisible(true);
     }//GEN-LAST:event_jButton6ActionPerformed
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
@@ -1343,12 +1358,20 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         int custID = 0;
         
         if(customerID.equals("")){
-            custID = backend.CustomerId_From_Name(firstName, lastName);
+            try {
+                custID = backend.CustomerId_From_Name(firstName, lastName);
+            } catch (Exception ex) {
+                Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+            }
         }else{
             custID = Integer.parseInt(customerID);
         }
         
-        backend.Delete_User(custID);
+        try {
+            backend.Delete_User(custID);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
         
         jLabel36.setText("User has been deleted.");
         jLabel37.setText("");
@@ -1367,90 +1390,102 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton7ActionPerformed
 
     private void jButton9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton9ActionPerformed
-        // TODO add your handling code here:
-        //TRANSFER
-        String accountTo = jTextField19.getText();
-        String accountFrom = jTextField20.getText();
-        String amount = jTextField23.getText();
-        int accntToNum = Integer.parseInt(accountTo);
-        int accntFromNum = Integer.parseInt(accountFrom);
-        float amountNum = Float.parseFloat(amount);
-        
-        String strTransfer = backend.Transfer(accntToNum, accntFromNum, amountNum);
-        
-        //res[0] // trasn id
-        //res[1] // act val from
-        //res[2] // act val to
-        
-        jLabel36.setText(strTransfer);
-        jLabel37.setText("");
-        jLabel38.setText("");
-        jLabel39.setText("");
-        jLabel40.setText("");
-        jLabel41.setText("");
-        jLabel42.setText("");
-        jLabel43.setText("");
-        jLabel44.setText("");
-        jLabel45.setText("");
-        
-        jPanel6.setVisible(false);
-        the_BATMAN_ui.setContentPane(jPanel10);         
-        jPanel10.setVisible(true);
+        try {
+            // TODO add your handling code here:
+            //TRANSFER
+            String accountTo = jTextField19.getText();
+            String accountFrom = jTextField20.getText();
+            String amount = jTextField23.getText();
+            int accntToNum = Integer.parseInt(accountTo);
+            int accntFromNum = Integer.parseInt(accountFrom);
+            float amountNum = Float.parseFloat(amount);
+            
+            String strTransfer = backend.Transfer(accntToNum, accntFromNum, amountNum);
+            
+            //res[0] // trasn id
+            //res[1] // act val from
+            //res[2] // act val to
+            
+            jLabel36.setText(strTransfer);
+            jLabel37.setText("");
+            jLabel38.setText("");
+            jLabel39.setText("");
+            jLabel40.setText("");
+            jLabel41.setText("");
+            jLabel42.setText("");
+            jLabel43.setText("");
+            jLabel44.setText("");
+            jLabel45.setText("");
+            
+            jPanel6.setVisible(false);
+            the_BATMAN_ui.setContentPane(jPanel10);
+            jPanel10.setVisible(true);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_jButton9ActionPerformed
 
     private void jButton10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton10ActionPerformed
-        // TODO add your handling code here:
-        //ALL ACCOUNTS BALANCE
-        String firstName = jTextField14.getText();
-        String lastName = jTextField15.getText();
-        String customerID = jTextField16.getText();
-        int custID = 0;
-        
-        if(customerID.equals("")){
-            custID = backend.CustomerId_From_Name(firstName, lastName);
-        }else{
-            custID = Integer.parseInt(customerID);
+        try {
+            // TODO add your handling code here:
+            //ALL ACCOUNTS BALANCE
+            String firstName = jTextField14.getText();
+            String lastName = jTextField15.getText();
+            String customerID = jTextField16.getText();
+            int custID = 0;
+            
+            if(customerID.equals("")){
+                try {
+                    custID = backend.CustomerId_From_Name(firstName, lastName);
+                } catch (Exception ex) {
+                    Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }else{
+                custID = Integer.parseInt(customerID);
+            }
+            String accts[] = backend.Get_All_Accounts_Balances(custID);
+            
+            jLabel35.setText("All accounts for " + custID);
+            if(accts[0].equals("")){
+                jLabel36.setText("No accounts to be shown");
+            }
+            if(!accts[0].equals("")){
+                jLabel36.setText(accts[0]);
+            }
+            if(!accts[1].equals("")){
+                jLabel37.setText(accts[1]);
+            }
+            if(!accts[2].equals("")){
+                jLabel38.setText(accts[2]);
+            }
+            if(!accts[3].equals("")){
+                jLabel39.setText(accts[3]);
+            }
+            if(!accts[4].equals("")){
+                jLabel40.setText(accts[4]);
+            }
+            if(!accts[5].equals("")){
+                jLabel41.setText(accts[5]);
+            }
+            if(!accts[6].equals("")){
+                jLabel42.setText(accts[6]);
+            }
+            if(!accts[7].equals("")){
+                jLabel43.setText(accts[7]);
+            }
+            if(!accts[8].equals("")){
+                jLabel44.setText(accts[8]);
+            }
+            if(!accts[9].equals("")){
+                jLabel45.setText(accts[9]);
+            }
+            
+            jPanel6.setVisible(false);
+            the_BATMAN_ui.setContentPane(jPanel10);
+            jPanel10.setVisible(true);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
         }
-        String accts[] = backend.Get_All_Accounts_Balances(custID);
-        
-        jLabel35.setText("All accounts for " + custID);
-        if(accts[0].equals("")){
-            jLabel36.setText("No accounts to be shown");
-        }
-        if(!accts[0].equals("")){
-            jLabel36.setText(accts[0]);
-        }
-         if(!accts[1].equals("")){
-            jLabel37.setText(accts[1]);
-        }
-        if(!accts[2].equals("")){
-            jLabel38.setText(accts[2]);
-        }
-        if(!accts[3].equals("")){
-            jLabel39.setText(accts[3]);
-        }
-        if(!accts[4].equals("")){
-            jLabel40.setText(accts[4]);
-        }
-        if(!accts[5].equals("")){
-            jLabel41.setText(accts[5]);
-        }
-         if(!accts[6].equals("")){
-            jLabel42.setText(accts[6]);
-        }
-        if(!accts[7].equals("")){
-            jLabel43.setText(accts[7]);
-        }
-        if(!accts[8].equals("")){
-            jLabel44.setText(accts[8]);
-        }
-        if(!accts[9].equals("")){
-            jLabel45.setText(accts[9]);
-        }
-       
-        jPanel6.setVisible(false);
-        the_BATMAN_ui.setContentPane(jPanel10);         
-        jPanel10.setVisible(true);
     }//GEN-LAST:event_jButton10ActionPerformed
 
     private void jButton11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton11ActionPerformed
@@ -1459,7 +1494,12 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         
         String account = jTextField25.getText();
         int accntNum = Integer.parseInt(account);
-        String accntVal = backend.Get_Account_Value(accntNum);
+        String accntVal = "";
+        try {
+            accntVal = backend.Get_Account_Value(accntNum);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
         
         jLabel36.setText(accntVal);
         jLabel37.setText("");
@@ -1478,29 +1518,33 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton11ActionPerformed
 
     private void jButton12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton12ActionPerformed
-        // TODO add your handling code here:
-        //DEPOSIT
-        String account = jTextField24.getText();
-        String amount = jTextField21.getText();
-        int accntNum = Integer.parseInt(account);
-        float amountNum = Float.parseFloat(amount);
-        
-        String newVal = backend.Deposit(accntNum, amountNum);
-        
-        jLabel36.setText(newVal);
-        jLabel37.setText("");
-        jLabel38.setText("");
-        jLabel39.setText("");
-        jLabel40.setText("");
-        jLabel41.setText("");
-        jLabel42.setText("");
-        jLabel43.setText("");
-        jLabel44.setText("");
-        jLabel45.setText("");
-        
-        jPanel6.setVisible(false);
-        the_BATMAN_ui.setContentPane(jPanel10);         
-        jPanel10.setVisible(true);
+        try {
+            // TODO add your handling code here:
+            //DEPOSIT
+            String account = jTextField24.getText();
+            String amount = jTextField21.getText();
+            int accntNum = Integer.parseInt(account);
+            float amountNum = Float.parseFloat(amount);
+            
+            String newVal = backend.Deposit(accntNum, amountNum);
+            
+            jLabel36.setText(newVal);
+            jLabel37.setText("");
+            jLabel38.setText("");
+            jLabel39.setText("");
+            jLabel40.setText("");
+            jLabel41.setText("");
+            jLabel42.setText("");
+            jLabel43.setText("");
+            jLabel44.setText("");
+            jLabel45.setText("");
+            
+            jPanel6.setVisible(false);
+            the_BATMAN_ui.setContentPane(jPanel10);
+            jPanel10.setVisible(true);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_jButton12ActionPerformed
 
     private void jButton13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton13ActionPerformed
@@ -1510,16 +1554,25 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         String lastName = jTextField15.getText();
         String customerID = jTextField16.getText();
         String account = jTextField27.getText();
-        int custID;
+        int custID = 0;
         int accntNum = Integer.parseInt(account);
         
         if(customerID.equals("")){
-           custID = backend.CustomerId_From_Name(firstName, lastName);
+            try {
+                custID = backend.CustomerId_From_Name(firstName, lastName);
+            } catch (Exception ex) {
+                Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+            }
         }else{
            custID = Integer.parseInt(customerID);
         }
         
-        String results[] = backend.List_Of_Transactions_Per_User(custID, accntNum);
+        String results[] = new String[10];
+        try {
+            results = backend.List_Of_Transactions_Per_User(custID, accntNum);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
         jLabel36.setText("");
         jLabel37.setText("");
         jLabel38.setText("");
@@ -1573,14 +1626,23 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         String firstName = jTextField14.getText();
         String lastName = jTextField15.getText();
         String customerID = jTextField16.getText();
-        int custID;
+        int custID = 0;
     
         if(customerID.equals("")){
-           custID = backend.CustomerId_From_Name(firstName, lastName);
+            try {
+                custID = backend.CustomerId_From_Name(firstName, lastName);
+            } catch (Exception ex) {
+                Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+            }
         }else{
            custID = Integer.parseInt(customerID);
         }
-        String results[] = backend.Customer_Account_Histogram_Transaction_Amounts(custID);
+        String results[] = new String[10];
+        try {
+            results = backend.Customer_Account_Histogram_Transaction_Amounts(custID);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
         jLabel36.setText("");
         jLabel37.setText("");
         jLabel38.setText("");
@@ -1633,14 +1695,23 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         String firstName = jTextField14.getText();
         String lastName = jTextField15.getText();
         String customerID = jTextField16.getText();
-        int custID;
+        int custID = 0;
     
         if(customerID.equals("")){
-           custID = backend.CustomerId_From_Name(firstName, lastName);
+            try {
+                custID = backend.CustomerId_From_Name(firstName, lastName);
+            } catch (Exception ex) {
+                Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+            }
         }else{
            custID = Integer.parseInt(customerID);
         }
-        String results[] = backend.Customer_Account_Histogram_Deposits(custID);
+        String results[] = new String[10];
+        try {
+            results = backend.Customer_Account_Histogram_Deposits(custID);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
         
         jLabel36.setText("");
         jLabel37.setText("");
@@ -1695,13 +1766,23 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         String firstName = jTextField14.getText();
         String lastName = jTextField15.getText();
         String customerID = jTextField16.getText();
-        int custID;
+        int custID = 0;
     
         if(customerID.equals("")){
-           custID = backend.CustomerId_From_Name(firstName, lastName);
+            try {
+                custID = backend.CustomerId_From_Name(firstName, lastName);
+            } catch (Exception ex) {
+                Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+            }
         }else{
            custID = Integer.parseInt(customerID);
-        String results[] = backend.Customer_Account_Histogram_Transfers(custID);
+        }
+        String results[] = new String[10];
+        try {
+            results = backend.Customer_Account_Histogram_Transfers(custID);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
         
         jLabel36.setText("");
         jLabel37.setText("");
@@ -1837,27 +1918,39 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         // TODO add your handling code here:
         String state = jTextField1.getText();
         String city = jTextField2.getText();
-        int city_result = 0;
-        int state_result = 0;
+        String city_result = "";
+        String state_result = "";
         
         if(state.equals("") && city.equals("")){
             jLabel2.setText("Need a City or State");
             return;
         }else if(state.equals("") && !city.equals("")){
-            //call a query
-            city_result = backend.Customers_In_City(city);
-            jLabel32.setText("City: " + city_result);
+            try {
+                //call a query
+                city_result = backend.Customers_In_City(city);
+            } catch (Exception ex) {
+                Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+            }
+            jLabel32.setText(city_result);
             jLabel33.setText("");
         }else if(!state.equals("") && city.equals("")){
-            //call a query
-            state_result = backend.Customers_In_State(state);
-            jLabel32.setText("State: " + state_result);
+            try {
+                //call a query
+                state_result = backend.Customers_In_State(state);
+            } catch (Exception ex) {
+                Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+            }
+            jLabel32.setText(state_result);
             jLabel33.setText("");
         }else{
-            city_result = backend.Customers_In_City(city);
-            state_result = backend.Customers_In_State(state);
-            jLabel32.setText("City: " + city_result);
-            jLabel33.setText("State: " + state_result);
+            try {
+                city_result = backend.Customers_In_City(city);
+                state_result = backend.Customers_In_State(state);
+                jLabel32.setText(city_result);
+                jLabel33.setText(state_result);
+            } catch (Exception ex) {
+                Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+            }
         }
         
         jPanel8.setVisible(false);
@@ -1874,10 +1967,54 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
 
     private void jButton31ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton31ActionPerformed
         // TODO add your handling code here:
-        String result[] = backend.Customer_Age_Histogram();
-        if()
-        jLabel33.setText(result[0]);
+        String result[] = new String[10];
+        try {
+            result = backend.Customer_Age_Histogram();
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
         jLabel32.setText("");
+        jLabel33.setText("");
+        jLabel4.setText("");
+        jLabel5.setText("");
+        jLabel46.setText("");
+        jLabel47.setText("");
+        jLabel48.setText("");
+        jLabel49.setText("");
+        jLabel50.setText("");
+        jLabel51.setText("");
+        
+        if(!result[0].equals("")){
+           jLabel32.setText(result[0]);
+        }
+        if(!result[1].equals("")){
+           jLabel33.setText(result[1]);
+        }
+        if(!result[2].equals("")){
+           jLabel4.setText(result[2]);
+        }
+        if(!result[3].equals("")){
+           jLabel5.setText(result[3]);
+        }
+        if(!result[4].equals("")){
+           jLabel46.setText(result[4]);
+        }
+        if(!result[5].equals("")){
+           jLabel47.setText(result[5]);
+        }
+        if(!result[6].equals("")){
+           jLabel48.setText(result[6]);
+        }
+        if(!result[7].equals("")){
+           jLabel49.setText(result[7]);
+        }
+        if(!result[8].equals("")){
+           jLabel50.setText(result[8]);
+        }
+        if(!result[9].equals("")){
+           jLabel51.setText(result[9]);
+        }
+        
        
         jPanel8.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel9);         
