@@ -5,7 +5,10 @@
  */
 package my.the_BATMAN;
 
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.JFrame;
+import the_batman.the_BATMAN_backend;
 
 /**
  *
@@ -14,10 +17,13 @@ import javax.swing.JFrame;
 public class the_BATMAN_UI extends javax.swing.JFrame {
 
     static JFrame the_BATMAN_ui;
+    static the_BATMAN_backend backend;
     /**
      * Creates new form the_BATMAN_UI
      */
     public the_BATMAN_UI() {
+        backend = new the_BATMAN_backend("vmvilla", "L0V3Dav1D!~", "vmvilla");
+        backend.Create_Database();
         initComponents();
         //the_BATMAN_ui = new JFrame();
     }
@@ -35,11 +41,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jPanel8 = new javax.swing.JPanel();
         jLabel3 = new javax.swing.JLabel();
         jButton2 = new javax.swing.JButton();
-        fromAgeCustomer = new javax.swing.JTextField();
         jButton29 = new javax.swing.JButton();
-        toAgeCustomer = new javax.swing.JTextField();
-        jLabel4 = new javax.swing.JLabel();
-        jLabel5 = new javax.swing.JLabel();
         jLabel6 = new javax.swing.JLabel();
         jTextField1 = new javax.swing.JTextField();
         jLabel7 = new javax.swing.JLabel();
@@ -135,6 +137,14 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel31 = new javax.swing.JLabel();
         jLabel32 = new javax.swing.JLabel();
         jLabel33 = new javax.swing.JLabel();
+        jLabel4 = new javax.swing.JLabel();
+        jLabel5 = new javax.swing.JLabel();
+        jLabel46 = new javax.swing.JLabel();
+        jLabel47 = new javax.swing.JLabel();
+        jLabel48 = new javax.swing.JLabel();
+        jLabel49 = new javax.swing.JLabel();
+        jLabel50 = new javax.swing.JLabel();
+        jLabel51 = new javax.swing.JLabel();
         jPanel10 = new javax.swing.JPanel();
         jLabel35 = new javax.swing.JLabel();
         jLabel36 = new javax.swing.JLabel();
@@ -155,20 +165,13 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         isCustomerButton = new javax.swing.JButton();
         isNotCustomerButton = new javax.swing.JButton();
 
-        jLabel3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jLabel3.setText("Ages of our Customers:");
+        jLabel3.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel3.setText("Ages of our Customers");
 
         jButton2.setText("New Customer");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);
-            }
-        });
-
-        fromAgeCustomer.setText("0");
-        fromAgeCustomer.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                fromAgeCustomerActionPerformed(evt);
             }
         });
 
@@ -178,17 +181,6 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
                 jButton29ActionPerformed(evt);
             }
         });
-
-        toAgeCustomer.setText("100");
-        toAgeCustomer.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                toAgeCustomerActionPerformed(evt);
-            }
-        });
-
-        jLabel4.setText("From:");
-
-        jLabel5.setText("To:");
 
         jLabel6.setText("State:");
 
@@ -254,17 +246,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
                                 .addComponent(jLabel7)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, 142, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addGroup(jPanel8Layout.createSequentialGroup()
-                                .addGroup(jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                                    .addComponent(jLabel3)
-                                    .addGroup(jPanel8Layout.createSequentialGroup()
-                                        .addComponent(jLabel4)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                        .addComponent(fromAgeCustomer, javax.swing.GroupLayout.PREFERRED_SIZE, 35, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                                        .addComponent(jLabel5)))
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(toAgeCustomer, javax.swing.GroupLayout.PREFERRED_SIZE, 35, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                            .addComponent(jLabel3))
                         .addGap(18, 18, 18)
                         .addGroup(jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jButton31)
@@ -297,15 +279,10 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
                     .addComponent(jLabel7)
                     .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jButton30))
-                .addGap(28, 28, 28)
-                .addComponent(jLabel3)
-                .addGap(5, 5, 5)
-                .addGroup(jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel4)
-                    .addComponent(fromAgeCustomer, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jLabel5)
-                    .addComponent(toAgeCustomer, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jButton31))
+                .addGap(50, 50, 50)
+                .addGroup(jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jButton31)
+                    .addComponent(jLabel3))
                 .addGap(27, 27, 27)
                 .addComponent(jLabel8)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 65, Short.MAX_VALUE)
@@ -996,11 +973,27 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel31.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
         jLabel31.setText("Results of your query are below. Enjoy!");
 
-        jLabel32.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel32.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel32.setText("jLabel32");
 
-        jLabel33.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel33.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel33.setText("jLabel33");
+
+        jLabel4.setText("jLabel4");
+
+        jLabel5.setText("jLabel5");
+
+        jLabel46.setText("jLabel46");
+
+        jLabel47.setText("jLabel47");
+
+        jLabel48.setText("jLabel48");
+
+        jLabel49.setText("jLabel49");
+
+        jLabel50.setText("jLabel50");
+
+        jLabel51.setText("jLabel51");
 
         javax.swing.GroupLayout jPanel9Layout = new javax.swing.GroupLayout(jPanel9);
         jPanel9.setLayout(jPanel9Layout);
@@ -1012,9 +1005,21 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
             .addGroup(jPanel9Layout.createSequentialGroup()
                 .addGap(128, 128, 128)
                 .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel33)
-                    .addComponent(jLabel32)
-                    .addComponent(jLabel31))
+                    .addComponent(jLabel31)
+                    .addGroup(jPanel9Layout.createSequentialGroup()
+                        .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jLabel32)
+                            .addComponent(jLabel33)
+                            .addComponent(jLabel4)
+                            .addComponent(jLabel5)
+                            .addComponent(jLabel46))
+                        .addGap(170, 170, 170)
+                        .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jLabel51)
+                            .addComponent(jLabel50)
+                            .addComponent(jLabel49)
+                            .addComponent(jLabel48)
+                            .addComponent(jLabel47))))
                 .addContainerGap(160, Short.MAX_VALUE))
         );
         jPanel9Layout.setVerticalGroup(
@@ -1023,10 +1028,26 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
                 .addGap(40, 40, 40)
                 .addComponent(jLabel31)
                 .addGap(28, 28, 28)
-                .addComponent(jLabel32)
-                .addGap(34, 34, 34)
-                .addComponent(jLabel33)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 125, Short.MAX_VALUE)
+                .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel32)
+                    .addComponent(jLabel47))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel33)
+                    .addComponent(jLabel48))
+                .addGap(18, 18, 18)
+                .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel4)
+                    .addComponent(jLabel49))
+                .addGap(18, 18, 18)
+                .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel5)
+                    .addComponent(jLabel50))
+                .addGap(18, 18, 18)
+                .addGroup(jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel46)
+                    .addComponent(jLabel51))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 43, Short.MAX_VALUE)
                 .addComponent(jButton32))
         );
 
@@ -1217,25 +1238,29 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         //CREATE A NEW USER
         String firstName = jTextField3.getText();
         String lastName = jTextField4.getText();
-        String age = jTextField5.getText();
+        String ageStr = jTextField5.getText();
+        int age = Integer.parseInt(ageStr);
         String street = jTextField6.getText();
         String city = jTextField7.getText();
         String phone = jTextField8.getText();
+        int phoneInt = Integer.parseInt(phone);
+        String state = jComboBox1.getSelectedItem().toString();
         String accntVal = jTextField9.getText();
-        if(firstName.equals("") || lastName.equals("") || age.equals("") || street.equals("")
+        float accntValue = Float.parseFloat(accntVal);
+        if(firstName.equals("") || lastName.equals("") || ageStr.equals("") || street.equals("")
                 || city.equals("") || phone.equals("") || accntVal.equals("")){
             jLabel34.setText("One of the fields is empty.");
             return;
         }
-        
         //call function createnewuser
-        //int arr[2] = Create_New_User()
+        int arr[] = new int[10]; 
+        arr = backend.Create_New_User(firstName, lastName, age, street, city, state, phoneInt, accntValue);
         
         jPanel3.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel4); 
         jTextField10.setText(firstName + " " + lastName);
-        //jTextField11.setText(arr[0] + "");
-        //jTextField12.setText(arr[1] + "");
+        jTextField11.setText(arr[0] + "");
+        jTextField12.setText(arr[1] + "");
         jTextField13.setText(accntVal);
         jPanel4.setVisible(true);
     }//GEN-LAST:event_jButton3ActionPerformed
@@ -1243,9 +1268,8 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         // TODO add your handling code here:
         jPanel4.setVisible(false);
-        the_BATMAN_ui.setContentPane(jPanel5);         
+        the_BATMAN_ui.setContentPane(jPanel5); 
         jPanel5.setVisible(true);
-       
     }//GEN-LAST:event_jButton4ActionPerformed
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
@@ -1260,22 +1284,21 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
             return;
         }
         //is this a valid login?
-        /*
+        
         if(!firstName.equals("") && !lastName.equals("")){
-            int isValid = CustomerId_From_Name(firstName, lastName);
+            int isValid = backend.CustomerId_From_Name(firstName, lastName);
             if(isValid == -1){
             {
                 jLabel27.setText("Not a vaild Name. Please try again.");
                 return;
             }
         }else if(!customerID.equals("")){
-            int isValidID = Customer_Is_Valid(atoi(customerID));
+            boolean isValidID = backend.Customer_Is_Valid(Integer.parseInt(customerID));
             if(isValidID){
                 jLabel27.setText("Not a valid ID. Please try again.");
                 return;
             }
         }
-        */
         
         jPanel5.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel6);         
@@ -1285,7 +1308,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         // TODO add your handling code here:
         //WITHDRAWL
-        /*
+        
         String account = jTextField18.getText();
         String amount = jTextField22.getText();
         float amountNum = Float.parseFloat(amount);
@@ -1294,9 +1317,9 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
             jLabel16.setText("Invalid amount");
             return;
         }
-        float newVal = Withdraw(accountNum, amountNum);
-        jLabel36.setText("Withdrawal from " + account+ " of " + amount);
-        jLabel37.setText("New value of account " + newVal);
+        String newVal = backend.Withdraw(accountNum, amountNum);
+        jLabel36.setText(newVal);
+        jLabel37.setText("");
         jLabel38.setText("");
         jLabel39.setText("");
         jLabel40.setText("");
@@ -1305,8 +1328,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel43.setText("");
         jLabel44.setText("");
         jLabel45.setText("");
-        */
-                
+       
         jPanel6.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
         jPanel10.setVisible(true);
@@ -1315,19 +1337,18 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
         // TODO add your handling code here:
         //DELETE USER
-        /*
         String firstName = jTextField14.getText();
         String lastName = jTextField15.getText();
         String customerID = jTextField16.getText();
         int custID = 0;
         
         if(customerID.equals("")){
-            custID = CustomerId_From_Name(firstName, lastName);
+            custID = backend.CustomerId_From_Name(firstName, lastName);
         }else{
             custID = Integer.parseInt(customerID);
         }
         
-        Delete_User(custID);
+        backend.Delete_User(custID);
         
         jLabel36.setText("User has been deleted.");
         jLabel37.setText("");
@@ -1340,7 +1361,6 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel44.setText("");
         jLabel45.setText("");
         
-        */
         jPanel6.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel1);         
         jPanel1.setVisible(true);
@@ -1349,7 +1369,6 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton9ActionPerformed
         // TODO add your handling code here:
         //TRANSFER
-        /*
         String accountTo = jTextField19.getText();
         String accountFrom = jTextField20.getText();
         String amount = jTextField23.getText();
@@ -1357,23 +1376,22 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         int accntFromNum = Integer.parseInt(accountFrom);
         float amountNum = Float.parseFloat(amount);
         
-        float res[3] = Transfer(accntToNum, accntFromNum, amountNum);
+        String strTransfer = backend.Transfer(accntToNum, accntFromNum, amountNum);
         
-        res[0] // trasn id
-        res[1] // act val from
-        res[2] // act val to
+        //res[0] // trasn id
+        //res[1] // act val from
+        //res[2] // act val to
         
-        jLabel36.setText("Transer from " + accountFrom + " to " + accountTo+" of amount " + amount);
-        jLabel37.setText("New value of " + accountFrom + " : " + res[1]);
-        jLabel38.setText("New value of " + accountTo + " : " + res[2]);
-        jLabel39.setText("Transaction ID: " + res[0]);
+        jLabel36.setText(strTransfer);
+        jLabel37.setText("");
+        jLabel38.setText("");
+        jLabel39.setText("");
         jLabel40.setText("");
         jLabel41.setText("");
         jLabel42.setText("");
         jLabel43.setText("");
         jLabel44.setText("");
         jLabel45.setText("");
-        */
         
         jPanel6.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
@@ -1383,43 +1401,53 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton10ActionPerformed
         // TODO add your handling code here:
         //ALL ACCOUNTS BALANCE
-        /*
         String firstName = jTextField14.getText();
         String lastName = jTextField15.getText();
         String customerID = jTextField16.getText();
         int custID = 0;
         
         if(customerID.equals("")){
-            custID = CustomerId_From_Name(firstName, lastName);
+            custID = backend.CustomerId_From_Name(firstName, lastName);
         }else{
-            custID = Integer.parseInteger(customerID);
+            custID = Integer.parseInt(customerID);
         }
-        int accts[10] = Get_All_Accounts_Balance(custID);
+        String accts[] = backend.Get_All_Accounts_Balances(custID);
         
-        jLabel36.setText("All accounts for " + custID);
-        if(accts[0] == 0){
-            jLabel37.setText("No accounts to be shown");
+        jLabel35.setText("All accounts for " + custID);
+        if(accts[0].equals("")){
+            jLabel36.setText("No accounts to be shown");
         }
-        if(accts[0] > 0){
-            jLabel37.setText("Account " +accts[0]+" : " +accts[1]);
+        if(!accts[0].equals("")){
+            jLabel36.setText(accts[0]);
         }
-        if(accts[2] > 0){
-            jLabel38.setText("Account " +accts[2]+" : " +accts[3]);
+         if(!accts[1].equals("")){
+            jLabel37.setText(accts[1]);
         }
-        if(accts[4] > 0){
-           jLabel39.setText("Account " +accts[4]+" : " +accts[5]);
+        if(!accts[2].equals("")){
+            jLabel38.setText(accts[2]);
         }
-        if(accts[6] > 0){
-           jLabel40.setText("Account " +accts[6]+" : " +accts[7]);
+        if(!accts[3].equals("")){
+            jLabel39.setText(accts[3]);
         }
-        if(accts[8] > 0){
-           jLabel41.setText("Account " +accts[8]+" : " +accts[9]);
+        if(!accts[4].equals("")){
+            jLabel40.setText(accts[4]);
         }
-        jLabel42.setText("");
-        jLabel43.setText("");
-        jLabel44.setText("");
-        jLabel45.setText("");
-        */
+        if(!accts[5].equals("")){
+            jLabel41.setText(accts[5]);
+        }
+         if(!accts[6].equals("")){
+            jLabel42.setText(accts[6]);
+        }
+        if(!accts[7].equals("")){
+            jLabel43.setText(accts[7]);
+        }
+        if(!accts[8].equals("")){
+            jLabel44.setText(accts[8]);
+        }
+        if(!accts[9].equals("")){
+            jLabel45.setText(accts[9]);
+        }
+       
         jPanel6.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
         jPanel10.setVisible(true);
@@ -1428,13 +1456,13 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton11ActionPerformed
         // TODO add your handling code here:
         //ACCOUNT BALANCE ID
-        /*
+        
         String account = jTextField25.getText();
         int accntNum = Integer.parseInt(account);
-        float accntVal = Get_Account_Value(accntNum);
+        String accntVal = backend.Get_Account_Value(accntNum);
         
-        jLabel36.setText("Account: " + account);
-        jLabel37.setText("Value: " + accntVal);
+        jLabel36.setText(accntVal);
+        jLabel37.setText("");
         jLabel38.setText("");
         jLabel39.setText("");
         jLabel40.setText("");
@@ -1443,7 +1471,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel43.setText("");
         jLabel44.setText("");
         jLabel45.setText("");
-        */
+        
         jPanel6.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
         jPanel10.setVisible(true);
@@ -1452,16 +1480,15 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton12ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton12ActionPerformed
         // TODO add your handling code here:
         //DEPOSIT
-        /*
         String account = jTextField24.getText();
         String amount = jTextField21.getText();
         int accntNum = Integer.parseInt(account);
         float amountNum = Float.parseFloat(amount);
         
-        float newVal = Deposit(accntNum, amountNum);
+        String newVal = backend.Deposit(accntNum, amountNum);
         
-        jLabel36.setText("Deposited " + amountNum + " to " + accntNum);
-        jLabel37.setText("New value of account : " + newVal);
+        jLabel36.setText(newVal);
+        jLabel37.setText("");
         jLabel38.setText("");
         jLabel39.setText("");
         jLabel40.setText("");
@@ -1470,7 +1497,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel43.setText("");
         jLabel44.setText("");
         jLabel45.setText("");
-        */
+        
         jPanel6.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
         jPanel10.setVisible(true);
@@ -1479,21 +1506,20 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton13ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton13ActionPerformed
         // TODO add your handling code here:
         //List of Transactions
-        /*
         String firstName = jTextField14.getText();
         String lastName = jTextField15.getText();
         String customerID = jTextField16.getText();
         String account = jTextField27.getText();
-        
+        int custID;
         int accntNum = Integer.parseInt(account);
         
         if(customerID.equals("")){
-           custID = CustomerId_From_Name(firstName, lastName);
+           custID = backend.CustomerId_From_Name(firstName, lastName);
         }else{
-            custID = Integer.parseInt(customerID);
+           custID = Integer.parseInt(customerID);
         }
         
-        String results[10] = List_Of_Transactions_Per_User(custID, accntNum);
+        String results[] = backend.List_Of_Transactions_Per_User(custID, accntNum);
         jLabel36.setText("");
         jLabel37.setText("");
         jLabel38.setText("");
@@ -1504,37 +1530,38 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel43.setText("");
         jLabel44.setText("");
         jLabel45.setText("");
-        if(results[0].equals("")){
+        
+        if(!results[0].equals("")){
             jLabel36.setText(results[0]);
         }
-        if(results[1].equals("")){
+        if(!results[1].equals("")){
             jLabel37.setText(results[1]);
         }
-        if(results[2].equals("")){
+        if(!results[2].equals("")){
             jLabel38.setText(results[2]);
         }
-        if(results[3].equals("")){
+        if(!results[3].equals("")){
             jLabel39.setText(results[3]);
         }
-        if(results[4].equals("")){
+        if(!results[4].equals("")){
             jLabel40.setText(results[4]);
         }
-        if(results[5].equals("")){
+        if(!results[5].equals("")){
             jLabel41.setText(results[5]);
         }
-        if(results[6].equals("")){
+        if(!results[6].equals("")){
             jLabel42.setText(results[6]);
         }
-        if(results[7].equals("")){
+        if(!results[7].equals("")){
             jLabel43.setText(results[7]);
         }
-        if(results[8].equals("")){
+        if(!results[8].equals("")){
             jLabel44.setText(results[8]);
         }
-        if(results[9].equals("")){
+        if(!results[9].equals("")){
             jLabel45.setText(results[9]);
         }
-        */
+       
         jPanel6.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
         jPanel10.setVisible(true);
@@ -1543,8 +1570,17 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton15ActionPerformed
         // TODO add your handling code here:
         //HISTOGRAM TRANSACTION AMOUNTS
-        /*
-        
+        String firstName = jTextField14.getText();
+        String lastName = jTextField15.getText();
+        String customerID = jTextField16.getText();
+        int custID;
+    
+        if(customerID.equals("")){
+           custID = backend.CustomerId_From_Name(firstName, lastName);
+        }else{
+           custID = Integer.parseInt(customerID);
+        }
+        String results[] = backend.Customer_Account_Histogram_Transaction_Amounts(custID);
         jLabel36.setText("");
         jLabel37.setText("");
         jLabel38.setText("");
@@ -1555,8 +1591,37 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel43.setText("");
         jLabel44.setText("");
         jLabel45.setText("");
+        if(!results[0].equals("")){
+            jLabel36.setText(results[0]);
+        }
+        if(!results[1].equals("")){
+            jLabel37.setText(results[1]);
+        }
+        if(!results[2].equals("")){
+            jLabel38.setText(results[2]);
+        }
+        if(!results[3].equals("")){
+            jLabel39.setText(results[3]);
+        }
+        if(!results[4].equals("")){
+            jLabel40.setText(results[4]);
+        }
+        if(!results[5].equals("")){
+            jLabel41.setText(results[5]);
+        }
+        if(!results[6].equals("")){
+            jLabel42.setText(results[6]);
+        }
+        if(!results[7].equals("")){
+            jLabel43.setText(results[7]);
+        }
+        if(!results[8].equals("")){
+            jLabel44.setText(results[8]);
+        }
+        if(!results[9].equals("")){
+            jLabel45.setText(results[9]);
+        }
         
-        */
         jPanel7.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
         jPanel10.setVisible(true);
@@ -1565,8 +1630,18 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton17ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton17ActionPerformed
         // TODO add your handling code here:
         //HISTOGRAM DEPOSITS
+        String firstName = jTextField14.getText();
+        String lastName = jTextField15.getText();
+        String customerID = jTextField16.getText();
+        int custID;
+    
+        if(customerID.equals("")){
+           custID = backend.CustomerId_From_Name(firstName, lastName);
+        }else{
+           custID = Integer.parseInt(customerID);
+        }
+        String results[] = backend.Customer_Account_Histogram_Deposits(custID);
         
-        /*
         jLabel36.setText("");
         jLabel37.setText("");
         jLabel38.setText("");
@@ -1578,7 +1653,37 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel44.setText("");
         jLabel45.setText("");
         
-        */
+        if(!results[0].equals("")){
+            jLabel36.setText(results[0]);
+        }
+        if(!results[1].equals("")){
+            jLabel37.setText(results[1]);
+        }
+        if(!results[2].equals("")){
+            jLabel38.setText(results[2]);
+        }
+        if(!results[3].equals("")){
+            jLabel39.setText(results[3]);
+        }
+        if(!results[4].equals("")){
+            jLabel40.setText(results[4]);
+        }
+        if(!results[5].equals("")){
+            jLabel41.setText(results[5]);
+        }
+        if(!results[6].equals("")){
+            jLabel42.setText(results[6]);
+        }
+        if(!results[7].equals("")){
+            jLabel43.setText(results[7]);
+        }
+        if(!results[8].equals("")){
+            jLabel44.setText(results[8]);
+        }
+        if(!results[9].equals("")){
+            jLabel45.setText(results[9]);
+        }
+        
         jPanel7.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
         jPanel10.setVisible(true);
@@ -1587,8 +1692,17 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton18ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton18ActionPerformed
         // TODO add your handling code here:
         //HISTOGRAM TRANSFER
+        String firstName = jTextField14.getText();
+        String lastName = jTextField15.getText();
+        String customerID = jTextField16.getText();
+        int custID;
+    
+        if(customerID.equals("")){
+           custID = backend.CustomerId_From_Name(firstName, lastName);
+        }else{
+           custID = Integer.parseInt(customerID);
+        String results[] = backend.Customer_Account_Histogram_Transfers(custID);
         
-        /*
         jLabel36.setText("");
         jLabel37.setText("");
         jLabel38.setText("");
@@ -1600,7 +1714,37 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel44.setText("");
         jLabel45.setText("");
         
-        */
+        if(!results[0].equals("")){
+            jLabel36.setText(results[0]);
+        }
+        if(!results[1].equals("")){
+            jLabel37.setText(results[1]);
+        }
+        if(!results[2].equals("")){
+            jLabel38.setText(results[2]);
+        }
+        if(!results[3].equals("")){
+            jLabel39.setText(results[3]);
+        }
+        if(!results[4].equals("")){
+            jLabel40.setText(results[4]);
+        }
+        if(!results[5].equals("")){
+            jLabel41.setText(results[5]);
+        }
+        if(!results[6].equals("")){
+            jLabel42.setText(results[6]);
+        }
+        if(!results[7].equals("")){
+            jLabel43.setText(results[7]);
+        }
+        if(!results[8].equals("")){
+            jLabel44.setText(results[8]);
+        }
+        if(!results[9].equals("")){
+            jLabel45.setText(results[9]);
+        }
+        
         jPanel7.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
         jPanel10.setVisible(true);
@@ -1619,14 +1763,6 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         the_BATMAN_ui.setContentPane(jPanel3);         
         jPanel3.setVisible(true);
     }//GEN-LAST:event_jButton2ActionPerformed
-
-    private void fromAgeCustomerActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_fromAgeCustomerActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_fromAgeCustomerActionPerformed
-
-    private void toAgeCustomerActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_toAgeCustomerActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_toAgeCustomerActionPerformed
 
     private void jTextField2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField2ActionPerformed
         // TODO add your handling code here:
@@ -1709,17 +1845,17 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
             return;
         }else if(state.equals("") && !city.equals("")){
             //call a query
-            city_result = 239;
+            city_result = backend.Customers_In_City(city);
             jLabel32.setText("City: " + city_result);
             jLabel33.setText("");
         }else if(!state.equals("") && city.equals("")){
             //call a query
-            state_result = 239;
+            state_result = backend.Customers_In_State(state);
             jLabel32.setText("State: " + state_result);
             jLabel33.setText("");
         }else{
-            city_result = 239;
-            state_result = 239;
+            city_result = backend.Customers_In_City(city);
+            state_result = backend.Customers_In_State(state);
             jLabel32.setText("City: " + city_result);
             jLabel33.setText("State: " + state_result);
         }
@@ -1738,31 +1874,11 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
 
     private void jButton31ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton31ActionPerformed
         // TODO add your handling code here:
-        int from = 0;
-        int to = 0;
-        if(fromAgeCustomer.getText().equals("")){
-            jLabel3.setText("Need a From input");
-            return;
-        }
-        if(toAgeCustomer.getText().equals("")){
-            jLabel3.setText("Need a To input");
-            return;
-        }
-        
-        from = Integer.parseInt(fromAgeCustomer.getText());
-        to = Integer.parseInt(toAgeCustomer.getText());
-        
-        if(from < 0 || from > 100){
-            jLabel3.setText("From needs to be a value between 0 and 100");
-        }
-        if(to < 0 || to > 117){
-            jLabel3.setText("To needs to be a value between 0 and 117");
-        }
-        int result = 239;
-        
-        jLabel32.setText("Number of customers in this age range " + from + "-" + to + " :");
-        jLabel33.setText(result + "");
-        
+        String result[] = backend.Customer_Age_Histogram();
+        if()
+        jLabel33.setText(result[0]);
+        jLabel32.setText("");
+       
         jPanel8.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel9);         
         jPanel9.setVisible(true);
@@ -1775,11 +1891,18 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
         // TODO add your handling code here:
         //DELETE ACCOUNT
-        /*
+        
         String account = jTextField26.getText();
         int accntNum = Integer.parseInt(account);
         
-        Delete_Account(accntNum);
+      
+        try {
+            backend.Delete_Account(accntNum);
+            jLabel36.setText("Account " + accntNum + " has been deleted");
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
         
         jLabel36.setText("Account " + accntNum + " has been deleted");
         jLabel37.setText("");
@@ -1791,8 +1914,6 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel43.setText("");
         jLabel44.setText("");
         jLabel45.setText("");
-        
-        */
         
         jPanel6.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
@@ -1858,7 +1979,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel44.setText("");
         jLabel45.setText("");
         
-        */
+       */
       
         jPanel7.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
@@ -1907,7 +2028,6 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JTextField fromAgeCustomer;
     private javax.swing.JButton isCustomerButton;
     private javax.swing.JButton isNotCustomerButton;
     private javax.swing.JButton jButton1;
@@ -1984,7 +2104,13 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel43;
     private javax.swing.JLabel jLabel44;
     private javax.swing.JLabel jLabel45;
+    private javax.swing.JLabel jLabel46;
+    private javax.swing.JLabel jLabel47;
+    private javax.swing.JLabel jLabel48;
+    private javax.swing.JLabel jLabel49;
     private javax.swing.JLabel jLabel5;
+    private javax.swing.JLabel jLabel50;
+    private javax.swing.JLabel jLabel51;
     private javax.swing.JLabel jLabel6;
     private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel8;
@@ -2026,7 +2152,6 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField7;
     private javax.swing.JTextField jTextField8;
     private javax.swing.JTextField jTextField9;
-    private javax.swing.JTextField toAgeCustomer;
     private javax.swing.JLabel welcomeInfoLabel;
     private javax.swing.JLabel welcomeLabel;
     private javax.swing.JLabel welcomeQuestionLabel;
