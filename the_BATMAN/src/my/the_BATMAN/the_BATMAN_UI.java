@@ -23,6 +23,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
      */
     public the_BATMAN_UI() {
         backend = new the_BATMAN_backend("vmvilla", "L0V3Dav1D!~", "vmvilla");
+        System.out.println(System.getProperty("user.dir"));
         backend.Clear_Database();
         backend.Create_Database();
         initComponents();
@@ -166,7 +167,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         isCustomerButton = new javax.swing.JButton();
         isNotCustomerButton = new javax.swing.JButton();
 
-        jLabel3.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel3.setText("Ages of our Customers");
 
         jButton2.setText("New Customer");
@@ -720,8 +721,6 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jTextField25.setText("ACCNT");
 
         jTextField26.setText("ACCNT");
-
-        jLabel16.setText("jLabel16");
 
         jTextField27.setText("ACCNT");
 
@@ -1427,66 +1426,85 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton9ActionPerformed
 
     private void jButton10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton10ActionPerformed
+
+        // TODO add your handling code here:
+        //ALL ACCOUNTS BALANCE
+        String firstName = jTextField14.getText();
+        String lastName = jTextField15.getText();
+        String customerID = jTextField16.getText();
+        int custID = 0;
+
+        jLabel36.setText("");
+        jLabel37.setText("");
+        jLabel38.setText("");
+        jLabel39.setText("");
+        jLabel40.setText("");
+        jLabel41.setText("");
+        jLabel42.setText("");
+        jLabel43.setText("");
+        jLabel44.setText("");
+        jLabel45.setText("");
+        
+        if(customerID.equals("")){
+            try {
+                custID = backend.CustomerId_From_Name(firstName, lastName);
+            } catch (Exception ex) {
+                Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }else{
+            custID = Integer.parseInt(customerID);
+        }
+        String accts[] = new String[10];
         try {
-            // TODO add your handling code here:
-            //ALL ACCOUNTS BALANCE
-            String firstName = jTextField14.getText();
-            String lastName = jTextField15.getText();
-            String customerID = jTextField16.getText();
-            int custID = 0;
-            
-            if(customerID.equals("")){
-                try {
-                    custID = backend.CustomerId_From_Name(firstName, lastName);
-                } catch (Exception ex) {
-                    Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
-                }
-            }else{
-                custID = Integer.parseInt(customerID);
-            }
-            String accts[] = backend.Get_All_Accounts_Balances(custID);
-            
-            jLabel35.setText("All accounts for " + custID);
-            if(accts[0].equals("")){
-                jLabel36.setText("No accounts to be shown");
-            }
-            if(!accts[0].equals("")){
-                jLabel36.setText(accts[0]);
-            }
-            if(!accts[1].equals("")){
-                jLabel37.setText(accts[1]);
-            }
-            if(!accts[2].equals("")){
-                jLabel38.setText(accts[2]);
-            }
-            if(!accts[3].equals("")){
-                jLabel39.setText(accts[3]);
-            }
-            if(!accts[4].equals("")){
-                jLabel40.setText(accts[4]);
-            }
-            if(!accts[5].equals("")){
-                jLabel41.setText(accts[5]);
-            }
-            if(!accts[6].equals("")){
-                jLabel42.setText(accts[6]);
-            }
-            if(!accts[7].equals("")){
-                jLabel43.setText(accts[7]);
-            }
-            if(!accts[8].equals("")){
-                jLabel44.setText(accts[8]);
-            }
-            if(!accts[9].equals("")){
-                jLabel45.setText(accts[9]);
-            }
-            
-            jPanel6.setVisible(false);
-            the_BATMAN_ui.setContentPane(jPanel10);
-            jPanel10.setVisible(true);
+            accts = backend.Get_All_Accounts_Balances(custID);
         } catch (Exception ex) {
             Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
         }
+        String res[] = new String[2];
+        try {
+            res = backend.Get_Customer_Name(custID);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        jLabel35.setText("All accounts for " + res[0]+ " " + res[1]);
+        if(accts[0] == null){
+            jLabel36.setText("No accounts to be shown");
+        }
+        if(accts[0] != null){
+            jLabel36.setText(accts[0]);
+        }
+        if(accts[1] != null){
+            jLabel37.setText(accts[1]);
+        }
+        if(accts[2] != null){
+            jLabel38.setText(accts[2]);
+        }
+        if(accts[3] != null){
+            jLabel39.setText(accts[3]);
+        }
+        if(accts[4] != null){
+            jLabel40.setText(accts[4]);
+        }
+        if(accts[5] != null){
+            jLabel41.setText(accts[5]);
+        }
+        if(accts[6] != null){
+            jLabel42.setText(accts[6]);
+        }
+        if(accts[7] != null){
+            jLabel43.setText(accts[7]);
+        }
+        if(accts[8] != null){
+            jLabel44.setText(accts[8]);
+        }
+        if(accts[9] != null){
+            jLabel45.setText(accts[9]);
+        }
+
+        jPanel6.setVisible(false);
+        the_BATMAN_ui.setContentPane(jPanel10);
+        jPanel10.setVisible(true);
+        
     }//GEN-LAST:event_jButton10ActionPerformed
 
     private void jButton11ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton11ActionPerformed
@@ -1501,7 +1519,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         } catch (Exception ex) {
             Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
+        jLabel36.setText("Account Balance by ID");
         jLabel36.setText(accntVal);
         jLabel37.setText("");
         jLabel38.setText("");
@@ -1529,6 +1547,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
             
             String newVal = backend.Deposit(accntNum, amountNum);
             
+            jLabel35.setText("Deposits");
             jLabel36.setText(newVal);
             jLabel37.setText("");
             jLabel38.setText("");
@@ -1558,7 +1577,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         int custID = 0;
         int accntNum = Integer.parseInt(account);
         
-        if(customerID.equals("")){
+        if(customerID == null || customerID.equals("")){
             try {
                 custID = backend.CustomerId_From_Name(firstName, lastName);
             } catch (Exception ex) {
@@ -1574,6 +1593,14 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         } catch (Exception ex) {
             Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
         }
+        
+        String res[] = new String[2];
+        try {
+            res = backend.Get_Customer_Name(custID);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        jLabel35.setText("List of Transaction Amounts for " + res[0]+ " " + res[1]);
         jLabel36.setText("");
         jLabel37.setText("");
         jLabel38.setText("");
@@ -1585,34 +1612,34 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel44.setText("");
         jLabel45.setText("");
         
-        if(!results[0].equals("")){
-            jLabel36.setText(results[0]);
-        }
-        if(!results[1].equals("")){
+        
+        jLabel36.setText(custID + " " + accntNum);
+        
+        if(results[1] != null){
             jLabel37.setText(results[1]);
         }
-        if(!results[2].equals("")){
+        if(results[2] != null){
             jLabel38.setText(results[2]);
         }
-        if(!results[3].equals("")){
+        if(results[3] != null){
             jLabel39.setText(results[3]);
         }
-        if(!results[4].equals("")){
+        if(results[4] != null){
             jLabel40.setText(results[4]);
         }
-        if(!results[5].equals("")){
+        if(results[5] != null){
             jLabel41.setText(results[5]);
         }
-        if(!results[6].equals("")){
+        if(results[6] != null){
             jLabel42.setText(results[6]);
         }
-        if(!results[7].equals("")){
+        if(results[7] != null){
             jLabel43.setText(results[7]);
         }
-        if(!results[8].equals("")){
+        if(results[8] != null){
             jLabel44.setText(results[8]);
         }
-        if(!results[9].equals("")){
+        if(results[9] != null){
             jLabel45.setText(results[9]);
         }
        
@@ -1638,12 +1665,22 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         }else{
            custID = Integer.parseInt(customerID);
         }
+        
         String results[] = new String[10];
         try {
             results = backend.Customer_Account_Histogram_Transaction_Amounts(custID);
         } catch (Exception ex) {
             Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
         }
+        
+        String res[] = new String[2];
+        try {
+            res = backend.Get_Customer_Name(custID);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        jLabel35.setText("Histogram for Transaction Amounts for " + res[0]+ " " + res[1]);
+        
         jLabel36.setText("");
         jLabel37.setText("");
         jLabel38.setText("");
@@ -1654,34 +1691,35 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel43.setText("");
         jLabel44.setText("");
         jLabel45.setText("");
-        if(!results[0].equals("")){
-            jLabel36.setText(results[0]);
-        }
-        if(!results[1].equals("")){
+        
+        
+        jLabel36.setText("Hello"+results[5] + "World");
+        
+        if(results[1] != null){
             jLabel37.setText(results[1]);
         }
-        if(!results[2].equals("")){
+        if(results[2] != null){
             jLabel38.setText(results[2]);
         }
-        if(!results[3].equals("")){
+        if(results[3] != null){
             jLabel39.setText(results[3]);
         }
-        if(!results[4].equals("")){
+        if(results[4] != null){
             jLabel40.setText(results[4]);
         }
-        if(!results[5].equals("")){
+        if(results[5] != null){
             jLabel41.setText(results[5]);
         }
-        if(!results[6].equals("")){
+        if(results[6] != null){
             jLabel42.setText(results[6]);
         }
-        if(!results[7].equals("")){
+        if(results[7] != null){
             jLabel43.setText(results[7]);
         }
-        if(!results[8].equals("")){
+        if(results[8] != null){
             jLabel44.setText(results[8]);
         }
-        if(!results[9].equals("")){
+        if(results[9] != null){
             jLabel45.setText(results[9]);
         }
         
@@ -1725,34 +1763,34 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel44.setText("");
         jLabel45.setText("");
         
-        if(!results[0].equals("")){
+        if(results[0] != null){
             jLabel36.setText(results[0]);
         }
-        if(!results[1].equals("")){
+        if(results[1] != null){
             jLabel37.setText(results[1]);
         }
-        if(!results[2].equals("")){
+        if(results[2] != null){
             jLabel38.setText(results[2]);
         }
-        if(!results[3].equals("")){
+        if(results[3] != null){
             jLabel39.setText(results[3]);
         }
-        if(!results[4].equals("")){
+        if(results[4] != null){
             jLabel40.setText(results[4]);
         }
-        if(!results[5].equals("")){
+        if(results[5] != null){
             jLabel41.setText(results[5]);
         }
-        if(!results[6].equals("")){
+        if(results[6] != null){
             jLabel42.setText(results[6]);
         }
-        if(!results[7].equals("")){
+        if(results[7] != null){
             jLabel43.setText(results[7]);
         }
-        if(!results[8].equals("")){
+        if(results[8] != null){
             jLabel44.setText(results[8]);
         }
-        if(!results[9].equals("")){
+        if(results[9] != null){
             jLabel45.setText(results[9]);
         }
         
@@ -1796,34 +1834,34 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel44.setText("");
         jLabel45.setText("");
         
-        if(!results[0].equals("")){
+        if(results[0] != null){
             jLabel36.setText(results[0]);
         }
-        if(!results[1].equals("")){
+        if(results[1] != null){
             jLabel37.setText(results[1]);
         }
-        if(!results[2].equals("")){
+        if(results[2] != null){
             jLabel38.setText(results[2]);
         }
-        if(!results[3].equals("")){
+        if(results[3] != null){
             jLabel39.setText(results[3]);
         }
-        if(!results[4].equals("")){
+        if(results[4] != null){
             jLabel40.setText(results[4]);
         }
-        if(!results[5].equals("")){
+        if(results[5] != null){
             jLabel41.setText(results[5]);
         }
-        if(!results[6].equals("")){
+        if(results[6] != null){
             jLabel42.setText(results[6]);
         }
-        if(!results[7].equals("")){
+        if(results[7] != null){
             jLabel43.setText(results[7]);
         }
-        if(!results[8].equals("")){
+        if(results[8] != null){
             jLabel44.setText(results[8]);
         }
-        if(!results[9].equals("")){
+        if(results[9] != null){
             jLabel45.setText(results[9]);
         }
         
@@ -1922,6 +1960,17 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         String city_result = "";
         String state_result = "";
         
+        jLabel32.setText("");
+        jLabel33.setText("");
+        jLabel4.setText("");
+        jLabel5.setText("");
+        jLabel46.setText("");
+        jLabel47.setText("");
+        jLabel48.setText("");
+        jLabel49.setText("");
+        jLabel50.setText("");
+        jLabel51.setText("");
+        
         if(state.equals("") && city.equals("")){
             jLabel2.setText("Need a City or State");
             return;
@@ -1968,6 +2017,7 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
 
     private void jButton31ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton31ActionPerformed
         // TODO add your handling code here:
+        //CUSTOMER AGE HISTOGRAM
         String result[] = new String[10];
         try {
             result = backend.Customer_Age_Histogram();
@@ -1985,38 +2035,37 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel50.setText("");
         jLabel51.setText("");
         
-        if(!result[0].equals("")){
+        if(result[0] != null){
            jLabel32.setText(result[0]);
         }
-        if(!result[1].equals("")){
+        if(result[1] != null){
            jLabel33.setText(result[1]);
         }
-        if(!result[2].equals("")){
+        if(result[2] != null){
            jLabel4.setText(result[2]);
         }
-        if(!result[3].equals("")){
+        if(result[3] != null){
            jLabel5.setText(result[3]);
         }
-        if(!result[4].equals("")){
+        if(result[4] != null){
            jLabel46.setText(result[4]);
         }
-        if(!result[5].equals("")){
+        if(result[5] != null){
            jLabel47.setText(result[5]);
         }
-        if(!result[6].equals("")){
+        if(result[6] != null){
            jLabel48.setText(result[6]);
         }
-        if(!result[7].equals("")){
+        if(result[7] != null){
            jLabel49.setText(result[7]);
         }
-        if(!result[8].equals("")){
+        if(result[8] != null){
            jLabel50.setText(result[8]);
         }
-        if(!result[9].equals("")){
+        if(result[9] != null){
            jLabel51.setText(result[9]);
         }
         
-       
         jPanel8.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel9);         
         jPanel9.setVisible(true);
@@ -2059,8 +2108,28 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
     private void jButton16ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton16ActionPerformed
         // TODO add your handling code here:
         //HISTOGRAM WITHDRAWLS
+        String firstName = jTextField14.getText();
+        String lastName = jTextField15.getText();
+        String customerID = jTextField16.getText();
+        int custID = 0;
+    
+        if(customerID.equals("")){
+            try {
+                custID = backend.CustomerId_From_Name(firstName, lastName);
+            } catch (Exception ex) {
+                Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }else{
+           custID = Integer.parseInt(customerID);
+        }
         
-        /*
+        String results[]= new String[10];
+        try {
+            results = backend.Customer_Account_Histogram_Withdrawals(custID);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        
         jLabel36.setText("");
         jLabel37.setText("");
         jLabel38.setText("");
@@ -2072,7 +2141,37 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel44.setText("");
         jLabel45.setText("");
         
-        */
+         if(results[0] != null){
+            jLabel36.setText(results[0]);
+        }
+        if(results[1] != null){
+            jLabel37.setText(results[1]);
+        }
+        if(results[2] != null){
+            jLabel38.setText(results[2]);
+        }
+        if(results[3] != null){
+            jLabel39.setText(results[3]);
+        }
+        if(results[4] != null){
+            jLabel40.setText(results[4]);
+        }
+        if(results[5] != null){
+            jLabel41.setText(results[5]);
+        }
+        if(results[6] != null){
+            jLabel42.setText(results[6]);
+        }
+        if(results[7] != null){
+            jLabel43.setText(results[7]);
+        }
+        if(results[8] != null){
+            jLabel44.setText(results[8]);
+        }
+        if(results[9] != null){
+            jLabel45.setText(results[9]);
+        }
+       
         jPanel7.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
         jPanel10.setVisible(true);
@@ -2082,7 +2181,28 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         // TODO add your handling code here:
         //ACCOUNT VALUE HISTOGRAM
         
-        /*
+        String firstName = jTextField14.getText();
+        String lastName = jTextField15.getText();
+        String customerID = jTextField16.getText();
+        int custID = 0;
+    
+        if(customerID.equals("")){
+            try {
+                custID = backend.CustomerId_From_Name(firstName, lastName);
+            } catch (Exception ex) {
+                Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }else{
+           custID = Integer.parseInt(customerID);
+        }
+        
+        String results[]= new String[10];
+        try {
+            results = backend. Customer_Account_Value_Histogram_Per_Customer(custID);
+        } catch (Exception ex) {
+            Logger.getLogger(the_BATMAN_UI.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        
         jLabel36.setText("");
         jLabel37.setText("");
         jLabel38.setText("");
@@ -2094,7 +2214,36 @@ public class the_BATMAN_UI extends javax.swing.JFrame {
         jLabel44.setText("");
         jLabel45.setText("");
         
-        */
+         if(results[0] != null){
+            jLabel36.setText(results[0]);
+        }
+        if(results[1] != null){
+            jLabel37.setText(results[1]);
+        }
+        if(results[2] != null){
+            jLabel38.setText(results[2]);
+        }
+        if(results[3] != null){
+            jLabel39.setText(results[3]);
+        }
+        if(results[4] != null){
+            jLabel40.setText(results[4]);
+        }
+        if(results[5] != null){
+            jLabel41.setText(results[5]);
+        }
+        if(results[6] != null){
+            jLabel42.setText(results[6]);
+        }
+        if(results[7] != null){
+            jLabel43.setText(results[7]);
+        }
+        if(results[8] != null){
+            jLabel44.setText(results[8]);
+        }
+        if(results[9] != null){
+            jLabel45.setText(results[9]);
+        }
         jPanel7.setVisible(false);
         the_BATMAN_ui.setContentPane(jPanel10);         
         jPanel10.setVisible(true);

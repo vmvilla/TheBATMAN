@@ -361,6 +361,10 @@ public class the_BATMAN_backend {
          returns[i++] = "Transaction: " + results.getInt("TransactionID") + ": $" + results.getFloat("TransactionAmount") + ": " + results.getDate("TransactionDate").toString();
          resultBool = results.next();
       }
+      
+      if(returns[0] == null){
+          System.out.print("res is 0" );
+      }
 
       return returns; 
    } 
